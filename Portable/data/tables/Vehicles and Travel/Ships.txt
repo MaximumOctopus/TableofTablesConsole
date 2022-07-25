@@ -1,0 +1,138 @@
+{
+d:d6 Size. The ship is...
+i:Very small, a one or two-person crew.
+i:Small, with several crew members.
+i:Regular, with a crew around 10-20
+i:Large, with a crew up to 50.
+i:Very Large with a crew up to a hundred.
+i:Massive, with a crew of several hundred.
+}
+{
+d:d10 Type. The ships type is a...
+i:Warship, a powerful ship ready for combat
+i:Frigate, a smaller warship with speed and manoeuvrability.
+i:Battleship, highly armed and highly armoured.
+i:Yacht, an expensive pleasure boat.
+i:Ship-town, a floating nomadic town that goes where it pleases.
+i:Cargo ship, going from harbour to harbour with precious cargo.
+i:A transport ship, for transporting soldiers or people from place to place{.soldiers}.
+i:Fishing boat, for fishing or perhaps sea monster hunting.
+i:Flagship, that leads a fleet of other ships.
+i:Lifeboat, an emergency boat.
+}
+{
+d:d8 Style. The boat is built in the style of...
+i:Humans. Practical and functional.
+i:Orcs. Things are spikey, adorned with metal and shamanistic symbols{.orcs,.orc warlords,.orkish clans}.
+i:Elves. An elegant craft that glides through the water{.elves dark,.elves high,.elves wood}.
+i:Dwarves. A bulky metal ship which cares for use rather than appearance{.dwarves}.
+i:Gnomes. A smaller metal or wooden craft with strange curious technology{.gnomes}.
+i:Dragonborn. A regal ship with draconic designs.
+i:Halflings. Similar to human design but with smaller stockier design, and more focus on the kitchen.
+i:Unknown. The ship seems strange. Perhaps from a different world.
+}
+{
+d:d20 Crew. The crew is made of...
+i:Navy soldiers patrolling the seas for pirates{.pirates,.soldiers}.
+i:Soldiers being transferred to a far off war{.soldiers}.
+i:Independent bounty and pirate hunters{.pirates}.
+i:Pirates looking to get plunder any way they can{.pirates}.
+i:A pirate king and his elite crew, who terrifies others{.pirates}.
+i:Pirates who are in mutiny after the captain was killed{.pirates}.
+i:Lawful Pirates who follow a strict code of honour{.pirates}.
+i:Explorers trying to find new places in the world.
+i:Relic Hunters trying to find artefacts under the water.
+i:Fishermen who just want to make their living.
+i:Monster Hunters hunting a sea monster.
+i:Hired privateers who are working for a nearby army.
+i:Refugees who left their lands.
+i:Adventurers who are on a grand quest.
+i:Sailors working simple jobs{.sailors}.
+i:Monsters who have taken hold of the ship.
+i:Fiends who have taken hold of the ship{.fiends}.
+i:A noble and his bodyguards{.nobles,.noble houses}.
+i:Sailors trying to make a new living on the sea{.sailors}.
+i:Traders who got way in over their heads.
+}
+{
+d:d10 Power. The ship is powered by...
+i:Sails only.
+i:Sails and rowing.
+i:Rowing.
+i:A mage manipulating the wind and water around the ship.
+i:Sea creatures pulling the ship.
+i:A magical engine.
+i:An ancient artefact.
+i:A water wheel engine.
+i:Water/wind elementals.
+i:A steampunk engine.
+}
+{
+d:d20 Combat. The ship in combat uses...
+i:Nothing. The ship has no defences.
+i:Prayer to their gods.
+i:Harpoons, and pulls the enemy ships closer for boarding.
+i:A battering ram.
+i:Magical energy cannons.
+i:Cannons.
+i:Catapults.
+i:Trebuchets.
+i:Archers.
+i:Great crossbows.
+i:Boarding parties.
+i:Elemental magic{.fiends}.
+i:Fiendish magic.
+i:Bombs thrown from crew.
+i:Smaller ships with boarders.
+i:Illusions and mind games.
+i:Spears.
+i:Spikes on the side of the ship.
+i:Creatures catapulted at the enemy.
+i:Hexes and curses{cursessimple}.
+}
+{
+d:d20 Trait. The ship is strange as...
+i:It has a large garden filled with trees, flowers and animals.
+i:The crew is all undead, cursed to travel the seas{cursessimple}.
+i:The crew worships a kraken and the crew has become mutated sea creatures since.
+i:The crew all happens to be cannibals.
+i:Sea birds constantly circle the ship.
+i:Everyone on the ship is one gender and hates the other.
+i:The crew seems to have stolen the ship from somewhere else.
+i:The ship looks like it’s just been in a terrible fight.
+i:It looks clumsily built.
+i:The crew all act like nobles and dress in expensive clothing{.nobles,.noble houses}.
+i:The crew have some kind of blood lust.
+i:There’s a large amount of animals on the ship.
+i:The crew is being mind controlled by something.
+i:The crew is all suffering from a disease{.diseases}.
+i:The crew is starving.
+i:The ship is surrounded by mist.
+i:The ship is carrying a very powerful artefact.
+i:The ship is being chased.
+i:The ship is dirty and rotting.
+i:The ship is booming out loud music.
+}
+{
+d:d20 Captain. The Captain is...
+i:Not there, the ship has been running without a captain.
+i:A powerful wizard.
+i:A brawler who fights anyone in fist fights to prove his strength.
+i:A paladin bound by godly honour.
+i:A warforged or similar construct.
+i:A druid of the sea{.druids}.
+i:A different race than the rest of the crew.
+i:Coated in scars and battle wounds.
+i:A charismatic bard{.bards}.
+i:Silent and slow to trust.
+i:Cursed by something horrific{cursessimple}.
+i:Newly appointed.
+i:On a secret mission.
+i:On the warpath.
+i:Trying to make a lot of money.
+i:Horrifically ugly.
+i:Amazingly beautiful.
+i:Obnoxiously short.
+i:Blind, has two eyepatches.
+i:Going to betray everyone.
+}
