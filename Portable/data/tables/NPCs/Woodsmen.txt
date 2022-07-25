@@ -1,0 +1,79 @@
+{
+d:d10 Facial Feature: The woodsman has...
+i:A nose that's been broken.
+i:A twinkle in his eye.
+i:A sour grimace.
+i:A face like stone.
+i:Eyes that do not smile.
+i:A long, hooked nose.
+i:A scar across the brow.
+i:A neatly trimmed beard.
+i:A long, tangled beard.
+i:A thick, lush mustache.
+}
+{
+d:d8 Apparel: The woodsman wears...
+i:Scuffed leather boots.
+i:Hardy boots and a large belt-buckle.
+i:A boot with a hole in the toe.
+i:A thick fur coat or cloak (d4): 1. bear; 2. otter; 3. sable; 4. wolf.
+i:A rough-spun cloak of sable or grey.
+i:Pants with patched knees.
+i:A fur cap (d4): 1. beaver; 2. fox; 3. raccoon; 4. skunk.
+i:An open shirt and a very hairy chest.
+}
+{
+d:d8 Mannerism: The woodsman has...
+i:A hearty laugh.
+i:A forced laugh.
+i:An easy grin.
+i:Shifty eyes.
+i:A habit of looking away when speaking.
+i:A slow way of speaking.
+i:Few things to say.
+i:A habit of staring.
+}
+{
+d:d8 Profession: The woodsman is...
+i:A strange herbalist.
+i:A scholarly botanist.
+i:A skilled hunter.
+i:A desperate poacher.
+i:A fugitive from justice.
+i:A reclusive trapper.
+i:A poor woodcutter.
+i:A bearded lumberjack.
+}
+{
+d:d10 Goal: The woodsman is looking to...
+i:Track an unusual beast.
+i:Find the lair of a rare beast.
+i:Find a spot where a rare flower grows.
+i:Find a place where game is plentiful.
+i:Find a place where the trees grow tall.
+i:Purchase salt, spices, and other hard-to-come-by supplies.
+i:Sell some of his wares.
+i:Learn some new campfire recipes.
+i:Swap tales and rumors.
+i:Meet a nice girl and settle down.
+}
+{
+d:d10 Possessions: The woodsman carries or wears...
+i:A sturdy hatchet.
+i:A bundle of firewood.
+i:A spear or walking staff.
+i:A large knife and a hunting trap.
+i:A finely made longbow.
+i:A trophy or piece of a wild beast.
+i:An unusual, curved blade.
+i:A double-bladed axe.
+i:A memento from a faraway sweetheart.
+i:A cotton handkerchief.
+}
+[
+d:NAME
+]
+{
+d:d1 The Woodsman is called... 
+i:$fantasy
+}

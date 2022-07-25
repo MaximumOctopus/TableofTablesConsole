@@ -1,0 +1,52 @@
+{
+d:d10 Archetype: The actor/actress is…
+i:An exotic beauty.
+i:A lovely ingenue.
+i:An aging diva.
+i:A fat lady.
+i:An effeminate young man.
+i:A tall and gangly young man.
+i:An extremely handsome man.
+i:A hunky silver fox.
+i:A grey-haired man.
+i:A hairy dwarf.
+}
+{
+d:d10 Skill: The actor/actress is skilled at…
+i:Mending costumes.
+i:Painting sets.
+i:Applying make-up.
+i:Swordplay.
+i:Seductive dancing.
+i:Amusing character voices.
+i:Playing the harp or lute.
+i:Writing new plays.
+i:Campfire cooking.
+i:Out-drinking his/her companions.
+}
+{
+d:d10 Ambition: The actor/actress aspires to…
+i:Earn some gold and retire comfortably.
+i:Live up to his/her family name.
+i:Become a household name throughout the land.
+i:Perform in a world-renowned venue.
+i:Perform in front of royalty.
+i:Gain revenge on a rival who sabotaged his/her career.
+i:Gain revenge on a former lover.
+i:Win back the love of a former sweetheart.
+i:Live a life of merriment and pleasure.
+i:Avoid being recognized by authorities.
+}
+{
+d:d10 Finest Role: The actor/actress’s companions will tell you his/her finest role was as...
+i:A devoted scholar.
+i:A smelly pirate.
+i:A golden-voiced singer.
+i:A famous warrior.
+i:An evil wizard/witch.
+i:A determined peasant.
+i:An idealistic noble.
+i:An alluring vampire.
+i:A maggot-ridden zombie.
+i:A pyrotechnic puppet of a dragon.
+}

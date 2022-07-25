@@ -1,0 +1,96 @@
+{
+d:d8 The warrior is armored in...
+i:Nothing.
+i:Tattered leather.
+i:Blood-stained leather.
+i:Boiled leather.
+i:The hides of scaly beasts.
+i:The hides of furry beasts.
+i:The hides of exotic beasts.
+i:A helm and breastplate taken from a fallen enemy.
+}
+{
+d:d12 The warrior is wielding...
+i:A spear and a hunting knife.
+i:A spear and a shield.
+i:An exotic, curved blade.
+i:A huge, curved blade.
+i:An over-sized hammer.
+i:An enormous club.
+i:A greataxe.
+i:A battleaxe and a shield.
+i:Several handaxes.
+i:A greatsword.
+i:A pair of long knives.
+i:A longspear and hunting knife.
+}
+{
+d:d8 The warrior is also carrying...
+i:Several throwing spears.
+i:Several throwing axes.
+i:Many throwing knives.
+i:A shortbow.
+i:A longbow.
+i:A greatbow.
+i:A blowgun.
+i:Several bolas.
+}
+{
+d:d6 The warrior fights with...
+i:Hit-and-run tactics.
+i:Making a mad charge.
+i:Relentless repeated blows.
+i:Lots of taunts and jeers.
+i:Never breaking eye contact.
+i:Lots of head-butting.
+}
+{
+d:d12 The warrior is...
+i:A practiced hunter.
+i:A poorly-trained slave.
+i:A veteran of many wars.
+i:A mystical shaman.
+i:An expert scout.
+i:A master weaponcrafter{.legendary weapons}.
+i:A superb herbalist.
+i:A beast handler.
+i:An insufferable braggart.
+i:A drunk.
+i:A favorite among the men.
+i:A favorite among the ladies.
+}
+{
+d:d12 On the warrior’s face is...
+i:A bone through a nose piercing.
+i:A bone earing.
+i:An empty eye socket.
+i:A grisly scar.
+i:A serious expression.
+i:A look of sadness.
+i:A carefree grin.
+i:A ruined nose.
+i:Some terrifying war paint.
+i:A frame of long, beautiful long hair.
+i:An unruly beard.
+i:A long, braided mustache.
+}
+{
+d:d10 On the warrior’s body is...
+i:A tattoo of a great beast (d6): 1. bear; 2. boar; 3. dragon{.dragons}; 4. eagle; 5. lion; 6. wolf.
+i:A tattoo of a skull and some bones.
+i:A tattoo of a weapon (d4): 1. arrow; 2. axe; 3. spear; 4. sword.
+i:A festering wound.
+i:A noticeable scar from a blade.
+i:A large burn scar.
+i:A ceremonial brand.
+i:An intimidating amount of muscle.
+i:An awful lot of war paint.
+i:A whole lot of hair.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

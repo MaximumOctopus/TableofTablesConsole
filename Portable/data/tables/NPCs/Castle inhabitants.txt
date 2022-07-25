@@ -1,0 +1,541 @@
+[
+d:NOBLEMAN
+]
+{
+d:d6 The lord is...
+i:A patient old man.
+i:A wide-eyed young man.
+i:A hot-tempered tyrant.
+i:A patient and benevolent ruler.
+i:A guest, a member of a powerful house.
+i:A guest, a member of a lesser house.
+}
+{
+d:d6 The lord seeks someone to...
+i:Dispose of an enemy.
+i:Negotiate a trade contract.
+i:Prepare the castle’s defenders for war.
+i:Sabotage a rival.
+i:Arrange a beneficial marriage.
+i:Have a good time with.
+}
+{
+d:d6 The lord carries...
+i:Several deeds and titles.
+i:A family heirloom.
+i:Several inventories and invoices.
+i:An extremely valuable sword.
+i:A compromising love letter.
+i:A letter from a powerful lord or lady.
+}
+[
+d:NAME
+]
+{
+d:d1 The Nobleman NPC is called... 
+i:$fantasy
+}
+[
+d:NOBLEWOMAN
+]
+{
+d:d6 The lady is...
+i:A wise old woman.
+i:A passionate young woman.
+i:A homely young lady.
+i:An acerbic wit.
+i:A guest, a member of a powerful house.
+i:A guest, a member of a lesser house.
+}
+{
+d:d6 The lady seeks someone to...
+i:Help gain revenge against a bitter rival.
+i:Bring to light a scandal involving an enemy.
+i:Secure a beneficial marriage.
+i:Talk some sense into her husband or father.
+i:Deliver a secret message.
+i:Share some wine and gossip{.wines}.
+}
+{
+d:d4 The lady carries...
+i:A family heirloom.
+i:Some very valuable jewels.
+i:A compromising love letter.
+i:A letter from a powerful lord or lady.
+}
+[
+d:NAME
+]
+{
+d:d1 The Noblewoman is called... 
+i:$fantasy
+}
+[
+d:GUARD
+]
+{
+d:d6 The guard serves his liege for...
+i:The steady pay.
+i:The chance to bully others.
+i:Love of his liege’s family.
+i:God and country.
+i:The chance to demonstrate his valor.
+i:The possibility of being raised to a knight{.knights}.
+}
+{
+d:d6 On the guard’s face is...
+i:An unsightly scar.
+i:A haughty sneer.
+i:A look of sadness.
+i:An eager grin.
+i:A blank stare.
+i:A bushy mustache.
+}
+{
+d:d4 The guard carries...
+i:A highly polished blade.
+i:A letter from a fallen comrade.
+i:A trophy from a fallen enemy.
+i:A ribbon from a sweet maiden.
+}
+[
+d:NAME
+]
+{
+d:d1 The guard is called... 
+i:$fantasy
+}
+[
+d:KNIGHT
+]
+{
+d:d6 The knight is...
+i:A beautiful youth.
+i:A brutish thug.
+i:A celebrated war hero.
+i:A popular tavern patron.
+i:A favorite among the ladies.
+i:Ruggedly handsome.
+}
+{
+d:d6 The knight has sworn to...
+i:Protect his liege from harm.
+i:Defend his liege’s lands.
+i:Avenge his liege’s personal grievances.
+i:Protect his liege’s loved ones.
+i:Advance his liege’s ideals or faith.
+i:Ride to war in his liege’s name.
+}
+{
+d:d6 The knight carries...
+i:A finely crafted longsword.
+i:A huge greatsword.
+i:A well-used battleaxe.
+i:A heavy warhammer.
+i:A letter from his liege.
+i:A favor from a faraway maiden.
+}
+[
+d:NAME
+]
+{
+d:d1 The Knight is called... 
+i:$fantasy
+}
+[
+d:SQUIRE / VALET
+]
+{
+d:d6 The retainer is...
+i:A squire from a lesser noble house{.nobles,.noble houses}.
+i:A frightened link boy.
+i:A long-time valet or squire.
+i:A reformed criminal-turned valet.
+i:A prisoner of war.
+i:A mysterious foreigner.
+}
+{
+d:d4 The retainer has...
+i:A black eye.
+i:Wild, shaggy hair.
+i:A terrible stutter.
+i:A lot of self-confidence.
+}
+{
+d:d6 The retainer wants to...
+i:Earn a little silver.
+i:Train with weapons to become a hero{.legendary weapons}.
+i:Earn the affection of his master.
+i:Bring honor to his family name.
+i:Avoid entangling himself in a scandal.
+i:Have a drink and a rest.
+}
+[
+d:ARCHER
+]
+{
+d:d6 The archer is...
+i:An eager young marksman.
+i:An trigger-happy hotshot.
+i:A braggart and a fool.
+i:A skilled hunter.
+i:An wily, old veteran.
+i:A local archery champion.
+}
+{
+d:d4 The archer is looking to...
+i:Help his allies slaughter the enemy.
+i:Keep safe someone special in the castle.
+i:Hear word of any percolating wars.
+i:Eat, drink, and be merry.
+}
+{
+d:d4 The archer carries...
+i:A longbow with a fraying string.
+i:A longbow crafted of superior wood.
+i:Arrows fletched with the feathers of a wild bird (d6): 1. eagle; 2. hawk; 3. owl; 4. pheasant; 5. raven; 6. swan.
+i:A flask containing a strong drink.
+}
+[
+d:ARMORER / SMITH
+]
+{
+d:d4 The smith is...
+i:A meticulous armorsmith.
+i:A blacksmith who makes decent swords.
+i:A farrier who can mend swords.
+i:A highly-skilled weaponsmith{.legendary weapons}.
+}
+{
+d:d4 The smith is looking for...
+i:Someone who can shoe horses.
+i:Steel of the highest quality.
+i:Dull blades to sharpen.
+i:A mug of strong ale.
+}
+{
+d:d4 The smith carries...
+i:A hammer.
+i:A good luck charm.
+i:A filthy rag.
+i:Little more than a few coins.
+}
+[
+d:STEWARD
+]
+{
+d:d4 The steward is...
+i:A lesser member of the liege’s house.
+i:A lesser member of a powerful house.
+i:A member of a lesser house.
+i:A commoner by birth.
+}
+{
+d:d4 The steward seeks someone to...
+i:Obtain hard-to-get provisions.
+i:Deliver some letters.
+i:Help win over a sweetheart.
+i:Share a drink and a laugh.
+}
+{
+d:d4 The steward is concerned about...
+i:The gold and silver in the treasury.
+i:The stores of cured meat and hard cheese.
+i:Grains and ale.
+i:The stores of ale and wine{.wines}.
+}
+[
+d:CHAPLAIN
+]
+{
+d:d4 The chaplain is...
+i:A devoted acolyte.
+i:An adept healer{.healers}.
+i:A wise source of counsel.
+i:A drunken hypocrite.
+}
+{
+d:d4 The chaplain is looking for...
+i:News from the surrounding lands.
+i:Sinners and heretics.
+i:The answer to an ancient mystery.
+i:The bottom of a goblet.
+}
+{
+d:d4 The chaplain carries...
+i:A ceremonial cudgel or staff.
+i:A prominently displayed holy symbol.
+i:A pocketbook of sacred texts.
+i:A wineskin.
+}
+[
+d:COOK
+]
+{
+d:d4 The cook greets you with...
+i:A goblet of warm wine{.wines}.
+i:A chunk of bread and a piece of cheese.
+i:A cup of onion soup.
+i:A tankard of mead.
+}
+{
+d:d4 The cook is looking for...
+i:Someone to chop onions.
+i:Some better cabbage.
+i:A good joke or story.
+i:The bottom of a bottle.
+}
+[
+d:FOOL / JESTER
+]
+{
+d:d6 The fool is...
+i:A dwarf{.dwarves}.
+i:Morbidly obese.
+i:Wearing a mask.
+i:Dressed in motley.
+i:Dressed as a faux knight{.knights}.
+i:Dressed as a faux wizard.
+}
+{
+d:d8 The fool gets the most laughs from...
+i:Falling stunts.
+i:Gorging himself with food or drink{.food}.
+i:Singing silly songs.
+i:Being hit over the head.
+i:Lewd gestures.
+i:Juggling sharp objects.
+i:Swallowing flames.
+i:Witty jokes and observations.
+}
+{
+d:d6 The fool wants nothing more than to...
+i:Bring smiles to others’ faces.
+i:Get as far from this castle as he can.
+i:Exact vengeance against a cruel noble{.nobles,.noble houses}.
+i:Kiss a pretty maiden.
+i:Have a drink and be merry.
+i:Get drunk and feel numb.
+}
+[
+d:TUTOR / SAGE
+]
+{
+d:d6 The tutor is...
+i:A scholar trained at a university.
+i:A wizard trained at an academy.
+i:A wizard who had apprenticed to another.
+i:A self-taught scholar of noble birth{.nobles,.noble houses}.
+i:A monk of an order famed for wisdom.
+i:A priest dedicated to spreading knowledge.
+}
+{
+d:d4 The tutor’s charges view him/her as...
+i:A trusted friend.
+i:A second father/mother.
+i:A weakling to be antagonized and bullied.
+i:A tyrant to be feared.
+}
+{
+d:d12 The tutor is particularly well-versed in...
+i:Alchemy.
+i:Ancient mysteries.
+i:Astronomy.
+i:Herb lore{.herbalism}.
+i:Mathematics.
+i:Mineralogy.
+i:Military history.
+i:Music.
+i:Poetry and songs.
+i:Political history.
+i:Theater and dance.
+i:Theology.
+}
+[
+d:MAIDSERVANT
+]
+{
+d:d4 The servant is...
+i:Her ladyship’s/her lordship’s favorite.
+i:A long-time servant of the household.
+i:New to the household and always in trouble.
+i:New to the household and eager to please.
+}
+{
+d:d4 The servant has...
+i:A pretty smile, but crooked teeth.
+i:Beautiful but sad eyes.
+i:A wide frame.
+i:A bony figure.
+}
+{
+d:d4 The servant wants to...
+i:Avoid being alone with a particular noble{.nobles,.noble houses}.
+i:Discipline one of the children in the castle.
+i:Earn the affection of her mistress.
+i:Bend your ear for an old folk tale.
+}
+[
+d:GUARD CAPTAIN
+]
+{
+d:d6 The captain is...
+i:A lesser member of a noble house{.nobles,.noble houses}.
+i:A brutish thug.
+i:A dashing swashbuckler.
+i:A celebrated war hero.
+i:An anointed knight{.knights}.
+i:A career soldier{.soldiers}.
+}
+{
+d:d4 The captain is concerned about...
+i:The resolve of the new recruits.
+i:The castle’s food stores{.food}.
+i:Sheltering too many commonfolk in a siege.
+i:Running out of ale during a siege.
+}
+{
+d:d4 The captain is looking for...
+i:Information regarding enemy movements.
+i:Reinforcements or new recruits.
+i:News of his or his wife’s hometown.
+i:Drinking companions and storytellers.
+}
+{
+d:d6 The captain carries...
+i:A superbly crafted sword.
+i:A trusted blade and a map.
+i:A lucky charm (rabbit’s foot, old coin).
+i:The token of a faraway love.
+i:A pipe and pouch of tobacco.
+i:A little jar of mustache wax.
+}
+[
+d:HORSEMASTER
+]
+{
+d:d4 The horsemaster is...
+i:A knight lamed in combat years ago{.knights}.
+i:The son of a servant to the liege’s family.
+i:A genius for breeding horses.
+i:A foreigner who grew up in the saddle.
+}
+{
+d:d4 The horsemaster has...
+i:A sackful of oats strapped to his belt.
+i:A calm demeanor.
+i:A soft-spoken manner.
+i:A pointed beard.
+}
+{
+d:d4 The horsemaster wants to...
+i:Have the fastest horses ready to carry his liege’s messages.
+i:Tell a tale of a grueling ride.
+i:Bring honor to his family name.
+i:Boast about a prized young mare.
+}
+[
+d:STABLE HAND
+]
+{
+d:d4 The stable hand is...
+i:A shady-looking character.
+i:The son of another servant in the castle.
+i:A prisoner-of-war turned servant.
+i:A simple-minded stable boy.
+}
+{
+d:d4 The stable hand has...
+i:An awkward gait.
+i:Incredibly large hands.
+i:Quite an odor.
+i:A patchy beard.
+}
+{
+d:d4 The stable hand wants to...
+i:Earn a little silver.
+i:Avoid being kicked by a horse{.horses}.
+i:Rise to the position of horsemaster.
+i:Pet the pretty horses.
+}
+[
+d:HUNTSMAN
+]
+{
+d:d6 The huntsman is...
+i:A member of the liege’s family.
+i:A bastard son of a noble house{.nobles,.noble houses}.
+i:A gifted tracker.
+i:A former poacher.
+i:A sadistic killer.
+i:A kindly sportsman.
+}
+{
+d:d4 The huntsman is concerned about...
+i:Reports of strange creatures in the nearby lands.
+i:The reckless behavior of a fellow hunter.
+i:How best to protect commonfolk’s livestock.
+i:Bringing enough wine on the next hunt{.wines}.
+}
+{
+d:d4 The huntsman is looking to...
+i:Track an unusual beast.
+i:Find the lair of a rare beast.
+i:Find a place where game is plentiful.
+i:Swap tales and rumors.
+}
+{
+d:d4 The huntsman carries...
+i:A sturdy hatchet.
+i:A large knife and a hunting trap.
+i:A finely made longbow.
+i:A trophy or piece of a wild beast.
+}
+[
+d:KENNELMASTER
+]
+{
+d:d4 The kennelmaster is...
+i:An eccentric dog-trainer.
+i:A skilled hunter.
+i:A short-tempered, portly fellow.
+i:A tall, gregarious fellow.
+}
+{
+d:d4 The kennelmaster is looking to...
+i:Encourage a hunting expedition.
+i:Improve the breeding stock of the hounds.
+i:Show off a clever hound.
+i:Avoid questions regarding the hounds’ obedience.
+}
+{
+d:d4 The kennelmaster carries...
+i:A dog whistle.
+i:A rope of some kind of jerky.
+i:A stick or club.
+i:A rope leash.
+}
+[
+d:BOWYER / FLETCHER
+]
+{
+d:d4 The bowyer is...
+i:A patient craftsman.
+i:An old archer, blind in one eye.
+i:A foreigner who puts unusual touches on the bows and feathers he makes.
+i:Skilled at mending bows and arrows, but not so good at making them from raw materials.
+}
+{
+d:d4 The bowyer is looking for...
+i:Someone who can fletch arrows.
+i:Stray arrowheads.
+i:Intact arrow shafts.
+i:A mug of strong ale.
+}
+{
+d:d4 The bowyer carries...
+i:A whittling knife.
+i:A quiver of arrows to be mended.
+i:A quiver of newly made arrows.
+i:A bundle of fresh wood cuttings.
+}

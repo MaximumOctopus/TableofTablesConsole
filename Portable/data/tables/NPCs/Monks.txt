@@ -1,0 +1,166 @@
+{
+d:d20 The monk is...
+i:A devoted acolyte.
+i:A dogmatic teacher.
+i:A wandering mystic.
+i:A grim warrior.
+i:An adept healer{.healers}.
+i:A road-weary pilgrim.
+i:A charismatic preacher.
+i:An eccentric sage.
+i:A disillusioned scholar.
+i:A battle-tested martial artist.
+i:A sharp-witted beggar-in-disguise.
+i:An outspoken zealot.
+i:An inscrutable foreigner.
+i:A world-weary philosopher.
+i:A brash martial artist.
+i:A reformed criminal.
+i:A warrior in exile.
+i:A cautious refugee.
+i:A bare-knuckled brawler.
+i:An unapologetic drunk.
+}
+{
+d:d12 At the monastery, the monk serves or served as...
+i:A brewer or vintner.
+i:A baker, butcher, or cook.
+i:A carpenter or stonemason.
+i:A farmer or gardener.
+i:A farrier or blacksmith.
+i:A guard or soldier{.soldiers}.
+i:A librarian or instructor.
+i:A leatherworker or ropemaker.
+i:A scribe or bookkeeper.
+i:A steward or quartermaster.
+i:A stable hand or herder.
+i:A tailor or weaver.
+}
+{
+d:d12 The monk has...
+i:A likable grin.
+i:A hearty laugh.
+i:An unreadable face.
+i:A sulky grimace.
+i:A humorless visage.
+i:A habit of sighing.
+i:A sad look on his or her face.
+i:A kind look on his or her face.
+i:A habit of pacing.
+i:A habit of scratching his or her chin.
+i:A habit of licking his or her lips.
+i:A habit of muttering under his or her breath.
+}
+{
+d:d12 The monk is particularly knowledgeable regarding...
+i:Alchemical preparations (d4): 1. curatives; 2. explosives; 3. poisons; 4. sedatives.
+i:The power of the mind.
+i:Realms beyond the material world.
+i:Demonology.
+i:Healing arts.
+i:The journey of the soul.
+i:The laws of the gods.
+i:Sacred rites.
+i:Sacred texts.
+i:Saints, martyrs, and heroes of legend.
+i:The monastic order's hierarchy and bureaucracy.
+i:The body's strengths and weaknesses.
+}
+{
+d:d12 The monk has recently been contemplating...
+i:The mysteries of death and life.
+i:The meaning of a recurring dream.
+i:The meaning of several dark omens.
+i:The perfection of the mind.
+i:The perfection of the body.
+i:The perfection of the soul.
+i:The wisdom of an ancient philosopher.
+i:The beauty and power of nature.
+i:The path to inner peace.
+i:Forgiveness for his or her past sins.
+i:The balance of good and evil.
+i:The balance of order and chaos.
+}
+{
+d:d8 The monk prefers to meditate...
+i:In a large temple{.temples}.
+i:In a shrine at the monastery{.monasteries}.
+i:In his or her personal cell at the monastery{.monasteries}.
+i:In a garden.
+i:Deep in the wilderness.
+i:In an isolated cave or grotto.
+i:On the site of an ancient ruin.
+i:While walking the roads of the world.
+}
+{
+d:d6 The monk wears...
+i:A threadbare robe.
+i:A sturdy wool cloak.
+i:A comfortable linen robe.
+i:A cotton robe with the symbol of a god embroidered on the lapel.
+i:A clean silk robe with simple embroidery.
+i:An expensive silk robe with elaborate gold embroidery.
+}
+{
+d:d12 The monk's martial arts style includes...
+i:Landing many rapid, open-hand slaps.
+i:Landing many rapid, close-fist punches.
+i:Acrobatic flips and quick maneuvers.
+i:Lightning sprints and flying leaps.
+i:A stumbling gait to keep foes off balance.
+i:Methodical footwork.
+i:Landing many of rapid, spinning kicks.
+i:Landing a few powerful punches.
+i:Landing a few powerful kicks.
+i:Leg sweeps to trip foes.
+i:Striking pressure points to debilitate foes.
+i:Using explosive powders and alchemical smoke to distract foes.
+}
+{
+d:d12 The monk carries...
+i:A polished wooden staff.
+i:A well-used walking staff.
+i:Several razor-sharp daggers.
+i:A blunted ceremonial dagger or sword.
+i:An uncommon weapon {.legendary weapons} (d6): 1. kukri; 2. kusari-gama; 3. nunchaku; 4. scythe; 5. shuriken; 6. sickle.
+i:A prominently displayed holy symbol (d6): 1. bejeweled; 2. gilded; 3. iron; 4. silver; 5. steel; 6. wooden.
+i:A purse of silver to distribute to the poor.
+i:A notebook of hand-written prayers and devotions.
+i:A variety of healing potions and salves{.potions}.
+i:A set of prayer beads.
+i:A heavy ring of keys.
+i:A wineskin or flask{.wines}.
+}
+{
+d:d12 The monk prefers to drink...
+i:Ale.
+i:Coffee.
+i:Fermented milk (d4): 1. cow; 2. goat; 3. mare; 4. yak.
+i:Firewhisky.
+i:Mead.
+i:Porter.
+i:Black tea.
+i:Green tea.
+i:Herbal tea{.herbalism}.
+i:Water{.wines}.
+i:Wine{.wines}.
+i:Rice wine.
+}
+{
+d:d8 The monk is looking for...
+i:New students.
+i:The translation of an ancient manuscript.
+i:Heretics and enemies of the order.
+i:Relics and rare lore.
+i:Proof of a god’s existence.
+i:The location of a ruined temple or monastery{.temples,.monasteries}.
+i:An opportunity to tell a fable.
+i:The bottom of a goblet.
+}
+[
+d:NAME
+]
+{
+d:d1 The Monk NPC is called... 
+i:$fantasy
+}

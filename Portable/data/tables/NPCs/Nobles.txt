@@ -1,0 +1,58 @@
+{
+d:d6 The noble is...
+i:A knight{.knights}.
+i:An old lord.
+i:A young lord.
+i:An old lady.
+i:A young lady.
+i:A wealthy merchant{.merchant caravans,.merchant guilds}.
+}
+{
+d:d8 The noble seeks someone to...
+i:Dispose of an enemy.
+i:Negotiate a trade contract.
+i:Deliver a letter.
+i:Prepare an army for war.
+i:Sabotage a rival.
+i:Secure an advantageous marriage for himself or herself.
+i:Secure an advantageous marriage for a friend or family member.
+i:Have a good time with.
+}
+{
+d:d6 The noble carries...
+i:Several deeds and titles.
+i:A family heirloom.
+i:Several inventories and invoices.
+i:Some very valuable jewels.
+i:A compromising love letter.
+i:A letter from a powerful lord or lady.
+}
+{
+d:d8 The noble wears…
+i:A flashy gold necklace or chain.
+i:Shiny leather boots.
+i:An ornate signet ring.
+i:Fine silk clothes.
+i:A handsome grin.
+i:An extremely ugly scowl.
+i:An arrogant sneer.
+i:Beautifully-styled hair and/or facial hair.
+}
+{
+d:d8 The noble has…
+i:A loud, deep laugh.
+i:A high-pitched laugh.
+i:A twittering nervous laugh.
+i:A nervous habit of fidgeting.
+i:A silver tongue.
+i:A commanding presence.
+i:Complete disregard for commoners.
+i:Not a care in the world.
+}
+[
+d:NAME
+]
+{
+d:d1 The Noble NPC is called... 
+i:$fantasy
+}

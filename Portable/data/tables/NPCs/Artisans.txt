@@ -1,0 +1,183 @@
+{
+d:d20 This is a guild for...
+i:Miners{.mines}.
+i:Foresters{.forest,.forest enchanted,.forest haunted}.
+i:Farmers.
+i:Laborers.
+i:Smithies.
+i:Barbers and dentists.
+i:Jewelers.
+i:Fools, entertainers, and players.
+i:Shipwrights.
+i:Tanners, furriers, and shoemakers.
+i:Butchers.
+i:Locksmiths and nailsmiths.
+i:Potters and dyers.
+i:Saddlers, farriers, and stable masters.
+i:Joiners, wheelwrights, and coopers.
+i:Masons.
+i:Weavers and tailors
+i:Goldsmiths and watchmakers
+i:Learned professionals (d8): 1. alchemists{.alchemists}; 2. architects; 3. calligraphers; 4. historians; 5. lawyers and judges; 6. scribes; 7. siege engineers; 8. writers.
+i:Special artisans and artists {.artisans} (d10): 1. brewers; 2. candlers; 3. chefs; 4. glassblowers; 5. historical reenactors; 6. mithrilsmiths; 7. musicians; 8. painters; 9. sculptors; 10. silversmiths.
+}
+{
+d:d8 This guild's status and control is...
+i:Poor; though once great, this guild has fallen on hard times and is struggling to maintain its power.
+i:Brand new, and frantically recruiting members in order to snatch power.
+i:Exponentially rising, a recent boon has granted them great profits.
+i:Slowing, a rising competitor is slowly cutting into profits.
+i:Absolute, they have complete dominance in their field.
+i:Spotty, depending on the will of the coin and the market this guild may be drinking Elven wine or rotten grog{.wines}.
+i:Unquestioned, they exert complete dominance over all other guilds in the area.
+i:Questionable, though they claim to have control, some operators have undermined it.
+}
+{
+d:d8 This guild's illicit affairs comprise...
+i:Literally nothing, they are paragons of upright morality.
+i:Staying well within the law, if slipping on a few taxes due to ignorance, of course.
+i:Knowing how to play the political game, they garner a few indirect favors from officials.
+i:Guild leaders having dollar signs for eyes, and setting advantageous prices in the city.
+i:Price floors becoming commonplace, and officials are often bribed in order to overlook some minor illicit activities.
+i:A variety of upper-level bribes, some minor scams, and the dismay of local priests.
+i:Rampant corruption, with large-scale bribery of various city officials and contracts with thieves’ guild and occasionally an assassin{.assassins' guilds,.thieves}.
+i:Pacts with devils, large-scale counterfeiting, and treasonous activities are a normal Tuesday morning for this guild.
+}
+{
+d:d8 This guild's headquarters is...
+i:The leader's or leaders' personal residence, a large manor.
+i:The dusty basement of the city's capital hall.
+i:A single, thin, and very tall townhouse that leans slightly into the street.
+i:A moored ship, especially curious in landlocked cities{.ships}.
+i:An open-air pavilion centered in the city's bazaar.
+i:Doubling as a large and prestigious bank.
+i:An opulent demiplane hidden in a shady back-alley.
+i:Jointly shared with all the guilds of the city, and the thieves guild lurks in the sewers below{.thieves}.
+}
+{
+d:d6 Minor Quest: You must fetch a shipment of goods from...
+i:The city gates, held up by a bureaucratic city official.
+i:The nearest village, where they're caught up in some small-town superstition.
+i:A relatively nearby city, where there a severe mix-up with the shipments.
+i:The natural areas one would gather them, yourself, to learn the roots of your trade.
+i:The stores of the city's banks, which must be paid off from their mortgage.
+i:Across the room where the party receives the quest.
+}
+{
+d:d6 Standard Quest: Recently the guild has lost access to raw materials or manufacturing because of...
+i:A recent venture with a supplier, rival, or local official that has turned out bad.
+i:A trade blockade that has to be resolved.
+i:A thieves’ guild that is targeting the guild, but may be convinced to look somewhere else{.thieves}.
+i:A master using it frivolously, you must go out to harvest a sufficient replacement amount.
+i:A city official banning them, citing it as an immoral substance.
+i:Spending all the coffer's stores on fulfilling a special contract or bribing officials, lacking the foresight to buy sufficient raw materials.
+}
+{
+d:d6 Major Quest: The guild would like you to fetch a rare creature or material from...
+i:The marketplace of the City of Brass.
+i:An ancient dwarven stronghold's forges.
+i:A quaint pasture—in the wildest parts of Arborea.
+i:A faraway island, rumored to have cannibals and foul magicks.
+i:A mystic mirage that manifests in a desert for twenty minutes once every century{.desert,.desert flame-scorched,.desert shadowy}.
+i:The Plane of Rats (or similar filthy location){.rats}.
+}
+[
+d:APPRENTICE CRAFTER
+]
+{
+d:d4 The apprentice is...
+i:Bored.
+i:Eager to learn.
+i:Frustrated by his or her own mistakes.
+i:Nervously looking about.
+}
+{
+d:d4 The apprentice seeks someone to...
+i:Give him some tips in the craft.
+i:Purchase an item made by the apprentice.
+i:Tell a tale that inspires creativity.
+i:Sneak off for a drink and some kisses.
+}
+[
+d:ARTISAN
+]
+{
+d:d6 The artisan is...
+i:A young journeyman.
+i:A mediocre journeyman.
+i:A skilled journeyman.
+i:A veteran of the craft.
+i:A master of the craft.
+i:An old crafter.
+}
+{
+d:d8 The artisan has...
+i:A friendly smile.
+i:Keen eyes.
+i:Watery eyes.
+i:A stubborn scowl.
+i:A dour frown.
+i:A missing tooth.
+i:Tired eyes.
+i:An amused smirk.
+}
+{
+d:d8 The artisan has...
+i:A limp.
+i:A hunchback.
+i:Unsteady hands when they aren’t at work.
+i:A habit of looking down.
+i:A bulbous nose.
+i:A burn scar on the face.
+i:A wispy mustache.
+i:A thick mustache.
+}
+{
+d:d6 The artisan is particularly skilled at...
+i:Crafting one particular type of item.
+i:Identifying high quality raw materials.
+i:Putting the finishing touches on an item.
+i:Instructing and training apprentices.
+i:Negotiating better prices for goods.
+i:Maneuvering in guild politics.
+}
+{
+d:d8 The artisan is looking for...
+i:A new apprentice.
+i:A journeyman craftsman to hire.
+i:Rare materials.
+i:A better set of tools.
+i:Someone with whom to talk shop{.shops}.
+i:Someone who witnessed a recent sporting event.
+i:Someone who is attending an upcoming sporting event.
+i:A mug of strong ale.
+}
+{
+d:d8 The artisan is carrying...
+i:The tools of his or her trade.
+i:Some raw materials.
+i:A finished product.
+i:A little coin.
+i:A to-do list scrawled on a bit of parchment.
+i:A set of many keys.
+i:A pipe and some tobacco.
+i:A flask of whisky.
+}
+{
+d:d6 The artisan is...
+i:A well-known member of the guild.
+i:An established or up-and-coming leader in the guild.
+i:A new member of the guild, having recently relocated from a distant land.
+i:A quiet guildmember, who doesn’t get involved in guild politics.
+i:On the outs with guild leadership.
+i:A favorite of some of the guild’s leaders.
+}
+{
+d:d6 The artisan dreams of...
+i:Producing a masterwork of the craft.
+i:Holding the reins of guild leadership.
+i:Retiring peacefully.
+i:Retiring rich.
+i:Running away from it all.
+i:A life of adventure.
+}

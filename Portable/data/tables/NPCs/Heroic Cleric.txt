@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Farming village
+i:Fishing village
+i:Holy city
+i:Large city
+i:Mining town
+i:Remote monastery
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or scholar
+i:Brewer or cobbler
+i:Charlatan or peddler
+i:Knight or magistrate
+i:Sailor or fisherman
+i:Soldier or guard
+}
+{
+d:d6 You take pride in…
+i:Fulfilling prophecy
+i:Gaining new converts
+i:Helping the poor and needy
+i:Hunting down unholy foes
+i:Sacred hymns
+i:Traditional dress or diet
+}
+{
+d:d6 You need improvement on…
+i:Bedside manner
+i:Grief counseling
+i:Drinking problem
+i:Keeping secrets
+i:Quoting scripture
+i:Wedding ceremonies
+}
+{
+d:d6 You became an adventurer to…
+i:Answer ancient riddle
+i:Atone for past sins
+i:Escape from a dull life
+i:Follow a saint's example
+i:Obey a message from a deity
+i:Pursue religious glory
+}
+{
+d:d6 Your favorite weapon is your…
+i:Club
+i:Dagger
+i:Hammer or sword
+i:Mace
+i:Quarterstaff
+i:Spear
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Church hierarchy
+i:Death and undead
+i:Demonology
+i:Healing arts
+i:Local history
+i:Holy wisdom
+}
+{
+d:d6 You are carrying a/an/the…
+i:Ancient holy scroll
+i:Famous crusader's weapon
+i:Guilt of horrific crime
+i:Pocket-sized prayer book
+i:Relic of favorite martyr
+i:Variety of medicines
+}
+{
+d:d6 You are wearing a/an/some…
+i:Battered, carved helm
+i:Brightly colored vestments
+i:Fine silk robe
+i:Garish amulet or chain
+i:Ritualistic scar or tattoo
+i:Tattered vestments
+}
+{
+d:d6 You have a keen interest in…
+i:Comic tales and jokes
+i:Learning people's secrets
+i:Fine wines, ales, and spirits
+i:Myths and tall tales
+i:Singing or playing an instrument
+i:Woodcarving or metalwork
+}

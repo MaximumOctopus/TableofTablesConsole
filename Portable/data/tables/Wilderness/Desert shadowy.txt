@@ -1,0 +1,169 @@
+{
+d:d12 Interesting Location: You find...
+i:A cavern in a canyon wall{.caverns}.
+i:A hole under a large boulder.
+i:A large burrow.
+i:A small cave next to a dry river bed.
+i:A pair of graves{.graverobbers}.
+i:A peculiar tent.
+i:Some nomads’ camp.
+i:An abandoned stone house.
+i:An abandoned campsite.
+i:An entrance to a rocky cave.
+i:An ancient tomb{.tombs}.
+i:Ancient ruins.
+}
+{
+d:d12 Distinguishing Landmark: You see...
+i:An oasis with a tree bearing rotten fruit.
+i:An oasis with foul-smelling water.
+i:An unusually large, prickly desert plant{.desert,.desert flame-scorched,.desert shadowy}.
+i:A pair of prickly plants from the same root.
+i:A patch of coarse grass next to a boulder, shrouded in a strange mist.
+i:A rocky bluff.
+i:A boulder shaped like a skull.
+i:A pair of identical boulders, side by side.
+i:A boulder sitting atop a larger boulder.
+i:A small, rocky canyon with a trickle of foul water.
+i:A deep, rocky canyon with a trickle of foul water.
+i:A dry river bed.
+}
+{
+d:d20 Feature: You notice...
+i:A buzzard circles overhead.
+i:A vulture screams.
+i:A flock of crows scatter.
+i:A large beetle scuttles away.
+i:A raven croaks.
+i:A crow caws.
+i:A rat scurries away{.rats}.
+i:A swarm of beetles crawl past.
+i:A ghostly presence flees.
+i:A ghostly presence watches curiously.
+i:A beast howls mournfully in the distance.
+i:An eerie silence.
+i:The wind kicks up dust.
+i:The breeze stops.
+i:The wind moans eerily.
+i:Small lose stones tumble down a slope.
+i:A dead palm tree.
+i:A distant scream.
+i:The smell of rotting flesh.
+i:The smell of decay.
+}
+{
+d:d12 Encounters: You come upon...
+i:A giant spider{.spiders}.
+i:A pack of wolves.
+i:An animated skeleton.
+i:A malevolent ghost.
+i:A restless ghost.
+i:A pair of ghouls.
+i:A pair of bandits.
+i:A strange hermit.
+i:A lost traveler.
+i:A destitute nomad.
+i:A dust storm.
+i:A thick, cold fog.
+}
+{
+d:d10 What’s in the cave/cavern?
+i:A swarm of beetles.
+i:Lots of bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A wight’s stash.
+i:A ghoul’s lair.
+i:Several skeletons.
+i:Bare rock.
+i:Mummified remains.
+i:Some bandits’ hideout.
+i:A creepy hermit.
+}
+{
+d:d6 What’s in the hole/burrow?
+i:A snake.
+i:A spider{.spiders}.
+i:Beetles.
+i:Scorpions.
+i:A severed limb.
+i:Dry bones.
+}
+{
+d:d6 Who lives in the peculiar tent?
+i:A merchant of exotic goods{.merchant caravans,.merchant guilds}.
+i:A misanthropic shapeshifter.
+i:An eccentric shadow monk.
+i:A nomadic herder.
+i:A nomadic warrior.
+i:An outcast elf{.elves dark,.elves high,.elves wood}.
+}
+{
+d:d6 Who lived in the stone house?
+i:A strange hermit.
+i:A reclusive scholar.
+i:An eccentric healer{.healers}.
+i:A poor goatherder.
+i:Someone who left no trace.
+i:A member of an ancient clan.
+}
+{
+d:d6 Who resides in the stone house now?
+i:A death hound.
+i:A handful of zombies.
+i:A paranoid shapeshifter.
+i:A mad necromancer.
+i:A malevolent ghost.
+i:Restless ghosts.
+}
+{
+d:d10 Who built the ancient ruins?
+i:A clan of shadowfolk.
+i:A dark elf queen{.elves dark,.elves high,.elves wood}.
+i:A fiendish cult{.fiends}.
+i:A dragon cult{.dragons}.
+i:A death cult.
+i:Shadow monks.
+i:A long-dead emperor.
+i:A forgotten king.
+i:An ambitious lich.
+i:A dark sorcerer.
+}
+{
+d:d10 Who lives in the ancient ruins now?
+i:A brilliant necromancer.
+i:Starved ghouls.
+i:Undead guardians.
+i:Cursed mummies{cursessimple}.
+i:Restless ghosts.
+i:A shadowfolk war band.
+i:An aberrant presence.
+i:A pack of death hounds.
+i:A pair of manticores.
+i:A dracolich.
+}
+{
+d:d10 Who is in the ancient tomb?
+i:The remains of an ancient king.
+i:The remains of an ancient queen.
+i:The remains of an ancient sorcerer.
+i:A powerful mummy.
+i:An ancient demilich.
+i:The remains of ancient monks.
+i:Twisted humanoid bones.
+i:Malevolent ghosts.
+i:Zombie warriors.
+i:Huge, disorganized piles of bones.
+}
+{
+d:d10 Who is in the grave?
+i:The corpse of a young maiden.
+i:The bones of a child.
+i:The bones of an old man.
+i:The bones of an old woman.
+i:A fallen adventurer, hastily buried.
+i:A dismembered corpse.
+i:Twisted humanoid bones.
+i:A pile of bones.
+i:A hateful mummy.
+i:An empty coffin
+}

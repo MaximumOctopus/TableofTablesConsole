@@ -1,0 +1,191 @@
+{
+d:d10 Interesting Location: You find...
+i:Ancient burial mounds.
+i:A hole under a large tree.
+i:A large burrow.
+i:A peculiar cottage.
+i:A forgotten cemetery.
+i:A pair of graves.
+i:An abandoned cabin.
+i:An abandoned campsite.
+i:An entrance to a rocky cave.
+i:Ancient ruins.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:A tree with rotten fruit all around its base.
+i:A large, hollow tree.
+i:A pair of trees from the same root.
+i:A tree growing over a boulder.
+i:A clearing with bare ground.
+i:A clearing with an old grave marker.
+i:A boulder marked with several notches.
+i:A thicket of dry brambles.
+i:A slow, silent stream.
+i:A stream flowing quietly through a ravine.
+i:A stream with barren banks.
+i:A dry creekbed.
+i:A foul smelling pond.
+i:A patch of mushrooms.
+i:The decaying carcass of a large animal.
+i:A large, hollow log.
+i:A large, rotting log.
+i:A tree felled by lightning.
+i:An old gnarled tree.
+i:The stump of an enormous tree.
+}
+{
+d:d20 Feature: You notice...
+i:A flock of crows scatter.
+i:A vulture screams.
+i:A raven croaks.
+i:An owl hoots.
+i:A crow caws.
+i:A rat scurrying{.rats}.
+i:A ghostly presence flees.
+i:A ghostly presence watches curiously.
+i:A bats take to wing from a tree{.bats}.
+i:A wolf howls.
+i:A large moth flutters about.
+i:Rats squeaking{.rats}.
+i:An eerie silence.
+i:The breeze stops.
+i:The wind blows harder.
+i:A twig snaps.
+i:The wind moans eerily.
+i:A distant scream.
+i:The scent of rotting flesh.
+i:The smell of decay.
+}
+{
+d:d20 Encounters: You come upon...
+i:An animated skeleton.
+i:A pair of skeletal warriors.
+i:A giant spider{.spiders}.
+i:A swarm of spiders{.spiders}.
+i:A pack of wolves.
+i:A savage werewolf.
+i:A giant bat{.bats}.
+i:A swarm of bats{.bats}.
+i:A shadow panther.
+i:A malevolent ghost.
+i:A restless ghost.
+i:A hungry ghoul.
+i:An animated hatchet.
+i:A pair of zombies.
+i:A slobbering zombie.
+i:A pair of graverobbers.
+i:An anxious necromancer.
+i:An old witch.
+i:A lost child.
+i:A gravedigger.
+}
+{
+d:d12 What’s in the cave/cavern?
+i:Several skeletons.
+i:Lots of bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A wight’s stash.
+i:A ghoul’s lair.
+i:A ghostly presence.
+i:The hideout of a killer on the run.
+i:Bare rock.
+i:Unidentifiable remains.
+i:An abandoned cookfire.
+i:Some outlaws’ hideout{.outlaw bands}.
+i:A creepy hermit.
+}
+{
+d:d12 Who is in the ancient burial mound?
+i:The remains of an ancient war chief.
+i:The remains of a tribal shaman.
+i:The remains of an ancient war chief.
+i:A barrow-wight.
+i:An ancient demilich.
+i:The remains of ancient monks.
+i:Twisted humanoid bones.
+i:Malevolent ghosts.
+i:Zombie warriors.
+i:A skeletal hound.
+i:An ancient vampire{.vampires}.
+i:Huge, disorganized piles of bones.
+}
+{
+d:d10 Who is in the grave?
+i:The corpse of a young maiden.
+i:The corpse of a child.
+i:The corpse of an old man.
+i:The corpse of an old woman.
+i:A fallen adventurer, hastily buried.
+i:A dismembered corpse.
+i:Twisted humanoid bones.
+i:A pile of bones.
+i:A newly-made vampire{.vampires}.
+i:An empty coffin.
+}
+{
+d:d10 Who built the ancient ruins?
+i:Dwarvish miners{.mines}.
+i:A wood elf king.
+i:An ancient elf.
+i:A demonic cult.
+i:A death cult.
+i:Shadow monks.
+i:A long-dead emperor.
+i:A forgotten king.
+i:An evil queen.
+i:A dark sorcerer.
+}
+{
+d:d12 Who resides in the ancient ruins now?
+i:A brilliant necromancer.
+i:Starved ghouls.
+i:Undead guardians.
+i:Giant spiders{.spiders}.
+i:So many zombies.
+i:Restless ghosts.
+i:A vengeful wight.
+i:A mad wraith.
+i:A cursed mummy.
+i:An aberrant presence.
+i:A pair of manticores.
+i:A dracolich.
+}
+{
+d:d8 What’s in the hole/burrow?
+i:A snake.
+i:A spider{.spiders}.
+i:Slimy mold.
+i:Maggots.
+i:A severed limb.
+i:Unusual fungus.
+i:A decomposing body.
+i:Cold, dry bones.
+}
+{
+d:d6 Who lives in the peculiar cottage?
+i:A lonely old woman.
+i:A reclusive shapeshifter.
+i:An eccentric healer.
+i:A beautiful witch.
+i:A horrible witch.
+i:A cranky old priest.
+}
+{
+d:d6 Who lived in the abandoned cabin?
+i:A lonely old woman.
+i:A reclusive scholar.
+i:An eccentric healer.
+i:A poor woodcutter.
+i:A fur trader.
+i:A dwarf prospector.
+}
+{
+d:d6 Who resides in the abandoned cabin now?
+i:A death hound.
+i:A handful of zombies.
+i:A paranoid shapeshifter.
+i:A mad witch.
+i:A malevolent ghost.
+i:Restless ghosts.
+}

@@ -1,0 +1,281 @@
+[
+d:ALCHEMIST
+]
+{
+d:d6 The alchemist is...
+i:An apothecary.
+i:A hedge wizard.
+i:An herbalist{.herbalism}.
+i:A poisonmaker.
+i:A potioneer{.potions}.
+i:A pyromancer.
+}
+{
+d:d4 The alchemist is looking for...
+i:Delivery help.
+i:New recipes.
+i:Purchasers.
+i:Rare ingredients.
+}
+{
+d:d4 The alchemist carries...
+i:Several vials of acid.
+i:Several curatives.
+i:An unusual potion{.potions}.
+i:A pyrophoric substance.
+}
+{
+d:d1 The Alchemists's name is...
+i:$fantasy
+}
+[
+d:CRIMINAL
+]
+{
+d:d6 The criminal is...
+i:An assassin{.assassins' guilds}.
+i:A con artist.
+i:A gambler.
+i:A poacher.
+i:A smuggler.
+i:A thief{.thieves}.
+}
+{
+d:d6 The criminal is looking for...
+i:Accomplices for a specific task.
+i:Revenge against a rival criminal.
+i:An easy mark.
+i:Extra muscle for some work.
+i:Rumors that may lead to a big score.
+i:A rowdy evening of carousing.
+}
+{
+d:d6 The criminal carries...
+i:A crossbow with poisoned darts.
+i:Several daggers.
+i:A short sword.
+i:A lucky charm.
+i:The token of a love.
+i:Letters for blackmail.
+}
+{
+d:d1 The Criminal's name is...
+i:$fantasy
+}
+[
+d:LAW OFFICIAL
+]
+{
+d:d4 The law official is...
+i:A constable.
+i:A sheriff.
+i:A guard captain.
+i:A magistrate.
+}
+{
+d:d6 The law official seeks someone to...
+i:Capture a fugitive.
+i:Catch a thief{.thieves}.
+i:Guard a specific location or person.
+i:Investigate a disappearance.
+i:Solve a murder mystery.
+i:Have an ale with.
+}
+{
+d:d4 The law official carries...
+i:An arrest warrant for an outlaw{.outlaw bands}.
+i:A proclamation for a reward.
+i:A knife or sword of the office.
+i:A pocketbook of local laws.
+}
+{
+d:d1 The Law Official's name is...
+i:$fantasy
+}
+[
+d:NOBLE
+]
+{
+d:d6 The noble is...
+i:A knight{.knights}.
+i:An old lord.
+i:A young lord.
+i:An old lady.
+i:A young lady.
+i:A wealthy merchant{.merchant caravans,.merchant guilds}.
+}
+{
+d:d6 The noble seeks someone to...
+i:Dispose of an enemy.
+i:Negotiate a trade contract.
+i:Prepare an army for war.
+i:Sabotage a rival.
+i:Secure a marriage.
+i:Have a good time with.
+}
+{
+d:d6 The noble carries...
+i:Several deeds and titles.
+i:A family heirloom.
+i:Several inventories and invoices.
+i:Some very valuable jewels.
+i:A compromising love letter.
+i:A letter from a powerful lord or lady.
+}
+{
+d:d1 The Nobel's name is...
+i:$fantasy
+}
+[
+d:PRIEST
+]
+{
+d:d6 The priest is...
+i:An acolyte.
+i:A healer{.healers}.
+i:A monk.
+i:A preacher.
+i:A scholar.
+i:A witch-hunter{.witches}.
+}
+{
+d:d4 The priest is looking for...
+i:New converts.
+i:Heretics.
+i:Relics and rare lore.
+i:The bottom of a goblet.
+}
+{
+d:d4 The priest carries...
+i:A well-used cudgel.
+i:A prominently displayed holy symbol.
+i:A pocketbook of sacred texts.
+i:A wineskin{.wines}.
+}
+{
+d:d1 The Priest's name is...
+i:$fantasy
+}
+[
+d:SEER
+]
+{
+d:d6 The seer is...
+i:An astrologer.
+i:A fortune teller.
+i:A mystic
+i:A lorekeeper.
+i:A prophet.
+i:A psychic.
+}
+{
+d:d4 The seer is looking for...
+i:The answer to a riddle or prophecy.
+i:New clients for a reading.
+i:News regarding a missing person.
+i:Some juicy gossip.
+}
+{
+d:d4 The seer carries...
+i:A crystal ball.
+i:A dowsing rod.
+i:A large, sharp-pointed knife.
+i:Several star charts.
+}
+{
+d:d1 The Seer's name is...
+i:$fantasy
+}
+[
+d:SMITH
+]
+{
+d:d4 The smith is...
+i:An armorer.
+i:A blacksmith.
+i:A farrier.
+i:A weaponsmith{.legendary weapons}.
+}
+{
+d:d4 The smith is looking for...
+i:A new apprentice.
+i:A journeyman craftsman.
+i:Rare metals.
+i:A mug of strong ale.
+}
+{
+d:d4 The smith carries...
+i:A hammer.
+i:A metal trinket made by the smith.
+i:A contract commissioning a sword.
+i:Little more than a few coins.
+}
+{
+d:d1 The smith's name is...
+i:$generic
+}
+[
+d:TRAVELER
+]
+{
+d:d8 The traveler is...
+i:An exile.
+i:A minstrel.
+i:A peddler.
+i:A pilgrim.
+i:A refugee.
+i:A sellsword{.sellswords}.
+i:A storyteller.
+i:A treasure hunter.
+}
+{
+d:d10 The traveler is seeking...
+i:Accomplices on a quest.
+i:The answer to a riddle
+i:An audience to entertain.
+i:A long lost friend.
+i:The return of something stolen.
+i:Revenge against a bitter rival.
+i:A permanent home.
+i:Steady work.
+i:Traveling companions.
+i:Drinking companions.
+}
+{
+d:d1 The Traveller's name is...
+i:$fantasy
+}
+[
+d:BARKEEP/BARMAID
+]
+{
+d:d8 The server greets you with...
+i:A mug of ale.
+i:A goblet of wine{.wines}.
+i:A glass of water.
+i:An offer to move to a better table.
+i:A look of exasperation.
+i:A warm handshake.
+i:A pat on the back.
+i:A pretty smile.
+}
+{
+d:d6 The server is looking for...
+i:An excuse to kick you out.
+i:Someone more important to talk to.
+i:Someone to do some pest removal.
+i:A big tip.
+i:A good joke or story.
+i:The bottom of a bottle.
+}
+{
+d:d4 The server carries...
+i:A filthy rag.
+i:A pristine silk handkerchief.
+i:A piece of conspicuous jewelry.
+i:An unusual belt purse.
+}
+{
+d:d1 The Barkeep/Barmaid's name is...
+i:$fantasy
+}

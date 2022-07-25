@@ -1,0 +1,81 @@
+{
+d:d8 Hair: The high elf has...
+i:Black hair.
+i:Copper hair.
+i:Golden blonde hair.
+i:Platinum blonde hair.
+i:Silver-white hair.
+i:Dark brown hair.
+i:Reddish-brown.
+i:Fiery red hair.
+}
+{
+d:d8 Eyes: The high elf has...
+i:Pale golden eyes.
+i:Bright golden eyes.
+i:Dark green eyes.
+i:Brilliant green eyes.
+i:Bright blue eyes.
+i:Dark blue eyes.
+i:Blue eyes with golden flecks.
+i:Green eyes with golden flecks.
+}
+{
+d:d8 Mannerisms: The high elf has...
+i:A beautiful smile.
+i:A delicate laugh.
+i:A habit of nodding slowly while listening.
+i:A humorless visage.
+i:A habit of sighing.
+i:A touch of sorrow in his or her voice.
+i:A habit of pacing.
+i:A habit of scratching the chin.
+}
+{
+d:d12 The high elf is...
+i:A powerful enchanter or enchantress.
+i:A patient and wise sage.
+i:A dedicated knight{.knights}.
+i:A capable scout.
+i:A mystic oracle.
+i:A watchful ranger.
+i:A superb archer.
+i:A masterful bladedancer.
+i:A battle-tested warrior.
+i:A well-known singer.
+i:A talented crafter.
+i:A skilled mariner.
+}
+{
+d:d8 The high elf is looking to...
+i:Track an unnatural beast or invader.
+i:Lead any travelers out of the forest{.forest,.forest enchanted,.forest haunted}.
+i:Find some knowledge about an ancient event or place.
+i:Locate a legendary gem{gemstones}.
+i:Solve an ancient mystery.
+i:Find one of the last copies of a legendary book.
+i:Sail to the undying lands.
+i:Share a drink a tale of woe.
+}
+{
+d:d12 The high elf carries...
+i:An ancient blade.
+i:A unique gem{gemstones} or piece of jewelry.
+i:A finely-crafted longsword or bow.
+i:A tome of mystic lore.
+i:The journal of an ancient scholar.
+i:A sword etched with ancient runes.
+i:A staff with a moon-white crystal set at the end.
+i:Arrows fletched with the feathers of a fey bird {.beasts fey} (d6): 1. eagle; 2. hawk; 3. owl; 4. phoenix; 5. raven; 6. swan.
+i:Several vials of healing potions{.potions}.
+i:A cache of useful herbs{.herbalism}.
+i:A silver flute.
+i:A golden harp.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

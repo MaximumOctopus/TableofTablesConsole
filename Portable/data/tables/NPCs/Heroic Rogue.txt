@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Capital city
+i:Castle
+i:Mining town
+i:Port city
+i:Small village
+}
+{
+d:d6 In the past, you were a/an…
+i:Charlatan or peddler
+i:Circus performer or singer
+i:Pickpocket or thug
+i:Sailor or pirate
+i:Soldier or guard
+i:Woodcutter or cobbler
+}
+{
+d:d6 You take pride in…
+i:Climbing and tumbling
+i:Criminal organizations
+i:Gems and jewelry
+i:Knife throwing
+i:Maintaining good looks
+i:Trap making
+}
+{
+d:d6 You need improvement on…
+i:Gambling addiction
+i:Holding liquor
+i:Keeping secrets
+i:Respecting superiors
+i:Trusting allies
+i:Weapon maintenance
+}
+{
+d:d6 You became an adventurer to…
+i:Avoid execution
+i:Avoid imprisonment
+i:Escape from a life of toil
+i:Win the love of a great beauty
+i:Pursue fame and fortune
+i:Gain vengeance upon an old foe
+}
+{
+d:d6 Your favorite weapon is/weapons are your…
+i:Brass knuckles
+i:Club or mace
+i:Dagger
+i:Shortbow or crossbow
+i:Shortsword
+i:Throwing knives
+}
+{
+d:d6 Your favorite tool for most situations is a/an/some…
+i:Crowbar
+i:Disguise
+i:Lockpicks
+i:Poison
+i:Rope
+i:Torches
+}
+{
+d:d6 You are carrying a/an/the…
+i:Lucky charm from childhood
+i:Guilt of horrific crime
+i:Famous ancestor's ring
+i:Coin from foreign land
+i:Favor from beloved
+i:Several forged documents
+}
+{
+d:d6 You are wearing a/an/some…
+i:Dark cloak with hood
+i:Fancy silk shirt
+i:Mustache, real or fake
+i:Patched leather armor
+i:Prison tattoo
+i:Well-worn old boots
+}
+{
+d:d6 You have a keen interest in…
+i:Amorous pursuits
+i:Card games
+i:Cheap wine and ale
+i:Dice games
+i:Fine wines, ales, and spirits
+i:Singing or playing an instrument
+}

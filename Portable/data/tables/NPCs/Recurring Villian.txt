@@ -1,0 +1,101 @@
+{
+d:d20 The villain is a
+i:Human
+i:Elf
+i:Dwarf
+i:Halfling
+i:Orc
+i:Goblin
+i:Gnome
+i:Goliath
+i:Genasi
+i:Dragon
+i:Beholder
+i:Illithid
+i:Aboleth
+i:Demon Lord
+i:Devil Lieutenant
+i:Warforged
+i:Dragonborn
+i:Tabaxi
+i:Lizardfolk
+i:Rakshasa
+}
+{
+d:d12 and they are a
+i:Barbarian
+i:Bard
+i:Cleric
+i:Fighter
+i:Monk
+i:Mystic or Artificer
+i:Paladin
+i:Ranger
+i:Rogue
+i:Sorcerer
+i:Warlock
+i:Wizard
+}
+{
+d:d6 They have an extremist ideology that has them utilize
+i:Aggression and control
+i:Subterfuge and deception
+i:Justice and retribution
+i:Fear
+i:Greed and Wealth
+i:Ignorance
+}
+{
+d:d6 The villain's greatest weapon is their
+i:Political power
+i:Skill with spells
+i:Martial Combat Skill
+i:Army of minions and followers
+i:Evil villainous contacts
+i:Unpredictability
+}
+{
+d:d6 This villain's ultimate goal is
+i:Ruling the world
+i:Killing their arch nemesis, and all people close to them
+i:Destroy this world for a greater being/God
+i:Acquire favour of a greater being/God
+i:Living Forever
+i:Watching the world burn
+}
+{
+d:d6 Their next step to achieving their goal is to
+i:Capture the princess and ransom her back to the King
+i:Kill the King
+i:Slaughter a village
+i:Raise an army
+i:Stockpile a horde of wealth and gold
+i:Acquire a powerful artifact
+}
+{
+d:d6 The villain is notorious for their
+i:Raiding and pillaging
+i:Executions and assassinations
+i:Genocide and mass murder
+i:Corruption of other powerful people
+i:Gratuitous public displays of their power
+i:Sly hand in political endeavors
+}
+{
+d:d6 This villain's one weakness is
+i:Repulsion to the stench of a fruit, vegetable or spice (Eg, garlic)
+i:Vulnerable to a damage type (Eg, Cold, Fire, Radiant, Thunder, Necrotic, Lightning)
+i:Their own rash and sporadic nature
+i:Feeling like they aren't in control
+i:He is easily distracted or lured by treasure
+i:None of their allies actually like the villain
+}
+{
+d:d6 This villain is recurring because of their ability to
+i:Regenerate even the most fatal of wounds
+i:Reincarnate in a new body with their old, widened mind and memories
+i:Reform as a creature of undeath (eg Lich, death knight, vampire)
+i:Be brought back from the dead by a pact with an evil demon/devil/God
+i:Stay out of the danger zone and preserve their life
+i:Talk themselves out of any situation
+}

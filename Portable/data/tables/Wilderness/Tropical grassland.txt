@@ -1,0 +1,144 @@
+{
+d:d6 Point of interest: You come upon a/an...
+i:Stone ruin (roll on stone ruin table).
+i:Small homestead.
+i:House built of dried mud.
+i:Wooden fortification.
+i:Large burrow.
+i:Encampment (roll on encampment table).
+}
+{
+d:d6 Stone ruin: The ruin appears to have been a/an…
+i:Palace.
+i:Church or temple.
+i:Dwelling.
+i:Astronomical observatory.
+i:Tomb or mausoleum.
+i:Watchtower.
+}
+{
+d:d6 Encampment: This encampment is occupied by a/an…
+i:Barbarian clan.
+i:Hunting party.
+i:Merchant caravan.
+i:Tribe of nomadic herders.
+i:Band of tomb raiders.
+i:No one; it was abandoned some time ago.
+}
+{
+d:d6 Landscape: The landscape is dominated by…
+i:A wide plain and a distant mountain range.
+i:A wide plain and a distant expanse of forest.
+i:Copses of trees dotting the wide plain.
+i:An endless sea of grass.
+i:A wide, flat valley flanked by mountains.
+i:Sparse bluffs and mesas rising above the grass.
+}
+{
+d:d6 Grass color: Much of the grass you see is...
+i:Lush green.
+i:Pale green.
+i:Yellowish green.
+i:Bluish green.
+i:Gold.
+i:Brown.
+}
+{
+d:d6 Grass height: Most of the grass is…
+i:As tall as a man on horseback.
+i:Slightly taller than a man.
+i:Almost as tall as a man.
+i:Up to a man’s waist.
+i:Up to a man’s knee.
+i:Only ankle high.
+}
+{
+d:d6 Grass texture: Most of the grass is…
+i:Thick.
+i:Coarse.
+i:Soft.
+i:Wavy.
+i:Sharp edged.
+i:Thorny.
+}
+{
+d:d6 Landmark/feature: You see a/an...
+i:Lone, leafless tree.
+i:Lazy creek.
+i:Stone bluff.
+i:Pond.
+i:Dried river bed.
+i:Series of boulders.
+}
+{
+d:d6 Minor feature: You notice a/an...
+i:Bird call.
+i:Rotting, half-eaten carcass.
+i:Small snake slithering along.
+i:Abandoned firepit.
+i:Strong breeze.
+i:Stench of rotting plants.
+}
+{
+d:d6 Daytime encounters: You meet a/an...
+i:Beast (roll on beast table).
+i:Monster (roll on monster table).
+i:Herd animal (roll on herd animal table).
+i:Suspicious shaman.
+i:Friendly hunter.
+i:Nomadic warrior.
+}
+{
+d:d6 Nighttime encounters: You meet a/an...
+i:Beast (roll on beast table).
+i:Monster (roll on monster table).
+i:Stalking demon.
+i:Sorrowful ghost.
+i:Hateful mummy.
+i:Herd of sleepy domestic animals (d4): 1. cattle; 2. goats; 3. horses; 4. sheep.
+}
+{
+d:d6 Hazard: You happen upon a/an…
+i:Sudden thunderstorm.
+i:Dust storm.
+i:Flash flood.
+i:Hunter’s snare.
+i:Patch of sinking mud or sand.
+i:Place touched by a wilting curse.
+}
+{
+d:d6 Beast: You come upon a/an...
+i:Boar or rhinoceros.
+i:Carnivorous dinosaur (d6): 1. carnotaurus; 2. ceratosaurus; 3. dilophosaurus; 4. spinosaurus; 5. tyrannosaurus; 6. velociraptor.
+i:Cheetah or panther.
+i:Lion or tiger.
+i:Hyena or jackal.
+i:Vulture.
+}
+{
+d:d6 Herd animal: You come upon herd of...
+i:Buffaloes.
+i:Elephants.
+i:Gazelles.
+i:Giraffes.
+i:Herbivorous dinosaurs (d6): 1. ankylosaurus; 2. brachiosaurus; 3. diplodocus; 4. pachycephalosaurus; 5. stegosaurus; 6. triceratops.
+i:Wild horses.
+}
+{
+d:d6 Monster: You come upon a/an...
+i:Young dragon.
+i:Ettin.
+i:Yuan-ti.
+i:Giant scorpion.
+i:Manticore.
+i:Griffon.
+}
+{
+d:d6 Power center: This region is ruled or menaced by a/an…
+i:Vengeful mummy lord.
+i:Orkish warlord.
+i:Blood-thirsty cult.
+i:Barbarian clan.
+i:Mysterious witch.
+i:Mining guild.
+}

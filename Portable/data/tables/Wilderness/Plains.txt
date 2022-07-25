@@ -1,0 +1,160 @@
+{
+d:d6 Foliage: The plant life is...
+i:green, waving grass, several feet high.
+i:Short tight grass clumps intermingled with shrubbery.
+i:Yellowish grass that grows low to the ground, with the occasional tree growing by itself.
+i:Sparce, with only clumps of dark green and brown scrub brush every few yards.
+i:Groves of trees growing every few hundred yards among tall grasses, as if nature(or someone) is trying to seed a forest{.forest,.forest enchanted,.forest haunted}.
+i:Briar patches and mildly poisonous plants that have choked out most of the other plant life.
+}
+{
+d:d20 Perception fodder: You notice...
+i:the sun becomes obscured by the clouds.
+i:a well used animal trail.
+i:a hawk flying high overhead.
+i:the croaking of frogs at a nearby water source.
+i:small mammals playing/fighting loudly that suddenly grow silent and disappear as you approach.
+i:a light breeze blows, carrying the scent of wood smoke.
+i:a strong wind gusts, carrying the sound of thunder and scent of approaching rain.
+i:the faint thumping of drums in the distance.
+i:a plume of smoke on the horizon.
+i:the buzzing and singing of insects hidden in the foliage.
+i:the scent of death and decay.
+i:a sickly sweet smelling flowered bush.
+i:a sudden gust of wind brings a strange smell, but it fades quickly as the wind dies down.
+i:the faint rattling of a serpent's tail nearby.
+i:the chirping of a flock of small birds that takes the air when you approach.
+i:a trail of fresh blood.
+i:a mound of loose earth, as if something was recently buried.
+i:a swarm of insects buzzing loudly around a dead animal.
+i:a faint rumbling in the ground that stops after a moment or two.
+i:a nearby boulder covered with a swarm of ants. A busy day in the anthill, indeed.
+}
+{
+d:d20 Interesting locations: You come across...
+i:several standing stones on top of a hill and arranged in a strange design.
+i:an ancient monolith constructed of a material not found native in the area.
+i:a rushing stream that snakes its way across the plains{.plains}.
+i:a large watering hole used by numerous forms of wildlife.
+i:a rocky cave opening jutting out of the ground.
+i:a group of indigenous nomads, stopping for a time before continuing their journey.
+i:a village of settlers from a nearby civilization.
+i:a series of sink holes that drop several hundred feet into the earth.
+i:the ruins of a long abandoned military outpost/fort.
+i:a lone tree with several skeletons dangling from nooses.
+i:a makeshift quarry dug into the ground where large chunks of stone have been cut out and chiseled into statues.
+i:a lone gravestone. Large, but sunken into the ground. The engraving is in a language not spoken in this region{.graverobbers}.
+i:a low swampy area, full of foul smelling water and brightly colored flowers{.swamp}.
+i:a huge boulder sitting alone in a field. Into the sides are scrawled all kinds of glyphs, most partially worn away by time.
+i:a tall hill or cliff, standing several hundred feet higher than the surrounding terrain. You can see for miles from the top.
+i:a stone well, recently used by a group of herdsmen, their livestock having left tracks nearby.
+i:a forgotten stone tower, collapsing from the ravages of time.
+i:a fairy ring, several feet in diameter, with a statue of two elves dancing in the center{.elves dark,.elves high,.elves wood}.
+i:a large Elven hunting lodge, a fine roof and floor with no walls. Some elven hunters meditate inside while the rest hunt in the plains{.plains}.
+i:a religious shrine in disrepair. It bears a map of all points on a long forgotten pilgrimage.
+}
+{
+d:d8 What are the standing stones used for?
+i:Druidic conclave meetings.
+i:Pagan sacrifices or rituals.
+i:necromantic summonings.
+i:devil summonings.
+i:political gathering of tribes.
+i:seasonal feasting.
+i:duels of honor, often to the death.
+i:religious rites and offerings to a deity.
+}
+{
+d:d8 What's up with the monolith?
+i:Pulses of magic emanate from it, felt by any magic sensitive creatures (including players) nearby, drawing them to touch it.
+i:It casts a shadow the doesn't move with the sun. At night, the "shadow" is actually brighter than the ground.
+i:Its surface is covered in strange runes that shift about when inspected, inducing a headache.
+i:Magic does not work in its immediate vicinity, and acts strangely while cast within line of sight.
+i:The pieces of the monolith can be shifted and turned in a number of ways, yet it somehow always seems to look the same.
+i:A faint, very deep, humming can be heard emanating from inside it. Almost so low as to be a vibration, rather than a sound. Induces nausea if one is exposed for too long.
+i:Wildlife that approach within twenty feet of it seem to simply tip over and die, as demonstrated by the ring of old and new corpses surrounding it. Humanoids seem to be unaffected.
+i:Certain objects and colors seem to glow with an unnatural brilliance when near the monolith. (Treat the effect as a black light. White items, and other brightly colored things, glow strangely)
+}
+{
+d:d8 What lives in the rocky cave?
+i:a slightly unhinged hermit.
+i:a pack of wolves.
+i:a minotaur, the entrance to its labyrinth camouflaged as a cave.
+i:a tribe of troglodytes.
+i:an exiled Deep Gnome{.gnomes}.
+i:a feral child, raised by local fauna.
+i:a retired trapper, living out his final days.
+i:Nothing near the surface, but the cave goes deep. Very deep....
+}
+{
+d:d6. Who are the nomads?
+i:a tribe of centaurs, wary of outsiders.
+i:a family of gypsies, heading for a nearby town or city.
+i:Livestock herders, on their way to new grazing land as the season changes.
+i:a caravan of traveling merchants, making the very long, but very profitable, journey to a far off land{.merchant caravans,.merchant guilds}.
+i:a small band of doppelgangers, posing as a hunting party.
+i:a village of halflings, driven from their home.
+}
+{
+d:d6 What's under the sink holes?
+i:an abandoned mine{.mines}.
+i:the ruins of a village, swallowed by the earth.
+i:an ancient temple to a pagan deity{.temples}.
+i:an underground river, flowing into the deep.
+i:an ankheg colony.
+i:a massive cave network.
+}
+{
+d:d6 What is in/under the lone tree?
+i:a group of will-o-wisps.
+i:a vain banshee.
+i:a green hag, ready to strike a bargain.
+i:a transplanted colony of pixies and sprites, hoping to seed a new forest{.forest,.forest enchanted,.forest haunted}.
+i:a grumpy giant badger.
+i:a swarm of giant wolf spiders{.spiders}.
+}
+{
+d:d12 Wildlife Encounters(neutral): You encounter...
+i:a large cat apathetically watching you, well camouflaged against its native terrain{.cats}.
+i:several large snakes that slither off into the brush when you get too close.
+i:a herd of bison, grazing lazily.
+i:a family of ground rodents that watch you curiously from the safety of their burrow entrances.
+i:a pack of coyotes out for a meal.
+i:wild hogs rooting in the ground.
+i:a herd of elephants/woolly mammoth.
+i:a fat, ambling bear.
+i:a herd of wild horses stampeding across the plains{.plains}.
+i:a flock of ground fowl, loudly protesting as you approach their nesting area.
+i:a lone crow watching as you pass by. It hops after you a few steps at time to get a better look and then flies away, cawwing loudly.
+i:a rhinoceros, taking a dust bath.
+}
+{
+d:d12 Enemy Encounters: You come upon/are beset by: (challenge rating ~2-6)
+i:a bandit raiding party.
+i:an ankheg ambushing you from below!
+i:a small flock of cockatrice(s?).
+i:a hobgoblin patrol.
+i:a trio of motionless scarecrows near an abandoned cottage.
+i:a wandering ogre.
+i:a hungry Manticore.
+i:same as #4 plus a Hobgoblin captain.
+i:a raging bull elephant.
+i:a burrowing Bullette.
+i:a soaring Chimera.
+i:a shambling cyclops.
+}
+{
+d:d12 Friendly encounters: You cross paths with:
+i:an explorer, heading out into the unknown wilds.
+i:a surveyor, marking landmarks and distances on a map in the wake of an explorer.
+i:a miner, coming back to civilization with many valuables and oddities to sell{.mines}.
+i:an artist, pursuing their inspiration in the wilderness.
+i:a grizzled old veteran, looking for their final battle.
+i:an elderly druid, preparing a ritual to perform during an upcoming astral event (solstice, equinox, eclipse, etc){.druids}.
+i:a nomadic tribe of centaurs traveling across the plains{.plains}.
+i:an acolyte of a nature deity, undergoing a pilgrimage.
+i:a noble and their entourage, returning from a big game hunt{.nobles,.noble houses}.
+i:a tribal warrior, returning to their village from a successful hunt.
+i:a bounty hunter, tracking a fugitive.
+i:a revenant, tirelessly making its way back to civilization to exact its ultimate revenge.
+}

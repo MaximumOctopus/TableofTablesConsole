@@ -1,0 +1,176 @@
+{
+d:d20 The druid is...
+i:A wildling orphan.
+i:A seasoned herbalist{.herbalism}.
+i:A militant environmentalist.
+i:A well-known healer{.healers}.
+i:A brash, young fool.
+i:A rebellious noble{.nobles,.noble houses}.
+i:A patient teacher.
+i:A mysterious foreigner.
+i:A beautiful maiden.
+i:A rugged outdoorsman.
+i:A veteran wilderness guide.
+i:A beastly brute.
+i:A dark-hearted avenger.
+i:A curious philosopher.
+i:A shy beastfriend.
+i:A fierce guardian.
+i:An exiled spellcaster.
+i:A mystic shaman.
+i:A savage priest or priestess.
+i:A village elder.
+}
+{
+d:d12 The druid learned the craft from...
+i:Apprenticing to a woodland witch{.witches}.
+i:Studying wilderness lore at an academy.
+i:A parent who was also a druid.
+i:Running a menagerie or garden for royalty.
+i:Surviving in the wild alone for years.
+i:Conversing with primal spirits.
+i:An enchanted beast.
+i:Studying old books.
+i:The circle of druids that took him/her in as a child{.druids}.
+i:A fey creature that offered redemption for past transgressions against nature{.beasts fey}.
+i:A mysterious village elder.
+i:Time spent stranded in a wild, foreign land.
+}
+{
+d:d10 The druid has...
+i:Sky blue eyes.
+i:Deep sea blue eyes.
+i:Bright grass green eyes.
+i:Sunset golden eyes.
+i:Pale moss green eyes.
+i:Muddy brown eyes.
+i:Dark, stormy grey eyes.
+i:Night-sky purple eyes.
+i:Dusty brown eyes.
+i:Stony grey eyes.
+}
+{
+d:d10 The druid has...
+i:An earthy scent.
+i:Bits of green under the fingernails.
+i:Stains of bird droppings on his/her clothes.
+i:A long, hooked, beak-like nose.
+i:Large bear-like shoulders and hands.
+i:A pointy, rodent-like nose.
+i:Very hairy arms and legs.
+i:Long, sharp fingernails.
+i:Beautiful, healthy skin.
+i:A greenish, mossy beard.
+}
+{
+d:d12 The druid...
+i:Stares hungrily like a wolf.
+i:Stares suspiciously like a cat{.cats}.
+i:Hisses like a snaking when he/she laughs.
+i:Barks like a seal when he/she laughs.
+i:Twitters like a bird when he/she laughs.
+i:Walks ponderously like an ox.
+i:Walks gracefully like a panther.
+i:Eats like a horse{.horses}.
+i:Eats like a bird.
+i:Speaks very little.
+i:Fidgets like a squirrel.
+i:Pounces like a lion.
+}
+{
+d:d20 The druid shares an especially close connection with...
+i:Aquatic mammals.
+i:Bears.
+i:Birds of prey.
+i:Cats.
+i:Hoofed mammals.
+i:Reptiles and amphibians.
+i:Songbirds and waterfowl.
+i:Wolves and dogs.
+i:Blizzards and snowstorms.
+i:Hurricanes and tides.
+i:Volcanoes, geysers, and hot springs.
+i:Earthquakes.
+i:Thunderstorms and floods.
+i:Forests and trees{.forest,.forest enchanted,.forest haunted}.
+i:Mountains and stone{.mountains}.
+i:Caves and shadows.
+i:Jungles and rainstorms{.jungle}.
+i:Glaciers and tundra.
+i:Deserts and sand{.desert,.desert flame-scorched,.desert shadowy}.
+i:Swamps and marshes{.swamp}.
+}
+{
+d:d10 The druid wields...
+i:A wooden staff.
+i:A wooden club.
+i:A club and a wooden shield.
+i:A scimitar.
+i:A scimitar and a wooden shield.
+i:A spear.
+i:A spear and a wooden shield.
+i:A dagger.
+i:A thorny whip made from a tough vine.
+i:Tooth and claw.
+}
+{
+d:d8 The druid carries...
+i:A sprig of holly.
+i:A sprig of mistletoe.
+i:A yew wand{.magic wands}.
+i:A cutting from a rare plant.
+i:A totem necklace, strung with pieces of beasts (d6): 1. beaks; 2. bones; 3. claws; 4. shells; 5. tiny skulls; 6. teeth.
+i:A totem rod, adorned with pieces of beasts (d4): 1. bones; 2. feathers; 3. fur; 4. scales.
+i:A totem necklace, strung with plant material (d4): 1. seed pods; 2. dried fruit; 3. root clippings; 4. fresh flowers.
+i:A totem rod, adorned with plant material (d4): 1. tree bark; 2. fresh leaves; 3. berries; 4. seeds and tree sap.
+}
+{
+d:d12 The druid also carries...
+i:A small knife.
+i:A wooden flute.
+i:A hunting horn.
+i:A shard of obsidian, warm to the touch.
+i:A piece of crystal that glows in moonlight.
+i:A small pouch full of seeds.
+i:A small pouch full of herbal tea{.herbalism}.
+i:Several vials of herbal extracts.
+i:A pair of herb snips{.herbalism}
+i:A pocketbook field guide to flora and fauna in a region the druid has never visited.
+i:A book of Elvish poems and songs.
+i:Several vials of healing potions{.potions}.
+}
+{
+d:d10 The druid wears...
+i:Robes of earth tones.
+i:A dark green cape.
+i:Shiny leather boots with fur.
+i:Boots of soft leather.
+i:A leather baldric.
+i:Leather armor decorated with leafy motifs.
+i:Armor made from the hides of beasts.
+i:Leather armor studded with bone.
+i:A robe stained with bird droppings.
+i:A robe with vines growing from its pockets.
+}
+{
+d:d12 The druid is looking to...
+i:Find a place where a rare herb grows{.herbalism}.
+i:Drive away an unnatural intruder.
+i:Lead intruders into a trap.
+i:Help a wounded, legendary beast.
+i:Permanently transform into a beast.
+i:Locate a legendary garden or grove.
+i:Stop the spread of mining or grazing.
+i:Swap recipes and herb lore{.herbalism}.
+i:Bear witness to nature’s awesome power.
+i:Provide a safe haven for a hunted beast.
+i:Inspire a love for nature.
+i:Drink some tea mixed with strong spirits.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

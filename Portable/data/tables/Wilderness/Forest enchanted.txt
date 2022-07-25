@@ -1,0 +1,156 @@
+{
+d:d12 Interesting Location: You find...
+i:A cavern behind a waterfall{.caverns}.
+i:A house under a large tree.
+i:A large burrow with a door.
+i:A small cave in the bank of a creek.
+i:A peculiar cottage.
+i:A house up in a tree.
+i:A well-maintained cottage.
+i:A ring of mushrooms.
+i:An entrance to a rocky cave.
+i:Ancient ruins.
+i:A reflecting pool between colonnades.
+i:The statue of a goddess on a beautiful marble fountain.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:A lush fruit tree.
+i:A large, hollow tree.
+i:A pair of trees from the same root.
+i:A tree growing over a boulder.
+i:A clearing with wildflowers.
+i:A grassy clearing.
+i:A moss-covered boulder.
+i:A thicket of flowering bushes.
+i:A babbling brook.
+i:A brook in a deep ravine.
+i:A brook, with gentle rapids.
+i:A creek with flowers on its bank.
+i:A small pool at a creek's bend.
+i:A patch of mushrooms.
+i:An enormous mushroom.
+i:A large, hollow log.
+i:A large, rotting log.
+i:A tree felled by lightning.
+i:An old gnarled tree.
+i:The stump of an enormous tree.
+}
+{
+d:d20 Feature: You notice...
+i:A flock of birds scatter.
+i:A hawk cries.
+i:A woodpecker drumming.
+i:An owl hoots.
+i:Birds chirping.
+i:A chipmunk scurrying.
+i:A deer dashes away.
+i:A deer watches curiously.
+i:A squirrel leaps from one tree to another.
+i:A wolf howls.
+i:Butterflies fluttering about.
+i:Squirrels chittering.
+i:Distant music from a harp.
+i:Distant music from a flute.
+i:A warm breeze blows.
+i:A twig snaps.
+i:Brightly, colored berries.
+i:Leaves rustling.
+i:The scent of flowers.
+i:Pixies dancing in the distance.
+}
+{
+d:d12 What’s in the cave/cavern?
+i:A bear’s lair.
+i:Lots of bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A troll's stash.
+i:An ogre's lair.
+i:Some goblins' hideout{.goblins,.goblin gangs}.
+i:Fragrant mushrooms.
+i:A lingering ghost.
+i:Some lizardfolk’s lair.
+i:The remnant’s of a satyr’s feasting.
+i:A mysterious chest.
+i:A reflecting pool between a pair of beautiful stone colonnades.
+}
+{
+d:d20 Encounters: You come upon...
+i:A large bear.
+i:A bear wearing a collar.
+i:A giant spider{.spiders}.
+i:A talking spider.
+i:An enormous anthill.
+i:A pack of wolves.
+i:A talking wolf.
+i:A displacer beast.
+i:A moaning ghost.
+i:A mischievous ghost.
+i:A pair of goblin scouts{.goblins,.goblin gangs}.
+i:A hobgoblin beasthunter.
+i:Several tiny faeries.
+i:A dozen or more pixies.
+i:A protective sprite.
+i:A dancing satyr.
+i:An old witch.
+i:A lost child.
+i:A high elf sage.
+i:A wood elf wanderer.
+}
+{
+d:d6 Who lives in the burrow/under the tree?
+i:Intelligent rabbits.
+i:A giant talking spider{.spiders}.
+i:A talking badger.
+i:A gnomish illusionist.
+i:A gnomish prankster.
+i:A suspicious sprite.
+}
+{
+d:d8 Who lives up in the tree?
+i:A giant owl.
+i:A talking raven.
+i:A wood elf ranger.
+i:A high elf sentinel.
+i:A band of friendly pixies.
+i:Several nervous sprites.
+i:A swarm of sentient butterflies.
+i:It’s not a tree; it’s a treant.
+}
+{
+d:d6 Who lives in the peculiar/well-maintained cottage?
+i:A lonely old gnome.
+i:A reclusive shapeshifter.
+i:A gnomish healer.
+i:A beautiful witch.
+i:A horrible witch.
+i:An outcast dwarf.
+}
+{
+d:d10 Who built the ancient ruins?
+i:A great goblin king{.goblins,.goblin gangs}.
+i:A wood elf king.
+i:A high elf prince.
+i:A dragon cult{.dragons}.
+i:The god of wine himself{.wines}.
+i:A lizardfolk tribe.
+i:A long-dead emperor.
+i:A forgotten king.
+i:An evil queen.
+i:A dark sorcerer.
+}
+{
+d:d12 Who lives in the ancient ruins now?
+i:A high elf guardian.
+i:A wood elf druid.
+i:A pack of blink dogs.
+i:Giant spiders{.spiders}.
+i:Restless ghosts.
+i:A wicked satyr.
+i:Hundreds of pixies.
+i:Some wary centaurs.
+i:A cloistered dryad.
+i:A displacer beast.
+i:A pair of manticores.
+i:A dragon{.dragons}.
+}

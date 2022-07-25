@@ -1,0 +1,193 @@
+{
+d:d20 The company’s colors are...
+i:Black.
+i:Red / scarlet.
+i:Gold.
+i:Forest green.
+i:Royal blue.
+i:Violet.
+i:Silver / light grey.
+i:Bronze.
+i:Tan / khaki.
+i:Brown / beaver.
+i:Dark grey / gunmetal.
+i:White.
+i:Maroon.
+i:Sky blue.
+i:Navy blue.
+i:Dark brown / chocolate.
+i:Teal / turquoise.
+i:Yellow.
+i:Orange.
+i:Olive green.
+}
+{
+d:d20 The company’s banner features...
+i:A skull.
+i:A clenched fist.
+i:A flame.
+i:A shield.
+i:An arrow.
+i:An axe.
+i:A hammer.
+i:A sword.
+i:The sun.
+i:The moon.
+i:A bear.
+i:A bull.
+i:A dragon{.dragons}.
+i:A falcon.
+i:A lion.
+i:A raven.
+i:A scorpion.
+i:A snake.
+i:A stag.
+i:A wolf.
+}
+{
+d:d10 The company’s commander is...
+i:A brilliant strategist.
+i:A scion from a prominent family.
+i:An outcast from a prominent family.
+i:A dashing swashbuckler.
+i:A brutish thug.
+i:A celebrated war hero.
+i:A disgraced knight{.knights}.
+i:An anointed knight{.knights}.
+i:A career soldier
+i:A former arena champion.
+}
+{
+d:d6 The company’s attitude toward their commander is...
+i:Friendly and loyal.
+i:Respectful and business-like.
+i:Cautious and uncertain.
+i:Terrified and tight-lipped.
+i:Disappointed and disrespectful.
+i:Agitated and restless.
+}
+{
+d:d8 The company specializes in...
+i:Siege-breaking.
+i:Holding redoubts.
+i:Frontal assaults.
+i:Skirmishes.
+i:Patrolling.
+i:Flanking maneuvers.
+i:Guerilla tactics.
+i:Foraging.
+}
+{
+d:d8 The company is notorious for...
+i:Taking no prisoners.
+i:Scarring or branding prisoners.
+i:Incompetence.
+i:Cowardice.
+i:Singing bawdy songs.
+i:Romantic escapades.
+i:Eating everything that is available.
+i:Drinking too much ale and wine{.wines}.
+}
+{
+d:d6 Most soldiers in the company are outfitted with...
+i:Patched leather armor.
+i:Leather armor marked with the symbol of their liege lord.
+i:Helms and breastplates emblazoned with the symbol of their liege lord.
+i:Well-maintained chainmail.
+i:Well-worn scale armor.
+i:Newly-forged scale armor.
+}
+{
+d:d12 Most soldiers in the company are equipped with...
+i:Longswords and shortbows.
+i:Longswords and crossbows.
+i:Longswords and shields.
+i:Shortswords and longbows.
+i:Shortswords and shields.
+i:Mornngstars and crossbows.
+i:Battleaxes and handaxes.
+i:Warhammers and shields.
+i:Spears and shields.
+i:Longspears and shortswords.
+i:Pikes and shortswords.
+i:Halberds and handaxes.
+}
+{
+d:d8 Most soldiers in the company are...
+i:Trained men-at-arms.
+i:Militia men.
+i:Veterans of war.
+i:Prisoners of war.
+i:Conscripts from a city.
+i:Conscripts from peasant villages.
+i:Convicted criminals.
+i:Green boys.
+}
+[
+d:INDIVIDUAL SOLDIERS
+]
+{
+d:d12 The soldier is...
+i:A farm boy.
+i:The son of a miner or fisherman{.mines,.fishermen}.
+i:A veteran of gladiatorial combat{.gladiators}.
+i:A veteran of warfare.
+i:A prisoner of war.
+i:A political dissident.
+i:The son of a poor man.
+i:A drunk.
+i:A fugitive criminal.
+i:A former pirate{.pirates}.
+i:A failed craftsman.
+i:A favorite among the ladies.
+}
+{
+d:d12 The soldier fights for...
+i:The steady pay.
+i:The love of someone he cannot have.
+i:Pure bloodlust.
+i:A chance to deal out sadistic torment.
+i:A chance at vengeance.
+i:Gold to repay debts.
+i:Gold to aid a family member.
+i:A chance to escape from life imprisonment.
+i:A chance at redemption.
+i:God and country.
+i:Fortune and glory.
+i:Strength and honor.
+}
+{
+d:d12 On the soldier’s face is...
+i:A large wart.
+i:An eyepatch.
+i:An unsightly scar.
+i:A haughty sneer.
+i:A look of sadness.
+i:A stupid grin.
+i:An eager grin.
+i:A frame of long, beautiful long hair.
+i:Ferocious sideburns.
+i:A neatly-trimmed goatee.
+i:An unruly beard.
+i:A lush, thick mustache.
+}
+{
+d:d10 The soldier carries...
+i:A blade with soft leather tassels dangling from the pommel.
+i:A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+i:A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders{.spiders}; 6. wolves.
+i:A blade made of blackened steel.
+i:A highly polished blade.
+i:A token from a sweetheart.
+i:A token from a parent.
+i:A letter from a fallen comrade.
+i:A trophy from a fallen enemy.
+i:A ribbon from a faraway maiden.
+}
+[
+d:NAME
+]
+{
+d:d1 The Soldier is called... 
+i:$fantasy
+}

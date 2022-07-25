@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Castle
+i:Large city
+i:Military outpost
+i:Remote homestead
+i:Small village
+}
+{
+d:d6 In the past, you were a/an…
+i:Farmer or miner
+i:Gladiator or bandit
+i:Knight or sellsword
+i:Sailor or pirate
+i:Smith or stonemason
+i:Soldier or guard
+}
+{
+d:d6 You take pride in…
+i:Athletic competitions
+i:Crafting arms and armor
+i:Healthy diet
+i:Military history
+i:Physical training
+i:Weapon maintenance
+}
+{
+d:d6 You need improvement on…
+i:Armor maintenance
+i:Controlling temper
+i:Getting more sleep
+i:Holding liquor
+i:Saving up coin
+i:Trusting allies
+}
+{
+d:d6 You became an adventurer to…
+i:Avoid punishment
+i:Escape from life of toil
+i:Prove mettle after failure
+i:Pursue fame and fortune
+i:Secure good marriage
+i:Vengeance upon old foe
+}
+{
+d:d6 Your primary weapon is your…
+i:Battleaxe or greataxe
+i:Flail or morningstar
+i:Longbow or shortbow
+i:Longspear or spear
+i:Longsword or greatsword
+i:Warhammer or maul
+}
+{
+d:d6 You are also skilled with your…
+i:Bare fists
+i:Daggers
+i:Handaxes
+i:Mace
+i:Shortsword
+i:Wrestling moves
+}
+{
+d:d6 You are carrying a/an…
+i:Famous ancestor's weapon
+i:Favor from beloved
+i:Guilt of horrific crime
+i:Memento of fallen comrade
+i:Shield with noble crest
+i:Trophy from fallen enemy
+}
+{
+d:d6 You are wearing a/an/some…
+i:Battered, carved helm
+i:Dark cloak with hood
+i:Parent's necklace or ring
+i:Shiny new boots
+i:Patched leather armor
+i:Well-oiled chainmail
+}
+{
+d:d6 You have a keen interest in…
+i:Amorous pursuits
+i:Card games
+i:Dice games
+i:Fine wines, ales, and spirits
+i:Heroic tales and legends
+i:Singing or playing instrument
+}

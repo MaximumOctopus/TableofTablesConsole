@@ -1,0 +1,184 @@
+{
+d:d20 The knight’s house’s colors are...
+i:Black.
+i:Red / scarlet.
+i:Gold.
+i:Forest green.
+i:Royal blue.
+i:Violet.
+i:Silver / light grey.
+i:Bronze.
+i:Tan / khaki.
+i:Brown / beaver.
+i:Dark grey / gunmetal.
+i:White.
+i:Maroon.
+i:Sky blue.
+i:Navy blue.
+i:Dark brown / chocolate.
+i:Teal / turquoise.
+i:Yellow.
+i:Orange.
+i:Olive green.
+}
+{
+d:d8 The knight’s house's symbol is...
+i:A weapon (d8): 1. arrow; 2. axe; 3. dagger; 4. hammer; 5. mace; 6. spear; 7. staff; 8. sword.
+i:A piece of armor (d4): 1. breastplate; 2. gauntlet; 3. helm; 4. shield.
+i:A celestial body (d4): 1. sun; 2. moon; 3. star; 4. comet.
+i:A plant or part of a plant (d12): 1. apple; 2. barley; 3. briar; 4. fig; 5. grapes; 6. lily; 7. maple; 8. oak; 9. olive; 10. pine; 11. rose; 12. wheat.
+i:An aquatic beast (d6): 1. crab; 2. crocodile; 3. frog; 4. fish; 5. octopus; 6. whale.
+i:A small beast (d12): 1. badger; 2. bat{.bats}; 3. beaver; 4. dog; 5. ferret; 6. fox; 7. hedgehog; 8. lizard; 9. rat{.rats}; 10. scorpion; 11. snake; 12. spider{.spiders}.
+i:A great beast (d8): 1. bear; 2. boar; 3. bull; 4. dragon{.dragons}; 5. lion; 6. ox; 7. stag; 8. wolf.
+i:A bird (d12): 1. cardinal; 2. dove; 3. eagle; 4. hawk; 5. mockingbird; 6. owl; 7. pelican; 8. raven; 9. rooster; 10. sparrow; 11. swan; 12. vulture.
+}
+{
+d:d6 The knight has sworn to a noble lord or lady to...
+i:Protect that person from harm.
+i:Defend that person’s lands.
+i:Avenge that person’s grievances.
+i:Protect that person’s loved ones.
+i:Advance that person’s ideals or faith.
+i:Ride to war in that person’s name.
+}
+{
+d:d8 Above all else, the knight values...
+i:Bravery.
+i:Honor.
+i:Righteousness.
+i:Strength and might.
+i:Power and tyranny.
+i:Romantic devotion.
+i:Romantic conquest.
+i:Carousing.
+}
+{
+d:d4 The knight is armored in...
+i:Studded leather armor.
+i:Chainmail.
+i:Scale armor.
+i:Plate armor.
+}
+{
+d:d6 The knight’s armor is...
+i:Shiny and new.
+i:In excellent condition.
+i:Obviously repaired, but serviceable.
+i:Covered in dings and dents.
+i:Dirty and well-worn.
+i:Barely held together.
+}
+{
+d:d12 The knight is wielding...
+i:A longsword.
+i:A longsword and a shield.
+i:Two shortswords.
+i:A shortsword and a shield.
+i:A bastard sword.
+i:A greatsword.
+i:A flail and a shield.
+i:A morningstar.
+i:A battleaxe and a shield.
+i:A warhammer and a shield.
+i:A lance and a longsword.
+i:A lance and a battleaxe.
+}
+{
+d:d6 The knight’s mount is...
+i:A huge destrier.
+i:A reliable courser.
+i:A snorting charger.
+i:A swift garron.
+i:A wickering palfrey.
+i:A nervous pony.
+}
+{
+d:d12 The knight is...
+i:A pompous windbag.
+i:A charming hero.
+i:A daring swashbuckler.
+i:A violent drunk.
+i:A brilliant strategist.
+i:A religious zealot.
+i:A beautiful youth.
+i:A brutish thug.
+i:A celebrated war hero.
+i:A popular tavern patron.
+i:A favorite among the ladies.
+i:Ruggedly handsome.
+}
+{
+d:d12 On the knight’s face is...
+i:A missing ear.
+i:A jagged scar.
+i:A hard-set jaw.
+i:A friendly grin.
+i:A faraway look.
+i:A sad look.
+i:A pair of piercing eyes.
+i:A broken nose.
+i:Bushy eyebrows.
+i:Unshaven stubble.
+i:A neatly-trimmed beard.
+i:An extravagant mustache.
+}
+{
+d:d10 The knight carries...
+i:A blade with soft leather tassels dangling from the pommel.
+i:A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+i:A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders{.spiders}; 6. wolves.
+i:A blade made of blackened steel.
+i:A highly polished blade.
+i:A token from a sweetheart.
+i:A token from a parent.
+i:A letter from a fallen comrade.
+i:A trophy from a fallen enemy.
+i:A ribbon from a faraway maiden.
+}
+[
+d:NAME
+]
+{
+d:d0 This Knight... 
+i:Is named: $fantasy;
+i:Is loyal to: $fantasy;
+i:Is loyal to: $fantasy;
+}
+[
+d:RETAINERS
+]
+{
+d:d12 The servant is...
+i:A squire from a powerful noble house{.nobles,.noble houses}.
+i:A squire from a minor noble house{.nobles,.noble houses}.
+i:A squire of common birth.
+i:A frightened link boy.
+i:An long-time valet.
+i:A reformed criminal-turned valet.
+i:The son of an enemy.
+i:A mysterious foreigner.
+i:A journeyman smith or armorer.
+i:A simple-minded stable hand.
+i:An expert on horses.
+i:A camp follower or harlot{.harlots}.
+}
+{
+d:d6 The servant works for...
+i:The steady pay.
+i:The adventure.
+i:The training and advancement opportunies.
+i:No reason, other than being told.
+i:A chance to escape from life imprisonment.
+i:Romantic devotion.
+}
+{
+d:d8 On the servant’s face is...
+i:A large wart.
+i:An unsightly scar.
+i:A look of determination.
+i:A foolish grin.
+i:A stupid stare.
+i:A look of confusion.
+i:A long, hooked nose.
+i:Pronounced ears.
+}

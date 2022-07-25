@@ -1,0 +1,355 @@
+[
+d:A good bureaucrat's methods are many, but this one is known for relying on or having used d100
+]
+{
+d:d100 Method
+i:1-5 Passionate speaking, with appeals to pathos and ethos
+i:6-10 Thoughtful speaking, with appeals to logos and ethos
+i:11 Incredible speaking, with appeals to pathos, logos, and ethos, that inspire generations
+i:12 Sex
+i:13 Extortion
+i:14 Intimidation
+i:15 Bribes
+i:16 Corruption
+i:17-20 Appeals to divine/infernal power
+i:21-24 Populism
+i:25-35 War; protection from or support for
+i:36 Arcane magic
+i:37 Divine magic
+i:38 Connection in a secret society or political cabal
+i:39-41 Claims of heroism and past deeds
+i:42-50 Bread and circuses
+i:51 Support from a martial order
+i:52 Support from a divine order
+i:53-60 Inherited power (from family or of the position itself)
+i:61-65 Intrigue, mystery, and misdirection
+i:66-80 Being genuinely good at the bureaucrat's job
+i:81-85 Economic control
+i:86-90 Agricultural control
+i:91 Kidnapping
+i:92 Confidence scams
+i:93 Lying or perjury
+i:94 Murder
+i:95 Espionage or spying
+i:96 Theft/property crime
+i:97 Vices
+i:98-100 Warfare
+}
+[
+d:Outside of public knowledge, carefully disconnected from the bureaucrat, or otherwise unknown, the bureaucrat relies on methods such as...
+]
+{
+d:d100 Method
+i:1-2 Sex
+i:3-4 Intimidation
+i:5-6 Extortion
+i:7-8 Blackmail
+i:9-10 Murder
+i:11-12 Bribes
+i:13-14 Corruption
+i:15-16 Warfare
+i:17-18 Economics
+i:19-20 Lying or perjury
+i:21-22 Defamation
+i:23-24 Confidence scams
+i:25-26 Kidnappings
+i:27-28 Magic
+i:29 Magic from a divine, infernal, abyssal, or eldritch source
+i:30 Mind control
+i:31-34 Misdirection
+i:35-40 Secret society or political cabal
+i:41-42 Complete and total honesty
+i:43-50 Appealing to vices
+i:51-60 Religion
+i:61-65 Dueling
+i:66 Magical mayhem
+i:67 Lies and total fabrications
+i:68-75 Half-truths and obscured details; facts taken out of context
+i:76-80 Puppeteering
+i:81-100 Adventurers do all the hard work the bureaucrat takes credit for
+}
+{
+d:d100 Identity
+i:1-65 A member of the majority race
+i:66-84 A member of a minority race
+i:85 Secretly a doppelganger
+i:86 Actually a sentient magic item that controls or instructs whoever wears it
+i:87 Secretly a vampire
+i:88 Secretly a celestial, abyssal, infernal, or eldritch creature
+i:89 Publicly a celestial, abyssal, infernal, or eldritch creature
+i:90 Publicly a doppelganger, vampire, or sentient magic item
+i:91 Secretly dominated/controlled by a vampire, celestial, abyssal, infernal, or eldritch creature
+i:92 Willingly subservient to a vampire, celestial, abysall, infernal, or eldritch creature
+i:93-98 A unique creature/race, or one that is very rare (but welcome)
+i:99 An arcane or psychic intelligence
+i:100 A creature capable of polymorphing, such as a dragon or powerful wizard
+}
+{
+d:d100 Predecessor
+i:1-30 A family member
+i:31-60 A member of the same political faction
+i:61-70 A member of a rival political faction
+i:71-80 A direct rival
+i:81-85 A friend or acquaintance
+i:86 Lynched
+i:87 Run out of town
+i:88 Resigned in shame or under strange circumstances
+i:89 Of no significant relationship to this bureaucrat
+i:90 Impeached peacefully
+i:91 Assassinated
+i:92 Killed
+i:93 Sickly/old and died as a result
+i:94-99 Resigned peacefully or successfully completed his term
+i:100 Kidnapped or lost, and still missing
+}
+[
+d:This bureaucrat secured their position by
+]
+{
+d:d100 Path to Office
+i:1-10 Combat
+i:11-14 Trickery
+i:15 Treason
+i:16-17 Murder
+i:18-28 Adventuring/questing
+i:29 Prophecy
+i:30-40 Election (popular)
+i:41-51 Election (committee, political cabal, secret society)
+i:52-55 Nomination by respected politician or member of society
+i:56-70 Appointed
+i:71-76 High marks on a test or exam
+i:77-80 Luck
+i:81-82 Intimidation
+i:83-90 Political connections and favors
+i:91-95 Lack of qualified opponents
+i:96-99 Revolution/political upheaval
+i:100 No one else wanted the position
+}
+[
+d:When someone speaks ill of the bureaucrat, they are quick to point out
+]
+{
+d:d100 Criticism
+i:1-10 Incompetence
+i:11-15 Social awkwardness and faux pas
+i:16 An odd phobia/mania
+i:17-20 How they are easily sabotaged
+i:21-30 Overconfidence
+i:31-40 Trepidation
+i:41-50 Poor planning
+i:50-60 Vices and indulgences
+i:61-63 Religious zeal, devoutness, or social correctness
+i:64-70 People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:71-86 Overly critical and demanding
+i:87-90 Unwelcome minority
+i:91 Revolutionary
+i:92-99 Social pariah
+i:100 Xenophobic
+}
+[
+d:But when it's time to sing the bureaucrat's praises, the people herald d100
+]
+{
+d:d100 Praise
+i:1-10 Meticulous planning
+i:11-15 Over-qualification; the bureaucrat's experience and skillset goes beyond the standard
+i:16-20 Social piranha; few people succeed in criticizing the bureaucrat
+i:21-30 Master negotiator
+i:31-40 Fierce personality
+i:41 Divine/infernal/abyssal/eldritch support
+i:42 Arcane power
+i:43 Divine power
+i:44 Arcane and divine power
+i:45-60 Popularity with other politicians
+i:61-76 Popularity with the people
+i:77-88 Expertise on domestic affairs
+i:89-100 Expertise on foreign affairs
+}
+[
+d:The bureaucrat supports
+]
+{
+d:d100 Political System
+i:1-60 The current political system
+i:61-70 A freer political system
+i:71-80 A more restrictive political system
+i:81-85 Letting the people decide on a new political system
+i:86 Meritocracy
+i:87 Theocracy
+i:88 Arcanocracy
+i:89 Kleptocracy
+i:90 Anarchy
+i:91 Monarchy
+i:92 Oligarchy
+i:93 Dictatorship
+i:94 Autocracy
+i:95 Socialism
+i:96 Communism
+i:97 Populism
+i:98 Republicanism
+i:99 Divine/Infernal/Abyssal/Eldritch Right
+i:100 Plutocracy
+}
+[
+d:Beyond politics, the bureaucrat is notable for
+]
+{
+d:d100 Noteworthy Trait
+i:1-10 A strange or impressive estate/residence
+i:11-15 Sordid family or political affairs and scandal
+i:16 Spellcasting
+i:17-20 Parties (rowdy)
+i:21-30 Parties (sophisticated)
+i:31-40 The strange company they keep
+i:41-45 Eclectic wardrobe, vernacular, or interests
+i:46-60 Hunting
+i:61-65 Wealth, even beyond the usual
+i:66 Poverty (self-imposed)
+i:67 Poverty (conditional)
+i:68-70 Morbid interests
+i:71-75 Spirituality
+i:76-80 A striking appearance
+i:81 Having a twin
+i:82-85 A unique heraldry, crest, coat-of-arms, flag, or symbol
+i:86-90 Public investments
+i:91-95 Private investments
+i:96-97 Having a very private life
+i:98-100 Having a very public life
+}
+[
+d:This bureaucrat uses power and position to obtain
+]
+{
+d:d100 Desire
+i:1-20 Art (physical; sculptures, paintings, statues, architecture, etc)
+i:21-40 Art (written/performed)
+i:41-45 Animals (exotic)
+i:46-50 Animals (mundane)
+i:51-60 Luxury goods (exotic)
+i:61-65 Luxury good (mundane)
+i:66-70 Respect
+i:71-90 More power and influence
+i:91-100 Magic
+}
+[
+d:This bureaucrat was inspired to enter and/or remain in politics for
+]
+{
+d:d100 Motivation
+i:1-10 Wealth (Personal)
+i:11-20 Wealth (Familial)
+i:21-30 Wealth (Special interest group)
+i:31-50 Power/Influence
+i:51-60 Fame
+i:61-75 Civil service
+i:76-80 To benefit a benefactor
+i:81-85 To accomplish an important project
+i:86-90 To fix an injustice (or create one)
+i:91 Obligation
+i:92 Divine mandate/cause
+i:93 Waiting for someone more qualified to take over
+i:94-96 Waiting to produce an heir or groom a successor
+i:97 State of crisis/emergency has prolonged the need for the bureaucrat
+i:98 Can't imagine a sedentary life
+i:99 Waiting for a better position to open
+i:100 Working to sabotage the government from within
+}
+[
+d:When the players need something form this bureaucrat, they should try...
+]
+{
+d:d100 Interest
+i:1-15 Flattery
+i:16-25 Gifts
+i:25-30 Favors/quests
+i:31-35 Strength
+i:36-45 Heroics
+i:46-47 Honesty
+i:48 Brevity
+i:49-50 Creativity (artistry)
+i:51-52 Creativity (problem solving)
+i:53-60 Magic
+i:61-65 Fealty
+i:66-76 Appeal to ethos
+i:77-87 Appeal to logos
+i:88-98 Appeal to pathos
+i:99 Appeal to a higher authority
+i:100 Demonstration of utility outside of the law
+}
+[
+d:But when someone needs something from the bureaucrat more quickly, they can try to use
+]
+{
+d:d100 Exploit
+i:1-10 Deceit
+i:11-15 Passionate speaking and fabricated urgency
+i:16-20 Fear
+i:21-25 Intimidation
+i:26-30 The bureaucrat's bigotry
+i:31-50 Skeletons in the closet
+i:51-55 Threats (personal)
+i:55-60 Threats (family)
+i:60-70 Threats (business/scheme)
+i:71-75 Magic
+i:76-80 Opportunities to increase renown
+i:81-90 Carrot-and-stick
+i:91 Threats of divine retribution
+i:92 Threats of infernal/abyssal retribution
+i:93 Threats of eldritch retribution
+i:94 Threats of arcane disaster
+i:96-97 Opportunities to snub rivals
+i:98-100 The bureaucrat's own system
+}
+[
+d:Rumors circle that the bureaucrat has recently upset
+]
+{
+d:d100 Enemies
+i:1-9 Thieves (Burglary)
+i:10-11 Cultists
+i:12-18 Thieves (brigands)
+i:19-21 Secret society/political cabal
+i:22-30 Trade organizations
+i:31-40 Worker's unions
+i:41 God(s)
+i:42-45 A powerful monster
+i:46-50 The working class
+i:51-55 The poor
+i:56-60 The rich
+i:61-65 Own political faction
+i:66-90 Rival political faction
+i:91 A demon, fiend, angel, or deva
+i:92 A group of powerful NPCs (of comparable level and size to the party)
+i:93 Wizards, sorcerers, and/or other arcane spell casters
+i:94-95 Druids, barbarians, rangers, and/or wilderness/rural/rustic people
+i:96 A holy site
+i:97 A desecrated site
+i:98 A cursed site
+i:99 A dragon
+i:100 The party
+}
+[
+d:When it comes time to vote, you can expect this bureaucrat to
+]
+{
+d:d100 Agenda
+i:1-60 Toe the party line
+i:61-70 Push the party line
+i:71-80 Moderate the party
+i:81-90 Radicalize the party
+i:91-100 Abandon the party
+}
+[
+d:For all their faults, it might be best to keep this bureaucrat in power; after all, they're
+]
+{
+d:d100 Qualification
+i:1-40 Classically qualified (studied under/trained by a politican)
+i:41-50 Uniquely qualified (spell caster, popular, resourceful, etc)
+i:51-60 Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:61-65 Outsources expertise and finds the most cost effective solutions
+i:66-80 Classically qualified and uniquely qualified
+i:81-90 Classically qualified and well supported or uniquely qualified and well supported
+i:91-95 Classically/uniquely qualified, well supported, and outsources expert when that isn't enough
+i:96-100 This bureaucrat is trained, unique, well supported, and when that isn't enough has access to additional specialists and experts (like the party)
+}

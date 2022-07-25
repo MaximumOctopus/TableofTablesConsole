@@ -1,0 +1,114 @@
+{
+d:d8 The alchemist is...
+i:An apothecary.
+i:A hedge wizard.
+i:An herbalist{.herbalism}.
+i:A poisonmaker.
+i:A potioneer{.potions}.
+i:A pyromancer.
+i:An alchemical scholar.
+i:An experimental alchemist.
+}
+{
+d:d6 The alchemist is looking for...
+i:Delivery help.
+i:New recipes.
+i:A long-lost recipe for a legendary potion{.potions}.
+i:Purchasers.
+i:Rare ingredients.
+i:A unique ingredient.
+}
+{
+d:d8 The alchemist carries...
+i:Several vials of acid.
+i:Several curatives.
+i:An unusual potion{.potions}.
+i:A pyrophoric substance.
+i:Several empty glass vials.
+i:Fine-tipped steel tweezers.
+i:A pocket-sized field guide to (d8): 1. poisonous reptiles and amphibians; 2. arachnids, insects, and worms; 3. molds, mushrooms, and fungi; 4. aquatic plants; 5. toxic plants; 6. rare herbs and herbal remedies{.herbalism}; 7. mineralogy; 8. soils and rocks.
+i:A small notebook filled with recipes and notes.
+}
+{
+d:d6 The alchemist learned his/her craft from...
+i:A fellow alchemist to whom he/she apprenticed.
+i:A neighbor who was an alchemist.
+i:A parent who was an alchemist.
+i:A grandparent who was an alchemist.
+i:Books of alchemical lore.
+i:Attending an academy.
+}
+{
+d:d10 The alchemist specializes in...
+i:Bombs.
+i:Curatives.
+i:Cursed potions{cursessimple,.potions}.
+i:Enchantments.
+i:Herbalism{.herbalism}.
+i:Metallurgy.
+i:Rare potions{.potions}.
+i:Poisons.
+i:Transmutations.
+i:Warding.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}
+[
+d:POTION BREWING
+]
+{
+d:d12 The alchemist's brew is percolating in...
+i:A delicate ceramic tea kettle.
+i:A large cast iron cauldron.
+i:A heavy-bottomed iron pot.
+i:A thick cast iron vat.
+i:A copper tea kettle.
+i:A thick copper vat.
+i:A shiny steel vat.
+i:A blackened steel cauldron.
+i:A thick bronze cauldron.
+i:A glass flask with an oddly shaped neck.
+i:A round-bottom glass flask.
+i:A comically large glass flask.
+}
+{
+d:d20 The alchemist's cauldron currently contains...
+i:Eye of newt.
+i:Toe of frog.
+i:Wool of bat.
+i:Tongue of dog.
+i:Adder's fork.
+i:Blind-worm's sting.
+i:Lizard's leg.
+i:Howlet's wing.
+i:Monkey's paw{.monkeys}.
+i:Pint of blood.
+i:Pound of flesh.
+i:Cup of mud.
+i:Beak of duck.
+i:Housecat's tail.
+i:Glob of mold.
+i:Rusty nail.
+i:Garlic bulb.
+i:Cob of corn.
+i:Stirge's foot.
+i:Dryad's thorn.
+}
+{
+d:d10 The alchemist is brewing...
+i:A love potion{.potions}.
+i:A fertility tonic.
+i:A magical cure-all.
+i:A terrible poison.
+i:A component for a summoning ritual.
+i:A component for a necromantic ritual.
+i:A component for a polymorphing hex.
+i:A component for a beguiling charm.
+i:A potent acid solvent.
+i:An explosive substance.
+}

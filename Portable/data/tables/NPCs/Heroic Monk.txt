@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Farming village
+i:Fishing village
+i:Holy city
+i:Large city
+i:Mining town
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or hermit
+i:Brewer or cobbler
+i:Merchant or magistrate
+i:Sailor or fisherman
+i:Smith or carpenter
+i:Soldier or sellsword
+}
+{
+d:d6 You take pride in…
+i:Cooking or brewing
+i:Helping the poor and needy
+i:Physical conditioning
+i:Teaching reading and writing
+i:Traditional dress or diet
+i:Value of hard labor
+}
+{
+d:d6 You need improvement on…
+i:Drinking problem
+i:Keeping silent
+i:Personal hygiene
+i:Reading signs and omens
+i:Respecting superiors
+i:Weight loss
+}
+{
+d:d6 You became an adventurer to…
+i:Answer an ancient riddle
+i:Atone for past sins
+i:Discover unusual magic
+i:Escape from a dull life
+i:Find a long lost mentor
+i:Locate a sacred ruin
+}
+{
+d:d6 Your primary weapon is/weapons are your…
+i:Dagger
+i:Bare fists
+i:Club
+i:Quarterstaff
+i:Shortsword
+i:Wrestling moves
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Anatomy and physiology
+i:Ancient wisdom
+i:Death and undeath
+i:Elemental magic
+i:Mysticism
+i:World history
+}
+{
+d:d6 You recently read or are carrying a book on…
+i:Alchemy
+i:Dream interpretation
+i:Interplanar travelogue
+i:Poisoncraft
+i:Soul magic
+i:Untranslated scripture
+}
+{
+d:d6 You are carrying a/an/the…
+i:Ancient holy scroll
+i:Mentor's necklace or ring
+i:Painful memories
+i:Pocket-sized prayer book
+i:Prayer beads
+i:Variety of medicines
+}
+{
+d:d6 You have a keen interest in…
+i:Cheap wines and ales
+i:Fine wines, ales, and spirits
+i:Gardening or farming
+i:Myths and tall tales
+i:Singing or playing an instrument
+i:Woodcarving or metalwork
+}

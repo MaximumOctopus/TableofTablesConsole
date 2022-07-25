@@ -1,0 +1,83 @@
+{
+d:d10 The graverobber is...
+i:A veteran treasure hunter.
+i:A desperate thief{.thieves}.
+i:A reckless fortune seeker.
+i:A well-known criminal.
+i:A brash, young fool.
+i:A student of anatomy.
+i:An out-of-work artisan{.artisans}.
+i:A displaced peasant.
+i:A combat veteran.
+i:A foreign refugee.
+}
+{
+d:d10 The graverobber has...
+i:A long, hooked nose.
+i:A cute little button nose.
+i:A broad, flat nose.
+i:A scar below the left eye.
+i:Piercing blue eyes.
+i:Pockmarked cheeks.
+i:A pointy chin.
+i:Several missing teeth.
+i:A jagged scar above one eye.
+i:Extremely bushy eyebrows.
+}
+{
+d:d12 The graverobber wears...
+i:A flashy earring.
+i:A dark grey cape.
+i:Filthy leather boots.
+i:Boots with a hole in the left toe.
+i:A heavy gold belt buckle.
+i:A wide-brimmed hat.
+i:A tattoo on the forearm (d6): 1. dagger; 2. dragon{.dragons}; 3. nude figure; 4. skull; 5. snake; 6. thorns.
+i:A long dark ponytail.
+i:Luscious golden curls.
+i:A handkerchief in his breast pocket.
+i:An open shirt and a very hairy chest.
+i:Unruly mustaches.
+}
+{
+d:d8 The graverobber...
+i:Hums or sings while digging.
+i:Constantly brushes the hair back from out of his or her face.
+i:Laughs maniacally at everything.
+i:Never smiles and never laughs.
+i:Spits constantly.
+i:Scratches the elbow frequently.
+i:Picks at his or her teeth after meals.
+i:Is fond of placing corpses in rude poses.
+}
+{
+d:d10 The graverobber carries...
+i:A sturdy shovel and a dirty handkerchief.
+i:A blunt pick-ax and several torches.
+i:A narrow shovel and a length of hempen rope.
+i:A new steel shovel and a length of silk rope.
+i:Several over-sized sacks.
+i:A sap and a large sack.
+i:An ornately crafted lantern.
+i:A simple lantern and a dagger.
+i:A pocketbook of notes on gravesites.
+i:A dagger and a crossbow.
+}
+{
+d:d8 The graverobber is looking for...
+i:A fresh grave.
+i:The entrance to an ancient crypt.
+i:A pair of strong arms to help dig.
+i:Tales of recently deceased members of the nobility.
+i:The location of the ruling family's personal cemetery.
+i:A pair of strong arms to move dirt.
+i:An ear to listen to some boasting.
+i:A drink and a break from digging.
+}
+[
+d:NAME
+]
+{
+d:d0 This graverobber is called... 
+i:$fantasy.
+}

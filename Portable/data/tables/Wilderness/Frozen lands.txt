@@ -1,0 +1,99 @@
+{
+d:d6 Point of interest: You come upon a/an...
+i:Stone ruin of unknown purpose.
+i:Large, round tent.
+i:Dilapidated wooden house.
+i:Fortress built of ice.
+i:Icy cave.
+i:Abandoned mine.
+}
+{
+d:d6 Landscape: The landscape is dominated by a/an…
+i:Wide plain and a distant mountain range.
+i:Wide plain and a distant shore.
+i:Gently rolling hills.
+i:Mountains after mountains.
+i:Wide valley flanked by mountains.
+i:Unusual formation of ice and rock.
+}
+{
+d:d6 Vegetation: Growing on the land you see...
+i:Broken expanses of coniferous forest.
+i:Mosses and lichens.
+i:Small, hardy bushes and shrubs.
+i:Patches of short, dry grasses.
+i:Tough grasses, poking up through the snow.
+i:Nothing but snow and ice.
+}
+{
+d:d6 Landmark/feature: You see a/an...
+i:Lone, leafless tree.
+i:Deep crevasse.
+i:Stone bluff.
+i:Expanse of tall grass.
+i:Ice formation shaped like a beast.
+i:Series of boulders.
+}
+{
+d:d6 Minor feature: You notice a/an...
+i:Bird call.
+i:Frozen, half-eaten carcass.
+i:Mouse or squirrel scurrying along.
+i:Streak of light in the sky.
+i:Light snowfall.
+i:Patch of lichens.
+}
+{
+d:d6 Daytime encounters: You meet a/an...
+i:Beast (roll on beast table).
+i:Monster (roll on monster table).
+i:Beautiful enchantress.
+i:Solitary warrior.
+i:Wide-eyed scholar.
+i:Suspicious hunter.
+}
+{
+d:d6 Nighttime encounters: You meet a/an...
+i:Beast (roll on beast table).
+i:Monster (roll on monster table).
+i:Hungry ghoul
+i:Restless ghost.
+i:Savage beastshifter (roll on beast table).
+i:Dwarvish refugee.
+}
+{
+d:d6 Beast: You come upon a/an...
+i:Bear.
+i:Fox.
+i:Elk or moose.
+i:Predatory bird (hawk or owl).
+i:Wolf (gray wolf or dire wolf).
+i:Yak or ox.
+}
+{
+d:d6 Monster: You come upon a/an...
+i:Wight.
+i:Hill giant.
+i:Troll.
+i:Frost worm (remorhaz).
+i:Ice elemental.
+i:Winter wolf.
+}
+{
+d:d6 Hazard: You happen upon a/an…
+i:Blizzard with whiteout conditions.
+i:Harsh wind that makes travel difficult.
+i:Ice storm.
+i:Bear trap.
+i:Slippery patch of ice.
+i:Place touched by a sleeping curse.
+}
+{
+d:d6 Power center: This region is ruled or menaced by a/an…
+i:Lich.
+i:Frost giant.
+i:White dragon.
+i:Barbarian clan.
+i:Military company.
+i:Mining guild.
+}

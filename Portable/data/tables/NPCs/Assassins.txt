@@ -1,0 +1,149 @@
+{
+d:d12 The assassin is...
+i:A veteran hitman.
+i:A desperate footpad.
+i:A reckless fortune seeker.
+i:A well-known slayer.
+i:A brash, young fool.
+i:A student of the craft.
+i:A charismatic butcher.
+i:A mysterious foreigner.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A dashing swashbuckler.
+i:A brutish thug.
+}
+{
+d:d20 The assassin has...
+i:A scar on the forearm.
+i:A scar on the face.
+i:A high-pitched laugh.
+i:A long, hooked nose.
+i:A dangerous look in the eye.
+i:A cheerful smile.
+i:A cold stare.
+i:An agile step.
+i:A low-cut shirt.
+i:A bent, broken nose.
+i:A cute little button nose.
+i:A scar below the left eye.
+i:Pockmarked cheeks.
+i:High cheek bones.
+i:A pointy chin.
+i:A thug's tattoo on the arm (d8): 1. crossed bones; 2. dagger; 3. dragon{.dragons}; 4. eagle; 5. skull; 6. snake; 7. spider web{.spiders}; 8. thorns.
+i:A sailor's tattoo on the arm (d6): 1. anchor; 2. fish; 3. mermaid; 4. octopus; 5. shark; 6. whale.
+i:An open shirt and a very hairy chest.
+i:A five o'clock shadow.
+i:A neatly trimmed mustache.
+}
+{
+d:d20 The assassin wears...
+i:A flashy earring.
+i:Shiny leather boots.
+i:A gold signet ring.
+i:A dagger in each boot.
+i:A mask covering the face.
+i:A wide-brimmed hat.
+i:A cloak with a dark hood.
+i:A black traveler's cloak.
+i:A bandolier containing vials of poison.
+i:A quiver full of arrows/bolts.
+i:A dark red cape.
+i:Boots with golden buckles.
+i:A leather baldric.
+i:A handkerchief tied over the head.
+i:A small silver chain around the neck.
+i:A long dark ponytail.
+i:Luscious brown curls.
+i:A ruffled shirt.
+i:A black leather coat.
+i:A handkerchief in his breast pocket.
+}
+{
+d:d10 The assassin wields...
+i:A blade with a gem{gemstones} embedded in the pommel.
+i:A blade with soft leather tassels dangling from the pommel.
+i:A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+i:A blade with a gently curved hilt.
+i:A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions;. 4. snakes{.spiders}; 5. spiders; 6. wolves.
+i:A blade made of blackened steel.
+i:A highly polished blade.
+i:A blade with strange runes carved into it.
+i:A blade with a serrated edge.
+i:A curved, exotic blade.
+}
+{
+d:d20 The assassin also carries...
+i:Several throwing knives.
+i:An array of poisons in neatly stoppered vials.
+i:Several doses of a deadly poison.
+i:A blowgun with poisoned darts.
+i:An over-sized crossbow.
+i:Arrows/bolts tipped with black steel.
+i:Arrows/bolts with bronzed tips.
+i:Arrows/bolts fletched with crow feathers.
+i:Arrows/bolts fletched with peacock feathers.
+i:Arrows/bolts coated in poison.
+i:Some hemp rope and a silk handkerchief.
+i:A pocketbook of notes and maps.
+i:Climbing gear—pitons, hammer, and rope.
+i:A mask.
+i:The token of a love.
+i:Letters for blackmail.
+i:A lucky charm (d4): 1. rabbit's foot; 2. lucky coin; 3. horseshoe; 4. four-leafed clover.
+i:A flask filled with spirits.
+i:A wineskin.
+i:A little jar of mustache wax.
+}
+{
+d:d10 The assassin is looking for...
+i:Accomplices to help complete a job.
+i:Revenge against a rival assassin{.assassins' guilds}.
+i:An easy contract.
+i:Extra muscle for a tough assignment.
+i:Rumors that may lead to a new client.
+i:Word from a missing guild contact.
+i:Someone to frame up for a murder.
+i:Revenge against a double-crossing client.
+i:A big payday.
+i:A rowdy evening of carousing.
+}
+{
+d:d6 The assassin prefers to operate...
+i:Alone.
+i:Alone, but with a contact who knows where the hit is to occur.
+i:With a partner to provide extra muscle if things get rough.
+i:With a partner to serve as a look-out.
+i:With a partner to create a diversion.
+i:Wearing a mask.
+}
+{
+d:d20 Recently, the assassin has been rumored to have notched a kill in or near...
+i:A residential district.
+i:An artisan's shop or guildhall{.artisans,.shops}.
+i:A merchant's office{.merchant caravans,.merchant guilds}.
+i:A inn.
+i:A brothel{.brothels}.
+i:A warehouse or shipyard.
+i:A temple complex{.temples}.
+i:A cemetery.
+i:The town hall.
+i:An abandoned guildhall or warehouse.
+i:A shantytown
+i:The residence of a wealthy individual.
+i:The palace
+i:A library or university.
+i:The market square.
+i:A gatehouse.
+i:A pub.
+i:A tavern{.tavern goings-on}.
+i:The docks.
+i:The bridge.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

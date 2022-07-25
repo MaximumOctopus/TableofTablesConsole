@@ -1,0 +1,121 @@
+{
+d:d20 The halfling is...
+i:A jolly brewer.
+i:A meticulous winemaker{.wines}.
+i:A talkative merchant{.merchant caravans,.merchant guilds}.
+i:A silver-tongue con artist.
+i:A sketchy peddler.
+i:An inventive cook.
+i:An attentive gardener.
+i:A simple farmer.
+i:A drunken ferry captain.
+i:A fearless river trader.
+i:A happy-go-lucky fisher.
+i:A slippery thief{.thieves}.
+i:A reluctant burglar.
+i:A surly sheepherder.
+i:A soft-spoken woodcarver.
+i:An adventurous rogue{.rogue missions}.
+i:A talented storyteller.
+i:A quick-witted singer.
+i:A cautious herbalist{.herbalism}.
+i:A nimble apple-picker.
+}
+{
+d:d10 The halfling has...
+i:Hairy feet, even for a halfling.
+i:Impressive sideburns.
+i:Chubby cheeks.
+i:A ruddy complexion.
+i:A round face.
+i:Dusky blue eyes.
+i:Dark brown eyes.
+i:Deep green eyes.
+i:Curly blonde locks.
+i:Floppy brown hair.
+}
+{
+d:d10 The halfling is wearing...
+i:A blue coat with brass buttons.
+i:A green coat with silver buttons.
+i:A red coat with copper buttons.
+i:Pants that are too big.
+i:Pants that are too small.
+i:A traveler's cloak with a hood.
+i:A dusty traveler's cloak.
+i:A patched traveler's cloak.
+i:Pants with patches on the knees.
+i:A vest with several pockets
+}
+{
+d:d10 ...and...
+i:A daisy tucked behind an ear.
+i:A petunia tucked behind an ear.
+i:A dull brass ring.
+i:A shiny brass ring.
+i:A tarnished silver ring.
+i:An old gold ring.
+i:A lucky charm on a string around the neck.
+i:A pair of reading glasses.
+i:A belt with loops and pockets for tools.
+i:A belt with a coin purse. .
+}
+{
+d:d10 The halfling is carrying...
+i:A sharp dagger.
+i:A shiny shortsword.
+i:A little-used club.
+i:A walking stick.
+i:A small knife.
+i:Several throwing knives.
+i:A fork and a frying pan.
+i:A spoon and a cookpot.
+i:A purse of copper coins.
+i:A few silver coins.
+}
+{
+d:d10 ...and...
+i:A pinch of a rare variety of smokeleaf.
+i:An old pipe and some smokeleaf.
+i:A polished pipe and some smokeleaf.
+i:A pouch of salt and spices.
+i:Dried fruits and nuts.
+i:Crusty bread and a bit of cheese.
+i:A book of tales.
+i:A map of the local river.
+i:A heavy brass key.
+i:A sack full of odds and ends.
+}
+{
+d:d10 Presently, the halfling is looking for...
+i:Quality ingredients for a stew.
+i:A lost pipe.
+i:A new tea set.
+i:Something to eat.
+i:Something good to eat.
+i:Wildflowers to put in a vase at home.
+i:Wild mushrooms.
+i:Some idle chit-chat.
+i:Bottle of good wine{.wines}.
+i:Glass of strong ale.
+}
+{
+d:d10 ...but the halfling would be happy to find...
+i:Companions for afternoon tea.
+i:Drinking companions.
+i:The answer to a puzzle or riddle.
+i:A new puzzle or riddle to solve.
+i:Ways to foil a rival.
+i:New gossip about the town.
+i:Truth behind a scandalous rumor.
+i:A job to earn a little extra silver.
+i:A new song to sing.
+i:New friends for a night of revelry.
+}
+[
+d:NAME
+]
+{
+d:d1 This halfling is called... 
+i:$fantasy
+}

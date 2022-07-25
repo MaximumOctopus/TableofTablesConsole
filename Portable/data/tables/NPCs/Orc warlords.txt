@@ -1,0 +1,255 @@
+{
+d:d4 Race, This Orc is a...
+i:Pureblood Orc, thoroughly orcy through and through leading through strength.
+i:Orog, a particularly intelligent type of orc. Come to lead the warband using its intelligence and tactical skill.
+i:Orgrillon, half orc and half orge this warlord is massive and strong although simpleminded.
+i:Half Orc, potentially not from orc society, this half orc has come to lead the warband with its greater intelligence.
+}
+{
+d:d20 Appearance, The warlord has… *
+i:A metal jaw replacing their own that they lost in battle. They will show this off by crushing things with it.
+i:A metal claw like arm that it uses in combat with brutal efficiency.
+i:Far larger than usual tusks. Large enough to be uncomfortable and give a slight lisp.
+i:A missing nose, completely torn off in a fight.
+i:Scarring all over their body from being set on fire once.
+i:Missing fingers and dark patches of skin from frostbite being attacked by ice magic.
+i:Fel-like horns that twist and gnarl from his head.
+i:A huge blubbery body, which it proudly uses as a type of armour projectiles just being absorbed by the fat.
+i:A very thin and lithe body for an orc.
+i:Gold and jewels that make up his teeth, replacing its own.
+i:Violently scarified tattoos all over its body. They display its previous victories.
+i:A pole affixed to its armour that has the decapitated heads of every enemy jammed onto it.
+i:Armour that is made from the bones and scales of a dragon{.dragons}.
+i:Strange and differently coloured skin for an orc.
+i:One missing eye, the socket glowing with holy energy.
+i:Glowing tattoos all over their body, that each come with some strange meaning.
+i:A large and ornate beard usually dripping with blood.
+i:Chunks of bone growing out of its skin due to some horrific mutation.
+i:Self-inflicted notch marks all over their body that count their kills and victories.
+i:A strangely handsome appearance for an orc.
+}
+{
+d:d20 Trait. The orc warlord is known because...
+i:It’s a massive alcoholic. He drinks kegs and kegs of ale every day and demands ale and other drinks as payment.
+i:He organises feasts made up of the humanoid prisoners. They’re famous throughout the clan and they aim to take as many prisoners in combat for just this reason.
+i:It’s a fel-orc tainted by fiendish energy in a similar way to a tiefling. Some fiendish powers come from this{.fiends}.
+i:He killed the previous warlord in a duel, brutally murdering them.
+i:He pretends to be chosen by the gods and make it seem that he was chosen to lead his clan. He knows this is just fake but everyone seems to believe them.
+i:He’s blind in both eyes. Strangely, he’s still just as effective in combat.
+i:He has sired many children and trained both the girls and boys to be terrifying warriors.
+i:They’re actually happily married to a witch. Although the other orcs find this strange, they’re too terrified of her to question it out loud{.witches}.
+i:It plans to organise a raid against the heavens itself! Currently they’re constructing a planar portal to get there.
+i:Its raids are all against enemies of the orc gods. They think they can hear the gods calling to them and make every choice depending on them.
+i:It’s known for using biological warfare and disease magic, catapulting diseased corpses into cities{.diseases}.
+i:It openly is against magic in all forms and aims to hunt down all witches and magic users{.witches}.
+i:It kills any orc recruit that doesn’t perform absolutely perfectly.
+i:It’s a lycanthrope who openly uses this power in combat{.lycanthropes}.
+i:It openly uses necromancy powers to rise the dead soldiers in combat{.soldiers}.
+i:It’s crippled and needs to use a potion to walk and fight. A secret guarded from the rest of the clan{.potions}.
+i:It’s greedy and only cares about money and jewels. Every raid is for more money.
+i:It’s known as a one man army who has defeated an entire enemy army before single handed.
+i:It wants to unite all the orc clans nearby into a massive army to take over the entire realm.
+i:It loves to use alchemy to create powerful weapons of mass destruction and magical potions to make their clan stronger{.legendary weapons,.potions}.
+}
+{
+d:d20 Combat. The warlord is known to fight with...
+i:A huge two handed sword and slow but powerful attacks.
+i:Death by 1000 cuts. Fast, but tiny attacks with dual daggers.
+i:A traditional orcish waraxe.
+i:Shamanistic elemental magic.
+i:Stealth, trickery and traps.
+i:A greatbow and magical arrows.
+i:A crossbow and magical arrows.
+i:Sword and shield, the shield enchanted with power.
+i:Warlock like magic.
+i:Terrifyingly strong blood magic.
+i:A common usage of potions, for strength and fire breath as well as healing{.potions}.
+i:Running away, to live another day.
+i:Catapults and Artillery.
+i:A large sharp flail.
+i:Fists and spiked knuckles.
+i:Grapples and throwing attacks.
+i:Extremely loud magical war cries.
+i:Two large sharp swords.
+i:A spiked chain weapon{.legendary weapons}.
+i:A mage assistant who constantly buffs them with magic and healing.
+}
+{
+d:d100 Banner. The orc clan has a banner that shows...
+i:Wolfs head.
+i:A skull.
+i:An animal skull.
+i:Two axes.
+i:An axe.
+i:Two swords.
+i:Crossed bones.
+i:A laughing face.
+i:A fist.
+i:A dragon{.dragons}.
+i:A wolf.
+i:A hanging man.
+i:The holy symbol of their god.
+i:An 8 pointed star.
+i:A moon.
+i:A claw.
+i:Several stars.
+i:A shield.
+i:A cross pattern.
+i:A spotted pattern.
+i:A bloody hand.
+i:A blood stain.
+i:A toothy maw.
+i:Teeth.
+i:Eyes.
+i:A dead elf king{.elves dark,.elves high,.elves wood}.
+i:A boot.
+i:Several green figures.
+i:A strange geometric shape.
+i:A beholder.
+i:A drake.
+i:A lion.
+i:A tiger.
+i:A shark.
+i:Waves.
+i:A volcano.
+i:A forest{.forest,.forest enchanted,.forest haunted}.
+i:A large tree.
+i:The four forces of nature.
+i:Fire.
+i:Water.
+i:Earth.
+i:Air.
+i:An angry face.
+i:Several different faces.
+i:Two hands.
+i:The last warchief.
+i:A strange twenty sided shape with a 20 on one side.
+i:A square.
+i:A triangle.
+i:Some scribble that looks like a toddler made it.
+i:A cloud.
+i:A ghost.
+i:A skeleton.
+i:A zombie.
+i:A river.
+i:The surrounding region.
+i:A nude woman.
+i:A strong man.
+i:Their god.
+i:Just black.
+i:Just red.
+i:Just white.
+i:Just green.
+i:Just blue.
+i:Just yellow.
+i:A variance of striped colours.
+i:Half and half two colours.
+i:A decapitated head.
+i:Guts.
+i:Tusks.
+i:A fiend{.fiends}.
+i:An archfiend{.fiends}.
+i:The area the orcs came from.
+i:A cliff.
+i:A tower.
+i:A fortress.
+i:A monster.
+i:Screaming women.
+i:Gallows.
+i:Headless people.
+i:Armour.
+i:A helmet.
+i:A spear.
+i:Two spears.
+i:Several spears.
+i:A long spiked sword.
+i:A bow.
+i:An arrow.
+i:A crossbow.
+i:A cannon.
+i:A catapult.
+i:A trebuchet.
+i:A dark circle.
+i:A hand print.
+i:A footprint.
+i:The symptoms of disease{.diseases}.
+i:A potion{.potions}.
+i:Runic symbols.
+i:Some face that looks so strangely like the DM.
+}
+{
+d:d20 Soldiers. The Warlords main soldiers and warriors are...
+i:Orc barbarians with swarm tactics{.barbarians}.
+i:Orc Shamans who have strong elemental magic.
+i:Orc Mage hunters who have wards to protect them from magic.
+i:Powerful orcs who have been engineered and trained from birth to know nothing other than war.
+i:Orc Knights with full armour{.knights}.
+i:Orc Assassins{.assassins' guilds}.
+i:Orc archers and rangers who attack from afar.
+i:Orc monster hunters prepared to take down massive prey.
+i:Orog soldiers who use superior tactics{.soldiers}.
+i:Orc riders who ride wargs dire wolves and horses.
+i:Orges who crush and destroy anyone needed.
+i:Hobgoblin mercenaries used for the most dangerous jobs.
+i:Ogrillion barbarians and beserkers{.barbarians}.
+i:One amazingly strong and talented orc who can take on massive beasts with ease.
+i:Half Orcs who follow their orcish side more.
+i:Orc artillery experts who use catapults and cannons.
+i:Orc warlocks who have made a pact with fiends for more power{.fiends}.
+i:Amazonian she-orcs.
+i:A swarm of young orcs wanting to prove themselves in battle.
+i:Orc monster handlers who control massive drakes and similar creatures.
+}
+{
+d:d20 Minions. The orcs army also has...
+i:Goblins who are used as cannon fodder{.goblins,.goblin gangs}.
+i:Kobolds convinced with small amounts of gold{.kobolds}.
+i:Goblins who are wired with explosives{.goblins,.goblin gangs}.
+i:Orc peasants attacking with simple weapons.
+i:Prisoners brainwashed to fight for the orcs.
+i:Simple orc warriors.
+i:A clumsy ogre
+i:A pack of allied gnolls
+i:Packs of wargs
+i:Packs of dire wolves.
+i:A tamed Wyvern.
+i:A very powerful orc wizard.
+i:A small fleet of galleys and sailboats.
+i:A young dragon who assists them{.dragons}.
+i:Swarms of giant insects assisting them.
+i:Conjured elementals.
+i:Hobgoblin mercenaries.
+i:Bugbear mercenaries.
+i:A small family of trolls helping them.
+i:Undead risen to assist the clan.
+}
+{
+d:d20 Base. The clan is based out of...
+i:A small shamanistic orc village.
+i:A massive orc keep with multiple traps and defences such as boiling oil.
+i:A fortress on the back of a dire mammoth.
+i:A dragons old abandoned lair.
+i:A conquered village/town of their enemies.
+i:A forest camp{.forest,.forest enchanted,.forest haunted}.
+i:A camp in the tundra.
+i:A walled off stronghold originally made to be temporary.
+i:A huge pit mine with furnaces and smelters making weaponry{.mines,.legendary weapons}.
+i:A solitary island with a shipyard.
+i:A huge orcish city.
+i:The bones of a titan or a dragon{.dragons}.
+i:A cavern in a cliff{.caverns}.
+i:A riverside.
+i:A coastal cliff.
+i:A muddy bog.
+i:A nomadic camp they can put up in hours.
+i:The middle of the plains{.plains}.
+i:A mountainous camp made of rock{.mountains}.
+i:Somewhere original created to imprison them.
+}
+[
+d:NAME
+]
+{
+d:d1 The Orc Warlord NPC is called... 
+i:$fantasy
+}

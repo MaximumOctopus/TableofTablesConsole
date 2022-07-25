@@ -1,0 +1,72 @@
+{
+d:d6 Hair color: The merfolk’s hair is...
+i:Red.
+i:Gold.
+i:Grey.
+i:Dark brown.
+i:Light brown.
+i:Black.
+}
+{
+d:d6 Scale color: The merfolk’s scales are...
+i:Pale green.
+i:Dark green.
+i:Greenish blue.
+i:Iridescent blue.
+i:Dull silver.
+i:Shiny silver.
+}
+{
+d:d6 Training: The merfolk is a/an...
+i:Crafter.
+i:Forager.
+i:Musician.
+i:Seer.
+i:Servant.
+i:Warrior.
+}
+{
+d:d6 Skill: The merfolk is particularly good at...
+i:Outswimming enemies.
+i:Finding places to hide.
+i:Singing.
+i:Interpreting dreams.
+i:Dodging attacks.
+i:Spear-throwing.
+}
+{
+d:d6 Quirk/flaw: The merfolk frequently...
+i:Interrupts others.
+i:Hums when feeling nervous.
+i:Makes uncomfortable eye contact.
+i:Fidgets.
+i:Refuses to do business with surface-dwellers.
+i:Fears touching anything made above water.
+}
+{
+d:d6 Possessions: The merfolk is carrying...
+i:A finely-crafted trident.
+i:A simple spear.
+i:A string of pearls.
+i:A shell necklace.
+i:An unusual seashell.
+i:A stringed musical instrument.
+}
+{
+d:d6 Immediate goal: The merfolk is looking for...
+i:A tasty snack.
+i:A good laugh.
+i:Someone to listen to a song.
+i:Someone to hear a sad tale.
+i:A pretty seashell.
+i:Shark repellent.
+}
+{
+d:d6 Ambition: The merfolk would like to...
+i:Regrow a dying coral reef.
+i:Chase away an aquatic demon.
+i:Explore a dangerous underwater ruin.
+i:Locate a long lost treasure.
+i:Bring calamity to the surface-dwellers.
+i:Learn about life on land.
+}

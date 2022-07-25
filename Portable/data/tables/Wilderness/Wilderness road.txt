@@ -1,0 +1,257 @@
+{
+d:d12 Environment. This road passes through the...
+i:Temperate forest
+i:Mountains
+i:Underground
+i:Arctic tundra
+i:Arctic taiga
+i:Grasslands
+i:Sea coast
+i:Desert
+i:Jungle
+i:Swamp
+i:Hills
+i:Badlands
+}
+{
+d:d6 This road connects a...
+i:Sprawling city-state...
+i:Prominent _________ city (d6): 1. Royal; 2. Holy; 3. Port; 4. Guild; 5. Market; 6. Free...
+i:Growing town...
+i:Quiet village...
+i:Frontier fort...
+i:Private residence (d6): 1. Noble’s country manor; 2. Artisan’s workshop; 3. Humble farmstead; 4. Hunting lodge; 5. Hermit’s retreat; 6. Water/Wind-driven Mill...
+}
+{
+d:d6 ...And a(n)...
+i:Ancient ________ city (d6): 1. Elven; 2. Dwarven; 3. Human; 4. University; 5. Ruined; 6. Arcane.
+i:Walled town.
+i:Rural village.
+i:Recent settlement.
+i:________ encampment (d6): 1. Mining; 2. Logging; 3. Surveying; 4. Military; 5. Archaeological; 6. Diplomatic.
+i:Ruin (d6): 1. Tomb; 2. Castle; 3. Monastery; 4. Guardpost; 5. Wall; 6. Temple.
+}
+{
+d:d6 The road is...
+i:A seasonal path...
+i:A narrow game trail...
+i:A dirt track...
+i:A walled thoroughfare...
+i:A cobblestone highway...
+i:An idyllic boulevard...
+}
+{
+d:d6 ...that has remained...
+i:Secret. Only one, maybe two, of the local guides (see below) know this route.
+i:Dangerous. The bandits (see below) who make this their territory mean only the well-armed or well-protected (see bodyguards below) travel it.
+i:Treacherous. Its difficult terrain makes it almost impassable.
+i:Scenic. The road traverses through breathtaking vistas.
+i:Crowded. Many travelers (see below), animals, and carriages of all kinds travel this road.
+i:Taxed. Travelers bring a few extra silver for the toll collectors (see below) along the road.
+}
+{
+d:d6 Colourful Wilderness Guides:
+i:Greentea, a statuesque firbolg with velvet-soft doe ears and lavender eyes, laughs musically at most things. She doesn't understand, but she is amused at the ways of "civilized" people.
+i:Dimitrov, an elderly, blind hill dwarf with a bushy beard, navigates this road by sound and smell and feel. He wears a cloak of living leaves, which he says a dryad gave him as a gift.
+i:Willowa Longbough, a demure treant with deep grooves lining her face and arms, instructs her charges on the etiquette of her wood as they walk. She knows the name of everything she passes, and greets them all formally.
+i:Berm Orebreaker, a brusque earth genasi covered in dark, jagged markings, is quick to boast of his skills and achievements, and erupts angrily when his leadership is questioned. Most of his stories are about the goliaths who raised him.
+i:Jessaline, a sarcastic forest gnome with over-large ears and eyes, is quickly annoyed by anyone clumsier or slower than she is (which is nearly everyone); she gives her ready respect, however, to anyone who shows skill and knowledge in 
+i:survival or nature.
+i:Hugh Walker, an amiable human with piercing eyes and wild hair, is mute: he uses his own system of gestures and facial cues to communicate. His lifelong companion, a giant owl, understands him well, and will translate his signing in 
+i:Sylvan.
+}
+{
+d:d6 Colorful Wilderness Bandits:
+i:Azgo Bearbiter, the former chieftain of an orc band, was very recently ousted by a rival and cast out. He has only the hides on his back, and he wants to be restored to his lost position.
+i:Gabriand Hillock, an aspiring human highwayman in fine, black garb and mask, recently hired a troupe of method actors to impersonate brigands and assist him; predictably, they took to the role and abandoned him, and he is once again 
+i:looking for help.
+i:Avarice, a tiefling swashbuckler, has amnesia. From her handy use of her cutlass and crossbow, she knows she lived a life of violence; but to what end, she cannot recall. She is looking for a new identity, possibly through some new 
+i:affiliation or belonging to a group.
+i:Lady Cinder, a fire genasi mercenary, lost her entire company in their last engagement. Now she wears their banner as a rakish cape, and wants to live the rest of her life on her own terms.
+i:Gorzt, a lizardfolk poacher, is branching out into armed robbery, diversifying his crime folio. He carries a large halberd, and wants something (or someone) to eat.
+i:Mog and Mal, a smallish ettin, don't enjoy taking travellers' possessions from them, but their tribe makes them do it. When not intimidating travelers with their knobbly greatclub, the two heads enjoy having intellectual conversations 
+i:together. They wear a rough-knit kaftan, and want to learn to read.
+}
+{
+d:d6 Colorful Wilderness Travellers:
+i:A dwarven brewer is transporting his wares on this road. His heavy cart of sloshing barrels is pulled by two minotaurs, who double as his bodyguards.
+i:An elven mother and her half-elf child, dirty and exhausted, are fleeing a war. They carry their worldly belongings in a large basket and a small sack, respectively.
+i:A 5-foot tall, rotund, humanoid beetle in exotic silks is rolling a large, tightly-packed, spherical bale of trade goods down the road, buzzing and hissing an odd tune.
+i:This gnomish family is on vacation. Their peculiar carriage, it seems, is borne aloft by an earth elemental they've conjured and are controlling.
+i:A team of druids is using earth shaping rituals to repair and improve this stretch of the road.
+i:An acolyte is making a holy pilgrimage on this route. Fascinatingly, her faith prescribes that she make this spiritual journey (d6): 1. Walking backwards; 2. Blindfolded and led by a companion; 3. While singing a hymn; 4. On all fours; 5. In 
+i:complete silence; 6. While reading from the sacred texts.
+}
+{
+d:d6 Colorful Toll Collectors:
+i:A broad warforged with a massive, vault-like chest designed to receive various sizes of coins in clearly marked slots.
+i:A drider with a lance. Its webs line both sides of the path, as well as overhead.
+i:An elderly elven woman. She calls on several awakened shrubs to help her collect from more challenging travellers.
+i:An ogre and goblin duo demand 1 gold piece from every traveller on their road.
+i:A chest mimic. It's chained to a tree, where a sign is posted explaining the toll rates and how to feed them safely to the mimic.
+i:Two guards with polearms stand together, chatting idly. A third sits in a shaded kiosk, a lockbox at his feet.
+}
+{
+d:d6 Feature. You come to a(n)...
+i:Roadside tavern...
+i:Trampled campsite just off the road...
+i:Ruined aqueduct crossing the road...
+i:Stone and timber bridge...
+i:Crossroads...
+i:Quiet chapel...
+i:Burrow beside the road...
+i:Fey/Shadow crossing...
+i:Shallow stream running by the road...
+i:Standing stones on a hill overlooking the road...
+i:Funeral cairn...
+i:Solitary homestead...
+i:Religious site...
+i:Fallen tree...
+i:Foul-smelling morass swallowing 40ft of the road...
+i:Statue...
+i:Broken cart...
+i:Toll stop for the nearby king’s coffers...
+i:A sudden dropoff beside the road...
+i:Animal or monster carcass...
+}
+{
+d:d10 Foraging. ...and find...
+i:Mushrooms.
+i:Berries.
+i:A patch of wild cress.
+i:A wild hare.
+i:A downed nest of eggs.
+i:Herbs.
+i:Edible roots.
+i:A quail.
+i:A beehive full of honey.
+i:Edible flowers.
+}
+{
+d:d6 The roadside tavern is run by...
+i:A large family of halflings.
+i:A massive, rustic human.
+i:An elderly elven couple.
+i:A surly satyr.
+i:The charming cleric of a deity of hospitality.
+i:No one. The tavern is sentient and runs itself.
+}
+{
+d:d6 The camp site is...
+i:A small, matted clearing with a cold firepit.
+i:A developed camp with constructed shelters and a stone fire ring.
+i:Occupied. Bedrolls and a tent litter the area, and a fire is heating a black cooking pot.
+i:A narrow hollow in an overgrown hedge.
+i:Protected from the elements by a rock formation.
+i:Gruesome. The former occupants lay slain, their possessions looted and tossed about.
+}
+{
+d:d6 The bridge spans...
+i:A dry, stony creek bed.
+i:A small trickle of water overgrown with grass.
+i:A slow, meandering brook.
+i:A deep, narrow crack in the earth.
+i:A grassy ditch.
+i:A fetid mire.
+}
+{
+d:d6 At the crossroads, you see...
+i:A wooden signpost, missing one of its markers.
+i:An impromptu farmer’s market.
+i:A young tortle peddler, setting up a portable stall of wares.
+i:A massive dolmen.
+i:Cultivated beds of beautiful flowers.
+i:A blink dog, panting in the warm sunlight.
+}
+{
+d:d6 Chapel: This small shrine or totem is dedicated to...
+i:A warrior saint. Inside is a fresco depicting his heroic battle against a demonic chimera.
+i:A well-loved deity of agriculture. Small offerings are placed in the wooden bowl on the altar: a bunch of withered grapes, bundles of herbs, tied handfuls of wheat, etc.
+i:Unnamed fey spirits. This airy gazebo is bedecked with wisteria, and Druidic markings name this a consecrated location.
+i:A messenger demigod. Small feathers fashioned from wood, metal, leather, paper, stone, and fabric are nailed all over the chapel as petitions for safe travel.
+i:The primal elements. Enormous, luminous crystals, floating over a thermal vent, musically chime against each other in the gusts. Visitors take discarded shards broken from the crystals for protection against the elements.
+i:An angelic being. The blasted crater where the angel appeared, turning an army of orcs from their warpath, has the angel's bronze tower shield still standing in the center.
+}
+{
+d:d6 What is in the burrow?
+i:A giant badger.
+i:A moth-eaten bedroll and tarnished mess kit.
+i:An owlbear cub.
+i:Bones.
+i:A weasel.
+i:A large, locked chest.
+}
+{
+d:d6 What's up with the standing stones?
+i:Druidic markings etch their surface, which, under certain phases of the moon, will glow with cool, silver-blue light.
+i:They mark an infamous ritual ground for summoning demonic powers, and claim to seal this region from any such summonings.
+i:They are carved with the faces of historically significant local chieftains. This is a place of memory and dignity, and even enemies who meet here are unable to draw arms against each other in their presence.
+i:Their shape and arrangement resemble the fingers of a titanic hand. Wild magic abounds here.
+i:They are toppled and broken, and anyone walking among or over the fragments hears a psychic chorus of wailing from many voices.
+i:They appear to be arranged sporadically and without intention, but looking at them from overhead reveals that they form a massive pictograph of a pegasus. Small or smaller creatures within the area are able to speak in Sylvan.
+}
+{
+d:d6 What's up with the cairn?
+i:This cairn must have taken a while to construct, or been done by magic. Countless stones have been gathered here and composed together into a perfect ovoid sphere, about 8' tall. No glue or mud or mortar has been used.
+i:A large, flat slab of shale has been erected and carved with a religious symbol for a deity of life.
+i:This cairn is a single stone, elegantly carved in the figure of a bear, standing watch over the grave.
+i:It was likely a simple pile of stones, but they've been scattered, and the grave beneath seems flung open from within.
+i:These nine stones are all round and flat, and balance precariously one on top of another.
+i:Four largish stones, all of different sizes and shapes and hues, have been enchanted to float together over this earthen grave.
+}
+{
+d:d6 Who is living in this homestead?
+i:A large family: 2 parents, and 11 kids, plus a set of grandparents, and a hired hand and a governess (a young married couple) who live with them.
+i:A known witch.
+i:No one. The empty buildings are stale with dust and neglect.
+i:An outlander, who spends only certain seasons here.
+i:A group of bandits, who keep their stores here.
+i:A pair of elderly bachelor brothers, who spend much of their time in silence.
+}
+{
+d:d6 What do you find at the religious site?
+i:A druidic grove, where giant white elk have shed their antlers for generations. The forest floor is covered with the massive antlers.
+i:A demonic altar (d6): 1-2. Used long ago, and broken; 3-4. Recently used; 5-6. Currently in use by chanting, masked cultists.
+i:An ancestral burial mound. A feeling of peace and rest pervade the area.
+i:A mystical rock garden. The esoteric arrangement of its features is beyond understanding, but the atmosphere is lovely.
+i:A totem pole worshipping animistic spirits. The paint used is colourful, and the animals' faces are wild and grotesque.
+i:A statue or plaque marking where a saint performed a holy miracle (d6): 1. Healed a child of a disability; 2. performed an exorcism; 3. prophesied a coming plague; 4. survived a gruesome martyrdom; 5. defeated an evil monster; 6. 
+i:ascended into a heavenly plane.
+}
+{
+d:d6 The statue is made of...
+i:Stone...
+i:Cast bronze...
+i:Wood...
+i:Iron...
+i:Marble...
+i:Bones...
+}
+{
+d:d6 ...and it is...
+i:Elven, covered in vines.
+i:Dwarven, decorated with semi-precious stones.
+i:Of a wizard, who is famous in these parts.
+i:Of a human hero, astride a horse.
+i:Of a monster (d8): 1. pegasus, 2. centaur, 3. hippogriff, 4. unicorn, 5. sphinx, 6. griffon, 7. unicorn, 8. manticore.
+i:A seemingly abstract assembly of found objects.
+}
+{
+d:d6 The broken cart belongs to a/n...
+i:Traveling carnival troupe.
+i:Merchant caravan.
+i:Ambush (d6): 1. a disgraced sorcerer and her gang of greedy bandits; 2. a rogue hobgoblin and their troop of cunning goblins; 3. an ambitious orc chieftain and his warband of war-minded orcs; 4. a gnoll death priest and his horde of 
+i:bloodthirsty gnolls; 5. a drow mage and her posse of drow slavers; 6. an outlawed noble ranger and his band of merry men.
+i:Haughty noble, and their elegant but road-weary retinue.
+i:An animal merchant, hauling his menagerie of strange and exotic creatures.
+i:A smuggler, anxiously concealing their contraband.
+}
+{
+d:d6 The carcass is of a(n)...
+i:Horse, perhaps. Maybe a donkey.
+i:Worg.
+i:...It’s impossible to determine. Only a few, scattered, sun-bleached bones are visible.
+i:Hill giant.
+i:Humanoid adventurer.
+i:Group of orcs, but only their skulls, skewered on spears.
+}

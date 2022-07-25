@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Capital city
+i:Castle
+i:Military outpost
+i:Port city
+i:Remote monastery
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or brewer
+i:Charlatan or fortune teller
+i:Circus performer or magician
+i:Hermit or wanderer
+i:Sage or merchant
+i:Smith or stonemason
+}
+{
+d:d6 You take pride in…
+i:Brewing potions
+i:Your eccentric diet
+i:Discovering ancient secrets
+i:Reading signs and omens
+i:Spell duels
+i:Teaching new students
+}
+{
+d:d6 You need improvement on…
+i:Complex rituals
+i:Drug addiction
+i:Getting more sleep
+i:Messy handwriting
+i:Keeping secrets
+i:Social anxiety
+}
+{
+d:d6 You became an adventurer to…
+i:Answer an ancient riddle
+i:Avoid punishment
+i:Escape from a dull life
+i:Message from a fiend
+i:Pursue scholarly fame
+i:Gain vengeance upon an old foe
+}
+{
+d:d6 Your favorite spells are/involve…
+i:Divinations
+i:Charms
+i:Fire, ice, or lightning
+i:Illusions
+i:Summoning
+i:Wards
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Alchemy
+i:Demonology
+i:Elemental magic
+i:History of magic
+i:Necromancy
+i:Planar travel
+}
+{
+d:d6 You recently read or are carrying a book on…
+i:Ancient rituals
+i:Bizarre travelogue
+i:Dragons
+i:Dream interpretation
+i:Potion recipes
+i:Untranslated spellbook
+}
+{
+d:d6 You are carrying a/an/the…
+i:Dagger
+i:Gnarled wooden staff
+i:Tome
+i:Wand
+i:Orb
+i:Crystal-tipped staff
+}
+{
+d:d6 You have a keen interest in…
+i:Card games
+i:Collecting flowers, seeds, or leaves
+i:Fine wines, ales, and spirits
+i:Heroic tales and legends
+i:Learning people's secrets
+i:Writing a memoir
+}

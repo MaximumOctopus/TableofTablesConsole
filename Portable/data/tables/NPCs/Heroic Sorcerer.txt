@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Desert
+i:Frozen lands
+i:Mountains
+i:Old forest
+i:Remote island or coast
+i:Wild jungle
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or sage
+i:Charlatan or circus performer
+i:Farmer or herder
+i:Hermit or wanderer
+i:Miner or trader
+i:Sailor or fisherman
+}
+{
+d:d6 You take pride in…
+i:Displays of strength
+i:Your eccentric diet
+i:Explosions
+i:Discovering ancient secrets
+i:Interpreting dreams
+i:Spell duels
+}
+{
+d:d6 You need improvement on…
+i:Controlling temper
+i:Drinking problem
+i:Drug addiction
+i:Etiquette and courtesy
+i:Personal hygiene
+i:Trusting allies
+}
+{
+d:d6 You became an adventurer to…
+i:Answer an ancient riddle
+i:Achieve conquest and power
+i:Locate a legendary beast
+i:Reclaim a long-lost throne
+i:Uncover origin of your magic bloodline
+i:Gain vengeance upon an old foe
+}
+{
+d:d6 Your favorite spells are/involve…
+i:Charms
+i:Entropomancy
+i:Pyromancy
+i:Ice or wind
+i:Lightning or thunder
+i:Summoning
+}
+{
+d:d6 In your veins runs the blood of a/an…
+i:Celestial
+i:Dragon
+i:Elemental lord
+i:Fiend
+i:Shadowy being
+i:Unknown being
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Alchemy
+i:Elemental magic
+i:Legendary monsters
+i:Planar travel
+i:Signs and omens
+i:Warfare and tactics
+}
+{
+d:d6 You are carrying a/an/the…
+i:Crystal-tipped staff
+i:Heavy wooden staff
+i:Lightweight staff
+i:Rune-carved dagger
+i:Serpentine dagger
+i:Serrated dagger
+}
+{
+d:d6 You have a keen interest in…
+i:Amorous pursuits
+i:Games of chance
+i:Fine wines, ales, and spirits
+i:Heroic tales and legends
+i:Singing or playing an instrument
+i:Writing poetry
+}

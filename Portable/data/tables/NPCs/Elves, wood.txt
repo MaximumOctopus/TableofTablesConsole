@@ -1,0 +1,77 @@
+{
+d:d8 Hair: The wood elf has...
+i:Black hair.
+i:Dark brown hair.
+i:Light brown hair.
+i:Auburn hair.
+i:Black hair with a brown streak.
+i:Dark brown hair with an auburn streak.
+i:Brown hair with a blonde streak.
+i:Blonde hair.
+}
+{
+d:d6 Eyes: The wood elf has...
+i:Brilliant green eyes.
+i:Dark green eyes.
+i:Pale green eyes.
+i:Golden brown eyes.
+i:Dark brown eyes.
+i:Hazel eyes.
+}
+{
+d:d8 Mannerisms: The wood elf has...
+i:A likable grin.
+i:A delicate laugh.
+i:An amused smirk.
+i:A humorless visage.
+i:A habit of sighing.
+i:A touch of sorrow in his or her voice.
+i:A habit of pacing.
+i:A habit of scratching the back of the neck.
+}
+{
+d:d10 The wood elf is...
+i:An adept healer{.healers}.
+i:A devoted priest.
+i:A mystic seer{.seers}.
+i:A superb archer.
+i:A silent scout.
+i:A watchful ranger.
+i:A fierce warrior.
+i:A masterful bladedancer.
+i:A merry rogue{.rogue missions}.
+i:An enchanting musician.
+}
+{
+d:d8 The wood elf is looking to...
+i:Track an unnatural beast or invader.
+i:Lead any travelers away from the forest{.forest,.forest enchanted,.forest haunted}.
+i:Guard a sacred site from outsiders.
+i:Lead travelers astray in a dangerous part of the forest{.forest,.forest enchanted,.forest haunted}.
+i:Warn travelers against the dangers of the forest{.forest,.forest enchanted,.forest haunted}.
+i:Protect the secrets of his or her people at all costs.
+i:Drive an invader out of the forest{.forest,.forest enchanted,.forest haunted}.
+i:Eat, drink, and be merry.
+}
+{
+d:d12 The wood elf carries...
+i:An ancient blade.
+i:A unique gem{gemstones} or piece of jewelry.
+i:A finely-crafted spear or staff.
+i:An ornate longbow.
+i:A heavy steel sword.
+i:A simple spear and a simple bow.
+i:A curved blade and a small wooden shield.
+i:Arrows fletched with the feathers of a wild bird (d8): 1. eagle; 2. goose; 3. hawk; 4. owl; 5. pheasant; 6. quail; 7. raven; 8. swan.
+i:Several vials of healing potions{.potions}.
+i:A cache of useful herbs{.herbalism}.
+i:A silver flute.
+i:A carved wooden harp.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

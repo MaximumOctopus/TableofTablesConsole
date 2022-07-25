@@ -1,0 +1,134 @@
+{
+d:d10 The necromancer is...
+i:A brilliant academy graduate.
+i:A well-known villain{.villains}.
+i:A violent maniac.
+i:An ambitious mage.
+i:The son or daughter of a gravedigger{.graverobbers}.
+i:A creepy shopkeeper.
+i:A heretical priest or priestess.
+i:An adept poisonmaker.
+i:An soft-spoken scholar.
+i:A determined loreseeker.
+}
+{
+d:d8 The necromancer learned his/her craft from...
+i:A fellow necromancer to whom he/she apprenticed.
+i:A parent or grandparent who was a necromancer.
+i:Books of necromantic lore.
+i:Attending an academy.
+i:Books of forbidden lore.
+i:Communication with the spirits of the dead.
+i:Consorting with a fiend{.fiends}.
+i:Trial and error.
+}
+{
+d:d8 The necromancer specializes in...
+i:Animating corpses.
+i:Communing with ghosts.
+i:Conjuring malevolent spirits.
+i:Crafting flesh golems{.golems}.
+i:Commanding undead creatures.
+i:Rotting curses.
+i:Curses of undeath.
+i:Deadly poisons.
+}
+{
+d:d12 The necromancer is looking for...
+i:Test subjects.
+i:A body—fresh if possible, decomposed just as good.
+i:Gullible souls.
+i:A drink of absinthe and a ghost story.
+i:The means to summon and bind a wraith.
+i:The soul of a specific person.
+i:Vengeance against a powerful person.
+i:Instructions for a powerful ritual.
+i:The wand of a legendary witch or wizard{.magic wands,.witches}.
+i:The staff of an ancient witch or wizard{.witches}.
+i:The meaning of a cryptic prophecy.
+i:The entrance to a legendary tomb{.tombs}.
+}
+{
+d:d8 The necromancer has uncovered dark secrets. He/she cannot be killed by...
+i:Hanging or strangulation.
+i:Drowning.
+i:Burning.
+i:Disease{.diseases}.
+i:Poisoning.
+i:The hand of a mortal man.
+i:Falling from a great height.
+i:Old age.
+}
+{
+d:d6 The necromancer has taken precautions. If killed, he/she rises as...
+i:A lingering, malevolent ghost.
+i:A powerful lich.
+i:A dangerous revenant.
+i:An mighty wight.
+i:A terrifying wraith.
+i:An unstoppable, intelligent zombie.
+}
+{
+d:d10 The necromancer's lair is...
+i:In a cave.
+i:In a swamp{.swamp}.
+i:In a dark forest{.forest,.forest enchanted,.forest haunted}.
+i:Near a well-known ancient tomb{.tombs}.
+i:Near an ancient burial ground.
+i:Adjacent to a cemetery.
+i:In a quiet village.
+i:Just outside a quiet village.
+i:Down a dark alley in the city.
+i:In the castle or palace of a lord.
+}
+{
+d:d10 The necromancer carries...
+i:A twisted blackwood staff.
+i:A tome of necromantic lore.
+i:A rare alchemical substance.
+i:A razor-sharp ceremonial dagger.
+i:An unusual potion{.potions}.
+i:A chunk of rotting flesh.
+i:A severed body part (d4): 1. hand; 2. head; 3. finger; 4. foot.
+i:Several empty glass vials.
+i:A black stone that radiates evil.
+i:A small notebook filled with notes on (d4): 1. anatomy; 2. behavior of zombies; 3. crypt architecture; 4. ghostly hauntings.
+}
+[
+d:NAME
+]
+{
+d:d1 The Necromancer NPC is called... 
+i:$fantasy
+}
+[
+d:FAMILIARS
+]
+{
+d:d10 The necromancer's familiar is...
+i:A fiendish spirit {.fiends} (d4): 1. demon trapped in a book; 2. devil trapped in a gem{gemstones}; 3. imp; 4. quasit.
+i:An undead creature (d4): 1. crawling crawl; 2. disembodied voice; 3. floating skull; 4. formless ghost.
+i:A bat{.bats}.
+i:A cat{.cats}.
+i:An owl.
+i:A snake.
+i:A spider{.spiders}.
+i:A raven.
+i:A rat{.rats}.
+i:A toad.
+}
+{
+d:d12 The necromancer's familiar’s manner is...
+i:Calculating.
+i:Clever.
+i:Coy.
+i:Cruel.
+i:Gleeful.
+i:Grumpy.
+i:Insolent.
+i:Shy.
+i:Skittish.
+i:Surly.
+i:Suspicious.
+i:Talkative.
+}

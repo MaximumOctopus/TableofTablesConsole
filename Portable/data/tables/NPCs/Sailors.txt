@@ -1,0 +1,143 @@
+{
+d:d12 The sailor is...
+i:A veteran of many voyages.
+i:A survivor of a notorious shipwreck.
+i:A cunning pirate, sailing under a false name{.pirates}.
+i:A green boy, still naive about the dangers of life at sea.
+i:A bright-eyed young sailor, eager to see the world.
+i:A disillusioned man, going through the motions.
+i:A sad young man who misses his family.
+i:A happy-go-lucky fellow who loves life aboard a ship{.ships}.
+i:A terrible rake with a sweetheart in every port.
+i:Strong as an ox, but with a gentle heart.
+i:Wiry and quick, scaling the rigging faster than anyone.
+i:A dangerous man, fierce and bad tempered.
+}
+{
+d:d20 Tattoo: The sailor has...
+i:A dagger tattoo.
+i:An anchor tattoo.
+i:A skull tattoo.
+i:A thorny vine tattoo.
+i:A snake tattoo.
+i:A fish tattoo.
+i:A spider web tattoo.
+i:An octopus tattoo.
+i:A whale tattoo.
+i:A lobster tattoo.
+i:A crab tattoo.
+i:A mermaid tattoo.
+i:A shark tattoo.
+i:A dragon tattoo{.dragons}.
+i:A cloud with a lightning bolt.
+i:A single-mast sailboat.
+i:A double-mast ship{.ships}.
+i:A sunburst tattoo.
+i:A moon tattoo.
+i:A tattoo of a constellation of stars.
+}
+{
+d:d20 The sailor's tattoo is a memento of...
+i:A particularly lengthy voyage.
+i:Sailing through a dangerous part of the world.
+i:Crossing a wide sea.
+i:Visiting an exotic port.
+i:Visiting an enchanted island.
+i:Winning a contest.
+i:Fighting in a battle.
+i:Serving for a lord or king.
+i:Surviving a shipwreck.
+i:Surviving an attack by a sea monster.
+i:Fending off pirates{.pirates}.
+i:Sailing with pirates{.pirates}.
+i:His first voyage.
+i:A comrade, lost at sea.
+i:A long lost friend or love.
+i:A passionate love affair.
+i:A dead relative.
+i:The birth of a son or daughter.
+i:A traumatic childhood experience.
+i:His childhood home town.
+}
+{
+d:d12 Distinguishing facial feature: The sailor has...
+i:A flashy earring.
+i:A scar across the cheek.
+i:Gold teeth.
+i:A neatly trimmed beard.
+i:An eyepatch.
+i:A long, hooked nose.
+i:Bushy eyebrows.
+i:Long hair tied up into a bun.
+i:Dark, curly hair.
+i:A broad grin.
+i:Sideburns that meet his mustache.
+i:Extravagant mustaches.
+}
+{
+d:d12 Accessories: The sailor is wearing or carrying...
+i:Breeches with patches on the knees.
+i:Shiny leather boots.
+i:An oversized dagger in the belt.
+i:An undersized vest.
+i:A silver chain around the neck.
+i:A wide-brimmed hat.
+i:A bandanna tied over the head.
+i:A cutlass in a scabbard.
+i:A knife in each boot.
+i:A puffy shirt.
+i:A wooden peg where a leg had been.
+i:An open shirt that shows off a very hairy chest.
+}
+{
+d:d12 At the end of a long voyage, the sailor is eager to...
+i:Weigh anchor and make sail again.
+i:Spend all his coin on drink.
+i:Spend all his coin in brothels{.brothels}.
+i:Spend all his coin on card games and dice.
+i:Send a letter home to his sweetheart.
+i:Send a letter home to his mother.
+i:Find work with the captain of a different ship{.ships}.
+i:Find work on shore and put off making another long voyage.
+i:Get drunk and start a fight.
+i:Sleep on a real bed.
+i:Drink and dance the night away.
+i:Drink and gamble his coin away.
+}
+{
+d:d12 When drunk the sailor is prone to...
+i:Start a fist fight with anyone nearby.
+i:Sing loudly late into the night.
+i:Become morose and quiet, withdrawing to be alone.
+i:Attempt to impress the ladies with any skill, regardless of his level of mastery.
+i:Tell stories of epic adventures on the high seas with great fervor.
+i:Tell the same story about an old friend that turned to piracy.
+i:Act as though he's never met a stranger and everyone is his friend.
+i:Play childish pranks on anyone nearby, but especially those that don't look like they are having enough fun.
+i:Wander about town until the wee hours.
+i:Pass out in a stable and sleep among the horses and pigs until dawn.
+i:Pass out on a beach or dock, listening to the lullaby of waves tumbling in.
+i:Steal a dinghy and pass out on the deck of a strange ship{.ships}.
+}
+{
+d:d12 What the sailor really wants is to...
+i:Own his own ship{.ships}.
+i:Retire to a quiet place inland somewhere, as far from the open ocean as possible.
+i:Make sure his wives on either side of the sea never learn of each other.
+i:Marry and have a passel of kids to return home to.
+i:Be recognized for his hard work and maybe be first mate some day.
+i:Get off the ship and own a shipping brokerage{.ships}.
+i:Write a drinking song that will be recognized by everyone.
+i:Forget the demons of his past.
+i:Retire to a quiet fishing village with a little boat and a little house with a little woman.
+i:Face down one of the sea monsters he's heard his mates go on and on about.
+i:Kill the captain; that guy's an asshole.
+i:Be a pirate{.pirates}.
+}
+[
+d:NAME
+]
+{
+d:d1 The Sailor is called... 
+i:$fantasy
+}

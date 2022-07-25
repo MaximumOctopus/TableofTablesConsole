@@ -1,0 +1,269 @@
+{
+d:d20 Interesting Location: You find...
+i:A cavern in a canyon wall{.caverns}.
+i:A cave entrance, hidden by a boulder.
+i:A hole under a large boulder.
+i:A large burrow next to a lava flow.
+i:A small cave in a volcanic rock formation.
+i:A peculiar tent.
+i:A stone house sheltered by a canyon, gorge, or bluff.
+i:Some nomads’ camp.
+i:An abandoned stone house.
+i:An abandoned campsite.
+i:A merchant caravan’s camp{.merchant caravans,.merchant guilds}.
+i:A large pit that periodically belches fire.
+i:An old mine that reeks of brimstone{.mines}.
+i:An active mining camp.
+i:A village of savage canyon dwellers.
+i:A secluded monastery{.monasteries}.
+i:Ruins of an ancient city.
+i:A temple ruin{.temples}.
+i:An ancient tomb{.tombs}.
+i:An old watchtower.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:An oasis with only a puddle of water.
+i:An oasis with a burnt tree.
+i:An unusually large, prickly desert plant{.desert,.desert flame-scorched,.desert shadowy}.
+i:A pair of prickly plants from the same root.
+i:A patch of desert flowers in a shady spot{.desert,.desert flame-scorched,.desert shadowy}.
+i:A patch of coarse grass in the shade of a large boulder.
+i:A rocky bluff.
+i:A boulder shaped like a face.
+i:A pair of identical boulders, side by side.
+i:A boulder sitting atop a larger boulder.
+i:A small, dry, rocky canyon.
+i:A deep, dry, rocky canyon.
+i:A dry river bed.
+i:A solid bed of rock, formed from a lava flow.
+i:A muddy river bed.
+i:A ridge of wind-eroded rock.
+i:A ridge of jagged rock.
+i:A mostly-buried, ancient monument.
+i:Twelve large stones, deliberately arranged in a ring.
+i:A sheer rock wall of volcanic glass.
+}
+{
+d:d20 Feature: You notice...
+i:A buzzard circles overhead.
+i:A vulture screams.
+i:A scorpion scuttles away.
+i:A large beetle scuttles away.
+i:A lizard crawls under a rock.
+i:A jackal barks.
+i:A snake slithers away.
+i:A swarm of locusts buzz past.
+i:A rattlesnake sounds.
+i:An unusual bird chirps.
+i:A gentle breeze blows.
+i:The wind blows harder.
+i:The wind kicks up dust.
+i:Small lose stones tumble down a slope.
+i:A prickly plant with scorch marks.
+i:A strange desert flower.
+i:A dead palm tree.
+i:Several small prickly plants.
+i:The smell of sulfur in the air.
+i:The smell of ash and smoke.
+}
+{
+d:d8 Landscape: This desert is...
+i:Rocky.
+i:Flat.
+i:Bleak.
+i:Rugged.
+i:Boulder-strewn.
+i:Forbidding.
+i:Jagged.
+i:Wind-swept.
+}
+{
+d:d8 Ground: Beneath your feet, the soil is...
+i:Cracked.
+i:Dusty.
+i:Gravelly.
+i:Sandy.
+i:Black.
+i:Muddy brown.
+i:Deep red.
+i:Grey.
+}
+{
+d:d20 Encounters: You come upon...
+i:A flame snake.
+i:A swarm of scorpions.
+i:A giant scorpion.
+i:A giant centipede.
+i:A pack of jackals.
+i:A hungry jackalwere.
+i:A fire drake.
+i:The ghost of a traveler.
+i:A pair of salamanders.
+i:A pair of bandits.
+i:An gith monk.
+i:A barbarian war band{.barbarians}.
+i:A phoenix on the wing.
+i:A wyvern on the wing.
+i:A strange hermit.
+i:A lost traveler.
+i:A poor nomad.
+i:A bold prospector.
+i:A conniving fiend{.fiends}.
+i:A terrifying dragon{.dragons}.
+}
+{
+d:d8 Hazards/Obstacles: You run into...
+i:A rockslide coming down a canyon wall.
+i:A boulder rolling down a canyon wall.
+i:A rapidly moving lava flow.
+i:A slow-moving river of lava.
+i:Persistent, strong winds kicking up dust.
+i:A sudden, swirling dust storm.
+i:A mirage of a city.
+i:A mirage of an oasis.
+}
+{
+d:d6 Climate: The rains come to this desert...
+i:Once a year for a few days straight.
+i:On a few days scattered through the year.
+i:During the winter months.
+i:Never; the land floods briefly once a year.
+i:Never; it only rains fire in these lands.
+i:Never; this place hasn’t had water in years.
+}
+{
+d:d12 What’s in the cave/cavern?
+i:A swarm of beetles.
+i:Lots of fire bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A pair of orc scouts.
+i:An dragon’s lair.
+i:Some gnolls’ hideout.
+i:Bare rock.
+i:Mummified remains.
+i:Some bandits’ hideout.
+i:A reclusive sorcerer.
+i:Some abandoned mining equipment.
+i:A half-mad prophet.
+}
+{
+d:d8 What’s in the hole/burrow?
+i:A flame snake.
+i:A spider{.spiders}.
+i:Beetles.
+i:Scorpions.
+i:Centipedes.
+i:Dry bones.
+i:A flameskull.
+i:A fire mephit.
+}
+{
+d:d4 Who built this monastery?
+i:An order of demonic monks.
+i:An order of elementalist monks.
+i:An order of shadow monks.
+i:An order of warrior monks.
+}
+{
+d:d4 The temple was built to honor...
+i:The sun god.
+i:The god of death.
+i:The god of war.
+i:A long-forgotten god.
+}
+{
+d:d6 Who lives in the peculiar tent?
+i:A merchant of exotic goods{.merchant caravans,.merchant guilds}.
+i:A misanthropic shapeshifter.
+i:A reclusive monk.
+i:A refugee far from home.
+i:A dragonborn warrior.
+i:A nomadic sorcerer.
+}
+{
+d:d4 Who lived in the stone house?
+i:A strange hermit.
+i:A reclusive scholar.
+i:An eccentric healer{.healers}.
+i:A mining prospector.
+}
+{
+d:d6 What is in the large pit?
+i:Several flame snakes.
+i:A salamander raider.
+i:An azer scout.
+i:A fire giant.
+i:A phoenix.
+i:Scorched bones.
+}
+{
+d:d6 Who resides in the stone house now?
+i:An outcast azer.
+i:A pair of salamanders.
+i:A mad sorcerer.
+i:A paranoid shapeshifter.
+i:Restless ghosts.
+i:A dangerous fugitive.
+}
+{
+d:d10 Who built the ancient ruins?
+i:A clan of fire giants.
+i:A high elf prince{.elves dark,.elves high,.elves wood}.
+i:A fiendish cult{.fiends}.
+i:A dragon cult{.dragons}.
+i:An elemental cult.
+i:Elementalist monks.
+i:A long-dead emperor.
+i:An ambitious djinn prince.
+i:A wicked efreet lord.
+i:A dark sorcerer.
+}
+{
+d:d10 Who lives in the ancient ruins now?
+i:A clan of fire giants.
+i:A master martial artist.
+i:An exiled djinn.
+i:Cursed mummies{cursessimple}.
+i:Restless ghosts.
+i:A salamander war band.
+i:A clan of dragonborn refugees.
+i:A territorial griffon.
+i:A pair of manticores.
+i:A dragon{.dragons}.
+}
+{
+d:d4 What built the watchtower?
+i:A long-forgotten empire.
+i:An order of elementalist monks.
+i:Azer slaves from a past age.
+i:An elemental lord’s army.
+}
+{
+d:d4 Who holds the watchtower now?
+i:An order of holy knights{.knights}.
+i:A hobgoblin war party.
+i:A fiendish presence{.fiends}.
+i:Drakes on the ground floor, fire bats up above{.bats}.
+}
+{
+d:d4 Who camped here?
+i:An orkish war party.
+i:Some miners or prospectors{.mines}.
+i:A merchant caravan{.merchant caravans,.merchant guilds}.
+i:Someone whose purposes are unclear.
+}
+{
+d:d4 Who is/was mining here?
+i:Greedy dwarves{.dwarves}.
+i:Ambitious humans.
+i:Industrious kobolds{.kobolds}.
+i:Slaves of an efreet.
+}
+{
+d:d4 What were the miners digging for?
+i:Copper.
+i:Iron.
+i:Silver.
+i:Zinc.
+}

@@ -1,0 +1,474 @@
+[
+d:Into the woods...
+]
+{
+d:d20 Distinguishing Landmark
+i:a fruit tree
+i:a large, hollow tree
+i:a pair of trees from the same root
+i:a tree growing over a boulder
+i:a clearing with wildflowers
+i:a grassy clearing
+i:a moss-covered boulder
+i:a thicket of brambles
+i:a babbling brook
+i:a brook in a deep ravine
+i:a brook, with gentle rapids
+i:a dry creekbed
+i:a small pool at a creek's bend
+i:a patch of mushrooms
+i:an enormous mushroom
+i:a large, hollow log
+i:a large, rotting log
+i:a tree felled by lightning
+i:an old gnarled tree
+i:the stump of an enormous tree
+}
+{
+d:d20 Feature
+i:a flock of birds scatter
+i:a hawk cries
+i:a woodpecker drumming
+i:an owl hoots
+i:birds chirping
+i:a chipmunk scurrying
+i:a deer dashes away
+i:a deer watches curiously
+i:a squirrel leaps from one tree to another
+i:a wolf howls
+i:butterflies fluttering about
+i:squirrels chittering
+i:an eerie silence
+i:the breeze stops
+i:the wind blows harder
+i:a twig snaps
+i:brightly, colored berries
+i:leaves rustling
+i:the scent of flowers
+i:the smell of decay
+}
+{
+d:d10 Interesting Locations
+i:a cavern behind a waterfall
+i:a hole under a large tree
+i:a large burrow
+i:a peculiar cottage
+i:a small cave in the bank of a creek
+i:a woodsman's cabin
+i:an abandoned cabin
+i:an abandoned campsite
+i:an entrance to a rocky cave
+i:ancient ruins
+}
+{
+d:d10 Random Encounters
+i:a large bear
+i:a giant spider
+i:a pack of wolves
+i:a ghost
+i:a pair of goblin scouts
+i:an ogre
+i:a pair of outlaws
+i:an old witch
+i:a lost child
+i:a woodcutter
+}
+[
+d:Into the haunted woods...
+]
+{
+d:d20 Distinguishing Landmark
+i:a tree with rotten fruit all around its base
+i:a large, hollow tree
+i:a pair of trees from the same root
+i:a tree growing over a boulder
+i:a clearing with bare ground
+i:a clearing with an old grave marker
+i:a boulder marked with several notches
+i:a thicket of dry brambles
+i:a slow, silent stream
+i:a stream flowing quietly through a ravine
+i:a stream with barren banks
+i:a dry creekbed
+i:a foul smelling pond
+i:a patch of mushrooms
+i:the decaying carcass of a large animal
+i:a large, hollow log
+i:a large, rotting log
+i:a tree felled by lightning
+i:an old gnarled tree
+i:the stump of an enormous tree
+}
+{
+d:d20 Feature
+i:a flock of crows scatter
+i:a vulture screams
+i:a raven croaks
+i:an owl hoots
+i:a crow caws
+i:a rat scurrying
+i:a ghostly presence flees
+i:a ghostly presence watches curiously
+i:bats take to wing from a tree
+i:a wolf howls
+i:a large moth flutters about
+i:bats squeaking
+i:an eerie silence
+i:the breeze stops
+i:the wind blows harder
+i:a twig snaps
+i:the wind moans eerily
+i:a distant scream
+i:the scent of rotting flesh
+i:the smell of decay
+}
+{
+d:d10 Interesting Locations
+i:ancient burial mounds
+i:a hole under a large tree
+i:a large burrow
+i:a peculiar cottage
+i:a forgotten cemetery
+i:a pair of graves
+i:an abandoned cabin
+i:an abandoned campsite
+i:an entrance to a rocky cave
+i:ancient ruins
+}
+{
+d:d10 Random Encounters
+i:an animated skeleton
+i:a giant spider
+i:a pack of wolves
+i:a malevolent ghost
+i:a restless ghost
+i:a pair of zombies
+i:a pair of graverobbers
+i:an old witch
+i:a lost child
+i:a gravedigger
+}
+[
+d:Into the enchanted woods...
+]
+{
+d:d20 Distinguishing Landmark
+i:a fruit tree
+i:a large, hollow tree
+i:a pair of trees from the same root
+i:a tree growing over a boulder
+i:a clearing with wildflowers
+i:a grassy clearing
+i:a moss-covered boulder
+i:a thicket of flowering bushes
+i:a babbling brook
+i:a brook in a deep ravine
+i:a brook, with gentle rapids
+i:a creek with flowers on its bank
+i:a small pool at a creek's bend
+i:a patch of mushrooms
+i:an enormous mushroom
+i:a large, hollow log
+i:a large log covered in moss
+i:a tree felled by lightning
+i:an old gnarled tree
+i:the stump of an enormous tree
+}
+{
+d:d20 Feature
+i:a flock of birds scatter
+i:a hawk cries
+i:a woodpecker drumming
+i:an owl hoots
+i:birds chirping
+i:a chipmunk scurrying
+i:a deer dashes away
+i:a deer watches curiously
+i:a squirrel leaps from one tree to another
+i:a wolf howls
+i:butterflies fluttering about
+i:squirrels chittering
+i:distant music from a harp
+i:distant music from a flute
+i:a warm breeze blows
+i:a twig snaps
+i:brightly, colored berries
+i:leaves rustling
+i:the scent of flowers
+i:pixies dancing in the distance
+}
+{
+d:d10 Interesting Locations
+i:a cavern behind a waterfall
+i:a house under a large tree
+i:a large burrow with a door
+i:a peculiar cottage
+i:a small cave in the bank of a creek
+i:a house up in a tree
+i:a well-maintained cottage
+i:a ring of mushrooms
+i:an entrance to a rocky cave
+i:ancient ruins
+}
+{
+d:d10 Random Encounters
+i:a large bear
+i:a giant spider
+i:a pack of wolves
+i:a ghost
+i:a pair of goblin scouts
+i:several tiny faeries
+i:a dancing satyr
+i:an old witch
+i:a lost child
+i:a wood elf
+}
+[
+d:What's interesting in the forest... ?
+]
+{
+d:d10 What's in the cave/cavern?
+i:a bear's lair
+i:lots of bats
+i:many spider webs
+i:a troll's stash
+i:an ogre's lair
+i:some goblins' hideout
+i:bare rock
+i:unidentifiable remains
+i:outlaw's hideout
+i:a strange hermit
+}
+{
+d:d6 What's in the hole/burrow?
+i:a snake
+i:a spider
+i:a badger
+i:earthworms
+i:a centipede
+i:unusual fungus
+}
+{
+d:d6 Who lives in the peculiar cottage?
+i:a lonely old woman
+i:a reclusive shapeshifter
+i:an eccentric healer
+i:a beautiful witch
+i:a horrible witch
+i:an outcast dwarf
+}
+{
+d:d6 Who lived in the abandoned cabin?
+i:a lonely old woman
+i:a reclusive scholar
+i:an eccentric healer
+i:a poor woodcutter
+i:a fur trader
+i:a dwarf prospector
+}
+{
+d:d6 Who lives in the abandoned cabin now?
+i:an owlbear
+i:an ogre
+i:a troll
+i:a mad witch
+i:a paranoid shapeshifter
+i:restless ghosts
+}
+{
+d:d10 Who built the ancient ruins?
+i:dwarvish miners
+i:a wood elf king
+i:a high elf prince
+i:a dragon cult
+i:a death cult
+i:shadow monks
+i:a long-dead emperor
+i:a forgotten king
+i:an evil queen
+i:a dark sorcerer
+}
+{
+d:d10 Who lives in the ancient ruins now?
+i:a dwarf prospector
+i:a wood elf druid
+i:poisonous snakes
+i:giant spiders
+i:hungry zombies
+i:restless ghosts
+i:a handful of ogres
+i:some irritable trolls
+i:a pair of manticores
+i:a dragon
+}
+[
+d:What's interesting in the haunted forest... ?
+]
+{
+d:d10 What's in the cave/cavern?
+i:several skeletons
+i:lots of bats
+i:many spider webs
+i:a wight's stash
+i:a ghoul's lair
+i:the hideout of a killer on the run
+i:bare rock
+i:unidentifiable remains
+i:some outlaws' hideout
+i:a creepy hermit
+}
+{
+d:d6 What's in the hole/burrow?
+i:a snake
+i:a spider
+i:slimy mold
+i:maggots
+i:a severed limb
+i:unusual fungus
+}
+{
+d:d6 Who lives in the peculiar cottage?
+i:a lonely old woman
+i:a reclusive shapeshifter
+i:an eccentric healer
+i:a beautiful witch
+i:a horrible witch
+i:a cranky old priest
+}
+{
+d:d6 Who lived in the abandoned cabin?
+i:a lonely old woman
+i:a reclusive scholar
+i:an eccentric healer
+i:a poor woodcutter
+i:a fur trader
+i:a dwarf prospector
+}
+{
+d:d6 Who resides in the abandoned cabin now?
+i:a death hound
+i:a handful of zombies
+i:a paranoid shapeshifter
+i:a mad witch
+i:a malevolent ghost
+i:restless ghosts
+}
+{
+d:d10 Who built the ancient ruins?
+i:dwarvish miners
+i:a wood elf king
+i:an ancient elf
+i:a demonic cult
+i:a death cult
+i:shadow monks
+i:a long-dead emperor
+i:a forgotten king
+i:an evil queen
+i:a dark sorcerer
+}
+{
+d:d10 Who resides in the ancient ruins now?
+i:a brilliant necromancer
+i:starved ghouls
+i:undead guardians
+i:giant spiders
+i:so many zombies
+i:restless ghosts
+i:a cursed mummy
+i:an aberrant presence
+i:a pair of manticores
+i:a dracolich
+}
+{
+d:d10 Who is in the ancient burial mound?
+i:the remains of an ancient war chief
+i:the remains of a tribal shaman
+i:the remains of an ancient war chief
+i:a barrow-wight
+i:an ancient demilich
+i:the remains of ancient monks
+i:twisted humanoid bones
+i:malevolent ghosts
+i:zombie warriors
+i:huge, disorganized piles of bones
+}
+{
+d:d10 What is in the grave?
+i:the corpse of a young maiden
+i:the corpse of a child
+i:the corpse of an old man
+i:the corpse of an old woman
+i:a fallen adventurer, hastily buried
+i:a dismembered corpse
+i:too many maggots
+i:a pile of bones
+i:a newly-made vampire
+i:an empty coffin
+i:What's interesting in the enchanted forest... ?
+}
+{
+d:d10 What's in the cave/cavern?
+i:a bear's lair
+i:lots of bats
+i:many spider webs
+i:a troll's stash
+i:an ogre's lair
+i:some goblins' hideout
+i:fragrant mushrooms
+i:a lingering ghost
+i:some lizardfolk's lair
+i:the remnant's of a satyr's feasting
+}
+{
+d:d6 Who lives in the burrow/under the tree?
+i:intelligent rabbits
+i:a giant talking spider
+i:a talking badger
+i:a gnomish illusionist
+i:a gnomish prankster
+i:a suspicious sprite
+}
+{
+d:d6 Who lives up in the tree?
+i:a giant owl
+i:a talking raven
+i:a wood elf ranger
+i:a high elf sentinel
+i:a band of friendly pixies
+i:several nervous sprites
+}
+{
+d:d6 Who lives in the peculiar/well-maintained cottage?
+i:a lonely old gnome
+i:a reclusive shapeshifter
+i:a gnomish healer
+i:a beautiful witch
+i:a horrible witch
+i:an outcast dwarf
+}
+{
+d:d10 Who built the ancient ruins?
+i:a great goblin king
+i:a wood elf king
+i:a high elf prince
+i:a dragon cult
+i:the god of wine himself
+i:a lizardfolk tribe
+i:a long-dead emperor
+i:a forgotten king
+i:an evil queen
+i:a dark sorcerer
+}
+{
+d:d10 Who lives in the ancient ruins now?
+i:a high elf guardian
+i:a wood elf druid
+i:a pack of blink dogs
+i:giant spiders
+i:restless ghosts
+i:hundreds of pixies
+i:some wary centaurs
+i:a displacer beast
+i:a pair of manticores
+i:a dragon
+}

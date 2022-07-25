@@ -1,0 +1,30 @@
+{
+d:d4 The torturer is...
+i:The bastard son of a noble house{.nobles,.noble houses}.
+i:A priest with a puritanical agenda.
+i:A horrible sadist.
+i:A wicked little man.
+}
+{
+d:d4 The torturer is looking to...
+i:Impress his liege with efficient confessions.
+i:Make himself feel powerful.
+i:Break a particularly willful prisoner.
+i:Frighten someone with grisly tales.
+}
+{
+d:d6 The torturer carries...
+i:A large knight and a scourge{.knights}.
+i:A leatherbound set of blades, hooks, and prongs.
+i:Several strange potions and poisons{.potions}.
+i:A trophy taken from a tortured prisoner.
+i:A pocket-sized prayer book.
+i:A flask of spirits.
+}
+[
+d:NAME
+]
+{
+d:d1 The Torturer is called... 
+i:$fantasy
+}

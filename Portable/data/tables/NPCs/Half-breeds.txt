@@ -1,0 +1,90 @@
+{
+d:d6 Parentage: The person’s…
+i:Mother was a human and father was something else.
+i:Mother was at least half-human and father was something else.
+i:Father was a human and mother was something else.
+i:Father was at least half-human and mother was something else.
+i:Mother and father were both half-human.
+i:Parents died or abandoned him/her long ago without any knowledge.
+}
+{
+d:d6 Bloodline (Common): The person is half (or some other fraction)...
+i:Dragon.
+i:Elf.
+i:Fiend.
+i:Giant.
+i:Ogre.
+i:Orc.
+}
+{
+d:d6 Bloodline (Uncommon): The person is half (or some other fraction)...
+i:Celestial.
+i:Dwarf.
+i:Elemental.
+i:Gnoll.
+i:Shadowfolk.
+i:Troll.
+}
+{
+d:d6 Childhood: The person grew up among…
+i:Peaceful humans (d6): 1. crafters; 2. farmers; 3. fishers; 4. herders; 5. miners; 6. religious zealots.
+i:Violent humans (d6): 1. bandits; 2. barbarians; 3. cultists; 4. mercenaries; 5. pirates; 6. thieves.
+i:Nomadic humans (d6): 1. acting troupe; 2. circusfolk; 3. herders; 4. minstrels; 5. pilgrims; 6. traders.
+i:The people of his/her non-human parent.
+i:Misfits or savages of several races.
+i:Peaceful people of several races.
+}
+{
+d:d6 Coming of age: The person experienced…
+i:A heartbreaking romantic rejection.
+i:The death of a parent or mentor.
+i:The destruction of his/her home.
+i:A harsh sentence for committing a crime.
+i:A wrongful criminal conviction.
+i:Taking part in a political or religious revolution.
+}
+{
+d:d6 Training: The person is a/an...
+i:Bard or circus performer.
+i:Knight or sellsword.
+i:Druid or mystic.
+i:Priest or mage.
+i:Thief or swindler.
+i:Warrior or hunter.
+}
+{
+d:d6 Skill: The person is particularly good at...
+i:Fighting.
+i:Sneaking.
+i:Lying.
+i:Persuasion.
+i:Negotiation.
+i:Making friends.
+}
+{
+d:d6 Quirk/flaw: To a fault, the person...
+i:Makes enemies easily.
+i:Feels nervous talking to strangers.
+i:Falls in and out of love frequently.
+i:Compulsively palms small objects.
+i:Can’t resist making sarcastic remarks.
+i:Mistrusts members of a particular race (d6): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. humans; 6. orcs.
+}
+{
+d:d6 Possessions: The person is carrying a/an...
+i:Threadbare handkerchief or banner.
+i:Old, well-used weapon.
+i:Heirloom from a grandparent.
+i:Ancient scroll or book.
+i:Unusual or enchanted stone.
+i:Knife hidden in his/her boot or belt.
+}
+{
+d:d6 Ambition: The person would like to…
+i:Solve a mystery surrounding his/her family.
+i:Gain revenge against a bitter rival.
+i:Find a place he/she can call home.
+i:Earn fame and fortune.
+i:Forget the sins of his/her past.
+i:Win the favor of a romantic interest.
+}

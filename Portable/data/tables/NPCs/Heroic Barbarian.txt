@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Desert
+i:Frozen land
+i:Mountain region
+i:Remote homestead
+i:Vast grassland
+i:Wild jungle
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or guardian
+i:Farmer or herder
+i:Gladiator or outlaw
+i:Hunter or huntsman
+i:Mountaineer or guide
+i:Sellsword or soldier
+}
+{
+d:d6 You take pride in…
+i:Athletic competitions
+i:Foraging
+i:Physical endurance
+i:Slaying monsters
+i:Tracking beasts or foes
+i:Weapon maintenance
+}
+{
+d:d6 You need improvement on…
+i:Campfire cooking
+i:Controlling your temper
+i:Holding your liquor
+i:Personal hygiene
+i:Table manners
+i:Vocabulary
+}
+{
+d:d6 You became an adventurer to…
+i:Avoid a family obligation
+i:Escape from execution
+i:Locate a legendary beast
+i:Prove your mettle after failure
+i:Pursue fame and fortune
+i:Gain vengeance upon old foe
+}
+{
+d:d6 Your primary weapon is your…
+i:Flail or morningstar
+i:Greataxe or battleaxe
+i:Greatsword or longsword
+i:Longspear or spear
+i:Maul or warhammer
+i:Scimitar or falchion
+}
+{
+d:d6 You are also skilled with your…
+i:Bare fists
+i:Hunting knife or javelins
+i:Handaxes or blowgun
+i:Longbow or shortbow
+i:Shortsword or greatclub
+i:Wrestling moves
+}
+{
+d:d6 You are carrying a/an…
+i:Famous ancestor's weapon
+i:Hunting trap
+i:Lucky charm
+i:Painful memory
+i:String of teeth or ears
+i:Trophy from fallen enemy
+}
+{
+d:d6 You are wearing a/an/some…
+i:Loin cloth
+i:Armor decorated with bones
+i:Ritualistic scar or tattoo
+i:Patched leather armor
+i:Thick hide armor
+i:Warm furs
+}
+{
+d:d6 You have a keen interest in…
+i:Comic tales and jokes
+i:Learning people's secrets
+i:Fine wines, ales, and spirits
+i:Myths and tall tales
+i:Singing or playing an instrument
+i:Woodcarving or pottery
+}

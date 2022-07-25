@@ -1,0 +1,84 @@
+{
+d:d20 Scale Color: The dragonborn has...
+i:Black scales
+i:Red scales
+i:Blue scales
+i:White scales
+i:Green scales
+i:Silvery scales
+i:Bronze scales
+i:Copper scales
+i:Brass scales
+i:Golden scales
+i:Scarlet scales
+i:Rust scales
+i:Copper-green scales
+i:Dirty Brown scales
+i:Purple scales
+i:Grey scales
+i:Crimson scales
+i:Iron scales
+i:Golden Brown scales
+i:Pink scales
+}
+{
+d:d6 Eye Color: The dragonborn has...
+i:Brilliant green eyes
+i:Dark green eyes
+i:Glowing red eyes
+i:Deep black eyes
+i:Dark brown eyes
+i:Vibrant green eyes
+}
+{
+d:d10 Mannerisms: The dragonborn has...
+i:A habit of nodding slowly while listening
+i:A strong stance
+i:A haughty laugh
+i:A trail of smoke escaping a nostril
+i:A humorless visage
+i:A habit of grunting
+i:A touch of sorrow in his or her voice
+i:A habit of pacing
+i:A habit of scratching the back of the neck
+i:A tendency to be easily distracted
+}
+{
+d:d12 The dragonborn is...
+i:A powerful enchanter or enchantress
+i:A devoted guardian
+i:An adept healer
+i:A devoted priest
+i:A mystic seer
+i:A patient and wise sage
+i:A highly skilled armorer
+i:A watchful ranger
+i:A fierce warrior
+i:A masterful bladedancer
+i:An enchanting musician
+i:A powerful sorcerer
+}
+{
+d:d8 The dragonborn is looking to...
+i:Track an unnatural beast
+i:Investigate the disappearance of a comrade
+i:Re-establish an ancestral claim
+i:Regain respect from its clan
+i:Guard a sacred site from outsiders
+i:Find some knowledge about an ancient event or place
+i:Find one of the last copies of a legendary book
+i:Protect the secrets of his or her people at all costs
+}
+{
+d:d10 The dragonborn carries...
+i:An ancient blade
+i:An ancient staff
+i:A unique gem or piece of jewelry
+i:A sword etched with ancient runes
+i:A tome of mystic lore
+i:An ancient wand
+i:A finely-crafted spear or staff
+i:A heavy steel sword
+i:Several vials of healing potions
+i:A sword enchanted with the might of an ancient dragon
+}

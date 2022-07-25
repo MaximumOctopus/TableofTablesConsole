@@ -1,0 +1,82 @@
+{
+d:d20 Profession: The healer is...
+i:A devoted acolyte.
+i:A silent acolyte.
+i:A skilled alchemist{.alchemists}.
+i:A religious fanatic.
+i:A cloistered zealot.
+i:A talkative herbalist{.herbalism}.
+i:A patient herbalist{.herbalism}.
+i:A devout knight{.knights}.
+i:A soft-spoken monk.
+i:An academy-trained physician.
+i:An eager student.
+i:A self-taught shaman.
+i:A medical scholar.
+i:A practiced surgeon.
+i:A battle-tested warpriest.
+i:A quirky witch-doctor{.witches}.
+i:A pompous priest or priestess.
+i:A nervous miracle worker.
+i:A silver-tongued peddler.
+i:A sharp-witted potionmaker{.potions}.
+}
+{
+d:d10 Mannerism: The healer has...
+i:A likable grin.
+i:Kind eyes.
+i:Alert eyes.
+i:A sympathetic smile.
+i:An arrogant smirk.
+i:A thoughtful frown.
+i:A humorless visage.
+i:An easy laugh.
+i:A habit of sighing.
+i:A habit of muttering to himself or herself.
+}
+{
+d:d10 Apparel: The healer wears...
+i:A threadbare robe.
+i:A sturdy wool cloak.
+i:A hooded traveler's cloak.
+i:A cotton robe emblazoned with the symbol of a god.
+i:A faded cotten robe.
+i:A clean silk robe with simple embroidery.
+i:A leather vest and a traveler's cloak.
+i:Boiled leather armor.
+i:Patchwork armor of leather and steel.
+i:A chainmail shirt.
+}
+{
+d:d10 Possessions: The healer carries...
+i:A clean, sharp knife.
+i:A wooden staff.
+i:A sturdy cudgel.
+i:A needle, thread, and some healing balms.
+i:A pocketbook of sacred texts and prayers.
+i:A notebook of hand-written potion recipes{.potions}.
+i:A variety of healing potions and bandages{.potions}.
+i:Scales, glass vials, and delicate tools.
+i:A small field guide to diagnosing illnesses.
+i:A wineskin{.wines}.
+}
+{
+d:d10 Goal: The healer is looking for...
+i:The translation of an ancient text.
+i:Individuals in need of his or her services.
+i:Someone to purchase a potion or two{.potions}.
+i:A dangerous substance for a potent elixir.
+i:A location where a rare herb grows{.herbalism}.
+i:Proof of a god’s existence.
+i:The recipe for a legendary potion{.potions}.
+i:A chance to earn a little coin.
+i:A chance to tell a tale of woe.
+i:The bottom of a goblet.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

@@ -1,0 +1,210 @@
+{
+d:d10 The pirates' ship is...
+i:Little more than a raft.
+i:A galley.
+i:A longship.
+i:A catamaran.
+i:A cog.
+i:A hulk.
+i:A carrack.
+i:A caravel.
+i:A schooner.
+i:A dreadnought.
+}
+{
+d:d8 Presently, the pirates’ ship is...
+i:Laden with treasure.
+i:Full of stolen goods.
+i:Well-stocked with provisions.
+i:In tip-top shape.
+i:“On loan” to some other pirates.
+i:In need of repair.
+i:Barely staying afloat.
+i:Resting beneath the waves.
+}
+{
+d:d20 The ship's banner features...
+i:A skull.
+i:A pair of crossed bones.
+i:A skull and cross bones.
+i:A skeletal hand.
+i:A skeletal fish.
+i:A flaming skull.
+i:A clenched fist.
+i:A ghost.
+i:A mermaid.
+i:A pair of crossed cutlasses.
+i:A dagger.
+i:A bloody dagger.
+i:An albatross.
+i:A pelican.
+i:A whale.
+i:An octopus.
+i:A swordfish.
+i:A crab.
+i:A sea turtle.
+i:A big tuna.
+}
+{
+d:d12 The ship's mascot is...
+i:1-4. A parrot:
+i:1. A budgie (fond of saying "Ye scalawags!" or "Aye, Captain!").
+i:2. A cockatoo (fond of saying "Pieces of eight!" or "It's shark week!").
+i:3. A conure (fond of saying "Dead men tell no tales!" or "Ahoy!").
+i:4. A macaw (fond of saying "Show me the booty!" or "Land, ho!"). 5-8. A monkey{.monkeys}: 5. A capuchin monkey (with or without an eyepatch){.monkeys}.
+i:6. A macaque (with or without a vest).
+i:7. A spider monkey (with or without a bandanna){.monkeys}.
+i:8. A tamarin (with or without mustaches).
+i:9. An old turtle.
+i:10. A lazy sea-faring cat{.cats}.
+i:11. A pot-belly pig.
+i:12. A high-energy herding dog.
+}
+{
+d:d12 The ship's captain is...
+i:A dangerous megalomaniac.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:A talented thief{.thieves}.
+i:A member of a prominent family.
+i:A ruthless killer.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A dashing swashbuckler.
+i:A brutish thug.
+i:An old sailor{.sailors}.
+i:A celebrated naval hero.
+}
+{
+d:d8 The crew's attitude toward their captain is...
+i:Adoring and loyal.
+i:Friendly and pleased.
+i:Respectful and business-like.
+i:Mercenary and eager.
+i:Terrified and tight-lipped.
+i:Disappointed and indifferent.
+i:Restless and rebellious.
+i:Angry and mutinous.
+}
+{
+d:d10 Crewmembers often sport matching...
+i:Puffy shirts.
+i:Breeches.
+i:Scarves.
+i:Vests.
+i:Bandannas.
+i:Boots.
+i:Tattoos.
+i:Hats.
+i:Scars.
+i:Mustaches.
+}
+{
+d:d8 The crew's goals include (captain and crewmembers could have different goals)...
+i:Discovery of a legendary hidden treasure.
+i:Domination of the region's maritime trade.
+i:Revenge against a naval hero.
+i:Revenge against a rival pirate crew.
+i:Rebellion against the dominant merchant traders{.merchant caravans,.merchant guilds}.
+i:A wealthy and peaceful retirement.
+i:Violence to slake their bloodlust.
+i:Drinking all the rum.
+}
+{
+d:d10 Crewmembers typically arm themselves with...
+i:Belaying pins (wooden clubs).
+i:Throwing knives.
+i:Over-sized daggers.
+i:Serrated daggers.
+i:Cutlasses.
+i:Clubs and daggers.
+i:Brass knuckles.
+i:Bare fists.
+i:Nets and tridents.
+i:Harpoons.
+}
+{
+d:d10 The pirate crew typically fights with...
+i:Swarm tactics.
+i:Hit-and-run tactics.
+i:Ambush tactics.
+i:Choreographed maneuvers.
+i:Unpredictable maneuvers.
+i:Lots of smiles and jokes.
+i:Lots of fancy footwork.
+i:Lots of screaming and shouting.
+i:Kicking and stomping.
+i:Lots of head-butting.
+}
+{
+d:d10 The crew's headquarters is hidden in or near...
+i:A rugged seaside cliff.
+i:A hidden lagoon.
+i:A remote island.
+i:A swampy river mouth{.swamp}.
+i:A coastal cave.
+i:A tavern{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:A warehouse or shipyard.
+i:A poor fishing village
+i:An old lighthouse.
+}
+{
+d:d12 The crew is notorious for...
+i:Never leaving survivors.
+i:Feeding captives to sharks.
+i:Tattooing or branding captives.
+i:Scalping captives.
+i:Flaying captives.
+i:Burning seaside villages.
+i:Plundering the ships of a wealthy tyrant.
+i:Using a lot of explosives.
+i:Convening with ghosts.
+i:Romantic escapades.
+i:Singing bawdy songs.
+i:Drinking too much rum.
+}
+[
+d:INDIVIDUAL PIRATES
+]
+{
+d:d12 Tattoo: The pirate has...
+i:A dagger tattoo.
+i:An anchor tattoo.
+i:A skull tattoo.
+i:A pair of crossed bones tattoo.
+i:A snake tattoo.
+i:A fish tattoo.
+i:A spider web tattoo{.spiders}.
+i:An octopus tattoo.
+i:A whale tattoo.
+i:A lobster tattoo.
+i:A mermaid tattoo.
+i:A dragon tattoo{.dragons}.
+}
+{
+d:d12 Distinguishing feature: The pirate has...
+i:A nose ring.
+i:Shiny leather boots.
+i:Gold teeth.
+i:An oversized dagger in the belt.
+i:A heavy gold chain around the neck.
+i:A wide-brimmed hat.
+i:An eyepatch.
+i:A long black beard.
+i:A maniacal laugh.
+i:A long, hooked nose.
+i:An open shirt and a very hairy chest.
+i:Extravagant mustaches.
+}
+[
+d:NAME
+]
+{
+d:d0 The pirates are called... 
+i:$fantasy
+i:$fantasy
+i:$fantasy
+i:$fantasy
+i:$fantasy
+}

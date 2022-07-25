@@ -1,0 +1,119 @@
+{
+d:d12 The priest is...
+i:A devoted acolyte.
+i:A dogmatic chaplain.
+i:A wealthy chaplain.
+i:A grim exorcist.
+i:An adept healer{.healers}.
+i:A road-weary pilgrim.
+i:A charismatic preacher.
+i:An eccentric scholar.
+i:A disillusioned scholar.
+i:A battle-tested warpriest.
+i:A sharp-witted witch-hunter{.witches}.
+i:An outspoken zealot.
+}
+{
+d:d12 The priest has...
+i:A likable grin.
+i:A hearty laugh.
+i:An arrogant smirk.
+i:A haughty sneer.
+i:A humorless visage.
+i:A habit of sighing.
+i:A sad look on his or her face.
+i:A kind look on his or her face.
+i:A habit of pacing.
+i:A habit of scratching his or her chin.
+i:A habit of licking his or her lips.
+i:A habit of muttering under his or her breath.
+}
+{
+d:d12 The priest is particularly knowledgeable regarding...
+i:Alchemical curatives.
+i:Creation myths.
+i:Crusades and religious wars.
+i:Demonology.
+i:Healing arts.
+i:The journey of the soul.
+i:The laws of the gods.
+i:Sacred rites.
+i:Sacred texts.
+i:Saints and martyrs.
+i:The temple hierarchy and bureaucracy.
+i:Undead creatures.
+}
+{
+d:d6 The priest has recently been praying for...
+i:The death of an enemy or rival.
+i:The miraculous recovery of a friend or ally.
+i:Evil tidings and omens to pass over him or her.
+i:Strength against temptation.
+i:Wisdom in making an important decision.
+i:Forgiveness for his or her past sins.
+}
+{
+d:d12 The priest wears...
+i:A threadbare robe.
+i:A sturdy wool cloak.
+i:A comfortable linen robe.
+i:A robe that smells of incense.
+i:A cotton robe with the symbol of a god embroidered on the lapel.
+i:A clean silk robe with simple embroidery.
+i:An expensive silk robe with elaborate gold embroidery.
+i:Boiled leather armor.
+i:Patchwork armor of leather and steel.
+i:Armor that smells of scented, holy oils.
+i:Chainmail armor with a priest’s hood.
+i:Chainmail emblazoned with the symbol of a god.
+}
+{
+d:d12 The priest carries...
+i:A well-used cudgel.
+i:A shiny new mace.
+i:A walking staff.
+i:A staff with a crook.
+i:A ceremonial dagger.
+i:A prominently displayed holy symbol (d6): 1. bejeweled; 2. gilded; 3. iron; 4. silver; 5. steel; 6. wooden.
+i:A pocketbook of sacred texts.
+i:A notebook of hand-written prayers and devotions.
+i:A variety of healing potions and salves{.potions}.
+i:A set of prayer beads.
+i:A heavy ring of keys.
+i:A wineskin{.wines}.
+}
+{
+d:d12 The priest prefers to drink...
+i:Ale (d6): 1. amber; 2. brown; 3. red; 4. pale; 5. wheat; 6. white.
+i:Brandy.
+i:Lager.
+i:Mead.
+i:Milk.
+i:Pilsner
+i:Porter or stout.
+i:Tea (d4): 1. black; 2. green; 3. herbal{.herbalism}; 4. sweetened.
+i:Red wine{.wines}.
+i:Sour wine{.wines}.
+i:White wine{.wines}.
+i:Water.
+}
+{
+d:d10 The priest is looking for...
+i:New converts.
+i:The translation of an ancient manuscript.
+i:Heretics.
+i:Sinners.
+i:Donations.
+i:Relics and rare lore.
+i:Proof of a god’s existence.
+i:The location of a ruined temple.
+i:An opportunity to tell a fable.
+i:The bottom of a goblet.
+}
+[
+d:NAME
+]
+{
+d:d1 The Priest is called... 
+i:$fantasy
+}

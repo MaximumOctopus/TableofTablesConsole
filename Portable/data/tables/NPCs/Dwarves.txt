@@ -1,0 +1,72 @@
+{
+d:d10 The dwarf is...
+i:A greedy prospector.
+i:A hard-working miner{.mines}.
+i:A talented weaponsmith{.legendary weapons}.
+i:A meticulous gemcutter{gemstones}.
+i:A highly-skilled armorer.
+i:A capable stonemason.
+i:A battle-hardened soldier{.soldiers}.
+i:A fearsome berserk warrior.
+i:A wily treasure hunter.
+i:A short-tempered circus performer.
+}
+{
+d:d10 The dwarf’s beard is...
+i:Snowy white.
+i:Stony grey.
+i:Fiery red.
+i:Black as coal.
+i:Earthy brown.
+i:Tangled.
+i:Braided.
+i:Down to the floor.
+i:Neatly trimmed.
+i:Magnificent.
+}
+{
+d:d6 The dwarf is looking to...
+i:Re-establish an ancestral claim.
+i:Find a new source for precious gems{gemstones}.
+i:Find some knowledge about an ancient event or place.
+i:Drink some ale and swap tales of treasure.
+i:Drink some ale and sing a bawdy song.
+i:Drink some ale and start a fight.
+}
+{
+d:d12 The dwarf wears...
+i:A traveler's cloak with a black hood.
+i:A traveler's cloak with a blue hood.
+i:A traveler's cloak with a red hood.
+i:A traveler's cloak with a grey hood.
+i:A traveler's cloak with a gold hood.
+i:A leather baldric with a hard leather cap.
+i:Shining, silvered chainmail.
+i:Chainmail armor, patched with boiled leather.
+i:A burnished breastplate with an open-faced steel helm.
+i:A breastplate emblazoned with runes.
+i:Scale armor made of blackened steel.
+i:Nearly impenetrable plate armor.
+}
+{
+d:d12 The dwarf carries...
+i:An old battleaxe with a razor sharp edge.
+i:A highly polished warhammer and a steel shield
+i:A huge greataxe and some throwing axes.
+i:A rune-carved sword and an incomplete map.
+i:Several handaxes and a crossbow.
+i:A heavy battleaxe and wooden shield.
+i:A hammer and sack full of climbing gear.
+i:A pick-ax and an old map.
+i:A satchel of potions, tonics, and remedies{.potions}.
+i:A book of archaic earth magic and a bundle of notes.
+i:A knife, some lockpicks, and a lamp.
+i:A pair of magnifying glasses and a set of scales.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Fishing village
+i:Large city
+i:Mining town
+i:Farming village
+i:Wild lands
+}
+{
+d:d6 In the past, you were a/an…
+i:Charlatan or fortune teller
+i:Circus performer or magician
+i:Farmer or herder
+i:Hermit or peddler
+i:Sage or acolyte
+i:Weaver or woodcarver
+}
+{
+d:d6 You take pride in…
+i:Brewing potions
+i:Your eccentric diet
+i:Discovering ancient secrets
+i:Your pristine handwriting
+i:Speaking with ghosts
+i:Spell duels
+}
+{
+d:d6 You need improvement on…
+i:Complex rituals
+i:Interpreting dreams
+i:Drug addiction
+i:Getting more sleep
+i:Social anxiety
+i:Reading signs and omens
+}
+{
+d:d6 You became an adventurer to…
+i:Avoid execution
+i:Achieve conquest and power
+i:Win the love of a great beauty
+i:Message from your patron
+i:Pursue fame and fortune
+i:Gain vengeance upon an old foe
+}
+{
+d:d6 Your favorite spells are/involve…
+i:Divinations
+i:Charms
+i:Hexes and curses
+i:Pyromancy
+i:Illusions and tricks
+i:Summoning
+}
+{
+d:d6 You struck a bargain with a/an…
+i:Capricious archfey
+i:Conniving fiend
+i:Cruel archfey
+i:Destructive fiend
+i:Nightmarish aberration
+i:Shadowy presence
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Alchemy
+i:Astrology
+i:Demonology
+i:Local history
+i:Poisons
+i:Necromancy
+}
+{
+d:d6 You are carrying a/an/the…
+i:Leatherbound tome
+i:Hefty rod
+i:Rune-carved dagger
+i:Serpentine dagger
+i:Serrated dagger
+i:Skin-covered tome
+}
+{
+d:d6 You have a keen interest in…
+i:Amorous pursuits
+i:Collecting bones or pelts
+i:Gourmet cooking
+i:Learning people's secrets
+i:Myths and tall tales
+i:Writing poetry
+}

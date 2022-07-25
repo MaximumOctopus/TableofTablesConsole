@@ -1,0 +1,122 @@
+{
+d:d8 The sellsword is armored in...
+i:Exotic robes.
+i:Leather armor.
+i:Studded leather armor.
+i:Hide armor
+i:Ringmail.
+i:Chainmail.
+i:Scale armor.
+i:Plate armor.
+}
+{
+d:d6 The sellsword’s armor is...
+i:Shiny and new.
+i:In excellent condition.
+i:Obviously repaired, but serviceable.
+i:Covered in dings and dents.
+i:Dirty and well-worn.
+i:Barely held together.
+}
+{
+d:d12 The sellsword is wielding...
+i:A longsword.
+i:A longsword and a shield.
+i:Two shortswords.
+i:A shortsword and a shield.
+i:A bastard sword.
+i:A greatsword.
+i:A heavy flail.
+i:A morningstar.
+i:A huge axe.
+i:A warhammer.
+i:A scimitar.
+i:A scimitar and a shield.
+}
+{
+d:d8 The sellsword fights with...
+i:Hit-and-run tactics.
+i:Making a direct assault.
+i:Fancy footwork.
+i:Unpredictable lurches.
+i:Masterful combat maneuvers.
+i:No mercy.
+i:Lots of taunts and jeers.
+i:Dirty tactics.
+}
+{
+d:d12 The sellsword is...
+i:A well-trained soldier{.soldiers}.
+i:A self-taught militia veteran.
+i:A veteran of gladiatorial combat{.gladiators}.
+i:A veteran of warfare.
+i:A prisoner of war.
+i:A political prisoner.
+i:The son of a poor man.
+i:A drunk.
+i:A fugitive criminal.
+i:A former pirate.
+i:A de-frocked priest.
+i:A favorite among the ladies.
+}
+{
+d:d8 The sellsword fights for...
+i:The love of gold.
+i:Pure bloodlust.
+i:A chance to deal out sadistic torment.
+i:A chance at vengeance.
+i:Gold to repay debts.
+i:Gold to aid a family member.
+i:Gold to secure a marriage.
+i:Fortune and glory.
+}
+{
+d:d12 On the sellsword’s face is...
+i:An eye-catching mole.
+i:A garish earring.
+i:An empty eye socket.
+i:A grisly scar.
+i:A haughty sneer.
+i:A look of sadness.
+i:A stupid grin.
+i:An eager grin.
+i:A frame of long, beautiful long hair.
+i:Ferocious sideburns.
+i:An unruly beard.
+i:An intimidating mustache.
+}
+{
+d:d12 The sellsword carries...
+i:A blade with a gem{gemstones} embedded in the pommel.
+i:A blade with soft leather tassels dangling from the pommel.
+i:A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+i:A blade with a gently curved hilt.
+i:A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders{.spiders}; 6. wolves.
+i:A blade made of blackened steel.
+i:A highly polished blade.
+i:A blade with runes carved into it.
+i:Arrows/bolts tipped with black steel.
+i:Arrows/bolts with bronzed tips.
+i:Arrows/bolts fletched with crow feathers.
+i:Arrows/bolts fletched with peacock feathers.
+}
+{
+d:d10 The sellsword is seeking...
+i:Accomplices on a mission.
+i:A fugitive on whom a bounty has been declared.
+i:A song to serve as a distraction from personal troubles.
+i:A long lost friend.
+i:The return of something stolen.
+i:Revenge against a bitter rival.
+i:Steady employment.
+i:A big pay day.
+i:Traveling companions.
+i:Drinking companions.
+}
+[
+d:NAME
+]
+{
+d:d1 The Sellsword is called... 
+i:$fantasy
+}

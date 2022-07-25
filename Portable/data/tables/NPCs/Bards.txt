@@ -1,0 +1,169 @@
+{
+d:d20 The bard is...
+i:A talented singer.
+i:A graceful dancer.
+i:A virtuoso musician.
+i:A captivating storyteller.
+i:A brilliant poet.
+i:A scholar of history.
+i:A serious actor.
+i:A dashing swashbuckler.
+i:A wise-cracking magician.
+i:A bold knife-thrower.
+i:A slippery con artist.
+i:A lovable jack-of-all-trades.
+i:A duplicitous spy.
+i:A witty satirist.
+i:A gracious knight{.knights}.
+i:An enchanting dancer.
+i:A mysterious foreigner.
+i:A rowdy jester.
+i:A master of riddles.
+i:A terrible singer.
+}
+{
+d:d20 Always prepared to make a melody or rhythm, the bard carries his/her...
+i:Bagpipes.
+i:Bells.
+i:Castanets.
+i:Cymbals.
+i:Drum.
+i:Fiddle.
+i:Flute.
+i:Harmonica.
+i:Harp.
+i:Lute.
+i:Lyre.
+i:Mandolin.
+i:Ocarina.
+i:Panpipes.
+i:Shawm.
+i:Tabor.
+i:Tambourine.
+i:Trumpet.
+i:Viol.
+i:Zither.
+}
+{
+d:d10 The bard’s musical instrument is...
+i:A gift from a wealthy patron.
+i:A family heirloom.
+i:Very old, but well maintained.
+i:An old, worn-out thing.
+i:In need of some repair.
+i:Always out-of-tune.
+i:Decorated with gold.
+i:The product of a master craftsman.
+i:Something the bard made{.bards}.
+i:The instrument of a legendary bard{.bards}.
+}
+{
+d:d12 If things get rough, the bard has...
+i:Several sharp daggers.
+i:A lightweight saber.
+i:A finely-crafted shortsword.
+i:A longsword and a good luck charm.
+i:Some well-balanced throwing knives.
+i:A quick-winding crossbow.
+i:A bow of elvish make.
+i:A shortsword of dwarvish make.
+i:A heavy wooden staff.
+i:A dagger in each boot.
+i:A book of hexes and curses{cursessimple}.
+i:Quick wits and a gift for lying.
+}
+{
+d:d12 The bard also carries...
+i:A compromising love letter.
+i:A lacy favor from a maiden.
+i:Some parchment with half-finished poems.
+i:Some faded sheet music.
+i:A silk handkerchief.
+i:The key to well-guarded treasure chest.
+i:A bundle of old books.
+i:An alchemy kit and several potions{.potions}.
+i:A pocket field guide to local herbs{.herbalism}.
+i:A faded old map.
+i:A tome of legends and historical lore.
+i:A jar of mustache wax.
+}
+{
+d:d12 The bard is wearing...
+i:Tight-fitting pants.
+i:A low-cut shirt.
+i:A revealing set of breeches.
+i:A traveler’s cloak.
+i:A heavy peddler’s pack.
+i:A wide-brimmed hat with a large exotic feather (d10): 1. cockatrice; 2. giant eagle; 3. giant owl; 4. griffon; 5. hippogriff; 6. ostrich 7. peacock; 8. phoenix; 9. roc; 10. shadowraven.
+i:Shiny boots made from an exotic hide (d8): 1. basilisk; 2. crocodile; 3. demonskin; 4. dragonscale; 5. drake; 6. flamesnake; 7. lightning lizard; 8. wyvern.
+i:A coat made from an exotic hide (d6): 1. dragonscale; 2. leopard; 3. owlbear; 4. sharkskin; 5. tiger; 6. zebra.
+i:A large golden necklace.
+i:Flashy earrings.
+i:Dancing shoes.
+i:Too much perfume.
+}
+{
+d:d12 The bard has...
+i:A silver tongue.
+i:A gift for satire and wit.
+i:A beautiful face.
+i:Incredibly good looks.
+i:An easy smile.
+i:A graceful manner.
+i:A polite gentility.
+i:Impeccable manners.
+i:A foul mouth.
+i:A hearty laugh.
+i:An alluring quality.
+i:A handsome mustache.
+}
+{
+d:d12 The bard is looking for...
+i:A new tale to tell.
+i:Inspiration for a song.
+i:A beautiful muse.
+i:Someone to repair a musical instrument.
+i:A catchy melody.
+i:Experimental harmonies.
+i:An edgy dance move.
+i:A word that rhymes with “hippopotamus.”
+i:New styles of poetry.
+i:A legendary artifact.
+i:A hero to immortalize in song.
+i:A night of drinking and merrymaking.
+}
+{
+d:d10 The bard is always a big hit among...
+i:Fishermen, sailors, and pirates{.fishermen,.sailors,.pirates}.
+i:Farmers and herders.
+i:Miners and travelers{.mines}.
+i:Guards, soldiers, and sellswords{.sellswords,.soldiers}.
+i:Members of the nobility.
+i:Young children.
+i:Idealistic youths.
+i:Serving girls, slaves, and harlots{.harlots}.
+i:Pretty young maidens.
+i:Lonely wives.
+}
+{
+d:d12 The bard tells a tale of a recent visit to...
+i:A royal court.
+i:A dangerous mountain{.mountains}.
+i:A legendary tomb{.tombs}.
+i:A distant castle.
+i:A frightening lair.
+i:A celebrated tournament.
+i:A foreign land.
+i:A witch’s home{.witches}.
+i:A dark prison cell{.prisons}.
+i:A grand festival.
+i:A savage and wild land.
+i:A haunted castle.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

@@ -1,0 +1,20 @@
+{
+d:d1 The NPC's name is...
+i:$fantasy
+}
+{
+d:d1 The NPC's name is...
+i:$generic
+}
+{
+d:d1 The NPC's name is...
+i:$fantasy
+}
+{
+d:d1 The cat's name is...
+i:$cats{.cats}
+}
+{
+d:d1 The cat's name is...
+i:$cats{.cats}
+}

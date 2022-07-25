@@ -1,0 +1,69 @@
+{
+d:d6 The treasure hunter is...
+i:A veteran dungeon delver{basic dungeons,castle dungeons,dungeon dressing}.
+i:A desperate thief{.thieves}.
+i:A reckless fortune seeker.
+i:A well-known adventurer.
+i:A brash, young fool.
+i:A student of history.
+}
+{
+d:d6 The treasure hunter has...
+i:A long, hooked nose.
+i:A cute little button nose.
+i:A scar below the left eye.
+i:Pockmarked cheeks.
+i:High cheek bones.
+i:A pointy chin.
+}
+{
+d:d6 The treasure hunter...
+i:Hums or sings while walking.
+i:Constantly brushes the hair back from out of his or her face.
+i:Laughs maniacally at everything.
+i:Never smiles and never laughs.
+i:Scratches the elbow frequently.
+i:Picks at his or her teeth after meals.
+}
+{
+d:d12 The treasure hunter wears...
+i:A nose ring.
+i:A dark red cape.
+i:Shiny leather boots.
+i:Boots with a hole in the left toe.
+i:A heavy gold chain.
+i:A wide-brimmed hat.
+i:A tattoo on the forearm (d6): 1. dagger; 2. dragon{.dragons}; 3. nude figure; 4. skull; 5. snake; 6. thorns.
+i:A long dark ponytail.
+i:Luscious golden curls.
+i:A handkerchief in his breast pocket.
+i:An open shirt and a very hairy chest.
+i:Extravagant mustaches.
+}
+{
+d:d8 The treasure hunter carries...
+i:Some hemp rope and a silk handkerchief.
+i:Several over-sized sacks.
+i:Several torches and a much-used knife.
+i:A pocketbook of notes and maps.
+i:A dagger in each boot.
+i:A beautiful antique scabbard.
+i:A well-worn lantern.
+i:Climbing gear—pitons, hammer, and rope.
+}
+{
+d:d6 The treasure hunter is looking for...
+i:Rumors of treasure hoards.
+i:The location of an ancient crypt or ruin.
+i:A pair of strong arms to haul some gold.
+i:Proof of an ancient fable.
+i:Evidence to disprove a sacred text.
+i:An ear to listen to some boasting.
+}
+[
+d:NAME
+]
+{
+d:d1 The Treasure Hunter NPC is called... 
+i:$fantasy
+}

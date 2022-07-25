@@ -1,0 +1,122 @@
+{
+d:D6 Plumage. The Aarakocra is...
+i:Lightly coloured with darker horizontal bands.
+i:Dark and lustrous, with a __[roll_on_6]__—colored ________ (d6): 1. Head; 2. Eyes; 3. Throat; 4. Shoulders; 5. Torso; 6. Tail.
+i:Reddish-brown in back, lighter in front.
+i:Marbled gray all over.
+i:Snow white, with silver-tipped feathers.
+i:Boldly coloured (d6): 1. Red; 2. Yellow; 3. Green; 4. Blue; 5. Purple; 6. Dual-coloured (roll twice).
+}
+{
+d:d6 Beak. The Aarakocra has a(n)...
+i:eagle's hooked beak.
+i:heron's slender beak.
+i:owl's crunching beak.
+i:toucan's ostentatious beak.
+i:falcon's tearing beak.
+i:kingfisher's spearing beak.
+}
+{
+d:d6 Unusual Feature. ...and...
+i:Two large feathery tufts on their head that resemble elven ears.
+i:A tall, Mohawk-like crest of feathers.
+i:Two whip-like, decorative feathers trailing along their tail.
+i:Webbed feet.
+i:Overly large eyes.
+i:A snood, or fleshy mass, under their beak.
+}
+{
+d:d6 Profession: The Aarakocra is a...
+i:Crafter.
+i:Hunter.
+i:Scout.
+i:Sentry.
+i:Shaman.
+i:Warrior.
+}
+{
+d:d6 Skill: The Aarakocra is particularly good at...
+i:Aerial dancing.
+i:Sleight of wing.
+i:Ink and brush painting.
+i:Bushcraft.
+i:Singing.
+i:Martial meditation forms.
+}
+{
+d:d6 Quirk/flaw: The Aarakocra frequently...
+i:Preens their feathers.
+i:Stares without blinking.
+i:Listens to others with a dramatically cocked head.
+i:Takes what isn’t theirs, especially if it’s shiny.
+i:Can't understand humanoid body language, social cues, or sarcasm.
+i:Belittles and maligns surfacers as small-minded and simple.
+}
+{
+d:d6 Possessions: The Aarakocra is carrying a(n)...
+i:Light spear.
+i:Barbed net.
+i:Whip.
+i:Pair of bamboo clubs.
+i:Bearded battleaxe.
+i:Double-headed glaive.
+}
+{
+d:d6 ...and...
+i:A wooden flute.
+i:A chipped glass monocle.
+i:A pouch of seeds.
+i:A pressed leaf from their home nest.
+i:A silver compass on a fine chain.
+i:A diamond earring.
+}
+{
+d:d6 Immediate goal: The Aarakocra is looking for...
+i:Their tribe. It seems they migrated away while she was out scouting.
+i:A skyship captain who’s taken something from their colony.
+i:More bountiful hunting grounds.
+i:A gargoyle missing its left hand.
+i:A friend who has gone missing.
+i:A new mountain aerie for their tribe to relocate to.
+}
+{
+d:d6 Greater Ambition: The Aarakocra would like to...
+i:Recover one of the shards of the Rod of Seven Parts.
+i:Destroy a gargoyle in combat.
+i:Explore a floating island chain.
+i:Become a tribal elder.
+i:Locate a temple of Elemental Earth.
+i:Experience more of life on the surface.
+}
+{
+d:d6 Enclave: the Aarakocra live together here in...
+i:Rooftop “nests” — airy, wicker enclosures on top of the city's buildings.
+i:Smallish, open apartments with spacious balconies.
+i:Breezy haciendas with wide, circular doorways.
+i:A single, sprawling acacia tree, towering over the savanna.
+i:A cloud giant's floating palace.
+i:On the forested shell of an enormous flying sea turtle.
+}
+{
+d:d20 Among the Aarakocra, you see...
+i:A playful contest among several young aarakocra diving down into a ravine, to see who can go deepest before pulling up and flying out again.
+i:A wood elf family perusing the treetop market stalls.
+i:A weaver, expertly making a large basket from coppiced willow.
+i:Several elderly Aarakocra, circled around a wet fire, watching the smoke trail to read the change in the air currents.
+i:Fluffy hatchlings learning to fly.
+i:Strings of braided, dried onions hanging from an overhanging eave.
+i:An intricately carved incense burner, fashioned from an extraplanar variety of bright, lightweight wood, in the shape of an exotic bird with spread wings.
+i:A few females, laughing and chatting, while splitting feathers and rendering glue to fletch arrows.
+i:Several large snakes spit-roasting over hot coals.
+i:A pair of aarakocra are engaged in a game of dexterity, flicking wooden discs across a waxed crosscut of a tree, aiming to land their discs on or within certain rings. Several onlookers react avidly after each turn.
+i:Wide shelves of gigantic, petrified mushroom hang out over the expanse below. Aarakocra come and go from these shelves.
+i:An older aarakocra with a heavy scroll case lashed across the small of their back, delivering news from a neighbouring tribe.
+i:A group of young aarakocra males, conspicuously glancing at a nearby group of female aarakocra while sparring. The females seem to find their behavior ridiculous, albeit eye-catching.
+i:A master ranger and their adolescent apprentice are setting out for a trek through the forest canopy. The younger aarakocra is hopping after the adult, asking her question after question about what they’ll see in the world.
+i:The tribe’s shaman, sounding a singing bowl, listening for the song of the Vaati.
+i:An air genasi monk, training in aarakocra martial forms with a group of children.
+i:Thick branches, freshly cut, leaning against the outer wall of a spearmaker's hut.
+i:A mother and her two hatchlings, sitting across from each other on either side of a loom, weaving a bright green boundary banner.
+i:A wild-haired gnome, laughing hysterically as he lands his gyroscopic flying machine in the midst of the nest.
+i:A ceremonial dance, accompanied by the powerful rhythms of large wooden drums.
+}

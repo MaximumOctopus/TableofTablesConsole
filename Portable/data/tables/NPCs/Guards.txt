@@ -1,0 +1,202 @@
+{
+d:d12 The watch’s colors are...
+i:Black.
+i:Red / scarlet.
+i:Gold.
+i:Forest green.
+i:Royal blue.
+i:Silver / light grey.
+i:Brown / beaver.
+i:White.
+i:Maroon.
+i:Sky blue.
+i:Navy blue.
+i:Dark brown / chocolate.
+}
+{
+d:d12 The watch’s symbol is...
+i:A flame.
+i:A gauntlet.
+i:A shield.
+i:A sword.
+i:The sun.
+i:An eye.
+i:An eagle.
+i:An owl.
+i:A dragon{.dragons}.
+i:A lion.
+i:A raven.
+i:A wolf.
+}
+{
+d:d12 The watch’s captain is...
+i:A religious zealot.
+i:A scion from a prominent family.
+i:An outcast from a prominent family.
+i:A dashing swashbuckler.
+i:A brutish thug.
+i:A celebrated war hero.
+i:An anointed knight{.knights}.
+i:A career soldier{.soldiers}.
+i:A grizzled veteran.
+i:An adept investigator.
+i:An erudite detective.
+i:A devoted public servant.
+}
+{
+d:d6 The watch’s attitude toward their captain is...
+i:Friendly and loyal.
+i:Respectful and business-like.
+i:Completely indifferent.
+i:Cautious and uncertain.
+i:Terrified and tight-lipped.
+i:Disappointed and disrespectful.
+}
+{
+d:d10 The watch has a reputation for...
+i:High morals.
+i:Efficiency.
+i:Reliability.
+i:Brutality.
+i:Taking bribes.
+i:Shaking down shopkeepers and artisans{.artisans}.
+i:Frequenting brothels{.brothels}.
+i:Cowardice.
+i:Incompetence.
+i:Intoxication.
+}
+{
+d:d6 Most members of the watch are outfitted with...
+i:Rough-spun wool cloaks.
+i:Whatever armor they can find.
+i:Leather armor marked with the symbol of the watch.
+i:Leather armor marked with the symbol of their city or lord.
+i:Helms and breastplates emblazoned with the symbol of their city or lord.
+i:Well-maintained chainmail.
+}
+{
+d:d10 Most members of the watch are equipped with...
+i:Longswords and shortbows.
+i:Longswords and crossbows.
+i:Longswords and shields.
+i:Shortswords and shields.
+i:Maces and crossbows.
+i:Maces and shields.
+i:Maces and daggers.
+i:Pikes and shortswords.
+i:Halberds and daggers.
+i:Halberds and crossbows.
+}
+[
+d:INDIVIDUAL INVESTIGATORS
+]
+{
+d:d10 The constable is...
+i:A priest or monk.
+i:A stoic monk.
+i:A former soldier{.soldiers}.
+i:A mysterious foreigner.
+i:A pompous windbag.
+i:An accomplished scholar.
+i:A violent drunk.
+i:A criminal lackey.
+i:A popular tavern patron.
+i:Ruggedly handsome.
+}
+{
+d:d6 The constable works for...
+i:The steady pay.
+i:A chance to bring evil-doers to justice.
+i:Gold to repay debts.
+i:Gold to support his addiction (d4): 1. drinking; 2. gambling; 3. harlots{.harlots}; 4. smoking.
+i:The joy of solving mysteries.
+i:A chance for vengeance.
+}
+{
+d:d12 On the constable’s face is...
+i:A scar from a burn.
+i:A jagged scar.
+i:A hard-set jaw.
+i:A friendly grin.
+i:A faraway look.
+i:A furrowed brow.
+i:A pair of piercing eyes.
+i:A broken nose.
+i:Bushy eyebrows.
+i:Unshaven stubble.
+i:A neatly-trimmed beard.
+i:An intimidating mustache.
+}
+{
+d:d10 The constable carries...
+i:A magnifying lens.
+i:A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+i:A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders{.spiders}; 6. wolves.
+i:A blade made of blackened steel.
+i:An unusual hat.
+i:A clue from an unsolved crime.
+i:A token from a lost love.
+i:Props for several disguises.
+i:Alchemical reference manual.
+i:A pocket-sized almanac.
+}
+[
+d:INDIVIDUAL GUARDS
+]
+{
+d:d10 The guard is...
+i:A farm boy.
+i:The son of a miner or fisherman{.mines,.fishermen}.
+i:A veteran of warfare.
+i:A foreigner.
+i:The son of a poor man.
+i:A drunk.
+i:A reformed criminal.
+i:A thug.
+i:A failed craftsman.
+i:A favorite among the ladies.
+}
+{
+d:d6 The guard works for...
+i:The steady pay.
+i:A chance to deal out sadistic punishment.
+i:Gold to repay debts.
+i:Gold to aid a family member.
+i:A chance to escape from life imprisonment.
+i:Patriotic devotion.
+}
+{
+d:d12 On the guard’s face is...
+i:A large wart.
+i:An unsightly scar.
+i:A look of determination.
+i:A foolish grin.
+i:A stupid stare.
+i:A look of confusion.
+i:A bulbous nose.
+i:Bushy eyebrows.
+i:Fearsome sideburns.
+i:An unruly beard.
+i:A neatly-trimmed mustache.
+i:A waxed mustache.
+}
+{
+d:d10 The guard carries...
+i:A blade with soft leather tassels dangling from the pommel.
+i:A blade with an inscription.
+i:A highly polished blade.
+i:A token from a favorite harlot{.harlots}.
+i:A trophy from a criminal.
+i:A ribbon from a noble maiden{.nobles,.noble houses}.
+i:A silk handkerchief.
+i:A flask of wine{.wines}.
+i:A lucky charm (d4): 1. rabbit’s foot; 2. old coin; 3. shiny coin; 4. four-leaf clover.
+i:A grocery list.
+}
+[
+d:NAME
+]
+{
+d:d0 This guard is called... 
+i:$fantasy
+}

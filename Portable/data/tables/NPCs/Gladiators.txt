@@ -1,0 +1,106 @@
+{
+d:d8 The gladiator is armored in...
+i:Nothing.
+i:A leather vest.
+i:A leather jerkin.
+i:The hides of exotic beasts.
+i:A breastplate.
+i:Chainmail.
+i:The costume of a foreign adversary.
+i:The costume of a military hero.
+}
+{
+d:d12 The gladiator is wielding...
+i:A spear.
+i:A gladius (shortsword).
+i:Two shortswords.
+i:A spear and a shield.
+i:A shortsword and a shield.
+i:A heavy flail.
+i:A morningstar.
+i:A huge axe.
+i:A whip.
+i:Brass knuckles.
+i:A net and trident.
+i:An exotic, curved blade.
+}
+{
+d:d10 The gladiator fights with...
+i:Hit-and-run tactics.
+i:Making a direct assault.
+i:Making a mad charge.
+i:Fancy footwork.
+i:Unpredictable lurches.
+i:Masterful combat maneuvers.
+i:Kicking and stomping.
+i:Lots of taunts and jeers.
+i:Lots of screaming and shouting.
+i:Lots of head-butting.
+}
+{
+d:d12 The gladiator is...
+i:A well-trained slave.
+i:A poorly-trained slave.
+i:A seasoned veteran of the arena.
+i:A veteran of warfare.
+i:A prisoner of war.
+i:A political prisoner.
+i:The son of a poor man.
+i:A drunk.
+i:A captured criminal.
+i:A former pirate{.pirates}.
+i:A de-frocked priest.
+i:A favorite among the ladies.
+}
+{
+d:d12 The gladiator fights for...
+i:The love of the sport.
+i:The love of someone he cannot have.
+i:Pure bloodlust.
+i:A chance to deal out sadistic torment.
+i:A chance at freedom.
+i:A chance at vengeance.
+i:A chance to escape from life imprisonment.
+i:A chance to escape from execution.
+i:A chance at redemption.
+i:God and country.
+i:Fortune and glory.
+i:Strength and honor.
+}
+{
+d:d12 On the gladiator's face is...
+i:A nose ring.
+i:A garish earring.
+i:An empty eye socket.
+i:A grisly scar.
+i:A haughty sneer.
+i:A look of panic.
+i:A look of sadness.
+i:An eager grin.
+i:A frame of long, beautiful long hair.
+i:Ferocious sideburns.
+i:An unruly beard.
+i:An intimidating mustache.
+}
+{
+d:d12 On the gladiator's body is...
+i:A tattoo of a sea creature (d4): 1. fish; 2. kraken; 3. mermaid; 4. octopus.
+i:A tattoo of a great beast (d6): 1. bear; 2. boar; 3. dragon{.dragons}; 4. eagle; 5. lion; 6. wolf.
+i:A tattoo of a skull.
+i:A tattoo of a weapon (d4): 1. arrow; 2. axe; 3. spear; 4. sword.
+i:A festering wound.
+i:A frightening scar.
+i:The brand of a slave.
+i:The brand of a soldier{.soldiers}.
+i:A pronounced gut.
+i:A frightening amount of bulging muscles.
+i:An obscene amount of oil.
+i:An intimidating amount of hair.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

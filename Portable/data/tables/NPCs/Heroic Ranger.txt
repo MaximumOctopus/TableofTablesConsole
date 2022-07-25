@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Castle
+i:Military outpost
+i:Remote homestead
+i:Small village
+i:Wild lands
+}
+{
+d:d6 In the past, you were a/an…
+i:Miner or prospector
+i:Knight or huntsman
+i:Outlaw or assassin
+i:Sailor or fisherman
+i:Soldier or sellsword
+i:Woodcutter or guide
+}
+{
+d:d6 You take pride in…
+i:Covering tracks
+i:Foraging
+i:Setting traps
+i:Slaying monsters
+i:Tracking beasts or foes
+i:Weapon maintenance
+}
+{
+d:d6 You need improvement on…
+i:Conversation skills
+i:Drug addiction
+i:Herbal remedies
+i:Personal hygiene
+i:Table manners
+i:Trusting allies
+}
+{
+d:d6 You became an adventurer to…
+i:Atone for past sins
+i:Avoid family obligations
+i:Escape from a dull life
+i:Win the love of a great beauty
+i:Pursue fame and fortune
+i:Gain vengeance upon an old foe
+}
+{
+d:d6 Your primary weapon is/weapons are your…
+i:Axes
+i:Crossbow
+i:Longbow
+i:Shortbow
+i:Spears
+i:Swords
+}
+{
+d:d6 You are skilled at hunting and tracking…
+i:Aberrations
+i:Beasts
+i:Fiends
+i:Giants
+i:Humanoids
+i:Undead
+}
+{
+d:d6 You are an expert at surviving in…
+i:Dense forest
+i:Deserts
+i:Hills
+i:Light forest
+i:Mountains
+i:Swamps
+}
+{
+d:d6 You are carrying a/an/the…
+i:Famous ancestor's ring
+i:Glowing stone
+i:Healing herbs
+i:Hunting trap
+i:Unhatched eggs
+i:Variety of poisons
+}
+{
+d:d6 You have a keen interest in…
+i:Botany
+i:Campfire cooking
+i:Myths and tall tales
+i:Singing or playing an instrument
+i:Training pets
+i:Woodcarving or gemcutting
+}

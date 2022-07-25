@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Castle
+i:Holy city
+i:Port city
+i:Remote monastery
+i:Small village
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or scholar
+i:Farmer or miner
+i:Charlatan or peddler
+i:Knight or sellsword
+i:Sailor or fisherman
+i:Soldier or gladiator
+}
+{
+d:d6 You take pride in…
+i:Defending the defenseless
+i:Fulfilling prophecy
+i:Gaining new converts
+i:Horsemanship
+i:Hunting down unholy foes
+i:Military history
+}
+{
+d:d6 You need improvement on…
+i:Choosing allies
+i:Controlling temper
+i:Grief counseling
+i:Drug addiction
+i:Social anxiety
+i:Weapon maintenance
+}
+{
+d:d6 You became an adventurer to…
+i:Atone for past sins
+i:Cleanse the church of heretics
+i:Follow a saint's example
+i:Message from a deity
+i:Rewrite scripture
+i:Vanquish an ancient evil
+}
+{
+d:d6 Your primary weapon is/weapons are your…
+i:Battleaxe and shield
+i:Flail and shield
+i:Longspear or spear
+i:Longsword or greatsword
+i:Sword and shield
+i:Warhammer and shield
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Church hierarchy
+i:Death and undead
+i:Demonology
+i:Healing arts
+i:History
+i:Holy wisdom
+}
+{
+d:d6 You are carrying a/an…
+i:Battered oaken shield
+i:Famous crusader's weapon
+i:Relic of a favorite martyr
+i:Variety of medicines
+i:Shield with a holy crest
+i:Trophy from a fallen enemy
+}
+{
+d:d6 You are wearing a/an/some…
+i:Fine silk robe
+i:Garish amulet or chain
+i:Shiny gilded helm
+i:Storied battle scars
+i:Tattoo of a holy icon
+i:Wool traveler's cloak
+}
+{
+d:d6 You have a keen interest in…
+i:Amorous pursuits
+i:Learning people's secrets
+i:Fine wines, ales, and spirits
+i:Heroic tales and legends
+i:Horse races
+i:Singing or playing instrument
+}

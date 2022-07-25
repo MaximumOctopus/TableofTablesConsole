@@ -1,0 +1,124 @@
+{
+d:d10 Type
+i:1-3 Arcane Initiate. Only knows a handful of spells
+i:4	Ranger/Druid
+i:5	Bard
+i:6	Wizard
+i:7	Sorcerer
+i:8	Warlock
+i:9 Divine spell caster/thaumaturgist
+i:10 A convincing liar
+}
+[
+d:What is your focus? Roll again if the spell caster likes to "dabble"
+]
+{
+d:d20 Focus
+i:1-10 Generalist
+i:11 Abjurer
+i:12 Conjurer
+i:13 Diviner
+i:14 Enchanter
+i:15 Evoker
+i:16 Illusionist
+i:17 Necromancer
+i:18 Transmuter
+i:19 Controller (magic to control/trick/persuade/scare)
+i:20 Augmenter (magic to strengthen/heal/weaken/harm/manipulate)
+}
+[
+d:What is your choice of damage?
+]
+{
+d:d12 Method
+i:1	Bludgeoning/Piercing/Slashing
+i:2	Acid
+i:3	Cold
+i:4	Fire
+i:5	Force
+i:6	Lightning
+i:7	Necrotic/Radiant
+i:8	Piercing
+i:9	Poison
+i:10 Psychic
+i:11 Thunder
+i:12 Emotional/Mental
+}
+[
+d:What do you like to use your magic for?
+]
+{
+d:d20 Interest
+i:Entertainment
+i:Power
+i:Respect
+i:Competition
+i:Dueling
+i:Murder
+i:Religion
+i:Research
+i:Expeditions
+i:Civil Service
+i:Wealth
+i:Inventing
+i:Protecting
+i:Self Sufficiency
+i:Construction/Fabrication/Creation of buildings/roads/utilities
+i:Enchanting/Fabricating/Creating magic items (roll again for magic item purpose)
+i:Curiosity
+i:Fear
+i:Necessity
+i:Prophecy Fulfillment (or defeation)
+}
+[
+d:What is your claim to fame?
+]
+{
+d:d20 Achievement
+i:Cured a disease
+i:Invented a spell
+i:Made a magic item
+i:Improved a community/culture/society/nation
+i:Succeeded in a great battle
+i:Amassed great fortune/success
+i:Fulfilled a quest
+i:Bred a new species
+i:Extincted a species
+i:Advanced science/learning/culture
+i:Discovered something ancient
+i:Overcame a significant adversary/obstacle
+i:Defeated a rival
+i:Mastered more than one school of magic
+i:Accessed a new plane
+i:Developed a new weapon
+i:Developed a new toy
+i:Developed a new construct
+i:Improved agriculture/lowered cost of living
+i:Belongs to a prestigious order, organization, society, family, or other group
+}
+[
+d:How do you personalize your spell casting/magic items?
+]
+{
+d:d20 Personal Touch
+i:Everything is done dramatically
+i:Everything is done very seriously
+i:Everything is utilitarian
+i:Everything has an unintended side effect
+i:Everything is done deliberately/exactly
+i:Everything is a particular color
+i:Everything is named with ridiculous alliteration
+i:Every spell involves rhyming
+i:Every spell involves obscure and fantastical ingredients
+i:Every "spell" is really just a potion, or a weaker spell made extra dramatic
+i:Every spell comes with smoke, fire, and a loud bang
+i:Every spell is accompanied by a crack of thunder, no matter the weather
+i:Every spell is an excuse to describe the wizard's greatness
+i:Every spell is accompanied by a prayer, snippet of scripture, or pithy saying
+i:Every spell requires a reference to an obscure part of history, religion, or magic that no one else understands
+i:Every spell is an excuse to demonstrate the wizard's wide vocabulary or mastery of multiple languages
+i:Every spell requires an excessive arm movement and/or hand gesture
+i:Every spell uses a subtle gesture (like a Jedi)
+i:Every spell requires intense focus
+i:Every spell is cast in a haunting whisper
+}

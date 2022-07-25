@@ -1,0 +1,209 @@
+{
+d:d8 AGE X is
+i:a barely teenaged
+i:a young adult
+i:an adult
+i:a middleaged
+i:an older
+i:an ancient
+i:more dead than living
+i:non-aging
+}
+{
+d:d4 SEX
+i:woman
+i:man
+i:person whose sex is hard to tell
+i:creature
+}
+{
+d:d8 HAIRTYPE with
+i:greasy
+i:healthy
+i:neat
+i:spotty
+i:thin
+i:thick
+i:curly
+i:seemingly living
+}
+{
+d:d8 HAIRCOLOR
+i:white, almost glowing
+i:grey
+i:black
+i:dark brown
+i:light brown
+i:blonde
+i:platinum blonde
+i:red
+}
+{
+d:d12 HAIRSTYLE
+i:and extraordinarily long hair reaching all the way down the back
+i:shoulder long hair
+i:long hair
+i:long hair done up in a bun
+i:long hair done up in a ponytail
+i:long braided hair
+i:long hair with strange objects braided into it
+i:long completely tangled and matted hair
+i:long completely tangled and matted hair with strange objects attached
+i:short hair
+i:stubs after having been shaved off just recently
+i:lost long ago to baldness
+}
+{
+d:d24 MARK and
+i:an eye patch
+i:a lazy eye
+i:a glass eye
+i:greasy glasses
+i:glasses
+i:a blindfold over the eyes
+i:a hat
+i:the remnants of a hat
+i:a mouth without teeth
+i:a mouth filled with gold teeth
+i:an alluring smile
+i:a great scar
+i:a sad look
+i:a constant grin
+i:a quiet demeanor
+i:eyes staring straight into your soul
+i:a mutilated face
+i:a deformed face
+i:a pointy nose
+i:the nose cut off
+i:an obscure symbol branded on the neck
+i:an otherwise extraordinarily ordinary appearance
+i:a very long tongue
+i:a terrifying libido
+}
+{
+d:d10 HOME who's living
+i:in a small apartment (D4): 1. on top of a small shop{.shops}; 2. in an immense apartment building; 3. in a damp tenement; 4. in a moldy boarding house;
+i:in a shack (D4): 1. build of garbage; 2. in a public park; 3. under a bridge; 4. up in a tree;
+i:in an inherited (D4): 1. villa; 2. estate; 3. townhouse; 4. carriage;
+i:in a small townhouse (D4): 1. with boarded up windows; 2. with heavy curtains covering the windows; 3. with a wilderness for a garden; 4. without any windows at all;
+i:in a burned down (D4): 1. warehouse; 2. villa; 3. church; 4. workshop;
+i:in an abandoned overgrown (D4): 1. warehouse; 2. villa; 3. church; 4. workshop;
+i:in a tent (D4): 1. in a public park; 2. on a graveyard{.graverobbers}; 3. under a bridge; 4. in someone else’s garden;
+i:in a grand (D4): 1. estate; 2. villa; 3. apartment; 4. mansion;
+i:in the basement (D4): 1. of an abandoned hospital; 2. of a workshop; 3. of someone else’s house; 4. of a sketchy tavern
+i:in a supposedly enchanted (D4): 1. closet; 2. shed; 3. tree-house; 4. hole in the wall;
+}
+{
+d:d10 LOCATION
+i:somewhere in town
+i:somewhere outside of town
+i:somewhere in the nice part of town
+i:somewhere in the slums
+i:on the streets, for some reason.
+i:… Beneath the city?
+i:in a cave
+i:somewhere we’ve all suppressed from our memories.
+i:in an otherwise desolate part of town
+i:near the waterfront
+}
+{
+d:d10 OCCUPATION X is
+i:an archivist (D4): 1. with an interest for the hideous; 2. with a large collection of obscure trinkets; 3. organizing the strange collection of the local museum; 4. who collects very particular books;
+i:a priest (D4): 1. with little interest in his flock; 2. who’s slowly but steadily deviating from the pious path; 3. who lives in seclusion; 4. with a veiled interest in the obscure;
+i:a collector (D8): 1. of peculiar stones; 2. of primordial artifacts; 3. of cats; 4. of obscure art; 5. of ancient books; 6. of old diaries; 7. of crime memorabilia; 8. of toys;
+i:an adventurer (D4): 1. who’s only ever seen leaving home at night; 2. with a staggering hatred for the undead; 3. who’s constantly preparing for the apocalypse; 4. who’s always just getting wasted alone
+i:a doctor (D4): 1. with dubious credentials; 2. who’s working on an alternative treatment for a rare malady; 3. who’s obsessed with immortality; 4. who’s offering treatment to everyone, whether healthy or ill;
+i:a known thief {.thieves} (D4): 1. who allegedly has buried the past; 2. who’s always on the lookout for someone… Or something; 3. who’s getting by selling strange otherworldly goods in an alley; 4. who’s only ever stealing from the same person;
+i:a prostitute (D4): 1. always providing for the same mysterious customer; 2. who’s always stumbling around in the streets at night; 3. who’s always seen crying; 4. who always gently takes the hand of a PC and starts growling;
+i:a blacksmith (D4): 1. who’s always making nails; 2. who’s making iron masks of customers faces; 3. with an affection for toys and dolls; 4. who’s always make the same small figurines;
+i:a guard (D4): 1. who enjoys humiliating civilians; 2. with a worrying love for power; 3. who’s only talking to the towns kids and animals; 4. with a clear disdain for a local religious order;
+i:a merchant {.merchant caravans,.merchant guilds} (D4): 1. dealing in very cheap meats; 2. and alleged grave robber{.graverobbers}; 3. providing a strange assortment of quality products incredibly cheap; 4. whose worryingly old products never seem to be exchanged;
+}
+{
+d:d8 RENOWN people in town
+i:love X
+i:hate X
+i:fear X
+i:adore X
+i:worship X
+i:tolerate X
+i:barely recognizes X
+i:has forgotten about X
+}
+{
+d:d10 BUILD X is
+i:fat and round
+i:built like horse{.horses}
+i:of athletic stature
+i:muscular and strong
+i:scrawny
+i:physically mostly reminiscent of a curled up dry carrot
+i:tall and lanky
+i:a midget
+i:easily confused with a giant
+i:looking more dead than alive
+}
+{
+d:d20 DESCRIPTOR A characteristic feature of X is
+i:the cane
+i:the strange jumpy walk
+i:the beautiful clothes
+i:the disgusting clothes
+i:the weird objects hanging from the belt
+i:the singing
+i:the constant tears
+i:the dancing
+i:the heavy drinking
+i:the bird on the shoulder
+i:the marks on the wrists left by handcuffs
+i:the whispering
+i:the constant blinking
+i:the constant head scratching
+i:the bleeding wounds
+i:the bandages
+i:the affection for fire
+i:the pale skin
+i:the dog
+i:the cat{.cats}
+}
+{
+d:d8 SPEECH X talks
+i:with a lisp
+i:with a deep voice
+i:with a dry hoarse voice
+i:with a light squeaking voice
+i:with a soft pleasant voice
+i:with a seductive voice
+i:in a strange tongue
+i:with a sleazy voice
+}
+{
+d:d20 MOTIVE All X really wants is to
+i:keep the secret
+i:runaway and hide
+i:survive
+i:taste it once again
+i:never see it again
+i:brand him with a hot iron
+i:set it all on fire and start over
+i:answer the voices
+i:honor her trust
+i:keep the promise
+i:find it
+i:hide it
+i:destroy it
+i:impress him
+i:impress her
+i:built the construction from the perpetual dreams
+i:get revenge
+i:prepare for the inevitable
+i:make it come alive
+i:to finally ascend as promised
+}
+[
+d:NAME
+]
+{
+d:d1 The Person is called... 
+i:$fantasy
+}

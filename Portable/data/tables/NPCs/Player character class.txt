@@ -1,0 +1,60 @@
+{
+d:d12 Race: The character is...
+i:A dragonborn.
+i:A dwarf{.dwarves}.
+i:A dark elf{.elves dark,.elves high,.elves wood}.
+i:A high elf{.elves dark,.elves high,.elves wood}.
+i:A wood elf{.elves dark,.elves high,.elves wood}.
+i:A gnome{.gnomes}.
+i:A half-elf{.elves dark,.elves high,.elves wood}.
+i:A half-orc{.orcs,.orc warlords,.orkish clans}.
+i:A halfling.
+i:A human.
+i:A tiefling.
+i:A monster or member of an exotic race (d20): 1. centaur; 2. dryad; 3. duergar; 4. kobold{.kobolds}; 5. genasi; 6. goblin{.goblins,.goblin gangs}; 7. hobgoblin; 8. medusa; 9. minotaur; 10. lizardfolk; 11. ogre; 12. pixie; 13. revenant; 14. satyr; 15. shadar-kai; 16. troll; 17. vampire{.vampires}; 18. werebear; 19. wererat; 20. werewolf.
+}
+{
+d:d12 Class: The character is...
+i:A barbarian {.barbarians} (d2): 1. Berserker. 2. Totem Warrior.
+i:A bard  {.bards} (d2): 1. College of Lore; 2. College of Valor.
+i:A cleric (d8): 1. Death Domain; 2. Life Domain; 3. Light Domain; 4. Knowledge Domain; 5. Nature Domain. 6. Tempest Domain. 7. Trickery Domain. 8. War Domain.
+i:A druid {.druids} (d2): 1. Circle of the Land; 2. Circle of the Moon.
+i:A fighter (d3): 1. Battle Master; 2. Champion; 3. Eldritch Knight{.knights}.
+i:A monk (d3): 1. Way of the Four Elements; 2. Way of the Open Hand; 3. Way of Shadow.
+i:A paladin (d4): 1. Oath of the Ancients; 2. Oath of Devotion; 3. Oath of Vengeance; 4. Oathbreaker.
+i:A ranger (d2): 1. Hunter; 2. Beastmaster.
+i:A rogue {.rogue missions} (d3): 1. Arcane Trickster; 2. Assassin{.assassins' guilds}; 3. Thief{.thieves}.
+i:A sorcerer (d2): 1. Draconic Bloodline; 2. Wild Magic.
+i:A warlock (d3): 1. Archfey Otherworldly Patron{.beasts fey}; 2. Fiend Otherworldly Patron{.fiends}; 3. Great Old One Otherworldly Patron.
+i:A wizard (d8): 1. School of Abjuration; 2. School of Conjuration; 3. School of Divination; 4. School of Enchantment; 5. School of Evocation; 6. School of Illusion; 7. School of Necromancy; 8. School of Transmutation.
+}
+{
+d:d20 Background: The character is or was...
+i:An acolyte.
+i:A charlatan.
+i:A criminal.
+i:An entertainer.
+i:A folk hero.
+i:A gladiator{.gladiators}.
+i:A guild artisan{.artisans}.
+i:A guild merchant{.merchant caravans,.merchant guilds}.
+i:A hermit{.knights}.
+i:A knight.
+i:A noble{.nobles,.noble houses}.
+i:An outlander.
+i:A pirate{.pirates}.
+i:A sage.
+i:A sailor{.sailors}.
+i:A soldier{.soldiers}.
+i:A spy.
+i:An urchin.
+i:An amnesiac who has faint memories of a past life (d12): 1. acolyte; 2. charlatan; 3. criminal; 4. entertainer; 5. gladiator{.gladiators}; 6. guild artisan{.artisans}; 7. guild merchant{.merchant caravans,.merchant guilds}; 8. knight{.knights}; 9. noble{.nobles,.noble houses}; 10. sailor{.sailors}; 11. soldier{.soldiers}; 12. spy.
+i:A hero of prophecy who left behind a previous life to take up the hero's journey (d12): 1. acolyte; 2. criminal; 3. folk hero. 4. gladiator{.gladiators}; 5. hermit; 6. knight{.knights}; 7. noble{.nobles,.noble houses}; 8. outlander; 9. pirate{.pirates}; 10. sage; 11. soldier{.soldiers}; 12. urchin.
+}
+[
+d:NAME
+]
+{
+d:d1 The PC is called... 
+i:$fantasy
+}

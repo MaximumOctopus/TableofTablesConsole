@@ -1,0 +1,208 @@
+{
+d:d10 The outlaw band’s primary “business” involves...
+i:Poaching from the sovereign's preserve or a prominent noble’s lands{.nobles,.noble houses}.
+i:Harboring fugitives.
+i:Harassing government officials and nobles who pass along the road{.nobles,.noble houses}.
+i:Robbing caravans carrying gems, precious metals, and exotic goods{gemstones}.
+i:Holding up incoming or outgoing ships or wagons.
+i:Smuggling drugs (d4): 1. smokeleaf; 2. hallucinogenic mushrooms; 3. sleepysalt (a downer); 4. sharpsugar (an upper).
+i:Smuggling rare antiquities.
+i:Smuggling stolen goods.
+i:Smuggling living things (d4): 1. exotic beasts; 2. foreign harlots{.harlots}; 3. fugitives; 4. slaves.
+i:Serving as muscle for shady merchants and/or brothel-keepers{.brothels,.merchant caravans,.merchant guilds}.
+}
+{
+d:d10 The outlaw band’s colors are...
+i:Black.
+i:Gold.
+i:Forest green.
+i:Bronze.
+i:Tan / khaki.
+i:Brown / beaver.
+i:Dark grey / gunmetal.
+i:Maroon.
+i:Dark brown / chocolate.
+i:Olive green.
+}
+{
+d:d12 The outlaw band’s symbol is...
+i:A skull.
+i:An arrow.
+i:A dagger.
+i:A goblet.
+i:The moon.
+i:A star.
+i:A snake.
+i:A badger.
+i:A spider{.spiders}.
+i:A rat{.rats}.
+i:A wolf.
+i:A bear.
+}
+{
+d:d12 The outlaw band’s leader is...
+i:A dangerous megalomaniac.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:A talented thief{.thieves}.
+i:A member of a prominent family.
+i:A ruthless killer.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A dashing swashbuckler.
+i:A brutish thug.
+i:A devoted priest.
+i:A well-known fugitive.
+}
+{
+d:d6 The outlaw band’s members are primarily...
+i:Out-of-work artisans{.artisans}.
+i:Displaced peasants.
+i:Desperate peasants.
+i:Escaped slaves.
+i:Combat veterans.
+i:Foreign refugees.
+}
+{
+d:d8 The outlaw band’s goals include (leadership and rank-and-file members could have different goals)...
+i:Domination of the region’s trade.
+i:Sabotage of the region’s trade.
+i:Revenge against a rival band of outlaws.
+i:Revenge against the region’s elite.
+i:Rebellion against the region’s elite.
+i:Equality and freedom for all.
+i:A wealthy and peaceful retirement.
+i:Violence to slake their bloodlust.
+}
+{
+d:d10 Members of the outlaw band typically arm themselves with...
+i:Wooden clubs.
+i:Over-sized daggers.
+i:Shortbows and arrows.
+i:Longbows and arrows.
+i:Daggers and crossbows.
+i:Axes and knives.
+i:Sticks and stones.
+i:Shortswords.
+i:Brass knuckles.
+i:Daggers and sling shots.
+}
+{
+d:d10 The outlaw band’s headquarters is hidden in or near...
+i:The residence of a prominent noble{.nobles,.noble houses}.
+i:The village’s market square.
+i:A wayside inn.
+i:A tavern{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:An old lighthouse.
+i:An abandoned cabin.
+i:A waterfall.
+i:A cave.
+i:A dense forest{.forest,.forest enchanted,.forest haunted}.
+}
+{
+d:d10 The outlaw band is feared or respected by...
+i:Ambassadors and tax collectors.
+i:Merchants and peddlers{.merchant caravans,.merchant guilds}.
+i:Politicians and magistrates.
+i:Guards and sheriffs.
+i:Soldiers and warriors{.soldiers}.
+i:Nobles and wealthy travelers{.nobles,.noble houses}.
+i:Knights and loyalists{.knights}.
+i:Peasants and farmers.
+i:Priests and sages.
+i:Women and children.
+}
+{
+d:d12 Distinguishing feature for an individual: The outlaw has...
+i:A flashy earring ring.
+i:Shiny leather boots.
+i:A hole in the toe of one boot.
+i:A dagger in each boot.
+i:A mask on the face.
+i:A wide-brimmed hat.
+i:A dragon tattoo on the forearm{.dragons}.
+i:A flame tattoo around the arm.
+i:A maniacal laugh.
+i:A bent, broken nose.
+i:An open shirt and a very hairy chest.
+i:Extravagant mustaches.
+}
+[
+d:NAME
+]
+{
+d:d1 The NPC is called... 
+i:$fantasy
+}
+[
+d:POACHERS
+]
+{
+d:d10. The poachers’ favorite prey includes...
+i:Bears.
+i:Birds of prey (d4): 1. eagles; 2. falcons; 3. hawks; 4. owls.
+i:Boars.
+i:Deer (d4): 1. elk; 2. harts; 3. moose; 4. stags.
+i:Exotic beasts (d8): 1. behemoths; 2. elephants; 3. griffons; 4. hippogriffs; 5. lions; 6. owl bears; 7. tigers; 8. wyverns).
+i:Game birds (d6): 1. doves; 2. grouses; 3. partridges; 4. pheasants; 5. quails; 6. turkeys.
+i:Waterfowl (d6): 1. ducks; 2. geese; 3. herons; 4. puffins; 5. snipes; 6. swans.
+i:Small furry beasts (d6): 1. beavers; 2. ermines; 3. otters; 4. raccoons; 5. sables; 6. skunks.
+i:Small predators (d4): 1. badgers; 2. coyotes; 3. foxes; 4. wolverines.
+i:Wolves.
+}
+{
+d:d6. The poachers’ hunt...
+i:For sport.
+i:To feed their families.
+i:To feed the impoverished peasants.
+i:To exact revenge on the landowner.
+i:To sell the beasts’ meat.
+i:To sell the beasts’ pelts.
+}
+[
+d:ROBBERS
+]
+{
+d:d6 The robbers typically strike with...
+i:Swarm tactics.
+i:Hit-and-run tactics.
+i:Ambush tactics.
+i:Choreographed maneuvers.
+i:Unpredictable maneuvers.
+i:Lots of fancy footwork.
+}
+{
+d:d8 The robbers are notorious for...
+i:Never leaving survivors.
+i:Branding captives.
+i:Scalping captives.
+i:Burning wagons and ships.
+i:Using explosives.
+i:Romantic escapades.
+i:Singing bawdy songs.
+i:Drinking too much ale.
+}
+[
+d:SMUGGLERS
+]
+{
+d:d6 The smuggling ring's primary modus operandi involves...
+i:Underground tunnels.
+i:Secret compartments.
+i:Stealth watercraft.
+i:Humanoid mules.
+i:Bribery of officials.
+i:A network of safehouses.
+}
+{
+d:d8 The ring is supported by...
+i:A prominent merchant{.merchant caravans,.merchant guilds}.
+i:An important minister or magistrate.
+i:A major crime boss.
+i:A pirate captain{.pirates}.
+i:An admiral.
+i:A group of subversives.
+i:The captain of the guard or a local sheriff.
+i:The sovereign’s main rival.
+}

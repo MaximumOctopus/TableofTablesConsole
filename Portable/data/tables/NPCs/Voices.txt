@@ -1,0 +1,129 @@
+{
+d:d3 Speed
+i:Slow
+i:Medium
+i: Fast
+}
+{
+d:d3 Pitch
+i:Low
+i:Medium
+i: High
+}
+{
+d:d8 Vocal Texture
+i:Gruff
+i:Smooth
+i:Strained
+i:Relaxed
+i:Breathy
+i:from the back of the throat (wolf-y)
+i:Scratchy
+i:Nasal
+}
+{
+d:d50 Speech or Vocal patterns
+i:Incoherent except for a few key words
+i:Stutters
+i:lots of um
+i:lots of like
+i:lots of swearing
+i:uses thees and thous
+i:never stops to breathe
+i:Short, clipped sentences
+i:talks in third person
+i:doesn't conjugate well ("me make good soup")
+i:all S-sounds become Z-sounds
+i:all w-sounds become v-sounds
+i:R's arrrrrre always rrrrrrrolled
+i:never uses contractions (this one is harder than it seems! Data from ST:TNG is a good example.)
+i:Whiny
+i:stuffy nose
+i:tongue stuck to back of teeth
+i:opens mouth too wide
+i:clenched teeth
+i:barely opens lips
+i:all Th-sounds become Z-sounds
+i:repeats the last few words of a sentence/thought ("nice to meet you, meet you.")
+i:uses full titles or descriptions of how he knows you ("ellen-farmers-daughter is pretty")
+i:strings together adj/adv for more impact ("wow, your dress is pretty-pretty!" "I am short-short-short.")
+i:All non-proper nouns end with "en"/"sen" ("may I have some applesen?" "I saw a big moosen!")
+i:L-sounds become w-sounds
+i:repeats the last word you say before responding
+i:sings everything
+i:does the wrong em*phas*is on the wrong syl*lab*les
+i:pauses often
+i:staccato speech
+i:Monotonous
+i:whistles on S-sounds
+i:spits on Th-sounds and S-sounds (think Sylvester the cat from Looney toons)
+i:light lisp
+i:r-sounds become w-sounds
+i:severe underbite
+i:severe overbite
+i:speaks out of the corner of his mouth
+i:always pouting
+i:"ar/er" sounds become "aye" sounds (fart will sound like fight, water will sound like watay)
+i:soft letters are elongated ("ssssso, hhhhhhow are you?")
+i:slurrs words
+i:mouth is always full when talking
+i:Sighs after each sentence
+i:Never uses am/is/are/was/were (“I big.” “She pretty.”)
+i:Responds in the form of questions
+i:Always over-exaggerates
+i:Never tells the complete truth
+i:mutters to self
+}
+{
+d:d50 Mannerisms: what they do during a conversation
+i:pulls on ear
+i:taps chin
+i:wrings hands
+i:flexes arms
+i:puffs out chest
+i:clenches fist(s)
+i:clenches jaw
+i:looks at the speakers forehead
+i:taps nose
+i:licks lips
+i:chews nails
+i:chews straw/tobacco/gum
+i:clicks tounge
+i:acts bored
+i:swallows a lot
+i:pulls/twists clothing
+i:covers mouth when speaking
+i:sniffs often
+i:bites lips
+i:teeth chatter or grind
+i:coughing (genuine)
+i:constantly clears throat (think umbridge)
+i:adjusts glasses/spectacles
+i:caresses a coin
+i:strokes chin/beard
+i:invades personal space
+i:flips a coin
+i:rests hand on hilt of sword/dagger
+i:shamelessly hits on all male PCs (winks, waggle-brows, touching, etc)
+i:shamelessly hits on all female PCs  (winks, waggle-brows, touching, etc)
+i:Rarely blinks
+i:Excessive blinking
+i:[Pops lips]
+i:Flexes muscles
+i:Taps foot
+i:Never looks at the person talking
+i:Eyes constantly shifting around
+i:Gets lost in a daze
+i:Easily distracted
+i:Cracks knuckles
+i:Drums fingers
+i:Waggles eyebrows
+i:Picks nose
+i:Holds head high
+i:[Delayed reactions]
+i:Slumps shoulders
+i:Shuffles feet
+i:Jogs in place
+i:Writes down every word said
+i:Only looks at the speaker’s chin
+}

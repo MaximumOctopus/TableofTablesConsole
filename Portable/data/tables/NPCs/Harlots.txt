@@ -1,0 +1,65 @@
+{
+d:d10 The harlot is...
+i:A veteran who may have been beautiful.
+i:A passionate young woman.
+i:A homely young lady.
+i:A friendly and plump woman.
+i:The bastard daughter of a noble house{.nobles,.noble houses}.
+i:A young foreigner.
+i:The boss’s favorite.
+i:An exotic beauty.
+i:New to the place and always in trouble.
+i:New to the place and eager to please.
+}
+{
+d:d6 Everyone is beautiful; the harlot has...
+i:A pretty smile.
+i:Beautiful eyes.
+i:Lovely, long eyelashes.
+i:Lush, curly locks.
+i:Short-cropped hair.
+i:A clean satin gown.
+}
+{
+d:d8 No one is flawless; the harlot has...
+i:A gimpy leg.
+i:Crooked teeth.
+i:A scowl on her face.
+i:An unsightly scar.
+i:An unfortunately shaped nose.
+i:A large mole on her face.
+i:Crossed-eyes.
+i:A mustache.
+}
+{
+d:d4 The harlot's flaw is...
+i:Barely noticeable.
+i:Well-concealed by make-up or practice.
+i:Something you can look past.
+i:Intimidating.
+}
+{
+d:d6 The harlot is particularly skilled at...
+i:Listening and offering emotional support.
+i:Bringing a smile to her clients’ faces without even touching them.
+i:Bringing a smile to her clients’ faces as soon as she touches them.
+i:Embroidery and sewing.
+i:Cooking and cleaning.
+i:Drinking and swearing.
+}
+{
+d:d6 The harlot is looking to...
+i:Earn enough coin to get out of this place.
+i:Bring to light a scandal involving a rival.
+i:Secure a marriage to get out of this place.
+i:Hear word of a child given away.
+i:Hatch a plan for revenge against the man who ruined her life.
+i:Drink some wine and have a laugh{.wines}.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

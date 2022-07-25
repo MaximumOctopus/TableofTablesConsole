@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Ancient forest
+i:Desert
+i:Frozen lands
+i:Mountains
+i:Swamp
+i:Young forest
+}
+{
+d:d6 In the past, you were a/an…
+i:Acolyte or guardian
+i:Farmer or herder
+i:Herbalist or healer
+i:Huntsman or guide
+i:Miner or mountaineer
+i:Sage or scholar
+}
+{
+d:d6 You take pride in…
+i:Aiding wounded beasts
+i:Bird calls
+i:Foraging
+i:Hunting down unnatural foes
+i:Navigating by starlight
+i:Predicting the weather
+}
+{
+d:d6 You need improvement on…
+i:Bedside manner
+i:Campfire cooking
+i:Conversation skills
+i:Drug addiction
+i:Personal hygiene
+i:Table manners
+}
+{
+d:d6 You became an adventurer to…
+i:Atone for past sins
+i:Escape from a dull life
+i:Locate a legendary beast
+i:Restore a sacred grove
+i:Avoid the restlessness of staying in one place
+i:Seek out an ancient tree
+}
+{
+d:d6 Your favorite weapon is your…
+i:Club or greatclub
+i:Dagger
+i:Quarterstaff
+i:Scimitar
+i:Shortbow
+i:Spear
+}
+{
+d:d6 You frequently take the form of a/an…
+i:Bear or badger
+i:Boar or hedgehog
+i:Eagle or raven
+i:Elk or rabbit
+i:Serpent or spider
+i:Wolf or fox
+}
+{
+d:d6 You are carrying a/an/some…
+i:Field guide to herbs
+i:Packet of ancient seeds
+i:Poisonous extracts
+i:String of teeth
+i:Unhatched eggs
+i:Variety of healing herbs
+}
+{
+d:d6 You are wearing a/an/some…
+i:Green cape
+i:Old oaken shield
+i:Ritualistic scar or tattoo
+i:String of teeth or shells
+i:Tattered wool robe
+i:Warm furs
+}
+{
+d:d6 You have a keen interest in…
+i:Collecting flowers, seeds, or leaves
+i:Myths and tall tales
+i:Singing or playing an instrument
+i:Training pets
+i:Woodcarving or weaving
+i:Writing poetry
+}

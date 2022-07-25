@@ -1,0 +1,217 @@
+{
+d:d20 The witch is...
+i:A femme fatale.
+i:The wife of a farmer, fisherman, or miner{.mines,.fishermen}.
+i:The wife of a soldier{.soldiers}.
+i:An old seamstress or weaver.
+i:A peasant girl.
+i:A noble woman{.nobles,.noble houses}.
+i:A slave or servant.
+i:An attractive shopkeeper.
+i:A stern barmaid.
+i:An old fortune teller.
+i:A talented dancer or singer.
+i:A heretical priestess.
+i:An herbalist or healer{.healers}.
+i:A skilled hunter.
+i:A very young girl
+i:The daughter of a thief{.thieves}.
+i:The daughter of a sailor{.sailors}.
+i:An old crone.
+i:An old widow.
+i:An attractive young widow.
+}
+{
+d:d10 The witch learned her craft from...
+i:A fellow witch who kidnapped her as a young girl.
+i:A fellow witch who aided her in a time of need.
+i:A neighbor.
+i:Her mother.
+i:Her older sister.
+i:Her grandmother.
+i:Books of forbidden lore.
+i:Communication with the spirits of the dead.
+i:Consorting with a fiend{.fiends}.
+i:Participating in bacchanalian fey orgies{.beasts fey}.
+}
+{
+d:d12 The witch specializes in...
+i:Charms.
+i:Clairvoyance.
+i:Communing with the dead.
+i:Conjuring evil spirits.
+i:Curses{cursessimple}.
+i:Demonology.
+i:Enchantments.
+i:Herbalism{.herbalism}.
+i:Hexes.
+i:Poisons.
+i:Potions{.potions}.
+i:Prophecies.
+}
+{
+d:d10 Trade: For coin or barter, the witch will...
+i:Read your palm.
+i:Gaze into her crystal ball.
+i:Contact a dead relative or friend.
+i:Place a hex on an enemy.
+i:Give you a piece of forbidden magical lore.
+i:Enchant an item{cursessimple}.
+i:Curse an item.
+i:Prepare an herbal remedy{.herbalism}.
+i:Prepare a potion{.potions}.
+i:Give you an old family recipe.
+}
+{
+d:d12 The witch is seeking...
+i:The means to summon a fiend{.fiends}.
+i:The means to control a fiend{.fiends}.
+i:Eternal youth and beauty.
+i:The soul of a specific person.
+i:Vengeance against a powerful person.
+i:A long lost recipe.
+i:Instructions for a powerful ritual.
+i:The wand of a legendary witch or wizard{.magic wands}.
+i:The staff of an ancient witch or wizard.
+i:The meaning of a cryptic prophecy.
+i:A baby or young child to steal.
+i:A baby or young child to eat.
+}
+{
+d:d8 The witch has uncovered dark secrets. She cannot be killed by...
+i:Hanging or strangulation.
+i:Drowning.
+i:Burning.
+i:Disease{.diseases}.
+i:Poisoning.
+i:The hand of a mortal man.
+i:Falling from a great height.
+i:Old age.
+}
+{
+d:d6 The witch prefers to travel by...
+i:Flying broomstick.
+i:Flying mount (giant owl or hippogriff).
+i:Horseback.
+i:Walking.
+i:Transforming into a beast (d8): 1. bat{.bats}; 2. cat{.cats}; 3. fox; 4. horse{.horses}; 5. owl; 6. rat{.rats}; 7. raven; 8. wolf.
+i:Teleportation.
+}
+{
+d:d10 The witch’s home is...
+i:In a cave.
+i:In a swamp{.swamp}.
+i:On an island.
+i:Beneath a large tree in a forest{.forest,.forest enchanted,.forest haunted}.
+i:In a cottage in the woods.
+i:Hidden in the mountains{.mountains}.
+i:In a quiet village.
+i:Just outside a quiet village.
+i:Down a dark alley in the city.
+i:In the castle or palace of a lord.
+}
+{
+d:d12 Distinguishing Feature: The witch has...
+i:A large wart on her nose.
+i:An oversized, crooked nose.
+i:A cute little button nose.
+i:A beauty mark on her cheek.
+i:A hairy mole on her cheek.
+i:A jagged scar on her cheek.
+i:An obnoxious cackling laugh.
+i:A hideous belting laugh.
+i:A nervous twittering laugh.
+i:Long straggly hair.
+i:Long beautiful hair.
+i:Her hair pulled up.
+}
+[
+d:NAME
+]
+{
+d:d1 The Witch is called... 
+i:$fantasy
+}
+[
+d:POTION BREWING
+]
+{
+d:d10 The witch's brew is percolating in...
+i:A delicate ceramic tea kettle.
+i:A large cast iron cauldron.
+i:A heavy-bottomed iron pot.
+i:A thick cast iron vat.
+i:A copper tea kettle.
+i:A thick copper vat.
+i:A heavy steel cook-pot.
+i:A blackened steel cauldron.
+i:A thick bronze cauldron.
+i:A large bronze cook-pot.
+}
+{
+d:d20 The witch's brew in the cauldron contains...
+i:Eye of newt.
+i:Toe of frog.
+i:Wool of bat.
+i:Tongue of dog.
+i:Adder's fork.
+i:Blind-worm's sting.
+i:Lizard's leg.
+i:Howlet's wing.
+i:Monkey's paw{.monkeys}.
+i:Pint of blood.
+i:Pound of flesh.
+i:Cup of mud.
+i:Beak of duck.
+i:Housecat's tail.
+i:Glob of mold.
+i:Rusty nail.
+i:Garlic bulb.
+i:Cob of corn.
+i:Stirge's foot.
+i:Dryad's thorn.
+}
+{
+d:d8 The witch is currently brewing...
+i:A love potion{.potions}.
+i:A fertility tonic.
+i:A magical cure-all.
+i:A terrible poison.
+i:A component for a summoning ritual.
+i:A component for a necromantic ritual.
+i:A component for a polymorphing hex.
+i:A component for a beguiling charm.
+}
+[
+d:FAMILIARS
+]
+{
+d:d12 The witch’s familiar is...
+i:An elemental spirit {.beasts fey} (d8): 1. air; 2. earth; 3. fire; 4. ice; 5. mud; 6. storm; 7. stone; 8. water.
+i:A fey spirit (d4): 1. animated toadstool; 2. pixie; 3. sprite; 4. talking songbird.
+i:A fiendish spirit {.fiends} (d4): 1. demon trapped in a book; 2. devil trapped in a gem{gemstones}; 3. imp; 4. quasit.
+i:An undead creature (d4): 1. crawling crawl; 2. disembodied voice; 3. floating skull; 4. formless ghost.
+i:A bat{.bats}.
+i:A cat{.cats}.
+i:An owl.
+i:A snake.
+i:A spider{.spiders}.
+i:A raven.
+i:A rat{.rats}.
+i:A toad.
+}
+{
+d:d12 The witch’s familiar’s manner is...
+i:Calculating.
+i:Clever.
+i:Coy.
+i:Cruel.
+i:Gleeful.
+i:Grumpy.
+i:Insolent.
+i:Shy.
+i:Skittish.
+i:Surly.
+i:Suspicious.
+i:Talkative.
+}

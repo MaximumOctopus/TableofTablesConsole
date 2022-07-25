@@ -1,0 +1,75 @@
+{
+d:d6 The dark elf has...
+i:Bright white hair.
+i:Silver-blonde hair.
+i:Whitish grey hair.
+i:Whitish blonde hair.
+i:Shiny platinum hair.
+i:Pale grey hair.
+}
+{
+d:d6 The dark elf has...
+i:Whitish blue eyes.
+i:Pale blue eyes.
+i:Lilac eyes.
+i:Pale violet eyes.
+i:Deep red eyes.
+i:Pale pink eyes.
+}
+{
+d:d8 The dark elf has...
+i:A likable grin.
+i:A delicate laugh.
+i:An amused smirk.
+i:A humorless visage.
+i:A habit of sighing.
+i:An insolent curl to the lip.
+i:A habit of pacing.
+i:A habit of scratching the back of the neck.
+}
+{
+d:d10 The dark elf is...
+i:A deadly assassin{.assassins' guilds}.
+i:A death-marked heretic.
+i:An ambitious mage.
+i:A messenger on an errand.
+i:A powerful, high-ranking priestess.
+i:An eager, novice priestess.
+i:A capable scout.
+i:A battle-hardened soldier{.soldiers}.
+i:A patient and calculating spy.
+i:A devoted guardian.
+}
+{
+d:d10 The dark elf is looking to...
+i:Track an aberrant beast.
+i:Investigate the disappearance of a comrade.
+i:Lead any travelers into a dangerous trap.
+i:Locate the lair of a legendary spider{.spiders}.
+i:Find some knowledge about an ancient event or place.
+i:Prove his or her worth to a priestess back home.
+i:Avoid any other dark elves{.elves dark,.elves high,.elves wood}.
+i:Avoid any high elves or wood elves{.elves dark,.elves high,.elves wood}.
+i:Kill some goblins{.goblins,.goblin gangs}.
+i:Share some wine while prying for secrets{.wines}.
+}
+{
+d:d10 The dark elf carries...
+i:An ancient wand or staff{.magic wands}.
+i:A unique gem{gemstones} or piece of jewelry.
+i:A finely-crafted short sword or crossbow.
+i:A tome of dark lore.
+i:A pair of matching short swords.
+i:A half dozen sharp daggers.
+i:Several doses of deadly poisons.
+i:A staff or sword with a spiderweb pattern etched along its length{.spiders}.
+i:A pet spider{.spiders}.
+i:A trophy from a foe he or she killed.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

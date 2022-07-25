@@ -1,0 +1,372 @@
+[
+d:FACIAL FEATURES
+]
+{
+d:d20 Eyes: The person has...
+i:Sleepy eyes.
+i:Shifty eyes.
+i:Watery eyes.
+i:Bright eyes.
+i:Cold eyes.
+i:Smiling eyes.
+i:Close-set eyes.
+i:Wild eyes.
+i:Distant eyes.
+i:A lazy eye.
+i:Piercing eyes.
+i:Watchful eyes.
+i:Dark eyes.
+i:Hooded eyes.
+i:Eyes of two different colors.
+i:Slightly crossed eyes.
+i:Wide eyes.
+i:Beautiful eyes.
+i:Beady eyes.
+i:Penetrating eyes.
+}
+{
+d:d12 Ears: The person has...
+i:Over-sized ears.
+i:Long ear lobes.
+i:Small ears.
+i:Uneven ears.
+i:Hairy ears.
+i:Pointy ears.
+i:Short ear lobes.
+i:Ears that stick out.
+i:Jug-handle ears.
+i:Elaborately pierced ears.
+i:Cauliflower ears.
+i:Ears with improbable tufts of hair.
+}
+{
+d:d10 Mouth: The person has...
+i:Full lips.
+i:Buck-teeth.
+i:Thin lips.
+i:Rotting teeth.
+i:Crooked teeth.
+i:A broken or missing tooth.
+i:Pursed lips.
+i:Dry, cracked lips.
+i:One or more false teeth.
+i:A mouth that hangs open.
+}
+{
+d:d12 Nose: The person has...
+i:A crooked nose.
+i:A bulbous nose.
+i:A narrow nose.
+i:A button nose.
+i:A long nose.
+i:A broad nose.
+i:An angular nose.
+i:A round nose.
+i:A broken nose.
+i:A hawk-like nose.
+i:A wide nose.
+i:A delicate nose.
+}
+{
+d:d8 Chin or jaw: He/she has...
+i:A pronounced chin.
+i:A cleft chin.
+i:A dimple on the chin.
+i:A rounded chin.
+i:A sharp jawline.
+i:A square jaw.
+i:A round jaw.
+i:An underbite.
+}
+{
+d:d20 Hair: The person has...
+i:Thick hair.
+i:Wispy hair.
+i:Straight hair.
+i:Wavy hair.
+i:Curly hair.
+i:Wiry hair.
+i:Oily hair.
+i:Lush hair.
+i:Poofy hair.
+i:Long braids.
+i:Braids tight against the head.
+i:Very long hair.
+i:Greasy hair.
+i:Unruly hair.
+i:An unusual hairstyle.
+i:An outdated hairstyle.
+i:A high-maintenance hairstyle.
+i:Short-cropped hair.
+i:A shaved head.
+i:No hair at all.
+}
+{
+d:d8 Other: His/her face has...
+i:High cheekbones.
+i:Tight, drawn cheeks.
+i:Chubby cheeks.
+i:An unpleasant pustule.
+i:A large mole.
+i:A beauty mark.
+i:Freckles.
+i:Terrible scarring.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}
+[
+d:PHYSICAL TRAITS
+]
+{
+d:d6 Height: The person is...
+i:Unusually short.
+i:Short in stature.
+i:Average height.
+i:Slightly above average height.
+i:Well above average height.
+i:Unusually tall.
+}
+{
+d:d20 Body: The person’s body is...
+i:Thin and delicate.
+i:Of average build.
+i:Well-muscled.
+i:Slightly overweight.
+i:Grotesquely obese.
+i:Lean and lanky.
+i:Lithe and lean.
+i:Thin and wiry.
+i:Sinewy and strong.
+i:Flabby and weak.
+i:Lumpy or bent.
+i:Thin and flimsy.
+i:Soft and chubby.
+i:Thin and petite.
+i:Pudgy.
+i:Big and broad.
+i:Stocky and strong.
+i:Bony.
+i:Wide and ponderous.
+i:Covered in hair.
+}
+{
+d:d6 Hands: The person has...
+i:Powerful hands.
+i:Delicate hands.
+i:Rough hands.
+i:Soft hands.
+i:A light touch.
+i:A heavy touch.
+}
+{
+d:d4 Scar: The person has...
+i:A jagged scar.
+i:A dark purple scar.
+i:An angry red scar.
+i:A long, thin scar.
+}
+[
+d:ACCESSORIES
+]
+{
+d:d12 Tattoo: The person has...
+i:A dagger tattoo.
+i:An arrow tattoo.
+i:An anchor tattoo.
+i:A skull tattoo.
+i:A pair of crossed bones tattoo.
+i:A snake tattoo.
+i:A scorpion tattoo.
+i:A spider web tattoo{.spiders}.
+i:A heart tattoo.
+i:A ring of thorns tattoo.
+i:A mermaid tattoo.
+i:A dragon tattoo{.dragons}.
+}
+{
+d:d12 Jewelry: The person wears...
+i:An earring.
+i:Two earrings.
+i:A small chain about the neck.
+i:A large chain about the neck.
+i:A tight choker about the neck.
+i:A brooch.
+i:A ring.
+i:Several rings.
+i:A bracelet.
+i:A nose ring.
+i:A medallion.
+i:An ornate belt.
+}
+{
+d:d8 The jewelry is made of…
+i:Steel.
+i:Bronze.
+i:Pewter.
+i:Silver.
+i:Gold.
+i:Platinum.
+i:Copper.
+i:One or more gemstones (d12): 1. amethyst; 2. crystal; 3. diamond; 4. emerald; 5. jade; 6. obsidian; 7. opal; 8. pearl; 9. ruby; 10. sapphire; 11. topaz; 12. turquoise.
+}
+{
+d:d8 Clothes: The person’s clothing is...
+i:Crisp and new.
+i:Fashionable and hip.
+i:A bit old-fashioned.
+i:Of the highest quality.
+i:Faded, but in good condition.
+i:Faded and patched.
+i:Torn in places; missing buttons.
+i:Tattered and worn.
+}
+[
+d:EMOTIONS AND ATTITUDE
+]
+{
+d:d32 Calm Trait: When calm, the person is typically...
+i:Compassionate
+i:Cheerful
+i:Reserved
+i:Outspoken
+i:Uninterested
+i:Gruff
+i:Eager
+i:Deceitful
+i:Foolish
+i:Strict
+i:Agreeable
+i:Mischeivious
+i:Angry
+i:Fearful
+i:Manipulative
+i:Devout
+i:Greedy
+i:Funny
+i:Dour
+i:Fun-Loving
+i:Lazy
+i:Driven
+i:Boastful
+i:Artistic
+i:Assertive
+i:Carefree
+i:Cautious
+i:Confident
+i:Thoughtful
+i:Loyal
+i:Sophisticated
+i:Weak-Willed
+}
+{
+d:d32 Stress Trait: When stressed, the person often becomes...
+i:Withdrawn
+i:Murderous
+i:Obsessive
+i:Authoritarian
+i:Determined
+i:Brave
+i:Spiteful
+i:Belligerent
+i:Caustic
+i:Reckless
+i:Argumentative
+i:Gluttonous
+i:Overly Protective
+i:Angry
+i:Cowardly
+i:Meticulous
+i:Sarcastic
+i:Stubborn
+i:Destructive
+i:Practical
+i:Pushy
+i:Fanatical
+i:Secretive
+i:Scornful
+i:Courageous
+i:Impractical
+i:Calculating
+i:Industrious
+i:Manipulative
+i:Destructive
+i:Compulsive
+i:Intolerant
+}
+{
+d:d20 Mood: Now, the person is...
+i:Agreeable.
+i:Carefree.
+i:Curious.
+i:Eager.
+i:Friendly.
+i:Happy.
+i:Hopeful.
+i:Upbeat.
+i:Indifferent.
+i:Bored.
+i:Focused.
+i:Suspicious.
+i:Tired.
+i:Withdrawn.
+i:Disagreeable.
+i:Agitated.
+i:Angry.
+i:Despondent.
+i:Gloomy.
+i:Nervous.
+}
+[
+d:FAITH AND BELIEFS
+]
+{
+d:d8 The person is a...
+i:Quiet true believer.
+i:Casual observer.
+i:Critical student.
+i:Outspoken cynic.
+i:Open-minded seeker.
+i:Broken heretic.
+i:Cautious listener.
+i:Fanatical true believer.
+}
+{
+d:d6 The person is prejudice against...
+i:Other genders.
+i:An age group (d3): 1. children; 2. teenagers; 3. elderly.
+i:A social class (d3): 1. ruling class and authority figures; 2. powerful rich; 3. destitute poor.
+i:Social deviants (d3): 1. beggars; 2. drunks; 3. drug-users.
+i:A profession (d12): 1. farmers; 2. artists; 3. clergy; 4. soldiers{.soldiers}; 5. fishers; 6. harlots{.harlots}; 7. miners{.mines}; 8. merchants{.merchant caravans,.merchant guilds}; 9. scholars; 10. herders; 11. sailors{.sailors}; 12. mages
+i:A race (d8): 1. dwarves; 2. elves{.elves dark,.elves high,.elves wood}; 3. gnomes{.gnomes}; 4. goblins{.goblins,.goblin gangs}; 5. half-breeds; 5. halflings; 6. humans; 7. orcs{.orcs,.orc warlords,.orkish clans}; 8. reptilians.
+}
+[
+d:FLAWS
+]
+{
+d:d20 The person...
+i:Fidgets.
+i:Drinks too much.
+i:Eats too much.
+i:Swears often.
+i:Has poor hygiene.
+i:Can’t resist flirting.
+i:Can’t stop staring.
+i:Sweats profusely and easily.
+i:Is a habitual liar.
+i:Embellishes the truth.
+i:Exaggerates details.
+i:Has a short temper.
+i:Is melodramatic.
+i:Gossips.
+i:Chews with an open mouth.
+i:Often sniffs audibly.
+i:Believes what you tell him/her.
+i:Is skeptical of everything.
+i:Paces.
+i:Makes poor eye contact.
+}

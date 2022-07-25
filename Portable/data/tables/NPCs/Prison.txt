@@ -1,0 +1,242 @@
+{
+d:d12 The prison is located...
+i:On a small island on a remote coast.
+i:On a small island near a city.
+i:In a tower of a castle.
+i:Beneath a temple complex{.temples}.
+i:In an annex on a temple complex{.temples}.
+i:Beneath a town hall.
+i:In an annex on a town hall.
+i:Underneath a city, deep below ground.
+i:Behind walls in a fortified rural location (d4): 1. coastland; 2. farmland; 3. mining country; 4. ranchland.
+i:Below ground, in a hidden rural location (d4): 1. coastland; 2. farmland; 3. mining country; 4. ranchland.
+i:Behind walls in a fortified wilerness location (d6): 1. desert{.desert,.desert flame-scorched,.desert shadowy}, 2. forest{.forest,.forest enchanted,.forest haunted}, 3. hills; 4. mountains{.mountains}, 5. swamp{.swamp}; 6. tundra.
+i:Below ground, in a hidden wilderness location (d6): 1. desert{.desert,.desert flame-scorched,.desert shadowy}, 2. forest{.forest,.forest enchanted,.forest haunted}, 3. hills; 4. mountains{.mountains}, 5. swamp{.swamp}; 6. tundra.
+}
+{
+d:d8 The prison was built by...
+i:A wise king or queen.
+i:An ambitious lord or lady.
+i:An evil tyrant.
+i:A civic committee.
+i:A popular mayor or sheriff.
+i:An unscrupulous king or queen.
+i:A prosperous merchant guild{.merchant caravans,.merchant guilds}.
+i:A powerful noble house{.nobles,.noble houses}.
+}
+{
+d:d6 The prison complex is...
+i:A sprawling maze of twisting passages.
+i:A sprawling maze of narrow passages.
+i:Organized into small, neat rows of cells or pits.
+i:Organized around a large central cell block or pit.
+i:An endless series of long corridors.
+i:A series of corridors with very low ceilings.
+}
+{
+d:d6 The prison is surrounded by...
+i:Very high stone walls.
+i:Incredibly thick stone walls.
+i:A curtain wall with many gatehouses.
+i:A moat filled with putrescent water.
+i:A moat filled with thick, boot-sucking mud.
+i:A moat filled with sharp spikes.
+}
+{
+d:d10 Prisoners are held within...
+i:Individual cells, in complete isolation.
+i:Individual cells, but they can see and hear other prisoners.
+i:Individual cells, but they can hear other prisoners.
+i:Cells that accommodate up to two prisoners.
+i:Cells that accommodate up to two prisoners, each shackled to the wall.
+i:Cells that accommodate up to four prisoners.
+i:Cells that accommodate up to four prisoners, each shackled to the wall.
+i:A large chamber with many other prisoners, each shackled to the wall.
+i:Individual pits or wells, open at the top.
+i:One or more huge pit with many other prisoners.
+}
+{
+d:d4 The cells’ (or pits’) condition is...
+i:Well-maintained; the walls are solid.
+i:Aging, but sturdy; the walls have some cracks.
+i:Decrepit; the walls are crumbling.
+i:So dark it’s difficult to say.
+}
+{
+d:d4 Prisoners are treated...
+i:Humanely; they receive reasonable meals, some exercise, and healing when needed.
+i:Like dogs; they receive poor quality meals and enough healing to keep them alive.
+i:Like rats; they receive terrible meals and are plagued by sickness{.rats}.
+i:Like they don’t exist; occasionally they receive food.
+}
+{
+d:d10 Rooms: This chamber is...
+i:A prison cell.
+i:Another prison cell.
+i:A passageway connecting cell blocks.
+i:A guardroom.
+i:The barracks.
+i:The jailer’s quarters.
+i:A yard or large indoor space for exercise.
+i:A dining hall.
+i:An interrogation room.
+i:A torture chamber.
+}
+{
+d:d20 Features: You notice...
+i:A wooden door reinforced with steel bands.
+i:Steel bars where you expected a stone wall.
+i:Empty manacles along the wall.
+i:An empty sconce to hold a torch.
+i:Distant torchlight.
+i:The floor is uneven.
+i:A crack in the stone floor.
+i:A mouse skittering underfoot.
+i:The stench of rotting flesh.
+i:The scent of stale urine.
+i:A putrid smell.
+i:A dank and moldy odor.
+i:An uncomfortable groaning.
+i:A faint scratching sound.
+i:An odd tapping sound.
+i:The squeaking of rats{.rats}.
+i:The shouting of distant voices.
+i:Howls of agony.
+i:Horrific screams.
+i:The clanking of chains.
+}
+{
+d:d10 The prison is known for...
+i:Many prisoners dying in a terrible plague.
+i:A mass escape in the past.
+i:The escape of a famous criminal.
+i:Being the final home of a famous criminal.
+i:Being the final home of a legendary hero.
+i:Being haunted by vengeful ghosts.
+i:Its horrific torture pits.
+i:Never suffering a successful escape.
+i:Its unusual architectural style.
+i:The quality of its meals.
+}
+{
+d:d12 Escape Encounters: You come upon...
+i:A snoozing guard.
+i:A pair of guards on patrol.
+i:A quartet of guards playing cards or dice on their break.
+i:A pack of trained hunting dogs commanded by a high-ranking guard who has been alerted of the escape attempt.
+i:A law official on-site to interrogate another prisoner about an unrelated case.
+i:An ear-splitting alarm triggers.
+i:A wide, well-lit yard that must be crossed with guards watching it from towers.
+i:A high wall directly in the path of escape.
+i:A barred window in the path of escape.
+i:The rat-infested kitchens and mess hall{.rats}.
+i:An imprisoned serial killer who also attempting to escape{.serial killers}.
+i:An imprisoned thief who is bent on revenge{.thieves}.
+}
+{
+d:d8 According to rumor, within the prison’s walls lies...
+i:A secret tunnel to the outside.
+i:The bones of a celebrated outlaw{.outlaw bands}.
+i:The preserved head of an ancient villain{.villains}.
+i:A terrible beast to which prisoners are fed.
+i:A missing lord or lady.
+i:A treasure stolen by a notorious prisoner.
+i:A unique and terrible torture device.
+i:The bones of a deposed king or queen.
+}
+[
+d:JAILER
+]
+{
+d:d8 The jailer is...
+i:A coward who likes to act tough.
+i:A bully in every sense of the word.
+i:A bastard son of a noble house{.nobles,.noble houses}.
+i:A man who grew up among criminals.
+i:A priest with a puritanical agenda.
+i:A horrible sadist.
+i:A mild-mannered man of faith.
+i:A wicked little man.
+}
+{
+d:d4 The jailer is concerned about...
+i:Rumors of an upcoming escape attempt.
+i:Losing his job after a messy prisoner death.
+i:Facing a prisoner who creeps him out.
+i:Ways to make a little extra silver.
+}
+{
+d:d4 The jailer is looking to...
+i:Abuse someone who is defenseless.
+i:Make himself feel powerful.
+i:Reach out to a disturbed prisoner.
+i:Swap grisly tales.
+}
+{
+d:d8 The jailer carries...
+i:A large ring of keys.
+i:A large knife and a sap.
+i:A pale of cold porridge from the kitchens.
+i:A trophy taken from a tortured prisoner.
+i:A pocket-sized prayer book.
+i:A spiked club.
+i:A scourge or whip.
+i:A wineskin{.wines}.
+}
+[
+d:NAME
+]
+{
+d:d1 The Jailer is called... 
+i:$fantasy
+}
+[
+d:GUARD
+]
+{
+d:d4 The guard took this job for...
+i:The steady pay.
+i:The chance to bully others.
+i:To prove how tough he is.
+i:To take out his aggression on criminals.
+}
+{
+d:d4 On the guard’s face is...
+i:An unsightly scar.
+i:A stupid grin.
+i:A blank stare.
+i:A bushy mustache.
+}
+[
+d:NAME
+]
+{
+d:d1 The Guard is called... 
+i:$fantasy
+}
+[
+d:PRISONER
+]
+{
+d:d4 The prisoner has...
+i:A long scraggly beard.
+i:A patchy beard.
+i:Skin draped loosely over his bones.
+i:Boils and sores on his skin.
+}
+{
+d:d6 The prisoner is here because...
+i:He stole something.
+i:He killed someone.
+i:He raped someone.
+i:He advocated rebellion and unrest.
+i:He committed an act of fraud.
+i:Someone confused him with someone else.
+}
+[
+d:NAME
+]
+{
+d:d1 The Prisoner is called... 
+i:$fantasy
+}

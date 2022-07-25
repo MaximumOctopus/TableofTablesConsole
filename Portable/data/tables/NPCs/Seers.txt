@@ -1,0 +1,93 @@
+{
+d:d10 The seer is...
+i:An astrologer.
+i:A fortune teller.
+i:A mystic.
+i:A lorekeeper.
+i:A prophet.
+i:A psychic.
+i:A defrocked priest or priestess.
+i:A hermetic witch or wizard{.witches}.
+i:An oneiromancer.
+i:An anthropomancer.
+}
+{
+d:d8 The seer first discovered his/her gift after...
+i:Being kidnapped by a witch or wizard{.witches}.
+i:Aiding an old witch or wizard{.witches}.
+i:An uncomfortable encounter with a neighbor.
+i:The death of a parent.
+i:Reading a book of forbidden lore.
+i:Visiting an eerie cemetery.
+i:Dreaming of a conversation with a fiend{.fiends}.
+i:A night spent in prayer while suffering an illness.
+}
+{
+d:d6 When communicating a vision or prophecy, the seer speaks...
+i:In a deep voice.
+i:In a wistful voice.
+i:In a fearful tone.
+i:With eyes closed.
+i:While facing you with unfocused eyes.
+i:While looking directly into your eyes.
+}
+{
+d:d8 The seer views his or her visions and prophecies as...
+i:A reward for strong faith in the gods; their words are truth.
+i:Contact from the Realm of the Dead; the dead have seen things.
+i:Contact from an otherworldly being; the being has knowledge beyond comprehension.
+i:The product of years of practice; the seer has worked to obtain power.
+i:A gift that is impossible to understand; these things just come.
+i:A curse; knowing the future is a terrible burden.
+i:No big deal; the seer has been receiving visions since childhood.
+i:Rubbish; don't believe a word of it.
+}
+{
+d:d6 For coin or barter, the seer will attempt to...
+i:Read your fortune.
+i:Gaze into your future.
+i:Contact a dead relative or friend.
+i:Give you a hint regarding future events.
+i:Convince you to take up a quest.
+i:Convince you that all hope is lost.
+}
+{
+d:d8 The seer is haunted by a vision. The seer will die of...
+i:Hanging or strangulation.
+i:Drowning.
+i:Burning.
+i:Disease{.diseases}.
+i:Poisoning.
+i:A wound from a blade.
+i:Falling from a great height.
+i:Old age.
+}
+{
+d:d8 The seer is looking for...
+i:The answer to a riddle or prophecy.
+i:New clients for a reading.
+i:News regarding a missing person.
+i:The soul of a specific person.
+i:A book on an archaic method of divination.
+i:Just the right material for a powerful ritual.
+i:The meaning of a cryptic prophecy.
+i:Some juicy gossip.
+}
+{
+d:d8 The seer carries...
+i:A crystal ball.
+i:A dowsing rod.
+i:A large, sharp-pointed knife.
+i:Several star charts.
+i:A dusty old book.
+i:A bundle of notes, quills, and inks.
+i:A purse jingling with coins.
+i:A garish, bejeweled ring.
+}
+[
+d:NAME
+]
+{
+d:d1 The Seer is called... 
+i:$fantasy
+}

@@ -1,0 +1,46 @@
+{
+d:d6 The miner is...
+i:The son of a poor farmer.
+i:The son of a poor fisherman.
+i:The son of an old miner.
+i:An adventurous treasure hunter.
+i:A slave from a foreign land.
+i:A dwarf{.dwarves}.
+}
+{
+d:d6 The miner has...
+i:Unkempt hair.
+i:Skin blackened with dust.
+i:Hard, leathery hands.
+i:Long whiskers.
+i:An excited laugh.
+i:A raspy voice.
+}
+{
+d:d4 The miner wears...
+i:A sweat-stained shirt.
+i:A belt of tools.
+i:Patched-knee breeches.
+i:A head lamp.
+}
+{
+d:d4 The miner is looking to...
+i:Get rich quick.
+i:Make some coin to pay off a debt.
+i:Make some coin to send home to family.
+i:Share a drink while prying for rumors.
+}
+{
+d:d4 The miner carries...
+i:A shovel and a pick.
+i:A length of rope and a lantern.
+i:A pouch of uncut gems or bits of raw ore.
+i:A flask of strong spirits.
+}
+[
+d:NAME
+]
+{
+d:d1 The Miner NPC is called... 
+i:$fantasy
+}

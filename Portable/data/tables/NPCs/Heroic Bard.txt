@@ -1,0 +1,90 @@
+{
+d:d6 You grew up in a/an…
+i:Border town
+i:Capital city
+i:Castle
+i:Mining town
+i:Port city
+i:Small village
+}
+{
+d:d6 In the past, you were a/an…
+i:Charlatan or peddler
+i:Circus performer
+i:Court musician
+i:Pickpocket or con artist
+i:Sailor or pirate
+i:Soldier or guard
+}
+{
+d:d6 You take pride in…
+i:Dancing and tumbling
+i:Impeccable rhythm
+i:Intricate rhymes
+i:Knife throwing
+i:Maintaining good looks
+i:Quick wit
+}
+{
+d:d6 You need improvement on…
+i:Choosing allies
+i:Drinking problem
+i:Gambling addiction
+i:Improvised performances
+i:Keeping secrets
+i:Respecting superiors
+}
+{
+d:d6 You became an adventurer to…
+i:Answer to ancient riddle
+i:Avoid imprisonment
+i:Discover untold tales
+i:Win the love of a great beauty
+i:Pursue fame and fortune
+i:Gain vengeance upon old foe
+}
+{
+d:d6 Your favorite weapon is your…
+i:Dagger
+i:Longsword
+i:Rapier
+i:Shortbow or crossbow
+i:Shortsword
+i:Throwing knives
+}
+{
+d:d6 Your favorite musical instrument is your…
+i:Dance shoes
+i:Drum
+i:Flute
+i:Harp
+i:Lute
+i:Mandolin
+}
+{
+d:d6 You are especially knowledgeable of…
+i:Alchemy and pyrotechnics
+i:Dirty jokes and bawdy songs
+i:Heroic tales and epics
+i:Love poetry and ballads
+i:Military history and anthems
+i:Planar travel and sacred hymns
+}
+{
+d:d6 You are wearing a/an/some…
+i:Dark cloak with hood
+i:Fancy silk shirt
+i:Mustache, real or fake
+i:Sailor's tattoo
+i:Shiny new boots
+i:Stylish leather vest
+}
+{
+d:d6 You have a keen interest in…
+i:Amorous pursuits
+i:Card games
+i:Cheap wine and ale
+i:Dice games
+i:Fine wines, ales, and spirits
+i:Learning people's secrets
+}

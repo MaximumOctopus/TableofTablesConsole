@@ -1,0 +1,135 @@
+{
+d:d20 This mercenary is...
+i:A grizzled outlaw{.outlaw bands}.
+i:A lifelong wanderer.
+i:A disillusioned deserter.
+i:A bawdy adventurer.
+i:A cold professional.
+i:A glory-seeking soldier of fortune{.soldiers}.
+i:A seeker of knowledge and experiences.
+i:A proud warrior on a quest to find a worthy opponent.
+i:A commoner looking to make some easy money.
+i:A loveable scoundrel.
+i:A reputable veteran.
+i:A bloodthirsty sadist.
+i:An ascended beggar.
+i:A hardened refugee.
+i:A former member of a disbanded army.
+i:A devious sellsword{.sellswords}.
+i:On a quest to cleanse the world of bandits or monsters.
+i:Dishonored city watchman.
+i:A runaway slave.
+i:A merchant who has taken up killing{.merchant caravans,.merchant guilds}
+}
+{
+d:d10 The mercenary’s primary skillset is that of...
+i:A warrior or barbarian{.barbarians}.
+i:A hunter or trapper.
+i:A rogue or assassin{.assassins' guilds,.rogue missions}.
+i:A mage or enchanter.
+i:A healer or alchemist{.alchemists,.healers}.
+i:A monster hunter or exterminator.
+i:A gladiator or pugilist{.gladiators}.
+i:A swashbuckler or duelist.
+i:A cleric or priest.
+i:A singer or bard{.bards}.
+}
+{
+d:d10 The mercenary’s primary weapon is...
+i:A longsword.
+i:A battleaxe.
+i:A scimitar.
+i:A halberd.
+i:A bow.
+i:A shortsword and dagger.
+i:A crossbow.
+i:A warmace
+i:A staff.
+i:A hammer.
+}
+{
+d:d8 The mercenary’s weapon is...
+i:Covered in mysterious runes.
+i:Made of an unusual material.
+i:Emitting a supernatural hum or glow.
+i:Obviously mastercrafted.
+i:Of foreign design.
+i:Poorly maintained and dirty.
+i:Battered to the point of breaking.
+i:Engraved with a name.
+}
+{
+d:d6 The mercenary is also good at...
+i:A particular field of knowledge (d6) 1. legends and folklore; 2. languages; 3. military strategy and logistics; 4. politics and high society; 5. street code; 6. engineering.
+i:A game (d6). 1. cards; 2. dice; 3. arm wrestling; 4. board strategy; 5. slap jack; 6. horseshoe throwing.
+i:Wielding a secondary weapon (d6). 1. throwing knives; 2. javelin; 3. flail; 4. unarmed combat; 5. darts; 6. whip.
+i:Performance art (d6). 1. singing; 2. dancing; 3. storytelling; 4. acting; 5. juggling; 6. playing a musical instrument.
+i:Craftsmanship (d6). 1. smithing; 2. construction; 3. tailoring; 4. brewing; 5. carpentry; 6. cooking.
+i:An adventuring skill (d6). 1. geography or navigation; 2. lockpicking; 3. equipment maintenance; 4. shadowing; 5. riding; 6. trade.
+}
+{
+d:d40 Additionally, the mercenary...
+i:Wears unusually light or heavy armor.
+i:Wears colorful clothing.
+i:Has a disfiguring facial scar.
+i:Has an unwillingness to do certain types of jobs.
+i:Is obviously foreign in origin.
+i:Wears a strange hairstyle or color.
+i:Exudes an aura of fear, respect, or professionalism.
+i:Looks remarkably similar to a certain criminal being searched for a few towns over.
+i:Is always either drunk or hungover.
+i:Has an unusual level of attractiveness.
+i:Flaunts expensive jewelry.
+i:Has an unusual fighting style.
+i:Wears protective charms and amulets.
+i:Talks very little.
+i:Displays the colors of his liege or realm of origin.
+i:Is always looking to bed someone.
+i:Speaks with extreme profanity.
+i:Has a pet.
+i:Has very bad teeth.
+i:Smokes a pipe.
+i:Is very old.
+i:Sports religious symbols.
+i:Has a loud, penetrating voice.
+i:Is currently wounded.
+i:Is wearing a trophy.
+i:Is carrying a small book in a satchel.
+i:Is fat.
+i:Has heterochromatic eyes.
+i:Has a speech impediment.
+i:Is always eating something.
+i:Wears an eyepatch.
+i:Walks with a limp.
+i:Is clad in black.
+i:Is good with children.
+i:Looks depressed or dead inside.
+i:Is missing an ear.
+i:Is clothed inappropriately for the weather.
+i:Spits on the ground frequently.
+i:Has an annoying laugh.
+i:Is constantly fidgeting with a coin.
+}
+{
+d:d4 The mercenary’s level of competence could be described as...
+i:Poor.
+i:Average.
+i:Good.
+i:Excellent.
+}
+{
+d:d6 The mercenary’s pricing is...
+i:Unbelievably cheap.
+i:Low.
+i:Affordable.
+i:Above average.
+i:High.
+i:Exorbitant.
+}
+[
+d:NAME
+]
+{
+d:d1 The mercenary NPC is called... 
+i:$fantasy
+}

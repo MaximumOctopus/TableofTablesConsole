@@ -1,0 +1,241 @@
+{
+d:d20 Interesting Location: You find...
+i:A cavern behind a waterfall{.caverns}.
+i:A small cave in the crook of a rock wall.
+i:An entrance to a rocky cave.
+i:A hole under a sheer cliff face.
+i:A dark tunnel leading under the mountain{.mountains}.
+i:A tunnel in a cliff face.
+i:A tunnel leading into an abandoned mine{.mines}.
+i:A peculiar cabin.
+i:A cozy little cabin.
+i:An abandoned cabin.
+i:An abandoned campsite.
+i:A poorly marked grave or tomb{.graverobbers,.tombs}.
+i:An active mining camp.
+i:An isolated monastery{.monasteries}.
+i:A strategically located watchtower.
+i:A remote temple{.temples}.
+i:An ancient temple{.temples}.
+i:An abandoned watchtower.
+i:A ruined monastery{.monasteries}.
+i:An enormous bird’s nest.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:A trickle of water flowing down a rock wall.
+i:A small mountain lake of cold, fresh water{.mountains}.
+i:A swiftly flowing small stream.
+i:A natural bridge between two cliff faces.
+i:A narrow gorge with walls close enough to climb between.
+i:A deep gorge with no bottom in sight.
+i:A set of deliberately stacked stones.
+i:A large boulder eroded by the wind into the shape of a near-perfect sphere.
+i:A group of stones arranged in a circle.
+i:A boulder shaped to resemble a face.
+i:A pair of narrow needle-like peaks.
+i:A chimney-like column of rock.
+i:A large boulder split in half like an egg.
+i:A damp rock wall, covered in moss.
+i:The fossilized bones of a great beast visible in a rock wall .
+i:A thicket of hardy mountain shrubs growing atop a boulder{.mountains}.
+i:A copse of scrawny trees.
+i:A gorge where the wind whistles.
+i:A gorge with a near perfect echo.
+i:A rocky shoulder beneath a snowcap.
+}
+{
+d:d20 Feature: You notice...
+i:A cache of abandoned, decrepit mining equipment.
+i:Some old dry bones.
+i:A small fossilized leaf.
+i:Evidence of a recent encampment.
+i:An enormous spider web{.spiders}.
+i:An incredible view.
+i:The clatter of rocks falling.
+i:Loose stones underfoot.
+i:An unstable rock wall.
+i:A distant sound—a scream, hammers at work, footsteps, or drums.
+i:The name of a previous traveler carved into a boulder.
+i:An ancient rune carved in a rock wall.
+i:A scrawny tree growing with its roots spread over a small boulder.
+i:The distant cry of a beast—an eagle, a goat, a mountain lion, or a wolf{.mountains}.
+i:The wind whips up to a treacherous speed.
+i:Snow flurries begin to fall.
+i:The sound of birds chirping.
+i:A flock of birds takes flight.
+i:An old firepit.
+i:Several puddles of cold water.
+}
+{
+d:d20 What’s in the cave/cavern/tunnel?
+i:A mountain lion’s den{.mountains}.
+i:Lots of bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A troll's stash.
+i:An ogre's lair.
+i:Some goblins' hideout{.goblins,.goblin gangs}.
+i:Some abandoned mining equipment.
+i:Bare rock.
+i:A potable spring.
+i:Unidentifiable remains.
+i:Some outlaws’ hideout{.outlaw bands}.
+i:An orc war band{.orcs,.orc warlords,.orkish clans}.
+i:A hungry ettin.
+i:A band of dwarvish refugees.
+i:A griffon’s nest.
+i:A manticore’s den.
+i:A basilisk’s lair.
+i:A wyvern’s nest.
+i:A clan of stone giants.
+i:A sleeping dragon{.dragons}.
+}
+{
+d:d6 Who lives or lived in the cabin?
+i:A fugitive from justice.
+i:A stubborn miner{.mines}.
+i:A dwarvish prospector.
+i:A dwarvish war veteran.
+i:A gnomish wizard.
+i:A mystic sage.
+}
+{
+d:d8 Who resides in the abandoned cabin now?
+i:An owlbear.
+i:An ogre.
+i:A troll.
+i:A mad witch{.witches}.
+i:A reclusive shapeshifter.
+i:Restless ghosts.
+i:An outcast orc{.orcs,.orc warlords,.orkish clans}.
+i:A strange hermit.
+}
+{
+d:d6 Who camped here?
+i:A party of orc scouts{.orcs,.orc warlords,.orkish clans}.
+i:A goblin raiding party{.goblins,.goblin gangs}.
+i:Some miners or prospectors{.mines}.
+i:A pair of wandering elves.
+i:Some refugees or fugitives.
+i:Someone whose purposes are unclear.
+}
+{
+d:d4 Who is/was digging in this mine?
+i:Greedy dwarves{.dwarves}.
+i:Ambitious humans.
+i:Tricky goblins{.goblins,.goblin gangs}.
+i:Industrious kobolds{.kobolds}.
+}
+{
+d:d6 For what were the miners digging?
+i:Copper.
+i:Gems{gemstones}.
+i:Gold.
+i:Iron.
+i:Silver.
+i:A rare metal (d4): 1. adamantine; 2. electrum; 3. mithral; 4. platinum.
+}
+{
+d:d20 What lives in the abandoned mine/ancient ruin now?
+i:Carrion crawler.
+i:Cloaker.
+i:Darkmantle.
+i:Dwarves{.dwarves}.
+i:Fungi.
+i:Kobolds{.kobolds}.
+i:Ghosts.
+i:Mimics.
+i:Myconids.
+i:Ogres.
+i:Ooze{.oozes}.
+i:Orcs{.orcs,.orc warlords,.orkish clans}.
+i:Otyugh.
+i:Piercer.
+i:Roper.
+i:Rust monster.
+i:Stirges.
+i:Trolls.
+i:Umber hulk.
+i:Wraiths.
+}
+{
+d:d6 Who built this monastery?
+i:An order of elementalist monks.
+i:An order of mystics.
+i:An extremely secretive order of monks.
+i:An order of shadow monks.
+i:An order of warrior monks.
+i:An unknown order of monks.
+}
+{
+d:d6 The temple was built to honor...
+i:The sun god.
+i:The god of the heavens.
+i:The moon goddess.
+i:The storm god.
+i:The earth mother goddess.
+i:A long-forgotten god.
+}
+{
+d:d6 What built the nest?
+i:A giant eagle.
+i:A giant owl.
+i:A clan of harpies.
+i:A griffon.
+i:A roc.
+i:A wyvern.
+}
+{
+d:d6 What built the watchtower?
+i:An expansive empire.
+i:A nearby kingdom.
+i:An occupying army.
+i:Elvish warriors from a past age.
+i:A clan of orcs{.orcs,.orc warlords,.orkish clans}.
+i:A goblin kingdom{.goblins,.goblin gangs}.
+}
+{
+d:d8 Who holds the watchtower now?
+i:A disciplined military company.
+i:A rowdy mercenary troop.
+i:A band of desperate outlaws{.outlaw bands}.
+i:A handful of dwarves{.dwarves}.
+i:A clan of orcs{.orcs,.orc warlords,.orkish clans}.
+i:A goblin war party{.goblins,.goblin gangs}.
+i:Several harpies.
+i:Ghostly warriors.
+}
+{
+d:d20 Encounters: You come upon...
+i:A lost prospector.
+i:A solemn warrior.
+i:An angry wraith.
+i:A malevolent ghost.
+i:Some bandits.
+i:A seasoned mountaineer{.mountains}.
+i:A paranoid shapeshifter.
+i:An ancient vampire{.vampires}.
+i:Several homeless dwarves{.dwarves}.
+i:An eccentric witch{.witches}.
+i:A contemplative monk.
+i:A mountain lion{.mountains}.
+i:A pair of harpies.
+i:A flock of ravens.
+i:Several orc raiders{.orcs,.orc warlords,.orkish clans}.
+i:A hunting peryton.
+i:A mated pair of manticores.
+i:A trio of monstrous trolls.
+i:A clan of stone giants at rest.
+i:A roc tearing apart some prey.
+}
+{
+d:d8 Hazards/Obstacles: You run into...
+i:A perilous rockslide.
+i:An icy rime across the path or road.
+i:A tumbling boulder.
+i:Loose rocks that make for poor footing.
+i:A large boulder blocking the way.
+i:A place where the path has fallen away leaving a narrow ledge on which to walk.
+i:A place where the path or road slopes steeply down toward a cliff edge.
+i:A sudden storm bringing heavy snow.
+}

@@ -1,0 +1,121 @@
+{
+d:d20 The gnome is...
+i:A bookish potionmaker{.potions}.
+i:A half-mad alchemist{.alchemists}.
+i:A charismatic magician.
+i:A tricky illusionist.
+i:A skilled gemcutter{gemstones}.
+i:An absent-minded jeweler.
+i:An inventive cook.
+i:A restless tinker.
+i:A high-strung clockmaker.
+i:A mischievous singer.
+i:A boastful musician.
+i:A witty storyteller.
+i:A whimsical poet.
+i:A shrewd miner{.mines}.
+i:A daring explorer.
+i:A happy-go-lucky thief{.thieves}.
+i:A cheerful birdwatcher.
+i:A cautious woodland guide.
+i:A clever merchant{.merchant caravans,.merchant guilds}.
+i:An eccentric peddler.
+}
+{
+d:d10 The gnome has...
+i:Bright green eyes.
+i:Piercing blue eyes.
+i:Golden brown eyes.
+i:A neatly cropped beard.
+i:A carefully curled beard.
+i:Hair growing out of the ears.
+i:A shiny gold tooth.
+i:Several gold teeth.
+i:A waddling gait.
+i:A scampering gait.
+}
+{
+d:d10 The gnome is wearing...
+i:A pointy, red cap.
+i:A pointy, blue cap.
+i:A pointy, green cap.
+i:A cap that is too big.
+i:A cap that is too small.
+i:A traveler's cloak with a hood.
+i:A dusty traveler's cloak.
+i:A patched traveler's cloak.
+i:A vest with many pockets.
+i:A vest with lacy fringes.
+}
+{
+d:d10 ...and...
+i:Well-worn boots.
+i:Boots with shiny, silver buckles.
+i:Boots with mechanical crampons.
+i:A ring with a large purple gemstone{gemstones}.
+i:A ring with a flashy blue gemstone{gemstones}.
+i:A ring with a deep red gemstone{gemstones}.
+i:A ring with a brilliant green gemstone{gemstones}.
+i:A pair of wire-framed spectacles.
+i:A pair of multi-lens eyeglasses.
+i:Goggles with several magnification settings.
+}
+{
+d:d10 The gnome is carrying...
+i:Several glass vials and a set of scales.
+i:A wand of yew wood{.magic wands}.
+i:A wand of elderberry wood.
+i:A small rock hammer.
+i:A frying pan and a wooden spoon.
+i:A set of hammers, awls, vises, and other tools.
+i:A mining pick.
+i:A set of lockpicks and a crowbar.
+i:A notebook and an inkpen.
+i:A sack full of odds and ends.
+}
+{
+d:d10 ...and...
+i:A stoppered glass bottle and a pair of tweezers.
+i:A set of jeweler's tools.
+i:Several spare gears and springs.
+i:A flute.
+i:A tamborine.
+i:A book of tales.
+i:A book of poems.
+i:A well-used lantern.
+i:A field guide to flora and fauna.
+i:A field guide to herbs and poisons{.herbalism}.
+}
+{
+d:d10 Presently, the gnome is looking for...
+i:Protection from an angry giant.
+i:Protection from some tricky goblins{.goblins,.goblin gangs}.
+i:A rare ingredient for a potion or poison{.potions}.
+i:A lost book of arcane secrets.
+i:Someone to buy some potions{.potions}.
+i:Someone from whom to palm a few coins.
+i:An opinion on the some plans for a device.
+i:An unusually shaped gear or spring.
+i:Someone with whom to share some wine{.wines}.
+i:A cup of ale or wine and a good tale{.wines}.
+}
+{
+d:d10 ...but the gnome is also interested in finding...
+i:The recipe for a potent potion or poison{.potions}.
+i:A copy of a book of lore on dangerous beasts.
+i:Something with which to tinker.
+i:The location of a storied mine{.mines}.
+i:A legendary gemstone{gemstones}.
+i:New soup recipes.
+i:New uses for cabbages and turnips.
+i:The wand of a famous witch or wizard{.magic wands,.witches}.
+i:The long lost spellbook of a legendary illusionist.
+i:A rare songbird.
+}
+[
+d:NAME
+]
+{
+d:d1 This NPC is called... 
+i:$fantasy
+}

@@ -1,0 +1,90 @@
+{
+d:d6 Premises: The cobbler makes and repairs shoes...
+i:In the yard in front of the cobbler’s house.
+i:In the front room of the cobbler’s house.
+i:In a small storefront on a busy street.
+i:In a small storefront down a quiet alley.
+i:On a small cart set up in a market square.
+i:Wherever there is work; the cobbler travels from town to town.
+}
+{
+d:d6 Reputation: The cobbler is known for…
+i:Fast and reliable repairs.
+i:Miraculous repairs of badly damaged footwear.
+i:High-quality work at fair prices.
+i:Crafting sturdy wooden shoes.
+i:Crafting beautiful leather boots.
+i:Not asking any questions.
+}
+{
+d:d6 Training: The cobbler learned the trade from a/an...
+i:Prison workhouse.
+i:Patient mentor.
+i:Demanding master cordwainer.
+i:Parent who mended shoes out of the home.
+i:Licensed guild craftsman.
+i:Rebellious leatherworker.
+}
+{
+d:d6 Skills: Even among the trade, the cobbler has especially…
+i:Nimble fingers.
+i:Strong fingers.
+i:Tireless hands.
+i:Sharp eyes.
+i:Good business sense.
+i:Friendly service.
+}
+{
+d:d6 Hidden talent: The cobbler is also pretty good at…
+i:Storytelling.
+i:Playing the lute or harp.
+i:Riddles.
+i:Fisticuffs.
+i:Throwing darts or knives.
+i:Brewing beer.
+}
+{
+d:d6 Personality trait: The cobbler…
+i:Always greets customers with a smile.
+i:Has little patience for customers who question his work.
+i:Always murmurs a prayer before and after finishing a job.
+i:Listens patiently and loves to hear everyone’s story.
+i:Is generous and often offers customers something to eat or drink.
+i:Is extremely tidy in both his/her personal hygiene and work.
+}
+{
+d:d6 Quirk/flaw: The cobbler…
+i:Is suspicious of foreigners.
+i:Barely notices his/her surroundings while working.
+i:Can’t help but haggle over prices.
+i:Refuses to negotiate on principle.
+i:Is excessively paranoid about pickpockets and burglars.
+i:Is usually a little drunk.
+}
+{
+d:d6 Goal: The cobbler is looking for a/an...
+i:New assistant.
+i:Bit of fine leather, wood, or fur.
+i:Replacement for a worn tool.
+i:Easy sale.
+i:Opportunity to sell some fancy dancing shoes.
+i:Person to deliver some finished work.
+}
+{
+d:d6 Cart/pack: The cobbler is carrying or carting around a/an…
+i:Unsettling array of scissors.
+i:Knife carved of bone.
+i:Hammer with an ominous stain.
+i:Dozen or more unfinished boots.
+i:Pile of dry, salted fish.
+i:Number of fine silk ladies’ shoes.
+}
+{
+d:d6 Shop/house: The cobbler’s work space features a/an…
+i:Pair of enchanted boots that are not for sale.
+i:Pair of boots worn by a local hero.
+i:Hidden door.
+i:Burglar alarm on the front door.
+i:Icon of a crafter god.
+i:Portrait of a parent or grandparent.
+}

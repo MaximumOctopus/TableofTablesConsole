@@ -1,0 +1,184 @@
+{
+d:d12 Interesting Location: You find...
+i:A cavern behind a waterfall{.caverns}.
+i:A small cave in the bank of a creek.
+i:An entrance to a rocky cave.
+i:A hole under a large tree.
+i:A large burrow.
+i:A peculiar cottage.
+i:A woodsman's cabin.
+i:An abandoned cabin.
+i:An abandoned campsite.
+i:A sacred grove.
+i:A grave with an illegible headstone{.graverobbers}.
+i:Ancient ruins.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:A fruit tree.
+i:A large, hollow tree.
+i:A pair of trees from the same root.
+i:A tree growing over a boulder.
+i:A clearing with wildflowers.
+i:A grassy clearing.
+i:A moss-covered boulder.
+i:A thicket of brambles.
+i:A babbling brook.
+i:A brook in a deep ravine.
+i:A brook, with gentle rapids.
+i:A dry creekbed.
+i:A small pool at a creek's bend.
+i:A patch of mushrooms.
+i:An enormous mushroom.
+i:A large, hollow log.
+i:A large, rotting log.
+i:A tree felled by lightning.
+i:An old gnarled tree.
+i:The stump of an enormous tree.
+}
+{
+d:d20 Feature: You notice...
+i:A flock of birds scatter.
+i:A hawk cries.
+i:A woodpecker drumming.
+i:An owl hoots.
+i:Birds chirping.
+i:A chipmunk scurrying.
+i:A deer dashes away.
+i:A deer watches curiously.
+i:A squirrel leaps from one tree to another.
+i:A wolf howls.
+i:Butterflies fluttering about.
+i:Squirrels chittering.
+i:An eerie silence.
+i:The breeze stops.
+i:The wind blows harder.
+i:A twig snaps.
+i:Brightly, colored berries.
+i:Leaves rustling.
+i:The scent of flowers.
+i:The smell of decay.
+}
+{
+d:d20 Dominant Species: Many of the trees are...
+i:Apple or pear trees.
+i:Ashes.
+i:Birches.
+i:Beeches.
+i:Cedars or junipers.
+i:Cherry or plum trees.
+i:Chestnut or hazel trees.
+i:Cypresses.
+i:Elms.
+i:Firs.
+i:Hawthorns or hemlocks.
+i:Hickory or walnut trees.
+i:Linden or lime trees.
+i:Maples.
+i:Oaks.
+i:Pines.
+i:Poplars.
+i:Spruces.
+i:Willows.
+i:Yew or holly trees.
+}
+{
+d:d12 What’s in the cave/cavern?
+i:A bear’s lair.
+i:Lots of bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A troll's stash.
+i:An ogre's lair.
+i:Some goblins' hideout{.goblins,.goblin gangs}.
+i:Some abandoned mining equipment.
+i:Bare rock.
+i:A potable spring.
+i:Unidentifiable remains.
+i:Some outlaws’ hideout{.outlaw bands}.
+i:A strange hermit.
+}
+{
+d:d20 Encounters: You come upon...
+i:A large bear.
+i:A bear cub.
+i:A giant spider{.spiders}.
+i:Several giant spiders{.spiders}.
+i:A pack of wolves.
+i:A lone wolf.
+i:A hunting cat{.cats}.
+i:A wailing ghost.
+i:A malevolent ghost.
+i:A pair of goblin scouts{.goblins,.goblin gangs}.
+i:A goblin patrol{.goblins,.goblin gangs}.
+i:An ogre.
+i:A pair of outlaws{.outlaw bands}.
+i:A beggarly bandit.
+i:An old witch{.witches}.
+i:A curious herbalist{.herbalism}.
+i:A lost child.
+i:A woodcutter busy with the day’s work.
+i:An intrepid hunter.
+i:An elvish ranger.
+}
+{
+d:d6 Who lives in the peculiar cottage?
+i:A lonely old woman.
+i:A reclusive shapeshifter.
+i:An eccentric healer{.healers}.
+i:A beautiful witch{.witches}.
+i:A horrible witch{.witches}.
+i:An outcast dwarf{.dwarves}.
+}
+{
+d:d6 Who lived in the abandoned cabin?
+i:A lonely old woman.
+i:A reclusive scholar.
+i:an eccentric healer{.healers}.
+i:A poor woodcutter.
+i:A fur trader.
+i:A dwarf prospector{.dwarves}.
+}
+{
+d:d6 Who resides in the abandoned cabin now?
+i:An owlbear.
+i:An ogre.
+i:A troll.
+i:A mad witch{.witches}.
+i:A paranoid shapeshifter.
+i:Restless ghosts.
+}
+{
+d:d10 Who built the ancient ruins?
+i:Dwarvish miners{.mines}.
+i:A wood elf king{.elves dark,.elves high,.elves wood}.
+i:A high elf prince{.elves dark,.elves high,.elves wood}.
+i:A dragon cult{.dragons}.
+i:A death cult.
+i:Shadow monks.
+i:A long-dead emperor.
+i:A forgotten king.
+i:An evil queen.
+i:A dark sorcerer.
+}
+{
+d:d10 Who lives in the ancient ruins now?
+i:A dwarf prospector{.dwarves}.
+i:A wood elf druid{.druids,.elves dark,.elves high,.elves wood}.
+i:Poisonous snakes.
+i:Giant spiders{.spiders}.
+i:Hungry zombies.
+i:Restless ghosts.
+i:A handful of ogres.
+i:Some irritable trolls.
+i:A pair of manticores.
+i:A dragon{.dragons}.
+}
+{
+d:d6 What’s in the hole/burrow?
+i:A snake.
+i:A spider{.spiders}.
+i:A badger.
+i:Earthworms.
+i:A centipede.
+i:Unusual fungus.
+}

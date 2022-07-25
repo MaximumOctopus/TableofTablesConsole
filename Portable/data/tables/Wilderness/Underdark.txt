@@ -1,0 +1,165 @@
+{
+d:d10 Entrance: The cave mouth is...
+i:Wide and tall, letting much daylight into the entry chamber.
+i:A wide sinkhole.
+i:An easy to spot, narrow passage.
+i:A steep, slippery sloped tunnel.
+i:A man-made tunnel.
+i:A collapsed tunnel, impassable without excavation.
+i:Marked with several warning signs.
+i:Hidden by the terrain (d4): 1. some boulders; 2. a waterfall; 3. a rocky overhang; 4. a hillock.
+i:Hidden by vegetation (d4): 1. a briar patch; 2. a curtain of moss; 3. enormous tree roots; 4. overgrown vines.
+i:Difficult to access (d4): 1. up or down a cliff face; 2. down a deep hole. 3. in an underwater tunnel. 4. through an illusory rock or wall.
+}
+{
+d:d50 Denizens: What lives in the cave?
+i:Bullywug.
+i:Carrion crawler.
+i:Chuul.
+i:Cloaker.
+i:Crawling claw.
+i:Cyclops.
+i:Darkmantle.
+i:Shadow dragon{.dragons}.
+i:Drider.
+i:Duergar.
+i:Elves, dark{.elves dark,.elves high,.elves wood}.
+i:Ettin.
+i:Fomorian.
+i:Fungi.
+i:Galeb duhr.
+i:Gargoyle.
+i:Ghost.
+i:Ghoul.
+i:Giant, hill.
+i:Giant, stone.
+i:Gibbering mouther.
+i:Goblins{.goblins,.goblin gangs}.
+i:Grell.
+i:Grick.
+i:Grimlock.
+i:Hobgoblins.
+i:Hook Horror.
+i:Kobolds{.kobolds}.
+i:Mephits.
+i:Mimic.
+i:Myconids.
+i:Ogres.
+i:Oozes{.oozes}.
+i:Orcs{.orcs,.orc warlords,.orkish clans}.
+i:Otyugh.
+i:Piercer.
+i:Purple worm.
+i:Roper.
+i:Rust monster.
+i:Shadow.
+i:Skeleton.
+i:Spectre.
+i:Stirge.
+i:Troglodyte.
+i:Troll.
+i:Umber hulk.
+i:Wraith.
+i:Xorn.
+i:Yuan-ti.
+i:Zombies.
+}
+{
+d:d10 Ecology: The creature is...
+i:A predator or a hunter.
+i:A food source for other denizens.
+i:A recently-arrived squatter or invader.
+i:A long-time resident.
+i:A parasite or a scavenger.
+i:A host or the dominant species.
+i:Unusually abundant.
+i:Living in deliberate isolation.
+i:Living in unintentional isolation.
+i:Severely out of place in this cave.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:A trickle of water flowing down the walls and across the floor.
+i:An underground lake of potable water.
+i:A pool of stagnant water.
+i:A natural bridge over a chasm.
+i:A narrow chasm with walls close enough to climb between.
+i:A deep chasm with no bottom in sight.
+i:A shaft in the ceiling with no light coming from it.
+i:A shaft in the ceiling with dim light coming from it.
+i:A group of stalagmites arranged in a circle.
+i:An arrangement of two large stalactites and two large stalagmites, reminiscent of fangs in a yawning mouth.
+i:A pair of natural columns.
+i:A large stalactite that has broken off from the ceiling and fallen to the floor.
+i:An array of many small stalactites spreading across the ceiling.
+i:A damp wall covered in soft mold.
+i:A recess in the wall, covered in slimy mold.
+i:A large patch of glowing fungus.
+i:A large patch of small mushrooms.
+i:A group of enormous mushrooms.
+i:A large cavern with a strong echo{.caverns}.
+i:A claustrophobic tunnel with a low ceiling.
+}
+{
+d:d12 Features: You notice...
+i:A cache of abandoned, decrepit mining equipment.
+i:Some old dry bones.
+i:Many bones underfoot.
+i:Evidence of a recent encampment.
+i:An enormous spider web{.spiders}.
+i:A wide slippery patch of mold on the floor.
+i:The clatter of rocks falling.
+i:Loose stones underfoot.
+i:An unstable ceiling.
+i:A distant sound—a scream, hammers at work, footsteps, or drums.
+i:The name of a previous traveler carved into a wall.
+i:Several ancient runes carved into the wall.
+}
+{
+d:d12 The cave wall is...
+i:Slightly damp.
+i:Dripping wet.
+i:Slick with mold.
+i:Covered in soft fungi.
+i:Dry as a bone.
+i:Rough and dry.
+i:Dry and smooth.
+i:Jagged.
+i:Pockmarked.
+i:Crumbling, with loose bits flaking off.
+i:Crumbling, with large chunks falling off at a touch.
+i:Covered in an unidentifiable slime.
+}
+{
+d:d6 The cave ceiling is...
+i:Uncomfortably close to your head.
+i:Covered in stalactites (watch your head!).
+i:Smooth as glass.
+i:Rough and jagged.
+i:Connected to the floor by natural columns.
+i:So high it’s difficult to see.
+}
+{
+d:d6 Hazards/Obstacles: You find...
+i:A colony of poisonous mushrooms.
+i:A patch of toxic mold.
+i:The ceiling caves in.
+i:Several rocks tumble down a sloped wall.
+i:The floor is very slippery.
+i:Your foot misses the floor as you step into a pit or chasm.
+}
+{
+d:d12 Travelers/Visitors: You come upon...
+i:An explorer (d4): 1. duergar; 2. goblin{.goblins,.goblin gangs}; 3. human; 4. kobold{.kobolds}.
+i:An escaped slave (d6): 1. dwarf{.dwarves}; 2. goblin{.goblins,.goblin gangs}; 3. gnome{.gnomes}; 4. halfling; 5. human; 6. kobold{.kobolds}.
+i:A forager (d4): 1. duergar; 2. goblin{.goblins,.goblin gangs}; 3. kobold{.kobolds}; 4. orc{.orcs,.orc warlords,.orkish clans}.
+i:A fugitive criminal (d4): 1. heretic; 2. killer; 3. smuggler; 4. thief{.thieves}.
+i:A lost treasure hunter (d4): 1. dwarf{.dwarves}; 2. half-elf{.elves dark,.elves high,.elves wood}; 3. high elf{.elves dark,.elves high,.elves wood}; 4. human.
+i:A mapmaker (d4): 1. dwarf{.dwarves}; 2. goblin{.goblins,.goblin gangs}; 3. gnome{.gnomes}; 4. svirfneblin.
+i:A messenger (d4): 1. dark elf{.elves dark,.elves high,.elves wood}; 2. goblin{.goblins,.goblin gangs}; 3. gnome{.gnomes}; 4. svirfneblin.
+i:A miner {.mines} (d6): 1. dwarf{.dwarves}; 2. gnome{.gnomes}; 3. goblin{.goblins,.goblin gangs}; 4. human; 5. kobold{.kobolds}; 6. svirfneblin.
+i:A prospector (d4): 1. dwarf{.dwarves}; 2. gnome{.gnomes}; 3. human; 4. svirfneblin.
+i:A scout (d4): 1. dark elf{.elves dark,.elves high,.elves wood}; 2. goblin{.goblins,.goblin gangs}; 3. kobold{.kobolds}; 4. orc{.orcs,.orc warlords,.orkish clans}.
+i:A soldier {.soldiers} (d6): 1. dark elf{.elves dark,.elves high,.elves wood}; 2. duergar; 3. dwarf{.dwarves}; 4. goblin{.goblins,.goblin gangs}; 5. kobold{.kobolds}; 6. orc{.orcs,.orc warlords,.orkish clans}.
+i:A spy (d4): 1. dark elf{.elves dark,.elves high,.elves wood}; 2. duergar; 3. goblin{.goblins,.goblin gangs}; 4. kobold{.kobolds}.
+}

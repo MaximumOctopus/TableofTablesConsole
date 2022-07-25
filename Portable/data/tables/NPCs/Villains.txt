@@ -1,0 +1,342 @@
+{
+d:d20 The villain started as...
+i:A commoner
+i:A member of the clergy
+i:An apprentice to the clergy
+i:An apprentice artisan{.artisans}
+i:An apprentice smith
+i:A member of a noble house{.nobles,.noble houses}
+i:A street urchin
+i:A mayor
+i:A constable or sheriff
+i:A mercenary
+i:A guard
+i:An adventurer
+i:A low-level member of a guild
+i:A guild leader
+i:A traveller
+i:A merchant{.merchant caravans,.merchant guilds}
+i:A member of a secret order
+i:A scholar
+i:A slave
+i:A servant to a lord
+}
+{
+d:d6 The villain turned (how long ago)...
+i:Recently
+i:At an old age
+i:In his middle years
+i:At a young age
+i:As a child
+i:The day he was born, he has always had a darkness
+}
+{
+d:d4 The villain turned (how quickly)...
+i:Suddenly
+i:Over a few days
+i:Over the course of a year
+i:Slowly, over the course of a very long time
+}
+{
+d:d100 The villain turned because...
+i:He was betrayed by a close friend
+i:He was betrayed by a lover
+i:He was betrayed by a parent
+i:He was betrayed by the priesthood
+i:He was betrayed by the nobility
+i:He was betrayed by the gods
+i:He was cast out of his family
+i:He was cast out of his village
+i:He was cast out of society
+i:He was cast out by his peers
+i:He was cast out of his chosen profession
+i:He was cast out of a noble house{.nobles,.noble houses}
+i:His family was killed by an intruder
+i:His family was killed by the nobility
+i:His family was killed by an unknown person
+i:He was nearly killed and left for dead
+i:He was the subject of grotesque experiments
+i:He was forced to fight for his survival against all odds.
+i:He discovered an unbearable truth
+i:He was pushed beyond his limits and went mad
+i:He believes he is the rightful heir to the kingdom
+i:He believes he is the rightful owner of an artefact
+i:His true love was taken from him
+i:He believes everyone is out to destroy him
+i:He is overwhelmed with power and driven mad
+i:He got a taste of wealth and become obsessed with gaining more
+i:He got a taste of power and become obsessed with gaining more
+i:He believes he is the only one to save a people at all costs
+i:He believes he must save a people from themselves
+i:He got lost on a mission to prove his love to another
+i:He got a taste of forbidden knowledge, and it drove him mad
+i:He got a taste of forbidden knowledge, and became obsessed with learning more
+i:He learned of a dark secret, and it seduced him
+i:He was seduced by the love of an evil woman
+i:He was seduced by the lust of an evil woman
+i:He was seduced then betrayed by a woman
+i:He was taken in, then cast out by a father/mother figure
+i:He was taken in, then seduced by a personal hero
+i:He is bound by a code to do good, and will achieve the ultimate good even at all costs
+i:He is constantly on the defence from usurpers
+i:He was passed over by a woman that he loved, who never noticed him
+i:He came to believe himself to be an important albeit evil part of balance
+i:He became seduced by the idea that the world was too good, and stagnant. He took on a mantle of opposition to instigate change
+i:It was simply fun
+i:He was driven mad by his own experiment
+i:He was driven mad by continuing to fail at an experiment
+i:He learned of a prophesy that predicted the loss of his power
+i:He learned of a prophesy that predicted the loss of his wealth
+i:He learned of a prophesy that predicted the loss of his spouse/lover
+i:He learned of a prophesy that predicted the loss of his children
+i:He learned of a prophesy that predicted the loss of his parents
+i:He learned of a prophesy that predicted the loss of his children
+i:He learned of a prophesy that predicted his death
+i:He learned of a prophesy that predicted the loss of his station
+i:He learned of a prophesy that predicted the loss of his influence
+i:He learned of his successor
+i:He was promised great power
+i:He was promised great wealth
+i:He was promised a great lover
+i:He is not evil, and never turned. He is just perceived that way
+i:He is not inherently evil, it is just in his nature
+i:He is not inherently evil, that is just the way of his society
+i:He became possessed by an evil entity
+i:He was pushed to the edge by boredom
+i:He was pushed to the edge by the lack of a physical challenge
+i:He was pushed to the edge by the lack of an intellectual challenge
+i:It was prophesied, and he embraced his destiny
+i:It was prophesied, and ironically in fighting his destiny he became what he feared
+i:He did not choose evil, but he is the most skilled in an evil society
+i:He did not choose evil, but he is the most powerful of an evil society
+i:His mom didn't love him enough
+i:He just wants to see the world burn
+i:A special item was stolen from him
+i:His parents were kidnapped
+i:A sibling was kidnapped
+i:A child was kidnapped
+i:He was kidnapped
+i:A close friend was kidnapped
+i:He was caught up in a deep conspiracy
+i:He was groomed from an early age
+i:He was brainwashed
+i:He was tortured to the breaking point
+i:He has seen too many horrors
+i:He was passed over by his parents in favour of his less deserving sibling
+i:He felt the need to prove himself to his parents
+i:He started listening to the voices in his head
+i:He had an overdeveloped sense of personal space
+i:He grew extremely paranoid
+i:He became partially separated from the material world
+i:He visited a a plane of torment
+i:He developed a sense of intense loneliness.
+i:He developed a fear that everyone was going to leave him
+i:He developed a fear that no one would ever love him
+i:He was separated from the world for a very long time
+i:He was secluded from the world since birth
+i:He wanted his name to go down in the ages
+i:He didn't realize he was doing evil, he was just protecting himself
+i:He was going to make someone listen at any cost
+i:He had no choice. He was being compelled
+i:He was out to prove something, and went to far
+}
+{
+d:d50 The villain has...
+i:A steep brow casting a shadow over his eyes
+i:A maniacal laugh
+i:A wry grin
+i:A sharpened tooth
+i:A charm with tokens from his favourite victims
+i:A memento of his greatest triumph
+i:A scar on his face
+i:Unusual facial hair
+i:Unusual clothing
+i:A completely bald body
+i:Albinism
+i:A face that resembles a hawk
+i:A face that resembles a wolf
+i:A face that resembles a bear
+i:A face that resembles a fox
+i:A face that resembles a dragon{.dragons}
+i:The voice of angels
+i:The voice of demons
+i:No voice
+i:Scars covering his body
+i:A missing ear
+i:A missing eye
+i:A missing arm
+i:A missing nose
+i:No eyes
+i:Missing fingers
+i:A foerign accent
+i:Extra fingers
+i:A smile no one can resist
+i:Never been seen in his true form
+i:Wrong coloured skin
+i:A legendary weapon{.legendary weapons}
+i:A gaze that can see into your soul
+i:A permanent frown
+i:Exaggerated features
+i:A massive statue
+i:A diminutive stature
+i:A full body of armor
+i:A completely painted face
+i:A face painted with tribal markings
+i:A face painted war paint
+i:A partially hidden face
+i:A face hidden in the shadows
+i:No pupils
+i:No special features. He could be anyone
+i:A magical artefact
+i:A golden broach
+i:A flowing cape
+i:A memento of his last victim
+i:Sigils of his station
+}
+{
+d:d20 The villain's current goal is...
+i:Revenge
+i:Steal an item
+i:Murder someone
+i:Become the boss of a company or guild
+i:Become wealthy
+i:Raise an Army
+i:Genocide
+i:Destroy a village
+i:Enslave a species
+i:Enslave a village
+i:Start a rebellion
+i:Build an artefact
+i:Become the King or Queen
+i:Become nobility
+i:Take over the empire
+i:Raise a dead/sleeping/banished god
+i:Become a deity
+i:Become a lich
+i:Destroy/Remake the world
+i:One-up himself
+}
+{
+d:d2 The villain will oppose the party
+i:Directly
+i:Indirectly
+}
+{
+d:d50 The villain is a...
+i:Human
+i:Goblin{.goblins,.goblin gangs}
+i:Dragon{.dragons}
+i:Orc{.orcs,.orc warlords,.orkish clans}
+i:Ogre
+i:Kobold{.kobolds}
+i:Lich
+i:Fiend{.fiends}
+i:Celestial{.beasts celestial}
+i:Banshee
+i:Beholder
+i:Centaur
+i:Devil
+i:Doppelganger
+i:Dracolich
+i:Dryad
+i:Duergar
+i:High-Elf{.elves dark,.elves high,.elves wood}
+i:Wood-Elf{.elves dark,.elves high,.elves wood}
+i:Dark-Elf{.elves dark,.elves high,.elves wood}
+i:Mountain Dwarf{.dwarves,.mountains}
+i:Hill Dwarf{.dwarves}
+i:Gnome
+i:God
+i:Deity
+i:Ghost
+i:Giant
+i:Half-Dragon{.dragons}
+i:Lamia
+i:Lizardfolk{.lizardfold}
+i:Lycanthrope{.lycanthropes}
+i:Medusa
+i:Mind Flayer
+i:Naga
+i:Faerie
+i:Vampire{.vampires}
+i:Wraith
+i:Yuan-ti
+i:Tiefling
+i:Avatar of a God
+i:Hobgoblin
+i:Half-Orc{.orcs,.orc warlords,.orkish clans}
+i:Wraith
+i:Banshee
+i:Merfolk
+i:Half-Dragon{.dragons}
+i:Svirfneblin
+i:Centaur
+i:Planar Deity
+i:Drider
+}
+{
+d:d20 The villain leads through...
+i:Charisma. His followers love him unquestioningly
+i:Charisma. He has a silver tongue
+i:Enchantment. His followers are all under his command
+i:Legend. Stories of him may be bigger than he is
+i:Force of will. There is no better alternative
+i:Terror. Join him or die
+i:Greed. Join him and be well rewarded
+i:Eternity. Join him and be rewarded in the afterlife
+i:Intelligence. He has calculated his every move. To oppose him would be folly
+i:Omniscience. If you don't follow, he will know.
+i:Strength. He is the most powerful individual
+i:Strength. He commands the greatest armies
+i:Strength. He rules the greatest empire
+i:Intelligence. His followers don't know they follow him
+i:Force. He can not be defeated
+i:Loyalty. His subjects revere his station
+i:Profits. He pays his minions well
+i:Damnation. Follow him, or be damned in the afterlife
+i:Promises of Power.
+i:Manipulation. Everyone is a pawn of a bigger game
+}
+{
+d:d10 The villains minions are...
+i:A secret cabal devoted to him
+i:A nation devoted to him
+i:A select few lieutenants
+i:Vast and numerous, but don't know they follow him
+i:Members of a guild
+i:Mercenaries and adventurers
+i:Natural creatures
+i:Dragons
+i:Warring between each other. Each believing they are superior to the other
+i:None. He works alone
+}
+{
+d:d20 Despite being evil, his qualities include
+i:True love for a child
+i:True love for a spouse
+i:True love for a parent
+i:Love of nature and it's inhabitants
+i:He treats his minions with respect
+i:After conquering a people, he improves their lives
+i:He spends time meditating daily
+i:He gardens
+i:He donates to charity
+i:He takes care of the sick
+i:He takes care of the elderly
+i:He takes pride in artwork
+i:He loves music
+i:He spares the weak
+i:He does not harm the undeserving
+i:He ultimately seeks order
+i:He gives away all of his riches
+i:He truly believes he is doing good
+i:He is a scholar
+i:He is the creator of a great good
+}
+[
+d:NAME
+]
+{
+d:d1 The Villain is called... 
+i:$fantasy
+}

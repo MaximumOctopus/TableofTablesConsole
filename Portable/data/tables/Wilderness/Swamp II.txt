@@ -1,0 +1,81 @@
+{
+d:d6 Point of interest: You come upon a/an...
+i:Ring of ancient monoliths.
+i:Entrance to a flooded tomb.
+i:Ruined temple.
+i:House floating on pontoons.
+i:Dwelling built upon stilts.
+i:Damp cave.
+}
+{
+d:d6 Landmark/feature: You see a/an...
+i:Bubbling pool of mud.
+i:Enormous gnarled old tree.
+i:Hillock rising above the water.
+i:Thorny bramble.
+i:Patch of very tall reeds.
+i:Large, rotting log.
+}
+{
+d:d6 Minor feature: You notice a/an...
+i:Scent of decay.
+i:Bird call.
+i:Flying waterfowl.
+i:Lizard climbing a tree.
+i:Especially mossy tree.
+i:Patch of mushrooms.
+}
+{
+d:d6 Daytime encounters: You meet a/an...
+i:Beast (roll on beast table).
+i:Monster (roll on monster table).
+i:Reclusive beastshifter (roll on beast table).
+i:Solitary fisherman.
+i:Eccentric herbalist.
+i:Skilled hunter.
+}
+{
+d:d6 Nighttime encounters: You meet a/an...
+i:Beast (roll on beast table).
+i:Monster (roll on monster table).
+i:Hungry ghoul
+i:Malevolent ghost.
+i:Foul-mouthed witch.
+i:Desperate fugitive.
+}
+{
+d:d6 Beast: You come upon a/an...
+i:Crocodile.
+i:Snake.
+i:Predatory fish.
+i:Predatory bird (hawk or owl).
+i:Giant frog.
+i:Giant rat.
+}
+{
+d:d6 Monster: You come upon a/an...
+i:Bullywug.
+i:Lizardfolk.
+i:Bog hag.
+i:Displacer beast.
+i:Manticore.
+i:Stirge.
+}
+{
+d:d6 Hazard: You happen upon a/an…
+i:Patch of sticky mud.
+i:Patch of quicksand.
+i:Swarm of biting flies.
+i:Sudden rainstorm.
+i:Nauseating stench.
+i:Hunter’s snare.
+}
+{
+d:d6 Power center: This region is ruled or menaced by a/an…
+i:Black dragon.
+i:Hydra.
+i:Lich.
+i:Council of swampfolk elders.
+i:Tribal chieftain.
+i:Noble family.
+}

@@ -1,0 +1,202 @@
+{
+d:d12 Interesting Location: You find...
+i:A cavern behind a waterfall{.caverns}.
+i:The wreck of a riverboat.
+i:A cave behind a curtain of tangled of vines.
+i:A hole beneath a large tree.
+i:A large, damp burrow.
+i:A primitive village.
+i:A stilt house.
+i:A recently vacated campsite.
+i:A hastily abandoned campsite.
+i:A ruined ancient stone house overgrown with vines.
+i:A ruined ancient temple{.temples}.
+i:Ruins of an ancient city.
+}
+{
+d:d20 Distinguishing Landmark: You see...
+i:A tree bearing large, yellow fruit.
+i:A tree bearing small, red fruit.
+i:A large, hollow tree.
+i:A pair of trees from the same root.
+i:A tree growing over a boulder.
+i:A thicket of brambles.
+i:A wide, shallow pool at a river bend.
+i:A wide, shallow river with a single large tree growing in its main channel.
+i:A moss-covered boulder in the midst of a gently flowing river.
+i:Several gentle rapids.
+i:A pair of dangerous rapids.
+i:A large, gnarled log half-buried in mud.
+i:A tree felled by lightning.
+i:A colony of colorful mushrooms.
+i:An enormous mushroom.
+i:A large rock with a mossy overhang.
+i:A large, hollow log.
+i:A large, rotting log.
+i:An old tree with an oddly shaped knot.
+i:The stump of an enormous tree.
+}
+{
+d:d20 Feature: You notice...
+i:A flock of birds scatter.
+i:A woodpecker drumming.
+i:A bird singing sweetly.
+i:A brightly colored bird flies away.
+i:Birds chirping.
+i:A monkey drops a fruit or nut from above{.monkeys}.
+i:A monkey leaps from one tree to another{.monkeys}.
+i:Large dragonflies buzzing about.
+i:Cicadas chirping loudly.
+i:Butterflies fluttering about.
+i:A centipede scuttles beneath a rock.
+i:An eerie silence.
+i:Rain falls lightly.
+i:The heat and humidity increase.
+i:The sound of leaves rustling above.
+i:A vine gently swaying.
+i:A small snake slithers off.
+i:Brightly, colored berries.
+i:The scent of flowers.
+i:The smell of decay.
+}
+{
+d:d20 Encounters: You come upon...
+i:Torrential rains.
+i:A place where you sink into the mud.
+i:A predatory plant with grasping vines.
+i:A large jungle cat{.jungle,.cats}.
+i:A small hunting cat{.cats}.
+i:A giant spider{.spiders}.
+i:Several giant spiders{.spiders}.
+i:A troop of protective apes.
+i:A lone great ape.
+i:A rare flightless bird.
+i:A malevolent ghost.
+i:A pair of lizardfolk hunters{.lizardfold}.
+i:A lizardfolk shaman{.lizardfold}.
+i:A yuan-ti patrol.
+i:An ogre.
+i:A pair of primitive scouts.
+i:A skilled primitive hunter.
+i:An old witch{.witches}.
+i:A curious herbalist{.herbalism}.
+i:A ruthless big-game hunter.
+}
+{
+d:d12 Flower Color: The flowers are...
+i:Deep crimson.
+i:Blood red.
+i:Iridescent orange.
+i:Pale yellow.
+i:Brilliant yellow.
+i:Dark bluish purple.
+i:Pale purple.
+i:Dark purple.
+i:Magenta.
+i:Shockingly pink.
+i:Pale pink.
+i:White.
+}
+{
+d:d10 Flower Shape: The petals are...
+i:Radiating in a spiraling pattern.
+i:Radiating from a hemispherical center.
+i:Radiating from a conical center.
+i:Radiating in a narrow stalk in the center.
+i:Paired and curling back from the center.
+i:Triangular and flat.
+i:Triangular and curled.
+i:Ellipsoidal and flat.
+i:Ellipsoidal and curled.
+i:The largest petals you’ve ever seen.
+}
+{
+d:d4 What kind of riverboat was it?
+i:A fisherman's raft.
+i:An eeler’s canoe.
+i:A beasthunter's dugout.
+i:A treasure seeker's keelboat.
+}
+{
+d:d12 What’s in the cave/cavern?
+i:A manticore’s lair.
+i:Lots of bats{.bats}.
+i:Many spider webs{.spiders}.
+i:A medusa’s stash.
+i:An rage drake’s lair.
+i:A band of kobolds.
+i:Some abandoned mining equipment.
+i:Bare rock.
+i:A potable spring.
+i:Unidentifiable remains.
+i:Some treasure hunters’ hideout.
+i:A strange hermit.
+}
+{
+d:d8 Who lives in the stilt house?
+i:A lonely old woman.
+i:A reclusive shapeshifter.
+i:An eccentric healer{.healers}.
+i:A beautiful witch{.witches}.
+i:A horrible witch{.witches}.
+i:An outcast wood elf{.elves dark,.elves high,.elves wood}.
+i:A horrifying medusa.
+i:A scheming hag.
+}
+{
+d:d8 Who camped here?
+i:A lizardfolk hunting party{.lizardfold}.
+i:A band of wandering elves{.elves dark,.elves high,.elves wood}.
+i:A primitive hunting party.
+i:A primitive war band.
+i:A band of yuan-ti raiders.
+i:An extraordinary beasthunter.
+i:A brave explorer and naturalist.
+i:An ambitious treasure hunter.
+}
+{
+d:d10 Who built the ancient ruins?
+i:A lizardfolk chieftain{.lizardfold}.
+i:An aberrant cult.
+i:A snake cult.
+i:A dragon cult{.dragons}.
+i:A death cult.
+i:Shadow monks.
+i:A long-dead emperor.
+i:A forgotten king.
+i:An evil queen.
+i:A dark sorcerer.
+}
+{
+d:d12 Who resides in the ruins now?
+i:An owlbear.
+i:An isolated snake cult.
+i:A paranoid shapeshifter.
+i:Restless ghosts.
+i:Poisonous snakes.
+i:Giant spiders{.spiders}.
+i:Hungry zombies.
+i:Wraiths and shadows.
+i:A handful of ogres.
+i:A band of lizardfolk warriors{.lizardfold}.
+i:A pair of manticores.
+i:A dragon{.dragons}.
+}
+{
+d:d6 What’s in the hole/burrow?
+i:A poisonous snake.
+i:A spider{.spiders}.
+i:A poisonous frog.
+i:A swarm of earthworms.
+i:A giant centipede.
+i:Unusual fungus.
+}
+{
+d:d6 What’s up in the tree?
+i:A constrictor snake.
+i:A giant spider{.spiders}.
+i:A swarm of bats{.bats}.
+i:A swarm of locusts.
+i:An aggressive ape.
+i:A lizardfolk hunter{.lizardfold}.
+}
