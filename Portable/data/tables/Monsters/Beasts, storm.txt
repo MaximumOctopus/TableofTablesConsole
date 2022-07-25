@@ -1,0 +1,46 @@
+{
+d:d12 The storm beast is...
+i:A basilisk.
+i:A boar.
+i:A drake.
+i:A griffon.
+i:A hawk.
+i:A lizard.
+i:A manticore.
+i:An owlbear.
+i:An ox.
+i:A scorpion.
+i:A serpent.
+i:A wyvern.
+}
+{
+d:d8 The beast has...
+i:Bright blue or white markings.
+i:Zigzag stripes.
+i:Broad, feathered or leathery wings.
+i:Cold, grey eyes.
+i:Watery, blue eyes.
+i:A coat that always appears damp.
+i:An aura of static electricity.
+i:A windy aura.
+}
+{
+d:d8 ...and...
+i:Flies erratically, fluttering in the wind.
+i:Flies swiftly, like a bolt of lightning.
+i:Causes the ground to quake with each step.
+i:A loud, thunderous howl or cry.
+i:Can conjure a raincloud wherever it goes.
+i:Exhales lightning when it breathes.
+i:Electrically shocks those who touch it.
+i:Flies into a rage when struck by an attack.
+}
+{
+d:d6 The beast is looking for...
+i:Something to electrocute or to drown.
+i:A lair on high ground with a view of the land.
+i:An individual marked by its master.
+i:An opportunity to impress its master.
+i:The remains of a long-dead storm titan.
+i:An item that can call thunderstorms.
+}

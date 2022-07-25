@@ -1,0 +1,2328 @@
+{
+n:chesspiece
+d:d6 chess pieces
+i:pawn
+i:bishop
+i:castle
+i:knight{.knights}
+i:king
+i:queen
+}
+{
+n:cursessimple
+d:d40 simple curses (for NPCs)
+i:Blinded
+i:Deafened
+i:Muted
+i:Donkey Ears
+i:Gnarled Hands
+i:Eye Bleeding
+i:Bad Luck Curse
+i:Massive Hair Growth
+i:Inverted Coloration
+i:Spontaneous Combustion
+i:Boils, Warts, Zits and Festering Sores
+i:Magical Baldness
+i:Horrible Body Odor
+i:Gnarled Teeth
+i:Uncontrollable Yelling
+i:Second, Nasty Head
+i:Insanity
+i:Minor Lycanthropy
+i:Massive Weight Gain
+i:Loss of Gear
+i:Random Body Part Petrification
+i:Short Attention Span
+i:Unpredictable Invisibility
+i:Blinding Stupidity
+i:Bad Reputation
+i:Six-Fingered Man
+i:Undetectable Alignment
+i:Fear of Fear
+i:Ghost Whisperer
+i:Homocidal Tendencies
+i:I Can Quit Whenever I Want
+i:Passive-Aggressive
+i:Lamest Limit Break Ever
+i:A Spell for Bink
+i:Glub Glub
+i:No Common Sense
+i:Where Did I Put That Scroll?
+i:Aura of Inability
+i:Stop Hitting Yourself
+i:I Can't Hear You Over Myself
+}
+{
+n:nonprecious
+d:d6 non-precious
+i:steel
+i:electrum
+i:tin
+i:bone
+i:clay
+i:wood
+i:flawed crystal
+i:pearl
+i:jade
+i:glass
+i:rock crystal
+}
+{
+n:noveltycards
+d:d4 novelty cards
+i:unusual illustrations.
+i:non-magical recreation of a deck of illusions.
+i:non-magical recreation of a deck of many things.
+i:tarot cards.
+}
+{
+n:gemstones
+d:d319 Gemstones
+i:Actinolite
+i:Adamite
+i:Aegerine
+i:Afghanite
+i:Agardite
+i:Agate
+i:Alabaster
+i:Albite
+i:Alexandrite
+i:Almandine
+i:Alunite
+i:Amazonite
+i:Amber
+i:Amethyst
+i:Ametrine
+i:Analcime
+i:Anatase
+i:Andalusite
+i:Andesine
+i:Andradite
+i:Anglesite
+i:Anhydrite
+i:Ankerite
+i:Annabergite
+i:Anthophyllite
+i:Antigorite
+i:Antlerite
+i:Anyolite
+i:Apache tears
+i:Apophyllite
+i:Aquamarine
+i:Aragonite
+i:Arfvedsonite
+i:Astrophyllite
+i:Atacamite
+i:Augite
+i:Aurichalcite
+i:Austinite
+i:Axinite Group
+i:Azurite
+i:Baryte
+i:Bauxite
+i:Bayldonite
+i:Benitoite
+i:Beryl
+i:Beudantite
+i:Biotite
+i:Bixbite
+i:Blue John
+i:Boleite
+i:Bone
+i:Boracite
+i:Bornite
+i:Botallackite
+i:Botryogen
+i:Bowenite
+i:Brazilianite
+i:Brochantite
+i:Bronzite
+i:Brookite
+i:Brucite
+i:Bytownite
+i:Cacoxenite
+i:Calcite
+i:Caledonite
+i:Californite
+i:Carletonite
+i:Carminite
+i:Carnallite
+i:Carnelian
+i:Cassiterite
+i:Cat's eye
+i:Cavansite
+i:Celestite
+i:Cerussite
+i:Ceylonite
+i:Chalcedony
+i:Chalcopyrite
+i:Chambersite
+i:Charoite
+i:Chlorastrolite
+i:Chloromelanite
+i:Chondrodite
+i:Chrysoberyl
+i:Chrysocolla
+i:Chrysotile
+i:Cinnabar
+i:Citrine
+i:Clinochlore
+i:Clinohumite
+i:Clinozoisite
+i:Clintonite
+i:Conichalcite
+i:Cordierite
+i:Corundum
+i:Creedite
+i:Crocidolite
+i:Cummingtonite
+i:Cuprite
+i:Cymophane
+i:Danburite
+i:Datolite
+i:Diaboleite
+i:Diamond
+i:Diaspore
+i:Diopside
+i:Dioptase
+i:Dolomite
+i:Dravite
+i:Druzy
+i:Dumortierite
+i:Eilat stone
+i:Elbaite
+i:Emerald
+i:Enstatite
+i:Epidosite
+i:Epidote
+i:Erythrite
+i:Esperite
+i:Fayalite
+i:Feldspar
+i:Ferroaxinite
+i:Flint
+i:Fluorapatite
+i:Fluorapophyllite
+i:Fluorite
+i:Forsterite
+i:Garnet Group:
+i:Garnierite
+i:Gibbsite
+i:glass
+i:Glaucophane
+i:Goethite
+i:Goshenite
+i:Grossular
+i:Gypsum
+i:Halite
+i:Hambergite
+i:Hanksite
+i:Hardystonite
+i:Hauyne
+i:Heliodor
+i:Hematite
+i:Hemimorphite
+i:Hessonite
+i:Hexagonite
+i:Hibonite
+i:Hiddenite
+i:Humite
+i:Iddingsite
+i:Iolite
+i:Ivory
+i:Jacinth
+i:Jade
+i:Jadeite
+i:Jarosite
+i:Jasper
+i:Jeremejevite
+i:Jet
+i:Kainite
+i:Kidney Ore
+i:Kimberlite
+i:Kornerupine
+i:Kunzite
+i:Kutnohorite
+i:Kyanite
+i:Labradorite
+i:Lammerite
+i:Langbeinite
+i:Langite
+i:Lapis lazuli
+i:Larimar
+i:Lawsonite
+i:Lazurite
+i:Leadhillite
+i:Lechatelierite
+i:Legrandite
+i:Lepidolite
+i:Leucophanite
+i:Linarite
+i:Londonite
+i:Magnesioaxinite
+i:Magnesite
+i:Malachite
+i:Manganaxinite
+i:Manganoan calcite
+i:Maw sit sit
+i:Melanterite
+i:Mendipite
+i:Milky
+i:Mimetite
+i:Moissanite
+i:Mookaite
+i:Moonstone
+i:Morganite
+i:Muscovite
+i:Musgravite
+i:Narsarsukite
+i:Natrophilite
+i:Nepheline
+i:Nephrite
+i:Nimite
+i:Normandite
+i:Obsidian
+i:Olenite
+i:Olivenite
+i:Olivine
+i:Opal
+i:Orthoclase
+i:Pallasite
+i:Pantellerite
+i:Papagoite
+i:Pargasite
+i:Pearl
+i:Pectolite
+i:Peridot
+i:Peridotite
+i:Petalite
+i:Pezzottaite
+i:Pharmacosiderite
+i:Phlogopite
+i:Phosgenite
+i:Pietersite
+i:Pimelite
+i:Plancheite
+i:Plumbogummite
+i:Pollucite
+i:Polyhalite
+i:Posnjakite
+i:Poudretteite
+i:Prehnite
+i:Proustite
+i:Pumpellyite
+i:Purpurite
+i:Pyrite
+i:Pyromorphite
+i:Pyrope
+i:Pyrrhotite
+i:Quartz
+i:Raspite
+i:Rhodizite
+i:Rhodochrosite
+i:Riebeckite
+i:Rosasite
+i:Rose
+i:Rossmanite
+i:Rubellite
+i:Ruby
+i:Rutile
+i:Sérandite
+i:Sapphire
+i:Scapolite
+i:Scheelite
+i:Schorlomite
+i:Scolecite
+i:Scorodite
+i:Selenite
+i:Seraphinite
+i:Serendibite
+i:Serpentite
+i:Shattuckite
+i:Shigaite
+i:Siderite
+i:Smithsonite
+i:Smoky
+i:Sodalite
+i:Spessartine
+i:Spherocobaltite
+i:Spinel
+i:Spodumene
+i:Steatite
+i:Stichtite
+i:Stilbite
+i:Stishovite
+i:Stolzite
+i:Strengite
+i:Sugilite
+i:Sulphur
+i:Sunstone
+i:Sylvite
+i:Taaffeite
+i:Tactite
+i:Talc
+i:Tantalite
+i:Tanzanite
+i:Thomsonite
+i:Thulite
+i:Tiger's-eye
+i:Tinaksite
+i:Tinzenite
+i:Titanite
+i:Topaz
+i:Tourmaline
+i:Tremolite
+i:Tsavorite
+i:Tschermakite
+i:Tugtupite
+i:Turquoise
+i:Tusionite
+i:Tyrolite
+i:Unakite
+i:Uvarovite
+i:Vanadinite
+i:Variscite
+i:Vauxite
+i:Vermiculite
+i:Vesuvianite
+i:Villiaumite
+i:Wakefieldite
+i:Wavellite
+i:Weloganite
+i:Wolfenite
+i:Xenotime
+i:Zektzerite
+i:Zeolite
+i:Zincite
+i:Zinnwaldite
+i:Zircon
+i:Zoisite
+}
+{
+n:semiprecious
+d:d14 semi-precious materials
+i:jade
+i:onyx
+i:wood
+i:steel
+i:agate
+i:moonstone
+i:quartz
+i:amethyst
+i:aquamarine
+i:topaz
+i:garnet
+i:calcite
+i:citrine
+i:jasper
+}
+{
+n:softtoy
+d:d8 soft toys
+i:boar
+i:octopus
+i:djinni
+i:red dragon{.dragons}
+i:owl
+i:owlbear
+i:unicorn
+i:fish
+}
+{
+n:pubnameverbs
+d:d100 Verb:
+i:Moping
+i:Drowning
+i:Hanging
+i:Belching
+i:Running
+i:Walking
+i:Hunting
+i:Fighting
+i:Swinging
+i:Breaking
+i:Working
+i:Fermenting
+i:Flowering
+i:Worrying
+i:Following
+i:Flowing
+i:Complaining
+i:Standing
+i:Joking
+i:Laughing
+i:Panting
+i:Boarding
+i:Lounging
+i:Cutting
+i:Singing
+i:Staring
+i:Goading
+i:Disappointing
+i:Faltering
+i:Binding
+i:Winding
+i:Sundering
+i:Longing
+i:Fumbling
+i:Bumbling
+i:Stumbling
+i:Pining
+i:Whining
+i:Flying
+i:Hoarding
+i:Whoring
+i:Warring
+i:Winking
+i:Skittering
+i:Slithering
+i:Snoring
+i:Snorting
+i:Playing
+i:Practicing
+i:Grappling
+i:Burning
+i:Flaming
+i:Freezing
+i:Poisoning
+i:Burying
+i:Throwing
+i:Sparking
+i:Steaming
+i:Smiting
+i:Chittering
+i:Chattering
+i:Mumbling
+i:Grating
+i:Plowing
+i:Biting
+i:Howling
+i:Roaring
+i:Shouting
+i:Pouring
+i:Squeaking
+i:Stinging
+i:Charging
+i:Bleating
+i:Stabbing
+i:Goring
+i:Poking
+i:Swallowing
+i:Sucking
+i:Drinking
+i:Sneaking
+i:Hiding
+i:Slashing
+i:Limping
+i:Tripping
+i:Shifting
+i:Sliding
+i:Blinding
+i:Piercing
+i:Bludgeoning
+i:Crushing
+i:Hopping
+i:Thundering
+i:Hushing
+i:Crying
+i:Wailing
+i:Mourning
+i:Darkening
+i:Piling
+i:Digging
+i:Flinging
+}
+{
+n:pubnameadjectives
+d:d100 Adjective:
+i:Wayward
+i:Quiet
+i:Jolly
+i:Good
+i:Crooked
+i:White
+i:Gray
+i:Blackened
+i:Harried
+i:Crimson
+i:Silver
+i:Golden
+i:Disturbed
+i:Filthy
+i:Ugly
+i:Bastard
+i:Faltering
+i:Glorious
+i:Beautiful
+i:Handsome
+i:Wrinkled
+i:Unhappy
+i:Intelligent
+i:Lovely
+i:Ignorant
+i:Senile
+i:Sour
+i:Sweet
+i:Lonely
+i:Green
+i:Blind
+i:Hungry
+i:Worried
+i:Educated
+i:Stupid
+i:Emboldened
+i:Honorary
+i:Stinky
+i:Bottomless
+i:Greasy
+i:Sloppy
+i:Stylish
+i:Distressed
+i:Harrowed
+i:Tormented
+i:Mortified
+i:Lopsided
+i:Broken
+i:Moldy
+i:Gooey
+i:Fermented
+i:Blighted
+i:Ornate
+i:Drowned
+i:Murdered
+i:Widowed
+i:Hanged
+i:Angry
+i:Lusty
+i:Haunted
+i:Strong
+i:Withered
+i:Comely
+i:Pious
+i:Penitent
+i:Patient
+i:Drunk
+i:Worthy
+i:Wealthy
+i:Loathsome
+i:Weak
+i:Miniscule
+i:Miniature
+i:Enormous
+i:Enlarged
+i:Engorged
+i:Lecherous
+i:Despicable
+i:Lewd
+i:Portly
+i:Violent
+i:Bumbling
+i:Faulty
+i:Pristine
+i:Cleanly
+i:Cracked
+i:Splintered
+i:Jeweled
+i:Superior
+i:Flawless
+i:Common
+i:Exquisite
+i:Elegant
+i:Fine
+i:Dull
+i:Brittle
+i:Fragile
+i:Effeminate
+i:Masculine
+i:Supine
+}
+{
+n:pubnamenoun1
+d:d100 Noun 1A:
+i:Warhorse
+i:Horseman
+i:Maiden
+i:Mage
+i:Bachelor
+i:King
+i:Magistrate
+i:Warchief
+i:Warrior
+i:Mare
+i:Wolf
+i:Fox
+i:Lion
+i:Lamb
+i:Warden
+i:Mule
+i:Assassin{.assassins' guilds}
+i:Swordsman
+i:Lady
+i:Knight{.knights}
+i:Soldier{.soldiers}
+i:Wizard
+i:Warlock
+i:Ranger
+i:Bard{.bards}
+i:Druid
+i:Monk
+i:Paladin
+i:Sorcerer
+i:Rogue{.rogue missions}
+i:Cleric
+i:Bear
+i:Goblin{.goblins,.goblin gangs}
+i:Kobold{.kobolds}
+i:Gnome{.gnomes}
+i:Halfling
+i:Dwarf
+i:Fool
+i:Virgin
+i:Horde
+i:Squire
+i:Eagle
+i:Rooster
+i:Piglet
+i:Thief
+i:Priest
+i:Friar
+i:Blacksmith
+i:Guard
+i:Stag
+i:Hag
+i:Devil
+i:Angel
+i:Serpent
+i:Snake
+i:Rat{.rats}
+i:Mouse
+i:Bandit
+i:Chieftain
+i:Griffon
+i:Dragon{.dragons}
+i:Lizard
+i:Pony
+i:Baron
+i:Heifer
+i:Bull
+i:Hound
+i:Goat
+i:Toad
+i:Stallion
+i:Monster
+i:Vermin
+i:Beholder
+i:Monkey{.monkeys}
+i:Elephant
+i:Boar
+i:Beagle
+i:Bat{.bats}
+i:Demon
+i:Imp
+i:Sprite
+i:Fey
+i:Spirit
+i:Bitch
+i:Starling
+i:Minotaur
+i:Barbarian
+i:Prophet
+i:Merchant
+i:Cobbler
+i:Unicorn
+i:Ogre
+i:Nymph
+i:Butcher
+i:Captain
+i:Angler
+i:Lover
+i:Mason
+i:Tinker
+i:Whale
+}
+{
+n:pubnamenoun2
+d:d100 Noun 2:
+i:Mount
+i:Saddle
+i:Guild
+i:Fangs
+i:Man
+i:Pardon
+i:Pleasure
+i:Belt
+i:Staff
+i:Shield
+i:Prince
+i:Master
+i:Servant
+i:Meal
+i:Prince
+i:Favor
+i:Love
+i:Word
+i:Scribe
+i:Apprentice
+i:Acolyte
+i:Dress
+i:Goddess
+i:God
+i:Gold
+i:Purse
+i:Trap
+i:King
+i:Son
+i:Sister
+i:Mother
+i:Daughter
+i:Cry
+i:Shout
+i:Cupboard
+i:Pantry
+i:Queen
+i:Wealth
+i:Star
+i:Void
+i:Woman
+i:Man
+i:Whore
+i:Butcher
+i:Anvil
+i:Tome
+i:Sacrifice
+i:Armor
+i:Cup
+i:Pot
+i:Stove
+i:Stool
+i:Princess
+i:Chain
+i:Sword
+i:Pork
+i:Grain
+i:Tooth
+i:Lance
+i:Axe
+i:Scabbard
+i:Knife
+i:Dagger
+i:Spear
+i:Bow
+i:Crossbow
+i:Quarterstaff
+i:Staff
+i:Fire
+i:Ice
+i:Wind
+i:Earth
+i:Water
+i:Stone
+i:Ladle
+i:Monastery
+i:Chalice
+i:Goblet
+i:Dungeon{basic dungeons,castle dungeons,dungeon dressing}
+i:Lust
+i:Lantern
+i:Bone
+i:Life
+i:Stone
+i:Mistress
+i:Mind
+i:Treasure
+i:Barter
+i:Armorer
+i:Butler
+i:Page
+i:Tome
+i:Feather
+i:Shadow
+i:Friend
+i:Labyrinth
+i:Mountain{.mountains}
+i:Hope
+i:Boot
+i:Gauntlet
+}
+
+{
+n:races_core
+d:d10 random core race:
+i:Dragonborn
+i:Dwarf 
+i:Eladrin
+i:Elf
+i:Gnome{.gnomes}
+i:Half-elf
+i:Half-orc
+i:Halfling
+i:Human
+i:Tiefling
+}
+
+{
+n:races_all
+d:d145 random race:
+i:Aarakocra
+i:Aasimar / Deva
+i:Armand
+i:Asherati
+i:Aurak
+i:Aventi
+i:Azer
+i:Azurin
+i:Baaz
+i:Bariaur
+i:Bhuka
+i:Bladeling
+i:Blue (Goblin){.goblins,.goblin gangs}
+i:Bozak
+i:Bullywug
+i:Bugbear
+i:Buomman
+i:Catfolk
+i:Centaur
+i:Changeling
+i:Chaos Gnome{.gnomes}
+i:Chitine
+i:Crucian
+i:Darfellan
+i:Deep Imaskarri
+i:Diopsid
+i:Dragonborn
+i:Drow
+i:Dire Wereboar
+i:Doppelganger
+i:Draconic creature
+i:Draotaur
+i:Dragonkin
+i:Dromite
+i:Duergar / Gray Dwarf
+i:Duskling
+i:Dvati
+i:Dwarf 
+i:Eladrin
+i:Elan
+i:Elf
+i:Feral Gargun
+i:Fey'ri
+i:Frost Giant
+i:Gargoyle
+i:Genasi
+i:Ghost
+i:Githyanki
+i:Githzerai
+i:Gloaming
+i:Gnoll
+i:Gnome{.gnomes}
+i:Goblin{.goblins,.goblin gangs}
+i:Goblinoid
+i:Goliath
+i:Grimlock
+i:Hadozee
+i:Hagspawn
+i:Half-Celestial
+i:Half-Dragon{.dragons}
+i:Half-elf
+i:Half-Fiend{.fiends}
+i:Half-Giant
+i:Half-Ogre
+i:Half-orc
+i:Halfling
+i:Hamadryad
+i:Hellbred
+i:Hengeyokai
+i:Hill Giant
+i:Hobgoblin
+i:Human
+i:Illumian
+i:Jaebrin
+i:Janni (Genie)
+i:Kalashtar
+i:Kapak
+i:Kender
+i:Kenku
+i:Killoren
+i:Kir-Lanan
+i:Kobold{.kobolds}
+i:Korobokuru
+i:Kuo-toa
+i:Lich
+i:Lizardfolk / Lizardman
+i:Loxo
+i:Lupin
+i:Maenad
+i:Mephling
+i:Illithid
+i:Minotaur
+i:Modron, Rogue{.rogue missions}
+i:Mongrelfolk
+i:Mul
+i:Neanderthal
+i:Neraphim
+i:Nezumi
+i:Ogre
+i:Orc
+i:Phrenic creature
+i:Pixie
+i:Pterran
+i:Rakasta
+i:Rakshasa
+i:Raptoran
+i:Revenant
+i:Rilkan
+i:Satyr
+i:Sea Kin
+i:Shadar-kai
+i:Shade
+i:Shadowswyft
+i:Sharakim
+i:Shardmind
+i:Shifter
+i:Sivak
+i:Skarn
+i:Skulk
+i:Slyth
+i:Spellscale
+i:Spiker
+i:Spirit Folk
+i:Stonechild
+i:Synad
+i:Taer
+i:Tanarukk
+i:Thri-Kreen
+i:Tibbit
+i:Tiefling
+i:Troglodyte
+i:Troll
+i:Uldra
+i:Unbodied
+i:Underfolk
+i:Vampire{.vampires}
+i:Vanara
+i:Volodni
+i:Vryloka
+i:Warforged
+i:Wemic
+i:Wilden
+i:Wildren
+i:Xeph
+i:Yuan-ti
+}
+
+{
+n:classes_core
+d:d12 random class:
+i:Barbarian
+i:Bard{.bards}
+i:Cleric
+i:Druid
+i:Fighter
+i:Monk
+i:Paladin
+i:Ranger
+i:Rogue{.rogue missions}
+i:Sorcerer
+i:Warlock
+i:Wizard
+}
+
+{
+n:colours
+i:Absolute Zero
+i:Acajou
+i:Acid green
+i:Aero
+i:Aero blue
+i:African violet
+i:Air Force blue (RAF)
+i:Air Force blue (USAF)
+i:Air superiority blue
+i:Alabama crimson
+i:Alice blue
+i:Alien Armpit
+i:Alizarin crimson
+i:Alloy orange
+i:Almond
+i:Amaranth
+i:Amaranth deep purple
+i:Amaranth pink
+i:Amaranth purple
+i:Amaranth red
+i:Amazon
+i:Amber
+i:Amber (SAE/ECE)
+i:American rose
+i:Amethyst
+i:Android green
+i:Anti-flash white
+i:Antique brass
+i:Antique bronze
+i:Antique fuchsia
+i:Antique ruby
+i:Antique white
+i:Ao (English)
+i:Apple green
+i:Apricot
+i:Aqua
+i:Aquamarine
+i:Arctic lime
+i:Army green
+i:Arsenic
+i:Artichoke
+i:Arylide yellow
+i:Ash grey
+i:Asparagus
+i:Atomic tangerine
+i:Auburn
+i:Aureolin
+i:AuroMetalSaurus
+i:Avocado
+i:Aztec Gold
+i:Azure
+i:Azure (web color)
+i:Azure mist
+i:Azureish white
+i:Baby blue
+i:Baby blue eyes
+i:Baby pink
+i:Baby powder
+i:Baker-Miller pink
+i:Ball blue
+i:Banana Mania
+i:Banana yellow
+i:Bangladesh green
+i:Barbie pink
+i:Barn red
+i:Battery Charged Blue
+i:Battleship grey
+i:Bazaar
+i:Beau blue
+i:Beaver
+i:Beige
+i:B'dazzled blue
+i:Big dip o’ruby
+i:Big Foot Feet
+i:Bisque
+i:Bistre
+i:Bistre brown
+i:Bitter lemon
+i:Bitter lime
+i:Bittersweet
+i:Bittersweet shimmer
+i:Black
+i:Black bean
+i:Black Coral
+i:Black leather jacket
+i:Black olive
+i:Black Shadows
+i:Blanched almond
+i:Blast-off bronze
+i:Bleu de France
+i:Blizzard Blue
+i:Blond
+i:Blue
+i:Blue (Crayola)
+i:Blue (Munsell)
+i:Blue (NCS)
+i:Blue (Pantone)
+i:Blue (pigment)
+i:Blue (RYB)
+i:Blue Bell
+i:Blue Bolt
+i:Blue-gray
+i:Blue-green
+i:Blue Jeans
+i:Blue Lagoon
+i:Blue-magenta violet
+i:Blue sapphire
+i:Blue-violet
+i:Blue yonder
+i:Blueberry
+i:Bluebonnet
+i:Blush
+i:Bole
+i:Bondi blue
+i:Bone
+i:Booger Buster
+i:Boston University Red
+i:Bottle green
+i:Boysenberry
+i:Brandeis blue
+i:Brass
+i:Brick red
+i:Bright cerulean
+i:Bright green
+i:Bright lavender
+i:Bright lilac
+i:Bright maroon
+i:Bright navy blue
+i:Bright pink
+i:Bright turquoise
+i:Bright ube
+i:Bright Yellow (Crayola)
+i:Brilliant azure
+i:Brilliant lavender
+i:Brilliant rose
+i:Brink pink
+i:British racing green
+i:Bronze
+i:Bronze Yellow
+i:Brown (traditional)
+i:Brown (web)
+i:Brown-nose
+i:Brown Sugar
+i:Brown Yellow
+i:Brunswick green
+i:Bubble gum
+i:Bubbles
+i:Bud green
+i:Buff
+i:Bulgarian rose
+i:Burgundy
+i:Burlywood
+i:Burnished Brown
+i:Burnt orange
+i:Burnt sienna
+i:Burnt umber
+i:Button Blue
+i:Byzantine
+i:Byzantium
+i:Cadet
+i:Cadet blue
+i:Cadet grey
+i:Cadmium green
+i:Cadmium orange
+i:Cadmium red
+i:Cadmium yellow
+i:Café au lait
+i:Café noir
+i:Cal Poly green
+i:Cambridge Blue
+i:Camel
+i:Cameo pink
+i:Camouflage green
+i:Canary
+i:Canary yellow
+i:Candy apple red
+i:Candy pink
+i:Capri
+i:Caput mortuum
+i:Cardinal
+i:Caribbean green
+i:Carmine
+i:Carmine (M&P)
+i:Carmine pink
+i:Carmine red
+i:Carnation pink
+i:Carnelian
+i:Carolina blue
+i:Carrot orange
+i:Castleton green
+i:Catalina blue
+i:Catawba
+i:Cedar Chest
+i:Ceil
+i:Celadon
+i:Celadon blue
+i:Celadon green
+i:Celeste
+i:Celestial blue
+i:Cerise
+i:Cerise pink
+i:Cerulean
+i:Cerulean blue
+i:Cerulean frost
+i:CG Blue
+i:CG Red
+i:Chamoisee
+i:Champagne
+i:Champagne pink
+i:Charcoal
+i:Charleston green
+i:Charm pink
+i:Chartreuse (traditional)
+i:Chartreuse (web)
+i:Cherry
+i:Cherry blossom pink
+i:Chestnut
+i:China pink
+i:China rose
+i:Chinese red
+i:Chinese violet
+i:Chlorophyll green
+i:Chocolate (traditional)
+i:Chocolate (web)
+i:Chrome yellow
+i:Cinereous
+i:Cinnabar
+i:Cinnamon
+i:Cinnamon Satin
+i:Citrine
+i:Citron
+i:Claret
+i:Classic rose
+i:Cobalt Blue
+i:Cocoa brown
+i:Coconut
+i:Coffee
+i:Columbia Blue
+i:Congo pink
+i:Cool Black
+i:Cool grey
+i:Copper
+i:Copper (Crayola)
+i:Copper penny
+i:Copper red
+i:Copper rose
+i:Coquelicot
+i:Coral
+i:Coral pink
+i:Coral red
+i:Coral Reef
+i:Cordovan
+i:Corn
+i:Cornell Red
+i:Cornflower blue
+i:Cornsilk
+i:Cosmic Cobalt
+i:Cosmic latte
+i:Coyote brown
+i:Cotton candy
+i:Cream
+i:Crimson
+i:Crimson glory
+i:Crimson red
+i:Cultured
+i:Cyan
+i:Cyan azure
+i:Cyan-blue azure
+i:Cyan cobalt blue
+i:Cyan cornflower blue
+i:Cyan (process)
+i:Cyber grape
+i:Cyber yellow
+i:Daffodil
+i:Dandelion
+i:Dark blue
+i:Dark blue-gray
+i:Dark brown
+i:Dark brown-tangelo
+i:Dark byzantium
+i:Dark candy apple red
+i:Dark cerulean
+i:Dark chestnut
+i:Dark coral
+i:Dark cyan
+i:Dark electric blue
+i:Dark goldenrod
+i:Dark gray (X11)
+i:Dark green
+i:Dark green (X11)
+i:Dark gunmetal
+i:Dark imperial blue
+i:Dark imperial blue
+i:Dark jungle green
+i:Dark khaki
+i:Dark lava
+i:Dark lavender
+i:Dark liver
+i:Dark liver (horses)
+i:Dark magenta
+i:Dark medium gray
+i:Dark midnight blue
+i:Dark moss green
+i:Dark olive green
+i:Dark orange
+i:Dark orchid
+i:Dark pastel blue
+i:Dark pastel green
+i:Dark pastel purple
+i:Dark pastel red
+i:Dark pink
+i:Dark powder blue
+i:Dark puce
+i:Dark purple
+i:Dark raspberry
+i:Dark red
+i:Dark salmon
+i:Dark scarlet
+i:Dark sea green
+i:Dark sienna
+i:Dark sky blue
+i:Dark slate blue
+i:Dark slate gray
+i:Dark spring green
+i:Dark tan
+i:Dark tangerine
+i:Dark taupe
+i:Dark terra cotta
+i:Dark turquoise
+i:Dark vanilla
+i:Dark violet
+i:Dark yellow
+i:Dartmouth green
+i:Davy's grey
+i:Debian red
+i:Deep aquamarine
+i:Deep carmine
+i:Deep carmine pink
+i:Deep carrot orange
+i:Deep cerise
+i:Deep champagne
+i:Deep chestnut
+i:Deep coffee
+i:Deep fuchsia
+i:Deep Green
+i:Deep green-cyan turquoise
+i:Deep jungle green
+i:Deep koamaru
+i:Deep lemon
+i:Deep lilac
+i:Deep magenta
+i:Deep maroon
+i:Deep mauve
+i:Deep moss green
+i:Deep peach
+i:Deep pink
+i:Deep puce
+i:Deep Red
+i:Deep ruby
+i:Deep saffron
+i:Deep sky blue
+i:Deep Space Sparkle
+i:Deep spring bud
+i:Deep Taupe
+i:Deep Tuscan red
+i:Deep violet
+i:Deer
+i:Denim
+i:Brown Sugar
+i:Desaturated cyan
+i:Desert
+i:Desert sand
+i:Desire
+i:Diamond
+i:Dim gray
+i:Dingy Dungeon
+i:Dirt
+i:Dodger blue
+i:Dogwood rose
+i:Dollar bill
+i:Dolphin Gray
+i:Donkey brown
+i:Drab
+i:Duke blue
+i:Dust storm
+i:Dutch white
+i:Earth yellow
+i:Ebony
+i:Ecru
+i:Eerie black
+i:Eggplant
+i:Eggshell
+i:Egyptian blue
+i:Electric blue
+i:Electric crimson
+i:Electric cyan
+i:Electric green
+i:Electric indigo
+i:Electric lavender
+i:Electric lime
+i:Electric purple
+i:Electric ultramarine
+i:Electric violet
+i:Electric yellow
+i:Emerald
+i:Eminence
+i:English green
+i:English lavender
+i:English red
+i:English violet
+i:Eton blue
+i:Eucalyptus
+i:Fallow
+i:Falu red
+i:Fandango
+i:Fandango pink
+i:Fashion fuchsia
+i:Fawn
+i:Feldgrau
+i:Feldspar
+i:Fern green
+i:Ferrari Red
+i:Field drab
+i:Fiery Rose
+i:Firebrick
+i:Fire engine red
+i:Flame
+i:Flamingo pink
+i:Flattery
+i:Flavescent
+i:Flax
+i:Flirt
+i:Floral white
+i:Fluorescent orange
+i:Fluorescent pink
+i:Fluorescent yellow
+i:Folly
+i:Forest green (traditional)
+i:Forest green (web)
+i:French beige
+i:French bistre
+i:French blue
+i:French fuchsia
+i:French lilac
+i:French lime
+i:French mauve
+i:French pink
+i:French plum
+i:French puce
+i:French raspberry
+i:French rose
+i:French sky blue
+i:French violet
+i:French wine
+i:Fresh Air
+i:Frostbite
+i:Fuchsia
+i:Fuchsia (Crayola)
+i:Fuchsia pink
+i:Fuchsia purple
+i:Fuchsia rose
+i:Fulvous
+i:Fuzzy Wuzzy
+i:Gainsboro
+i:Gamboge
+i:Gamboge orange (brown)
+i:Gargoyle Gas
+i:Generic viridian
+i:Ghost white
+i:Giant's Club
+i:Giants orange
+i:Ginger
+i:Glaucous
+i:Glitter
+i:Glossy Grape
+i:GO green
+i:Gold (metallic)
+i:Gold (web) (Golden)
+i:Gold Fusion
+i:Golden brown
+i:Golden poppy
+i:Golden yellow
+i:Goldenrod
+i:Granite Gray
+i:Granny Smith Apple
+i:Grape
+i:Gray
+i:Gray (HTML/CSS gray)
+i:Gray (X11 gray)
+i:Gray-asparagus
+i:Gray-blue
+i:Green (Color Wheel) (X11 green)
+i:Green (Crayola)
+i:Green (HTML/CSS color)
+i:Green (Munsell)
+i:Green (NCS)
+i:Green (Pantone)
+i:Green (pigment)
+i:Green (RYB)
+i:Green-blue
+i:Green-cyan
+i:Green Lizard
+i:Green Sheen
+i:Green-yellow
+i:Grizzly
+i:Grullo
+i:Guppie green
+i:Gunmetal
+i:Halayà úbe
+i:Han blue
+i:Han purple
+i:Hansa yellow
+i:Harlequin
+i:Harlequin green
+i:Harvard crimson
+i:Harvest gold
+i:Heart Gold
+i:Heat Wave
+i:Heidelberg Red [1]
+i:Heliotrope
+i:Heliotrope gray
+i:Heliotrope magenta
+i:Hollywood cerise
+i:Honeydew
+i:Honolulu blue
+i:Hooker's green
+i:Hot magenta
+i:Hot pink
+i:Hunter green
+i:Iceberg
+i:Icterine
+i:Illuminating Emerald
+i:Imperial
+i:Imperial blue
+i:Imperial purple
+i:Imperial red
+i:Inchworm
+i:Independence
+i:India green
+i:Indian red
+i:Indian yellow
+i:Indigo
+i:Indigo dye
+i:Indigo (web)
+i:Infra Red
+i:International Klein Blue
+i:International orange (aerospace)
+i:International orange (engineering)
+i:International orange (Golden Gate Bridge)
+i:Iris
+i:Irresistible
+i:Isabelline
+i:Islamic green
+i:Italian sky blue
+i:Ivory
+i:Jade
+i:Japanese carmine
+i:Japanese indigo
+i:Japanese violet
+i:Jasmine
+i:Jasper
+i:Jazzberry jam
+i:Jelly Bean
+i:Jet
+i:Jonquil
+i:Jordy blue
+i:June bud
+i:Jungle green
+i:Kelly green
+i:Kenyan copper
+i:Keppel
+i:Key Lime
+i:Khaki (HTML/CSS) (Khaki)
+i:Khaki (X11) (Light khaki)
+i:Kiwi
+i:Kobe
+i:Kobi
+i:Kobicha
+i:Kombu green
+i:KSU Purple
+i:KU Crimson
+i:La Salle Green
+i:Languid lavender
+i:Lapis lazuli
+i:Laser Lemon
+i:Laurel green
+i:Lava
+i:Lavender (floral)
+i:Lavender (web)
+i:Lavender blue
+i:Lavender blush
+i:Lavender gray
+i:Lavender indigo
+i:Lavender magenta
+i:Lavender mist
+i:Lavender pink
+i:Lavender purple
+i:Lavender rose
+i:Lawn green
+i:Lemon
+i:Lemon chiffon
+i:Lemon curry
+i:Lemon glacier
+i:Lemon lime
+i:Lemon meringue
+i:Lemon yellow
+i:Lenurple
+i:Licorice
+i:Liberty
+i:Light apricot
+i:Light blue
+i:Light brilliant red
+i:Light brown
+i:Light carmine pink
+i:Light cobalt blue
+i:Light coral
+i:Light cornflower blue
+i:Light crimson
+i:Light cyan
+i:Light deep pink
+i:Light French beige
+i:Light fuchsia pink
+i:Light goldenrod yellow
+i:Light gray
+i:Light grayish magenta
+i:Light green
+i:Light hot pink
+i:Light khaki
+i:Light medium orchid
+i:Light moss green
+i:Light orchid
+i:Light pastel purple
+i:Light pink
+i:Light red ochre
+i:Light salmon
+i:Light salmon pink
+i:Light sea green
+i:Light sky blue
+i:Light slate gray
+i:Light steel blue
+i:Light taupe
+i:Light Thulian pink
+i:Light yellow
+i:Lilac
+i:Lilac Luster
+i:Lime (color wheel)
+i:Lime (web) (X11 green)
+i:Lime green
+i:Limerick
+i:Lincoln green
+i:Linen
+i:Lion
+i:Liseran purple
+i:Little boy blue
+i:Liver
+i:Liver (dogs)
+i:Liver (organ)
+i:Liver chestnut
+i:Livid
+i:Lumber
+i:Lust
+i:Macaroni and Cheese
+i:Madder Lake
+i:Magenta
+i:Magenta (Crayola)
+i:Magenta (dye)
+i:Magenta (Pantone)
+i:Magenta (process)
+i:Magenta haze
+i:Magenta-pink
+i:Magic mint
+i:Magic Potion
+i:Magnolia
+i:Mahogany
+i:Maize
+i:Majorelle Blue
+i:Malachite
+i:Manatee
+i:Mandarin
+i:Mango Tango
+i:Mantis
+i:Mardi Gras
+i:Marigold
+i:Maroon (Crayola)
+i:Maroon (HTML/CSS)
+i:Maroon (X11)
+i:Mauve
+i:Mauve taupe
+i:Mauvelous
+i:Maximum Blue
+i:Maximum Blue Green
+i:Maximum Blue Purple
+i:Maximum Green
+i:Maximum Green Yellow
+i:Maximum Purple
+i:Maximum Red
+i:Maximum Red Purple
+i:Maximum Yellow
+i:Maximum Yellow Red
+i:May green
+i:Maya blue
+i:Meat brown
+i:Medium aquamarine
+i:Medium blue
+i:Medium candy apple red
+i:Medium carmine
+i:Medium champagne
+i:Medium electric blue
+i:Medium jungle green
+i:Medium lavender magenta
+i:Medium orchid
+i:Medium Persian blue
+i:Medium purple
+i:Medium red-violet
+i:Medium ruby
+i:Medium sea green
+i:Medium sky blue
+i:Medium slate blue
+i:Medium spring bud
+i:Medium spring green
+i:Medium taupe
+i:Medium turquoise
+i:Medium Tuscan red
+i:Medium vermilion
+i:Medium violet-red
+i:Mellow apricot
+i:Mellow yellow
+i:Melon
+i:Metallic Seaweed
+i:Metallic Sunburst
+i:Mexican pink
+i:Middle Blue
+i:Middle Blue Green
+i:Middle Blue Purple
+i:Middle Red Purple
+i:Middle Green
+i:Middle Green Yellow
+i:Middle Purple
+i:Middle Red
+i:Middle Red Purple
+i:Middle Yellow
+i:Middle Yellow Red
+i:Midnight
+i:Midnight blue
+i:Midnight green (eagle green)
+i:Mikado yellow
+i:Mimi Pink
+i:Mindaro
+i:Ming
+i:Minion Yellow
+i:Mint
+i:Mint cream
+i:Mint green
+i:Misty Moss
+i:Misty rose
+i:Moccasin
+i:Mode beige
+i:Moonstone blue
+i:Mordant red 19
+i:Morning blue
+i:Moss green
+i:Mountain Meadow
+i:Mountbatten pink
+i:MSU Green
+i:Mughal green
+i:Mulberry
+i:Mummy's Tomb
+i:Mustard
+i:Myrtle green
+i:Mystic
+i:Mystic Maroon
+i:Nadeshiko pink
+i:Napier green
+i:Naples yellow
+i:Navajo white
+i:Navy
+i:Neon purple
+i:Neon Orange
+i:Neon Red
+i:Neon green
+i:Neon Blue
+i:Neon Yellow
+i:Neon Gray
+i:Neon Brown
+i:Neon Pink
+i:New car
+i:New York pink
+i:Nickel
+i:Non-photo blue
+i:North Texas Green
+i:Nyanza
+i:Ocean Blue
+i:Ocean Boat Blue
+i:Ocean Green
+i:Ochre
+i:Office green
+i:Ogre Odor
+i:Old burgundy
+i:Old gold
+i:Old heliotrope
+i:Old lace
+i:Old lavender
+i:Old mauve
+i:Old moss green
+i:Old rose
+i:Old silver
+i:Olive
+i:Olive Drab (#3)
+i:Olive Drab #7
+i:Olivine
+i:Onyx
+i:Opera mauve
+i:Orange (color wheel)
+i:Orange (Crayola)
+i:Orange (Pantone)
+i:Orange (RYB)
+i:Orange (web)
+i:Orange peel
+i:Orange-red
+i:Orange Soda
+i:Orange-yellow
+i:Orchid
+i:Orchid pink
+i:Sash orange
+i:Orioles orange
+i:Otter brown
+i:Outer Space
+i:Outrageous Orange
+i:Oxford Blue
+i:OU Crimson Red
+i:Pacific Blue
+i:Pakistan green
+i:Palatinate blue
+i:Palatinate purple
+i:Pale aqua
+i:Pale blue
+i:Pale brown
+i:Pale carmine
+i:Pale cerulean
+i:Pale chestnut
+i:Pale copper
+i:Pale cornflower blue
+i:Pale cyan
+i:Pale gold
+i:Pale goldenrod
+i:Pale green
+i:Pale lavender
+i:Pale magenta
+i:Pale magenta-pink
+i:Pale pink
+i:Pale plum
+i:Pale red-violet
+i:Pale robin egg blue
+i:Pale silver
+i:Pale spring bud
+i:Pale taupe
+i:Pale turquoise
+i:Pale violet
+i:Pale violet-red
+i:Palm Leaf
+i:Pansy purple
+i:Paolo Veronese green
+i:Papaya whip
+i:Paradise pink
+i:Paris Green
+i:Parrot Pink
+i:Pastel blue
+i:Pastel brown
+i:Pastel gray
+i:Pastel green
+i:Pastel magenta
+i:Pastel orange
+i:Pastel pink
+i:Pastel purple
+i:Pastel red
+i:Pastel violet
+i:Pastel yellow
+i:Patriarch
+i:Payne's grey
+i:Peach
+i:Peach
+i:Peach-orange
+i:Peach puff
+i:Peach-yellow
+i:Pear
+i:Pearl
+i:Pearl Aqua
+i:Pearly purple
+i:Peridot
+i:Periwinkle
+i:Permanent Geranium Lake
+i:Persian blue
+i:Persian green
+i:Persian indigo
+i:Persian orange
+i:Persian pink
+i:Persian plum
+i:Persian red
+i:Persian rose
+i:Persimmon
+i:Peru
+i:Pewter Blue
+i:Phlox
+i:Phthalo blue
+i:Phthalo green
+i:Picton blue
+i:Pictorial carmine
+i:Piggy pink
+i:Pine green
+i:Pineapple
+i:Pink
+i:Pink (Pantone)
+i:Pink Flamingo
+i:Pink lace
+i:Pink lavender
+i:Pink-orange
+i:Pink pearl
+i:Pink raspberry
+i:Pink Sherbet
+i:Pistachio
+i:Pixie Powder
+i:Platinum
+i:Plum
+i:Plum (web)
+i:Plump Purple
+i:Polished Pine
+i:Pomp and Power
+i:Popstar
+i:Portland Orange
+i:Powder blue
+i:Princeton orange
+i:Princess Perfume
+i:Prune
+i:Prussian blue
+i:Psychedelic purple
+i:Puce
+i:Puce red
+i:Pullman Brown (UPS Brown)
+i:Pullman Green
+i:Pumpkin
+i:Purple (HTML)
+i:Purple (Munsell)
+i:Purple (X11)
+i:Purple Heart
+i:Purple mountain majesty
+i:Purple navy
+i:Purple pizzazz
+i:Purple Plum
+i:Purple taupe
+i:Purpureus
+i:Quartz
+i:Queen blue
+i:Queen pink
+i:Quick Silver
+i:Quinacridone magenta
+i:Rackley
+i:Radical Red
+i:Raisin black
+i:Rajah
+i:Raspberry
+i:Raspberry glace
+i:Raspberry pink
+i:Raspberry rose
+i:Raw Sienna
+i:Raw umber
+i:Razzle dazzle rose
+i:Razzmatazz
+i:Razzmic Berry
+i:Rebecca Purple
+i:Red
+i:Red (Crayola)
+i:Red (Munsell)
+i:Red (NCS)
+i:Red (Pantone)
+i:Red (pigment)
+i:Red (RYB)
+i:Red-brown
+i:Red devil
+i:Red-orange
+i:Red-purple
+i:Red Salsa
+i:Red-violet
+i:Redwood
+i:Regalia
+i:Registration black
+i:Resolution blue
+i:Rhythm
+i:Rich black
+i:Rich black (FOGRA29)
+i:Rich black (FOGRA39)
+i:Rich brilliant lavender
+i:Rich carmine
+i:Rich electric blue
+i:Rich lavender
+i:Rich lilac
+i:Rich maroon
+i:Rifle green
+i:Roast coffee
+i:Robin egg blue
+i:Rocket metallic
+i:Roman silver
+i:Rose
+i:Rose bonbon
+i:Rose Dust
+i:Rose ebony
+i:Rose gold
+i:Rose madder
+i:Rose pink
+i:Rose quartz
+i:Rose red
+i:Rose taupe
+i:Rose vale
+i:Rosewood
+i:Rosso corsa
+i:Rosy brown
+i:Royal azure
+i:Royal blue
+i:Royal blue
+i:Royal fuchsia
+i:Royal purple
+i:Royal yellow
+i:Ruber
+i:Rubine red
+i:Ruby
+i:Ruby red
+i:Ruddy
+i:Ruddy brown
+i:Ruddy pink
+i:Rufous
+i:Russet
+i:Russian green
+i:Russian violet
+i:Rust
+i:Rusty red
+i:Sacramento State green
+i:Saddle brown
+i:Safety orange
+i:Safety orange (blaze orange)
+i:Safety yellow
+i:Saffron
+i:Sage
+i:St. Patrick's blue
+i:Salmon
+i:Salmon pink
+i:Sand
+i:Sand dune
+i:Sandstorm
+i:Sandy brown
+i:Sandy Tan
+i:Sandy taupe
+i:Sangria
+i:Sap green
+i:Sapphire
+i:Sapphire blue
+i:Sasquatch Socks
+i:Satin sheen gold
+i:Scarlet
+i:Scarlet
+i:Schauss pink
+i:School bus yellow
+i:Screamin' Green
+i:Sea blue
+i:Sea Foam Green
+i:Sea green
+i:Sea Serpent
+i:Seal brown
+i:Seashell
+i:Selective yellow
+i:Sepia
+i:Shadow
+i:Shadow blue
+i:Shampoo
+i:Shamrock green
+i:Sheen Green
+i:Shimmering Blush
+i:Shiny Shamrock
+i:Shocking pink
+i:Shocking pink (Crayola)
+i:Sienna
+i:Silver
+i:Silver chalice
+i:Silver Lake blue
+i:Silver pink
+i:Silver sand
+i:Sinopia
+i:Sizzling Red
+i:Sizzling Sunset
+i:Skobeloff
+i:Sky blue
+i:Sky magenta
+i:Slate blue
+i:Slate gray
+i:Smalt (Dark powder blue)
+i:Smitten
+i:Smoke
+i:Smokey Topaz
+i:Smoky black
+i:Smoky Topaz
+i:Snow
+i:Soap
+i:Solid pink
+i:Sonic silver
+i:Spartan Crimson
+i:Space cadet
+i:Spanish bistre
+i:Spanish blue
+i:Spanish carmine
+i:Spanish crimson
+i:Spanish gray
+i:Spanish green
+i:Spanish orange
+i:Spanish pink
+i:Spanish red
+i:Spanish sky blue
+i:Spanish violet
+i:Spanish viridian
+i:Spicy mix
+i:Spiro Disco Ball
+i:Spring bud
+i:Spring Frost
+i:Spring green
+i:Star command blue
+i:Steel blue
+i:Steel pink
+i:Steel Teal
+i:Stil de grain yellow
+i:Stizza
+i:Stormcloud
+i:Straw
+i:Strawberry
+i:Sugar Plum
+i:Sunburnt Cyclops
+i:Sunglow
+i:Sunny
+i:Sunray
+i:Sunset
+i:Sunset orange
+i:Super pink
+i:Sweet Brown
+i:Tan
+i:Tangelo
+i:Tangerine
+i:Tangerine yellow
+i:Tango pink
+i:Tart Orange
+i:Taupe
+i:Taupe gray
+i:Tea green
+i:Tea rose
+i:Tea rose
+i:Teal
+i:Teal blue
+i:Teal deer
+i:Teal green
+i:Telemagenta
+i:Tenné (tawny)
+i:Terra cotta
+i:Thistle
+i:Thulian pink
+i:Tickle Me Pink
+i:Tiffany Blue
+i:Tiger's eye
+i:Timberwolf
+i:Titanium yellow
+i:Tomato
+i:Toolbox
+i:Topaz
+i:Tractor red
+i:Trolley Grey
+i:Tropical rain forest
+i:Tropical violet
+i:True Blue
+i:Tufts Blue
+i:Tulip
+i:Tumbleweed
+i:Turkish rose
+i:Turquoise
+i:Turquoise blue
+i:Turquoise green
+i:Turquoise Surf
+i:Turtle green
+i:Tuscan
+i:Tuscan brown
+i:Tuscan red
+i:Tuscan tan
+i:Tuscany
+i:Twilight lavender
+i:Tyrian purple
+i:UA blue
+i:UA red
+i:Ube
+i:UCLA Blue
+i:UCLA Gold
+i:UFO Green
+i:Ultramarine
+i:Ultramarine blue
+i:Ultra pink
+i:Ultra red
+i:Umber
+i:Unbleached silk
+i:United Nations blue
+i:University of California Gold
+i:Unmellow yellow
+i:UP Forest green
+i:UP Maroon
+i:Upsdell red
+i:Urobilin
+i:USAFA blue
+i:USC Cardinal
+i:USC Gold
+i:University of Tennessee Orange
+i:Utah Crimson
+i:Van Dyke Brown
+i:Vanilla
+i:Vanilla ice
+i:Vegas gold
+i:Venetian red
+i:Verdigris
+i:Vermilion
+i:Vermilion
+i:Veronica
+i:Very light azure
+i:Very light blue
+i:Very light malachite green
+i:Very light tangelo
+i:Very pale orange
+i:Very pale yellow
+i:Violet
+i:Violet (color wheel)
+i:Violet (RYB)
+i:Violet (web)
+i:Violet-blue
+i:Violet-red
+i:Viridian
+i:Viridian green
+i:Vista blue
+i:Vivid amber
+i:Vivid auburn
+i:Vivid burgundy
+i:Vivid cerise
+i:Vivid cerulean
+i:Vivid crimson
+i:Vivid gamboge
+i:Vivid lime green
+i:Vivid malachite
+i:Vivid mulberry
+i:Vivid orange
+i:Vivid orange peel
+i:Vivid orchid
+i:Vivid raspberry
+i:Vivid red
+i:Vivid red-tangelo
+i:Vivid sky blue
+i:Vivid tangelo
+i:Vivid tangerine
+i:Vivid vermilion
+i:Vivid violet
+i:Vivid yellow
+i:Volt
+i:Warm black
+i:Waterspout
+i:Weldon Blue
+i:Wenge
+i:Wheat
+i:White
+i:White smoke
+i:Wild blue yonder
+i:Wild orchid
+i:Wild Strawberry
+i:Wild watermelon
+i:Willpower orange
+i:Windsor tan
+i:Wine
+i:Wine dregs
+i:Winter Sky
+i:Winter Wizard
+i:Wintergreen Dream
+i:Wisteria
+i:Wood brown
+i:Xanadu
+i:Yale Blue
+i:Yankees blue
+i:Yellow
+i:Yellow (Crayola)
+i:Yellow (Munsell)
+i:Yellow (NCS)
+i:Yellow (Pantone)
+i:Yellow (process)
+i:Yellow (RYB)
+i:Yellow-green
+i:Yellow Orange
+i:Yellow rose
+i:Yellow Sunshine
+i:Zaffre
+i:Zinnwaldite brown
+i:Zomp
+}

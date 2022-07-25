@@ -1,0 +1,49 @@
+{
+d:d20 The legendary beast is...
+i:A basilisk.
+i:A bear.
+i:A chimera.
+i:A drake.
+i:An eagle.
+i:A griffon.
+i:A hound.
+i:A kraken.
+i:A lion.
+i:A manticore.
+i:An owlbear.
+i:A serpent.
+i:A shark.
+i:A spider{.spiders}.
+i:A stag.
+i:A tiger.
+i:A unicorn.
+i:A whale.
+i:A wolf.
+i:A wyvern.
+}
+{
+d:d10 The beast has...
+i:Unnatural intelligence.
+i:The power of speech.
+i:An especially savage manner.
+i:A frightening howl or cry.
+i:A mournful howl or cry.
+i:An immense size.
+i:Unusual coloration or markings.
+i:A terrible scar on its face.
+i:A terrible scar on its body.
+i:A missing eye.
+}
+{
+d:d10 The beast is known for...
+i:Slaying a well-known hero.
+i:Slaying a notorious villain.
+i:Laying ruin to a city or town.
+i:Sinking a ship or scattering a caravan.
+i:Leaving a trail of destruction in its wake.
+i:Lairing in a dangerous place.
+i:Lairing in a holy place.
+i:Hunting along a well-traveled road.
+i:Toying with its prey before the kill.
+i:Protecting the people who live near it.
+}

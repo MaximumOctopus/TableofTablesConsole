@@ -1,0 +1,212 @@
+{
+d:d12 In life, the vampire was...
+i:An alchemist or pyromancer{.alchemists}.
+i:An assassin or poisonmaker.
+i:A barkeep or barmaid.
+i:A con artist or gambler.
+i:A harlot or madame{.harlots}.
+i:A hunter or woodsman.
+i:A knight or sellsword{.knights,.sellswords}.
+i:A lord or lady.
+i:A priest or monk.
+i:A sailor or pirate{.sailors,.pirates}.
+i:A seer or mystic{.seers}.
+i:A thief or smuggler{.thieves}.
+}
+{
+d:d12 Often, the vampire poses as...
+i:A powerful noble{.nobles,.noble houses}.
+i:An eccentric scholar.
+i:A mysterious foreigner.
+i:A talented artist.
+i:A polite shopkeeper.
+i:A creepy peddler.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A friendly barkeep or barmaid.
+i:A charismatic entertainer.
+i:A religious fanatic.
+i:A veteran soldier{.soldiers}.
+}
+{
+d:d12 In addition to draining blood, the vampire is fond of...
+i:Shooting prey with an arrow or bolt from range.
+i:Impaling prey.
+i:Gutting or eviscerating prey.
+i:Flaying prey.
+i:Beheading prey.
+i:Strangling prey.
+i:Hanging prey.
+i:Burying prey alive.
+i:Drowning prey.
+i:Throwing prey off a roof.
+i:Severely beating prey.
+i:Dismembering prey.
+}
+{
+d:d8 The vampire’s goals include...
+i:Procreating.
+i:Corrupting and influencing the politics of the city or region.
+i:Domination of the city or region’s politics.
+i:Revenge against a rival vampire.
+i:Revenge against a living person, family, or organization.
+i:Seeking hedonistic pleasure.
+i:Uncovering ancient secrets of death and undeath.
+i:Enslaving the living to create an easy source of food for vampires{.vampires}.
+}
+{
+d:d10 The vampire’s base of operations is...
+i:A beautiful manor house.
+i:A run-down castle.
+i:An ancient fortress.
+i:A quaint house on a quiet street.
+i:A tavern{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:An unpleasant underground lair.
+i:A crypt in a graveyard{.graverobbers}.
+i:A crypt beneath a temple{.temples}.
+i:The vampire is a transient.
+}
+{
+d:d6 The vampire prefers to hunt...
+i:Just before sunrise.
+i:Just after sunset.
+i:In the early evening.
+i:Well into the night.
+i:The toll of midnight.
+i:After midnight.
+}
+{
+d:d20 The vampire’s favorite prey are...
+i:Fishermen and sailors{.fishermen,.sailors}.
+i:Beggars and thieves{.thieves}.
+i:Merchants and moneychangers{.merchant caravans,.merchant guilds}.
+i:Young noblemen{.nobles,.noble houses}.
+i:Young noblewomen{.nobles,.noble houses}.
+i:Old noblewomen{.nobles,.noble houses}.
+i:Gamblers and drunks.
+i:Priests and monks.
+i:Priestesses.
+i:Serving girls.
+i:Slaves.
+i:Barmaids.
+i:Harlots and madames{.harlots}.
+i:Circus performers.
+i:Foreign travelers.
+i:Farmwives.
+i:Peasant girls.
+i:Inquisitive children.
+i:Young children.
+i:Elves and the fey{.beasts fey,.elves dark,.elves high,.elves wood}.
+}
+{
+d:d12 The vampire refuses to feed on...
+i:Ugly women.
+i:Beautiful women.
+i:Pregnant women.
+i:Shy children.
+i:Bold children.
+i:Anyone with blue eyes.
+i:Anyone with green eyes.
+i:Anyone with blonde hair.
+i:Anyone with red hair.
+i:Anyone who is blind, deaf, or lame.
+i:Big burly men.
+i:Dwarves and underground dwellers{.dwarves}.
+}
+{
+d:d6 The vampire can shapeshift to take the form of...
+i:A tiny bat{.bats}.
+i:A swarm of bats{.bats}.
+i:A cloud of mist.
+i:A swirl of shadows.
+i:A wolf.
+i:A giant bat{.bats}.
+}
+{
+d:d8 Even among vampires, the vampire is quite good at...
+i:Charming humanoids.
+i:Frightening humanoids.
+i:Draining blood quickly.
+i:Sniffing out living creatures.
+i:Traveling overland quickly.
+i:Disguising its true nature.
+i:Negotiations.
+i:Climbing.
+}
+{
+d:d6 The vampire’s gravedirt is from...
+i:A faraway land.
+i:A local cemetery or temple{.temples}.
+i:A country village or manor.
+i:A well-known castle or fortress{.castles}.
+i:A battlefield.
+i:A remote forest or mountain{.forest,.forest enchanted,.forest haunted,.mountains}.
+}
+{
+d:d10 The vampire’s associates include...
+i:Less powerful vampires{.vampires}.
+i:Skeletons, zombies, and other undead thralls.
+i:Living thralls on which to feed.
+i:Living thralls who provide pleasurable diversions.
+i:Hundreds of bats{.bats}.
+i:Rats and maggots{.rats}.
+i:A pack of vicious wolves.
+i:Members of a death cult.
+i:The local nobility.
+i:The local band of outlaws or assassins’ guild{.assassins' guilds,.outlaw bands}.
+}
+{
+d:d12 Even among vampires, the vampire is especially...
+i:Agile.
+i:Attractive.
+i:Charming.
+i:Cruel.
+i:Domineering.
+i:Intimidating.
+i:Quick.
+i:Sadistic.
+i:Sleazy.
+i:Smooth.
+i:Sneaky.
+i:Witty.
+}
+{
+d:d10 The vampire often wears...
+i:Shiny leather boots.
+i:A black cape with a hood.
+i:A black cape with a high collar.
+i:A wide-brimmed hat.
+i:A cap pulled low.
+i:A low-cut shirt.
+i:Tight-fitting clothes.
+i:A family signet ring.
+i:An unusual brooch or necklace.
+i:A waxy mustache.
+}
+{
+d:d12 The vampire is unusually fond of or particular regarding...
+i:Horticulture and floral arrangements.
+i:Fashion trends.
+i:Arms and armor maintenance.
+i:Small animals.
+i:Horses.
+i:High quality fabrics and leathers.
+i:Foreign music.
+i:Theater troupes and dancers.
+i:Social status.
+i:Personal hygiene.
+i:Hair styles.
+i:Dental hygiene.
+}
+{
+d:d8 The vampire is particularly afraid of or takes special care to avoid...
+i:Hallowed places.
+i:Densely populated areas.
+i:Sunlight.
+i:Running water.
+i:Sharp wooden objects.
+i:Garlic.
+i:Silver objects.
+i:Relics of the gods.
+}

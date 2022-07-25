@@ -1,0 +1,82 @@
+{
+d:d8 Color: The spider is...
+i:Black.
+i:Dark grey.
+i:Dark brown.
+i:Black and brown.
+i:Black and grey.
+i:Pale brown.
+i:Brown and grey.
+i:Reddish brown.
+}
+{
+d:d8 Markings: The spider has...
+i:Pale banding on its legs.
+i:Dark banding on its legs.
+i:Bright banding on its legs (d4): 1. orange; 2. red; 3. white; 4. yellow.
+i:Pale stripes down its abdomen.
+i:Dark stripes down its abdomen.
+i:A distinct, crimson shape on its abdomen (d4): 1. arrowhead; 2. pair of eye-like spots; 3. hourglass; 4. star.
+i:A distinct, black or dark grey shape on its abdomen (d4): 1. arrowhead; 2. diamond; 3. pair of wavy lines; 4. star.
+i:No obvious markings.
+}
+{
+d:d6 Eyes: The spiders eyes are...
+i:Dull and black.
+i:Reflective and black.
+i:Dark grey, almost black.
+i:Dark red.
+i:Bright red.
+i:Pearly white.
+}
+{
+d:d6 Mouth: The spider's mouth is...
+i:Flanked by fangs, dripping venom.
+i:Flanked by hooked fangs.
+i:Flanked by hairy chelicerae, each ending in a sharp fang.
+i:Flanked by chelicerae, covered in hair that hides any fangs.
+i:Hungrily opening and closing.
+i:Yawning open.
+}
+{
+d:d8 Poison: The spider's venom can cause...
+i:Paralysis.
+i:Loss of consciousness.
+i:Nausea.
+i:Headache.
+i:Loss of coordination.
+i:Blindness.
+i:Dizziness.
+i:Shortness of breath.
+}
+{
+d:d6 Hunting: The spider prefersto ...
+i:Pick off weak, easy prey.
+i:Pursue its prey until the opportune time to strike.
+i:Lay web traps and wait.
+i:Incapacitate prey, wrap it in webbing and carry it off to its larder.
+i:Ambush prey in territory the spider knows well.
+i:Poison its prey and then retreat, following the prey until it falls.
+}
+{
+d:d6 Webs: The spider spins...
+i:Sheet-like webs.
+i:Webs with radial symmetry.
+i:Webs with triangular symmetry.
+i:Webs with hexagonal symmetry.
+i:Webs with irregular shapes.
+i:Almost no webs; the spider is constantly on the move and on the hunt.
+}
+{
+d:d10 Habitat: This type of spider evolved to thrive...
+i:In caverns{.caverns}.
+i:On cliff-sides.
+i:On the forest floor{.forest,.forest enchanted,.forest haunted}.
+i:In grasslands.
+i:In jungles{.jungle}.
+i:In rocky deserts{.desert,.desert flame-scorched,.desert shadowy}.
+i:In rotting logs.
+i:In shallow burrows.
+i:In swamps{.swamp}.
+i:In treetops.
+}

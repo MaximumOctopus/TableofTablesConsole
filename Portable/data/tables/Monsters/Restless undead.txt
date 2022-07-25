@@ -1,0 +1,165 @@
+{
+d:d20 The person was...
+i:A farmer or herder.
+i:A miner or fishermen{.mines,.fishermen}.
+i:A slave or servant.
+i:A laborer or unskilled worker.
+i:A beggar or urchin.
+i:A noble or knight{.knights,.nobles,.noble houses}.
+i:An artist or craftsman.
+i:A merchant or shopkeeper{.merchant caravans,.merchant guilds}.
+i:A barkeep or barmaid.
+i:A barbarian or gladiator{.barbarians,.gladiators}.
+i:A minstrel or singer.
+i:A priest or monk.
+i:An herbalist or healer{.healers}.
+i:A soldier or sellsword{.sellswords,.soldiers}.
+i:A cultist or preacher{.cultists,.cultists (snake cultists)}
+i:A hunter or assassin{.assassins' guilds}.
+i:A thief or bandit{.thieves}.
+i:A smuggler or con artist.
+i:A sailor or pirate{.sailors,.pirates}.
+i:An alchemist or seer{.alchemists,.seers}.
+}
+{
+d:d20 The person died from...
+i:Hanging or strangulation.
+i:Beheading.
+i:A stab wound or beating.
+i:Blunt trauma or being crushed.
+i:Drowning.
+i:A plague.
+i:A gastrointestinal illness.
+i:A respiratory illness.
+i:An infected wound.
+i:Poisoning.
+i:Falling from a great height.
+i:A horse or wagon accident{.horses}.
+i:A venereal disease.
+i:An allergic reaction.
+i:Shock.
+i:A heart attack or stroke.
+i:Liver failure.
+i:Old age.
+i:Natural causes.
+i:Unknown causes or under mysterious circumstances.
+}
+{
+d:d12 The person's spirit lingers...
+i:To seek vengeance.
+i:To pine for lost love.
+i:To bemoan lost treasure.
+i:Out of pure hatred of the living.
+i:Out of jealousy of the living.
+i:To covet the belongings of a specific individual.
+i:To provide protection to a specific someone.
+i:To warn a specific someone against danger.
+i:To warn everyone against a specific danger.
+i:To torment a specific someone.
+i:To torment members of a specific group.
+i:To torment anyone who crosses its path.
+}
+{
+d:d12 The person's spirit can move on if...
+i:Someone helps it achieve it's goal.
+i:It saves the life of at least one other person.
+i:It achieves its goal on its own.
+i:It is destroyed.
+i:It is driven from its current location.
+i:It is given evidence of events that happened after the person's death.
+i:It is made aware of the circumstances of the person's death.
+i:It is forced to visit the location of the person's death.
+i:It is given the opportunity to speak to a loved one.
+i:It sufficiently satisfies its lust for blood.
+i:It sufficiently satisfies its lust for human touch.
+i:The Hells freeze over.
+}
+{
+d:d8 The spirit’s initial reaction when it encounters living creatures is...
+i:Hostile and aggressive.
+i:Hostile and suspicious.
+i:Nervous and frightened.
+i:Mostly indifferent.
+i:Completely indifferent.
+i:Curious but suspicious.
+i:Curious and playful.
+i:Desperate and aggressive.
+}
+[
+d:CORPOREAL UNDEAD
+]
+{
+d:d10 The person's spirit is...
+i:Occupying its original body, showing no signs of decay.
+i:Occupying its original body, showing some signs of decay.
+i:Occupying its original body, badly decomposed.
+i:Occupying its original body, only bare bones remain.
+i:Occupying the corpse of someone else.
+i:Occupying the living body of a stranger.
+i:Occupying the living body of someone the person new.
+i:Occupying the living body of a beast.
+i:Occupying part of its original body (skull or hand).
+i:Occupying part of someone else’s corpse (skull or hand).
+}
+{
+d:d6 The creature moves...
+i:With a shambling gait.
+i:With an awkward limp.
+i:Lurching unpredictably.
+i:With more of shimmy than a walk.
+i:Taking slow, steady steps.
+i:With surprising quickness and agility.
+}
+{
+d:d12 The creature has...
+i:A tattered shirt.
+i:A missing arm, leg, or finger.
+i:Only one eye.
+i:A club foot.
+i:Long-scraggly hair.
+i:Chattering teeth.
+i:Large crude stitches in its side.
+i:An awful hunchback.
+i:Incredibly long fingernails.
+i:Drool on its chin.
+i:Buck teeth.
+i:A creepy mustache.
+}
+[
+d:INCORPOREAL UNDEAD
+]
+{
+d:d10 The spirit is...
+i:Incorporeal, invisible, and incapable of affecting its material surroundings.
+i:Incorporeal, invisible, and capable of moving small objects.
+i:Incorporeal, invisible, but capable of making itself seen.
+i:Incorporeal, invisible, and hidden within an inanimate object (d4): 1. chest; 2. drawer; 3. kettle; 4. wardrobe.
+i:Incorporeal, visible, but incapable of affecting it's material surroundings.
+i:Incorporeal, visible, and capable of significant mischief and harm.
+i:Incorporeal, extraordinarily beautiful, and capable of mischief and harm.
+i:Incorporeal, wretched and slimy, and capable of mischief and harm.
+i:Incorporeal, glowing blue or green, and capable of mischief and harm.
+i:Incorporeal, visible, but in an unrecognizable form (d6): 1. mist or fog; 2. animal shape; 3. floating skull; 4. faint glow; 5. pool of shadows; 6. spectral hand.
+}
+{
+d:d6 The spirit moves...
+i:By creeping, oozelike, across the ground{.oozes}.
+i:Smoothly, gliding above the grond.
+i:Taking slow, fluid steps.
+i:Lightly, rarely touching the ground.
+i:Much quicker than you expect it to.
+i:By teleporting in a swirl of shadows.
+}
+{
+d:d10 The spirit appears to be...
+i:Severely bloated.
+i:Moaning in anguish.
+i:Snarling at you.
+i:Breathing heavily.
+i:Cowering in fear.
+i:Poised to strike.
+i:Gently bobbing up and down.
+i:Wind-blown and haggard.
+i:Fidgeting nervously.
+i:Oozing ectoplasm.
+}

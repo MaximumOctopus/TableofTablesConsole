@@ -1,0 +1,105 @@
+{
+d:d20 This is a(n)
+i:Ultroloth
+i:Barghest (who has come to Gehenna after collecting seventeen goblin souls)
+i:Altraloth
+i:Piscoloth
+i:Hydroloth
+i:Echinoloth
+i:Voor
+i:Gacholoth
+i:Dergholoth
+i:Dergholoth
+i:Arcanaloth
+i:Arcanaloth
+i:Nycaloth
+i:Nycaloth
+i:Nycaloth
+i:Mezzoloth
+i:Mezzoloth
+i:Mezzoloth
+i:Mezzoloth
+i:Skeroloth
+}
+{
+d:d12 with the following body modification:
+i:Tattoos just under the surface of their skin/chitin/mucous membranes.
+i:Studs across their body.
+i:Silver or gold thread woven through their skin.
+i:Scars on their body cut in arcane patterns.
+i:Pieces of armor that have been bolted on to their body.
+i:Rings embedded throughout their skin.
+i:Claws/fingernails that have been elaborately carved and painted.
+i:Eyes that have been tattooed a different color.
+i:Subcutaneous implants.
+i:Long strips of bones embedded through holes in their body.
+i:Elaborate paintings on the surface of their skin.
+i:They were branded by a hot iron.
+}
+{
+d:d12 Their personal decoration is:
+i:A robe of zombie tongues sewn together.
+i:An elaborate mask made of bone or scales.
+i:A well crafted weapon that they took from a former enemy.
+i:A pet canoloth with the yugoloth's name branded upon it.
+i:A full jumpsuit made of precious coins sewn together.
+i:A jacket or trenchcoat made from Stenchkow leather.
+i:An iridescent tiara.
+i:A random fiendish animal worn as a scarf (may be alive).
+i:A necklace of ears dipped in wax.
+i:Jewelry. Lots and lots of jewelry, sometimes worn in unconventional ways.
+i:The skin of a random demon or devil. Very affluent yugoloths may wear the skin of a celestial instead.
+i:A rope of knucklebones threaded together and wrapped around their body.
+}
+{
+d:d3 Politically, this Yugoloth is a member of:
+i:The Pragmatics political faction.
+i:The Spirituals political faction.
+i:Whichever faction is making the best offer at the moment.
+}
+{
+d:d20 In addition to the usual Yugoloth self-centered greed, their personality is:
+i:Hateful
+i:Merry
+i:Cautious
+i:Narcissistic
+i:Bitter
+i:Envious
+i:Cloying
+i:Carefree
+i:Enigmatic
+i:Brusque
+i:Flamboyant
+i:Extroverted
+i:Introverted
+i:Judgemental
+i:Sarcastic
+i:Polite
+i:Spiteful
+i:Racist/speciest
+i:Thoughtful
+i:Inquisitive
+}
+{
+d:d20 Their current motivation for approaching the party is:
+i:They wish to offer a paid service (security services, spellcasting, pimping).
+i:They want to sell a unique item (which may be stolen) or slave.
+i:They like a piece of the characters outfit or armor and want to buy it.
+i:Curiousity about obvious foreigners.
+i:They're selling secrets or gossip.
+i:They have an entrepreneurial idea and are looking for venture capitalists to fund it.
+i:They view the party as potential slaves and may try to subdue them if they do not have a brand marking them as protected by another yugoloth company.
+i:They want to get the party involved in yugoloth politics.
+i:They are thinking of hiring the party as specialist consultants.
+i:They are con artists and this is a scheme of some sort.
+i:Their mercenary contract is ending soon and they're looking for potential employers once it expires.
+i:Networking.
+i:Practicing the social skills they learned in a self-improvement class.
+i:Finding a way out of Gehenna for reasons of their own.
+i:To hear new stories of faraway lands (and potential new markets).
+i:They just got coverage with a reliable police force and want to test out their coverage by passive-aggressively insulting foreigners for their own amusement.
+i:To figure out the party's capabilities and determine if they are a potential victim, ally, or consultant.
+i:To discuss some emotional issue that they just can't talk about with another yugoloth.
+i:They are conducting an A/B test of some new design for a product and want the party to take an opinion poll.
+i:Something really bad, that seems harmless at first.
+}

@@ -1,0 +1,46 @@
+{
+d:d12 The sea beast is...
+i:A beetle.
+i:A centipede.
+i:A drake.
+i:A horse{.horses}.
+i:A lion.
+i:A monkey.
+i:A scorpion.
+i:A serpent.
+i:A spider{.spiders}.
+i:A turtle.
+i:A worm.
+i:A wyvern.
+}
+{
+d:d8 The beast has...
+i:Lidless, golden eyes.
+i:Unblinking, green eyes.
+i:Iridescent scales or fur.
+i:Dull, bluish grey scales or fur.
+i:Brightly colored scales or fur.
+i:Wide gills.
+i:A long fin running down its back.
+i:Oversized webbed feet or flippers.
+}
+{
+d:d8 ...and...
+i:Swims with a slithering motion.
+i:Swims with powerful fins or flippers.
+i:Propels itself with its strong, finned tail.
+i:A wide-open, fish-like mouth.
+i:Rows of wicked looking teeth.
+i:Scuttles along the sea floor.
+i:Waits to strike from a nook in a reef.
+i:Waits to strike from a hole in the sea floor.
+}
+{
+d:d6 The beast is looking for...
+i:Some fish to eat.
+i:Something warm-blooded to eat.
+i:A new place to hide.
+i:A mate or a nesting site.
+i:Shiny baubles and trinkets.
+i:A place where food is plentiful.
+}

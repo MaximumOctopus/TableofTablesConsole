@@ -1,0 +1,77 @@
+{
+d:d8 The creature is
+i:Small enough to fit in the palm of your hand
+i:About 2 feet tall
+i:About 3 feet tall, but stocky
+i:About 4 feet tall, but skinny and lanky
+i:Human sized
+i:almost 7 feet tall, and stocky
+i:8 feet tall, but skinny and lanky
+i:10 feet tall
+}
+{
+d:d8 Prodruding from the torso of the creature is
+i:No arms
+i:One arm
+i:2 arms, symmetrical
+i:2 arms, one skinny and one very fat
+i:2 arms, both on the same side of its body
+i:3 arms
+i:4 arms
+i:5 arms
+}
+{
+d:d8 This aberrant creature has
+i:One eye on a stalk
+i:Two eyes
+i:Two eyes on stalks
+i:Two eyes, one on a stalk
+i:Three eyes
+i:Four eyes
+i:6 eyes, 2 on stalks
+i:No eyes
+}
+{
+d:d12 The fungi's spores are
+i:Poisonous / Necrotic Spores
+i:Oxygen or air purifier spores
+i:Hallucinogen Spores
+i:Communication Spores
+i:Smokescreen Spores
+i:Sleep Spores
+i:Blindness Spores
+i:Stun/Confusion Spores
+i:Suggestion Spores
+i:Charm Spores
+i:Paralysis Spores
+i:Light / Illuminating Spores
+}
+{
+d:d6 The creature has an unusual trait or disorder
+i:Expels spores at irregular intervals by accident
+i:Has a fascination for things that generate light
+i:Enjoys standing perfectly still in an attempt to hide / be seen as a mere object
+i:Loves meeting new people, tells way too many stories
+i:Has a powerful stench that smells like putrid vomit
+i:Takes care of little bugs and critters it finds who can't fend for themselves.
+}
+{
+d:d8 The creature's language and communication abilities are
+i:Mute, refuses to talk
+i:Rudimentary Sign Language
+i:Telepathy
+i:Common
+i:Undercommon
+i:Common and 1 other
+i:Common, Undercommon, Dwarvish
+i:Any six languages, none of which are common or Undercommon
+}
+{
+d:d6 The creature is
+i:Searching for their mate
+i:Looking for a good place to plant baby spores
+i:Hiding from a perceived incoming threat
+i:Finding a new home for the colony
+i:Unknowingly following telepathic commands from a powerful being
+i:Currently being subconsciously drawn to an artefact's location
+}

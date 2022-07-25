@@ -1,0 +1,258 @@
+{
+d:D6 Size
+i:Medium (4ft. - 8ft.)
+i:Large (8ft. - 16ft.)
+i:Huge (16ft. - 32ft.)
+i:Gargantuan (32ft. - 64ft.)
+i:Colossal (64ft. - 96ft.)
+i:Colossal+ (96ft. or more)
+}
+{
+d:D10 Alignment
+i:Neutral
+i:Neutral Good
+i:Neutral Evil
+i:Lawful Neutral
+i:Chaotic Neutral
+i:Lawful Good
+i:Chaotic Good
+i:Lawful Evil
+i:Chaotic Evil
+i:Shifting Alignment (roll each time encountered)
+}
+{
+d:D8 Torso shape
+i:Feline
+i:Canine
+i:Horse
+i:Bird
+i:Primate
+i:Insectoid (spider, milipede, lady bug, etc.)
+i:Lizard-like
+i:Serpentine
+}
+{
+d:D6 Texture
+i:Mammalian, Bare flesh, or fur
+i:Reptilian, scaled or pebbled hide
+i:Amphibian, smooth and slimy skin
+i:Avian, feathered
+i:Construct, unliving material
+i:Humanoid, anthropomorphic
+}
+{
+d:D10 Color(s)
+i:Red
+i:Orange
+i:Yellow
+i:Blue
+i:Green
+i:Violet
+i:Black
+i:White
+i:Grey
+i:Gradient, roll twice
+}
+{
+d:D10 Head
+i:Feline (house cat, tiger, puma, lion, etc.)
+i:Canine (wolf, dog, fox, coyote, etc.)
+i:Horse
+i:Bird (eagle, hawk, sparrow, owl, etc.)
+i:Primate (ape, baboon, gorilla, orangutan, etc.)
+i:Bear (polar, brown, black, etc.)
+i:Reptilian (snake, gecko, komodo dragon, etc.)
+i:Human (you, me, them, etc.)
+i:Two heads, roll twice
+i:Three heads, roll thrice
+}
+{
+d:D8 Eyes
+i:Canine
+i:Cat
+i:Crocodile
+i:Goat
+i:Chameleon
+i:Butterfly
+i:Frog
+i:Unique
+}
+{
+d:D4 Unique Eyes
+i:Cyclops eye
+i:Third eye on forehead
+i:Four eyes
+i:Spider eyes
+}
+{
+d:D8 Eye color
+i:Grey
+i:Blue
+i:Green
+i:Hazel
+i:Brown
+i:White
+i:Black
+i:Heterochromia (roll twice)
+}
+{
+d:D8 Legs
+i:Feline
+i:Canine
+i:Horse
+i:Bird
+i:Primate
+i:Lizard
+i:Insectoid
+i:Unique
+}
+{
+d:D8 Unique legs
+i:None, hovers
+i:back set only
+i:3 pairs
+i:4 pairs
+i:100 legs
+i:2d4 + 2 tentacles
+i:Snake lower half
+i:Fish lower half
+}
+{
+d:D8 Wings
+i:Bat wings
+i:Eagle wings
+i:Crow wings
+i:Dragon wings
+i:Angle wings
+i:Butterfly wings
+i:None
+i:Unique wings
+}
+{
+d:D6 Unique wings
+i:Roll on table above, wings replace front legs
+i:", tiny wings, useless
+i:", Two pairs of wings, same, both small
+i:", Two different wings, both small
+i:", Two different wings, normal sized
+i:", Two pairs of wings, different, both small
+}
+{
+d:D8 Tail
+i:Cat tail
+i:Fox tail
+i:Dog tail
+i:Lizard tail
+i:Squirrel tail
+i:Rabbit tail
+i:Monkey tail
+i:Unique
+}
+{
+d:D6 Unique tails
+i:Two tails, same
+i:2d4 + 2 tails, same
+i:Two tails, different
+i:Tail with a hand on it
+i:Flaming tail
+i:No tail
+}
+{
+d:D10 Horn(s)
+i:None
+i:Ram
+i:Rhino
+i:Unicorn
+i:Antlers
+i:Crown
+i:Kudu horns
+i:Antelope
+i:Moose antlers
+i:Daniel Radcliffe
+}
+{
+d:D12 Special Feature
+i:Tail spines as Manticore
+i:Second mouth
+i:No mouth
+i:Mouth on stomach
+i:Extremely thin, quick
+i:Armored hide
+i:Vorporal claws
+i:Spined back
+i:Speech causes confusion/madness/suggestion
+i:Poisonous/paralytic tongue
+i:Hypnotic eyes
+i:Vampiric fangs
+}
+{
+d:D12 Special Abilities
+i:Chameleon camouflage
+i:Spell-storing tail (lightning bolt, ray of frost, etc.)
+i:Displacement (as displacer beast)
+i:Blood is acidic
+i:Phases as phase spider
+i:Coughs poisonous gas
+i:Vomit inducing roar
+i:Burrows as a Bullette
+i:Spider climb
+i:Regenerates as Troll
+i:Regenerates as Hyrda
+i:Breath weapon (roll on dragon breath weapon)
+}
+{
+d:D4 Sociability
+i:Solitary
+i:Pairs
+i:Family
+i:Pack
+}
+{
+d:D10 Favored Terrain
+i:Arctic
+i:Coastal
+i:Desert
+i:Forest
+i:Grassland
+i:Hill
+i:Mountain
+i:Swamp
+i:Underdark
+i:Urban
+}
+{
+d:D10 What is it doing?
+i:Sleeping
+i:Eating
+i:Hunting
+i:Mating
+i:Trying to mate
+i:Playing
+i:Scratching its back
+i:Stretching
+i:Running
+i:Shitting/Pissing
+}
+{
+d:D20 Typical Personality
+i:Easy going
+i:Short fuse
+i:Paranoid
+i:Depressed
+i:Intense
+i:Playful
+i:Cowardly
+i:Brave
+i:Big-headed
+i:Cruel
+i:Loyal
+i:Moody
+i:Naive
+i:Sensitive
+i:Shy
+i:Talkative
+i:Weird
+i:Roll twice
+i:Acts just like one of the PCs
+i:Charming
+}

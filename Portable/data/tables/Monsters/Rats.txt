@@ -1,0 +1,113 @@
+{
+d:d6 Size: The rat is...
+i:A little on the small side; you've found bigger rats in your bedroll{.rats}.
+i:Typically sized; it's just a rat.
+i:A little on the big side; it's not quite as big as a house cat{.cats}.
+i:Pretty big; it's about the size of a large house cat{.cats}.
+i:Enormous; it could eat a house cat{.cats}.
+i:Of unusual size; it's about the same size as a grown man.
+}
+{
+d:d10 Color: The rat's fur is...
+i:Black.
+i:Mottled black and brown.
+i:Mottled black and grey.
+i:Dark grey.
+i:Pale grey.
+i:Mottled reddish brown and grey.
+i:Mottled grey and brown.
+i:Dark brown.
+i:Mottled reddish brown and black.
+i:White.
+}
+{
+d:d10 Markings: The rat has...
+i:A missing eye.
+i:A missing patch of fur on its back.
+i:A scar on its face.
+i:Missing toes on one of its front feet.
+i:Missing toes on one of its back feet.
+i:A pale underbelly.
+i:A hairless underbelly.
+i:A hairless tail.
+i:A broken tail.
+i:Intimidating whiskers.
+}
+{
+d:d10 Teeth: The rat has...
+i:Particularly sharp, pointy teeth.
+i:Disgustingly yellow teeth.
+i:Disgustingly brown teeth.
+i:Particularly curved teeth.
+i:Particularly long front teeth.
+i:A broken front tooth.
+i:Bone white teeth.
+i:Teeth protruding from bleeding gums.
+i:Short front teeth for a rat.
+i:Blunt, worn front teeth.
+}
+{
+d:d10 Manner: The rat...
+i:Squeaks whenever it moves.
+i:Hisses whenever it moves.
+i:Squeaks when it feels threatened.
+i:Hisses when it feels threatened.
+i:Scurries about when it moves.
+i:Darts about when it moves.
+i:Clacks its teeth, making an unsettling noise.
+i:Chitters and chatters when it eats.
+i:Clicks its teeth when it eats.
+i:Moves without a sound.
+}
+{
+d:d10 Favorite food: The rat prefers to eat...
+i:Mutton.
+i:Pork.
+i:Eggs.
+i:Pungent cheese.
+i:Sharp cheese.
+i:Fresh bread.
+i:Dog poop.
+i:Cat poop{.cats}.
+i:Beetles.
+i:Spiders{.spiders}.
+}
+{
+d:d10 Other food: ...but will just as happily eat...
+i:Rotting meat.
+i:Rotting fruit.
+i:Moldy cheese.
+i:Moldy bread.
+i:Discarded bones.
+i:Any poop.
+i:Cockroaches.
+i:Maggots.
+i:Fingers and toes.
+i:Other rats{.rats}.
+}
+{
+d:d10 Nesting habits: This type of rat often infests...
+i:Warehouses.
+i:The cargo holds of ships.
+i:Brothels{.brothels}.
+i:Taverns{.tavern goings-on}.
+i:Swamps{.swamp}.
+i:Natural caverns{.caverns}.
+i:War camps.
+i:Farmhouses.
+i:Stables.
+i:Granaries.
+}
+{
+d:d10 Disease: This type of rat is believed to spread...
+i:A burning fever accompanied by headaches.
+i:A fever accompanied by delusions.
+i:A chill accompanied by sleepiness and fatigue.
+i:A chill accompanied by cold sweats.
+i:A stomach illness.
+i:A respiratory illness.
+i:An itchy rash.
+i:An itchy pox.
+i:An unsightly pox.
+i:A deadly flux.
+}

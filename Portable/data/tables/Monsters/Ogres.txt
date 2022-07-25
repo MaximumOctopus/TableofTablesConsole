@@ -1,0 +1,72 @@
+{
+d:d6 Hair: The ogre’s hair is...
+i:Long and stringy.
+i:Wispy and thin.
+i:Dark and matted.
+i:A tangled mess.
+i:Cut unevenly.
+i:Gone; the ogre is bald.
+}
+{
+d:d6 Eyes: The ogre’s eyes are...
+i:Mismatched colors.
+i:Mismatched sizes.
+i:Dark and menacing.
+i:Wide and vacant.
+i:Scarred; one eye is missing.
+i:Crossed.
+}
+{
+d:d6 Training: The ogre is a/an...
+i:Berserker.
+i:Chanter.
+i:Hunter.
+i:Scavenger.
+i:Thug.
+i:Warrior.
+}
+{
+d:d6 Skill: The ogre is particularly good at...
+i:Crushing skulls.
+i:Breaking wooden doors.
+i:Bending metal bars.
+i:Roasting meat.
+i:Frightening people.
+i:Sitting very, very still.
+}
+{
+d:d6 Quirk/flaw: Even for an ogre, the ogre frequently...
+i:Scratches itself.
+i:Gets distracted by food.
+i:Guffaws.
+i:Loses its temper.
+i:Picks its teeth.
+i:Yawns.
+}
+{
+d:d6 Possessions: The ogre is carrying...
+i:A sharp spear.
+i:A heavy club.
+i:A spiked club.
+i:A sackful of trinkets.
+i:A necklace of bones.
+i:A string of severed ears.
+}
+{
+d:d6 Immediate goal: The ogre is looking for a/an...
+i:Easy meal.
+i:Fatty meal.
+i:Steady meal ticket.
+i:Fight it can win.
+i:Shiny bauble.
+i:Object its chief asked for, but the ogre can’t remember what it was.
+}
+{
+d:d6 Past misfortune: The ogre was once…
+i:Pressed into service in an orkish army.
+i:Tricked into doing some dirty work by some goblins.
+i:Charmed by witch.
+i:Badly burned in a fire.
+i:Imprisoned in a cold, dark cell.
+i:Bested by a rival for the affections of another ogre.
+}

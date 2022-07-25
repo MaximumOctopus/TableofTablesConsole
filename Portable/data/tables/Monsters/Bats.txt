@@ -1,0 +1,113 @@
+{
+d:d6 Size: The bat is...
+i:Tiny; it could fit in the palm of your hand.
+i:Small; you could probably grasp it in one hand.
+i:A good size; its body is about the size of a rat's{.rats}.
+i:Pretty big; its body is about the size of a house cat's{.cats}.
+i:Enormous; its body is about the size of a sheep dog's.
+i:Terrifyingly large; its like a bear with wings.
+}
+{
+d:d10 Fur color: ...with a...
+i:Black fur...
+i:Charcoal fur...
+i:Grey fur...
+i:Pale fur...
+i:Tan fur...
+i:Reddish brown fur...
+i:Dark brown fur...
+i:Black and brown mottled fur...
+i:Black and grey mottled fur...
+i:Brown and grey mottled fur...
+}
+{
+d:d10 Skin color: ...and...
+i:Black skin.
+i:Dark grey skin.
+i:Pale grey skin.
+i:Light brown skin.
+i:Muddy brown skin.
+i:Dark brown skin.
+i:Ruddy skin.
+i:Orangish brown skin.
+i:Reddish pink skin.
+i:Pink skin.
+}
+{
+d:d10 Eyes: The bat has...
+i:Large dark eyes.
+i:Large pale eyes.
+i:Small dark eyes.
+i:Wide-set eyes.
+i:Narrow-set eyes.
+i:Blinking eyes.
+i:Nearly sightless eyes.
+i:Squinty eyes.
+i:Golden eyes that catch the light.
+i:Glowing red eyes.
+}
+{
+d:d10 Face/head: The bat has...
+i:Oversized ears.
+i:Tufted ears.
+i:Pointy ears.
+i:Long sharp fangs.
+i:Sharp little teeth.
+i:A pig snout.
+i:A long snout.
+i:A flat snout.
+i:A hairless face.
+i:Bristly fur atop its head.
+}
+{
+d:d10 Manner: The bat...
+i:Squeaks incessantly.
+i:Squeaks when it is frightened.
+i:Shrieks when it takes off from its roost.
+i:Shrieks gleefully after it bites something.
+i:Flutters about nervously.
+i:Flies with lots of loops and swoops.
+i:Keeps its distance and swoops in to strike.
+i:Shows little fear of other creatures.
+i:Watches warily from its roost.
+i:Only leaves its roost if disturbed.
+}
+{
+d:d10 Diet: This type of bat prefers to eat...
+i:Melons and other large fruits.
+i:Berries and other small fruits.
+i:Nectar.
+i:Beetles.
+i:Flies.
+i:Spiders{.spiders}.
+i:Rats and other small mammals{.rats}.
+i:Frogs and lizards.
+i:The blood of livestock.
+i:Human blood.
+}
+{
+d:d10 Sleeping habits: This type of bat is typically most active...
+i:In the late afternoon and early evening.
+i:Around sunset.
+i:Shortly after sunset.
+i:While the night is young.
+i:Around midnight.
+i:In the wee hours.
+i:Before first light.
+i:Around dawn.
+i:In the early morning hours.
+i:On moonless nights.
+}
+{
+d:d10 Habitat: This type of bat evolved to thrive...
+i:In caverns near the surface{.caverns}.
+i:In deep caverns{.caverns}.
+i:On cliff-sides.
+i:In temperate woodlands.
+i:In jungles{.jungle}.
+i:In rocky deserts{.desert,.desert flame-scorched,.desert shadowy}.
+i:In warm, mountainous regions{.mountains}.
+i:In mild coastal regions.
+i:In swamps{.swamp}.
+i:In treetops.
+}

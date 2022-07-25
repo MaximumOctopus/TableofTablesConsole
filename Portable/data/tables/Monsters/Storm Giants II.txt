@@ -1,0 +1,99 @@
+{
+d:d6 Hair color: The storm giant’s hair is...
+i:Blue black.
+i:Pale purple.
+i:Steely grey.
+i:Blue grey.
+i:Purple grey.
+i:Electric purple.
+}
+{
+d:d6 Eye color: The storm giant’s eyes are...
+i:Seafoam green.
+i:Emerald green.
+i:Greenish gold.
+i:Blue green.
+i:Silvery grey.
+i:Bright purple.
+}
+{
+d:d6 Skin color: The storm giant’s skin is…
+i:Pale grey.
+i:Dark grey.
+i:Purple gray.
+i:Brilliant purple.
+i:Golden brown.
+i:Burnt orange.
+}
+{
+d:d6 Distinguishing feature: The storm giant has…
+i:Long, shaggy hair.
+i:Many tattoos.
+i:A jagged scar on its face.
+i:Thick chest hair.
+i:A missing eye.
+i:Thick mustaches.
+}
+{
+d:d6 Home: The storm giant dwells in a/an…
+i:Undersea palace of coral and stone.
+i:Fortress hidden in a dark ocean trench.
+i:Mountaintop tower.
+i:Castle on a cloud.
+i:Hidden mountain cave.
+i:Secluded coastal cave.
+}
+{
+d:d6 Training: The storm giant is a/an...
+i:Astrologer.
+i:Hammerer.
+i:Mystic sage.
+i:Oneiromancer.
+i:Stormcaller.
+i:Swordfighter.
+}
+{
+d:d6 Skill: Even among storm giants, the storm giant is particularly good at...
+i:Long-term strategy.
+i:Reading omens.
+i:Extorting lesser beings.
+i:Calling down lightning.
+i:Solving riddles.
+i:Swordplay.
+}
+{
+d:d6 Quirk/flaw: The storm giant frequently...
+i:Tries to carry more plunder than it should.
+i:Grinds its teeth.
+i:Snores especially loud.
+i:Picks fights with his/her allies.
+i:Eats too much.
+i:Picks his/her teeth.
+}
+{
+d:d6 Possessions: The storm giant is carrying a/an...
+i:Huge greataxe.
+i:Flashy sword and shining shield.
+i:Enormous steel warhammer.
+i:Crystal of swirling mists.
+i:Wide, jeweled belt.
+i:Fine, silk robe embroidered with gold thread.
+}
+{
+d:d6 Immediate goal: The storm giant is looking for a/an...
+i:Enchanted weapon to add to its collection.
+i:Fine gem to add to its collection.
+i:Quiet place to sit and think.
+i:Report of the goings-on in a far away land.
+i:Skilled debater to help it solve a riddle.
+i:Guest to join it for dinner.
+}
+{
+d:d6 Accomplishment: The storm giant is especially proud of…
+i:His/her stable full of oversized horses.
+i:Predicting, to the minute, the fall of a great empire.
+i:Saving a village from a religious crusader’s wrath.
+i:Raising a dragon from egg to young adulthood.
+i:Making peace between a dwarvish fiefdom and a goblin kingdom.
+i:Translating an ancient text written in a lost fiendish tongue.
+}

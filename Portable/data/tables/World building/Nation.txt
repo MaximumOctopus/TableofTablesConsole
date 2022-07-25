@@ -1,0 +1,274 @@
+{
+d:d6 Age: The nation is...
+i:Ancient; No one remembers when it was founded
+i:Very Old; It has been standing for millennia
+i:Old; It has been around for centuries
+i:Young; The elderly can remember when it was formed
+i:Very Young; It was founded within the past generation
+i:Fledgling: It was very recently founded
+}
+{
+d:d10 Political System: The nation is run by...
+i:Democracy; Every citizen has an equal say in how the government is run
+i:Republic; Individuals represent groups of citizens
+i:Monarchy; A ruling class passes leadership through a predisposed line of sovereignty
+i:Empire; A wide-spread collection of states or communities with complex organization to maintain fealty to the ruler
+i:Dictatorship; A single all-powerful ruler lords over the people
+i:Tribal; There is no specific ruler, rather a uncoordinated group of tribes
+i:Anarchy; There is no centralized government nor authority. The people are self-policing
+i:Communism; The ruling class distributes all aspects of society including economics, jobs, resources, and where to live to make sure everyone has an equal share.
+i:Theocracy; Religious leaders hold the power, and laws are dictated by religious beliefs
+i:Oligarchy; A small group of people maintain control of the nation
+}
+{
+n:nationeconomics
+d:d20 Economics: The dominant economic influence is...
+i:Manorial agriculture. Serfs and freemen work their lord's land.
+i:Trade guilds. Conglomerates of tradespeople control the means of producing and distributing the most valuable goods.
+i:Nomadic grazing. Herds of domestic animals roam freely, and people follow their movements.
+i:Feudalism. The rulers control all land, and designate landholders to oversee production, distribution and taxation in those areas.
+i:Cottage industry. Small, family groups produce most trade goods.
+i:Mercantilism. Trade is strictly regulated by the government, in favor of local production.
+i:Corporatism. Different areas of the economy are controlled by defined organizations, often given national charter.
+i:Family conglomeratism. A few key families control production and distribution across multiple industries.
+i:Syndicalism. Groups of workers control production and distribution in different areas of the economy.
+i:Communism. The state controls the means of production, and distributes goods evenly to the population.
+i:Hunting and gathering. Food is obtained by foraging.
+i:Post-scarcity. Most goods needed for survival are available cheaply/freely to all.
+i:Market system. Goods are produced and traded freely by individuals and groups.
+i:Industrialism. Mining and manufacturing dominate the economy.
+i:Knowledge economy. Scribes, theologians and other knowledge workers dominate be economy.
+i:Mages. Magic-users control the means of production and distribution.
+i:The church or churches. The means of production and distribution are controlled by religious leaders.
+i:Trade. There is no centralized currency. Citizens trade for all goods and services
+i:Benevolent Deity. A powerful being or group of powerful beings gives the people what it sees fit.
+i:Manorial agriculture and @nationeconomics!19
+}
+{
+d:d12 Ruler: The ruler(s) of the nation is...
+i:A demagogue; He rules the nation through fear and prejudices
+i:A philosopher
+i:A military leader
+i:A council of elders
+i:A council of randomly selected citizens
+i:Corporations
+i:A power hungry dictator
+i:A manipulative politician
+i:A noble philanthropist{.nobles,.noble houses}
+i:A religious zealot
+i:A puppet of a secret society
+i:A figure-head. The real power lies at the local level
+}
+{
+d:d30 A unique characteristic of the nation is...
+i:It is undergoing a civil war
+i:It is experiencing extreme inflation
+i:It is at war with another nation
+i:It is controlled by a secret society pulling the strings
+i:The political system is collapsing
+i:It is believe to be protected by a god
+i:The citizens believe it to be the greatest nation in the world
+i:It is the home of a legendary warrior
+i:It is the home of a famous philosopher
+i:It is undefeated in battle
+i:It is imperialistic; always trying to conquer new territory
+i:It is isolationist; it does not like interacting with other nations
+i:It is the home of a legendary artifact
+i:It is extremely strict with its laws
+i:Vigilantism is condoned
+i:It is a pillar of moral values
+i:It is generally hated by other nations
+i:Its borders are open to refugees
+i:It is being crippled by sanctions from other nations
+i:It has been invaded by another nation
+i:A popular and respected public figure recently died
+i:Slavery is an accepted practice
+i:Women are considered to be lesser people
+i:Men are considered to be lesser people
+i:The people observe a single day each year when all crime is legal
+i:All trials are settled through death by combat
+i:All trials are settled through a sporting competition
+i:Annual gladiatorial combat is held, and the participants are randomly selected among the citizens{.gladiators}
+i:Prisoners are offered a chance at freedom if they can win a gladiatorial game. The games are... {.gladiators} (d6): 1. Rigged. Prisoners are not intended to survive; 2. Extremely difficult, almost no one ever survives; 3. Fair. A skilled warrior has a chance at winning; 4. Easy. Just about anyone with a bit of skill can win; 5. Unbalanced; Many enter, only one leaves; 6. Massive. Hundreds enter at a time, but only a few survive
+i:A citizen is randomly selected, and sacrificed annually
+}
+{
+d:d8 Founding: The nation was founded by...
+i:Revolutionaries seeking freedom from an oppressive government
+i:A power-hungry tyrant
+i:A religious order
+i:A philosopher wanting to experiment with a new social order
+i:A tribe that evolved into a nation
+i:An explorer who claimed the land for his own
+i:A god
+i:A cult claiming a bastion separate from society
+}
+{
+d:d6 Sub-divisions: To manage the nation, it is split into multiple...
+i:Autonomous states
+i:Fiefdoms
+i:Cities
+i:Duchies
+i:Provinces
+i:Geographical regions
+}
+{
+d:d12 Mood: The citizens are...
+i:Miserable; They hate their government or leaders, and feel oppressed
+i:Unhappy; They don't like the state of their nation, and don't feel like they are valued or treated well
+i:Satiated; Though they may not like things about the government, they are happy enough with their current life to risk losing what they have
+i:Happy; Even if things aren't perfect, they are generally happy with their way of life
+i:Extremely happy; They love their lives
+i:Angry; They are being pushed to their limits
+i:Patriotic; They love their nation, and will die to protect it
+i:Confused; They people feel like the nation is in a state of turmoil, and don't know what tomorrow will hold
+i:Anxious; Something bad is coming, they just know it, even if they don't know what it is
+i:Frightened; People gather for safety, or stay in their homes at night
+i:Scared; People live in fear of their nation's leaders
+i:Indifferent; The politics of the nation are unimportant in day to day life
+}
+{
+d:d5 Wealth and Prosperity: The citizens are...
+i:Very well off; They enjoy the finer things in life
+i:Doing well; Their needs are met, and they have the ability to improve their station in life
+i:They have enough to get by, but not enough to improve their station in life
+i:Poor; The people are barely scraping by
+i:Desperate; They are lucky to find food and shelter
+}
+{
+d:d10 Religion: The nation's approach to religion is...
+i:A specific religion is required of all citizens.
+i:A specific religion is encouraged, but not required. All other religions are banned
+i:The nation allows a select list of acceptable religions
+i:The nation allows any religion, but bans a select list
+i:All religions are welcome, though some are discouraged
+i:All religions are welcome, though some are encouraged
+i:Religion is banned all together
+i:A single religion is very popular, while others are generally considered to be strange or blasphemous
+i:Two or more religions are warring to be the only nationally sponsored religion
+i:Religion is not important to the people, nor the rulers.
+}
+{
+d:d50 Laws: A notable law includes...
+i:Capital punishment for most crimes
+i:Magic is banned
+i:Drug use is legal
+i:Alcohol use is banned
+i:Citizens are not allowed to speak poorly of their leaders
+i:Military service is required of all citizens
+i:Hunting of a specific species is banned (d100): 1. Wolves; 2. Lions; 3. Tigers; 4. Chickens; 5. Bears; 6. Elf{.elves dark,.elves high,.elves wood}; 7. Boar; 8. Apes; 9. Monkeys{.monkeys}; 10. Axe Beaks; 11. Baboons; 12. Badgers; 13. Blink Dogs; 14. Leopards; 15. Hawks; 16. Eagles; 17. Crocodiles; 18. Alligators; 19. Death gs; 20. Dire Wolves; 21. Horses; 22. Deer; 23. Moose; 24. Elephants; 25. Giant Apes; 26. Giant Badgers; 27. Giant Bats{.bats}; 28. Giant Boar; 29. Giant Centipede; 30. Giant Snakes; 31. Giant Crab; 32. Giant Crocodile; 33. Giant Alligator; 34. Giant Elk; 35. Giant Fire Beetles; 36. Giant Frogs; 37. Goats; 38. Giant Goats; 39. Giant Lizards; 40. Octopuses; 41. Giant Octopuses; 42. Giant Owls; 43. Owls; 44. Giant Rats{.rats}; 45. Rats{.rats}; 46. Giant Scorpions; 47. Sharks; 48. Giant Sharks; 49. Giant Spiders{.spiders}; 50. Giant Toads; 51. Giant Vultures; 52. Giant Wasps; 53. Giant Weasels; 54. Weasels; 55. Whales; 56. Hyenas; 57. Jackals; 58. Killer Whales; 59. Mammoths; 60. Dogs; 61. Panthers; 62. Ravens; 63. Rhinoceros; 64. Saber-Toothed Tigers; 65. Worgs; 66. Giraffes; 67. Ankhegs; 68. Cockatrice; 69. Bulettes; 70. Basilisks; 71. Chimera; 72. Dinosaurs; 73. Displacer Beasts; 74. Undead; 75. Gnolls; 76. Goblins{.goblins,.goblin gangs}; 77. Griffons; 78. Harpies; 79. Hippogriffs; 80. Kobolds{.kobolds}; 81. Lizardfolk; 82. Manticore; 83. Ogres; 84. Orcs; 85. Owlbears; 86. Pixies; 87. Sprites; 88. Trolls; 89. Unicorns; 90. Yetis; 91. Demons; 92. Dragons; 93. Giants; 94. Lycanthropes{.lycanthropes}; 95. Cougars; 96. Cats; 97. Turtles; 98. Dolphins; 99. Brownies; 100. Kangaroos
+i:Religious leaders must register with a local authority
+i:Revenge killing is legal
+i:Magic users must register with a local authority
+i:Begging is illegal
+i:Prostitution is illegal
+i:The native population is a protected class
+i:The native population can be hunted for a reward
+i:The native population can be hunted for sport
+i:No one is allowed to own more than an acre of land
+i:Everyone is guaranteed an acre of land
+i:The nation maintains protected land that may be not be used by private citizens
+i:No animal may be ridden
+i:No citizen is allowed to use a pack animal
+i:No citizen is allowed to use animals to assist with farming, or heavy labor
+i:Soldiers are not allowed to enter a citizen's home without permission{.soldiers}
+i:A citizen's private property is not allowed to be searched with out permission
+i:Prima Nocta; Leaders have first rights to deflower newly-weds
+i:Animal fighting is banned
+i:It is illegal to impersonate a member of the clergy
+i:It is illegal to bite off another person's leg
+i:It is illegal to walk backwards after sunset
+i:Fishing is prohibited
+i:Divorce is illegal
+i:It is only legal to move large groups of animals at certain times of the day
+i:Profanities may not be spoken in public
+i:It is legal to hunt and kill members of a specific religion
+i:Escape from prison is not illegal
+i:Public affection is illegal
+i:It is illegal to feed animals in public places
+i:All persons in public must be bathed, and perfumed
+i:All food sold must be approved by a local authority
+i:All weapons must be registered with a local authority{.legendary weapons}
+i:All procreation is regulated, and must be approved by the government
+i:All deforestation must be approved by a local authority{.forest,.forest enchanted,.forest haunted}
+i:All farms must be approved by a local authority
+i:All citizens are required to do regular charity work
+i:Martial weapons are prohibited{.legendary weapons}
+i:Citizens may kill trespassers
+i:Bounty hunting is illegal
+i:Money changing is illegal
+i:Money lending is illegal
+i:Gambling is illegal
+i:Businesses are not allowed to operate an a specific day each week
+}
+{
+n:nationlanguage
+d:d20 Language: The common spoken language is...
+i:Common
+i:Dwarvish
+i:Elvish
+i:Draconic
+i:Abyssal
+i:Celestial
+i:Deep Speech
+i:Druidic
+i:Giant
+i:Gnomish
+i:Goblin{.goblins,.goblin gangs}
+i:Gnoll
+i:Halfling
+i:Infernal
+i:Orc{.orcs,.orc warlords,.orkish clans}
+i:Primordial
+i:Sylvan
+i:Undercommon
+i:Common and @nationlanguage!18
+i:@nationlanguage!18 and @nationlanguage!18
+}
+{
+d:d8 Xenophobia: The various races are treated...
+i:Each race hates all other races
+i:Each race lives in peace with all other races, but stick to their own
+i:Humans and Demi-humans (dwarves, elves, etc) get along, but do not tolerate sub-humans (goblinoids, orcs, etc){.dwarves,.elves dark,.elves high,.elves wood,.orcs,.orc warlords,.orkish clans}
+i:Each race tolerates the others, but they don't get along well
+i:The races are split into factions. Each faction hates the others
+i:The races get along, but a single race is hated by all others (d10): 1. Dwarves{.dwarves}; 2. Elves; 3. Tieflings; 4. Humans; 5. Halflings; 6. Gnomes{.gnomes}; 7. Gnomes; 8. Hybrid races (half-orcs, half-elves); 9. Dragonborn; 10. An additional race is hated. (roll twice on this table)
+i:The races do not get along, but a single race is revered by all others (d10): 1. Dwarves{.dwarves}; 2. Elves; 3. Tieflings; 4. Humans; 5. Halflings; 6. Gnomes{.gnomes}; 7. Gnomes; 8. Hybrid races (half-orcs, half-elves){.orcs,.orc warlords,.orkish clans}; 9. Dragonborn; 10. An additional race is revered. (roll twice on this table)
+i:The races mix freely
+}
+{
+d:d10 Class System: Social classes in the society are determined by...
+i:Age
+i:Race
+i:Profession
+i:Lineage
+i:Birthplace
+i:Height
+i:Wealth
+i:Gender
+i:A physical feature (d3): 1. Eye color; 2. Hair color; 3. Skin color
+i:Religion
+}
+{
+d:d20 Social Pariahs: Social outcasts generally include...
+i:Bastards
+i:Lycanthropes{.lycanthropes}
+i:The ill
+i:The elderly
+i:The homeless
+i:Mercenaries
+i:Druids{.druids}
+i:Rangers
+i:Law breakers
+i:Merchants{.merchant caravans,.merchant guilds}
+i:Magic users
+i:The clergy
+i:Local law enforcement
+i:Widows and Widowers
+i:Oath-breakers
+i:The Dishonored
+i:Followers of a specific religion
+i:Drunks
+i:Prostitutes
+i:Foreigners
+}

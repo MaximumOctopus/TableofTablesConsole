@@ -1,0 +1,46 @@
+{
+d:d12 The infernal beast appears in the form of...
+i:A bat{.bats}.
+i:A drake.
+i:A hound.
+i:A horse{.horses}.
+i:A falcon.
+i:A lizard.
+i:A panther.
+i:A raven.
+i:A scorpion.
+i:A serpent.
+i:A worm.
+i:A wyvern.
+}
+{
+d:d8 The beast has...
+i:Glowing red eyes.
+i:Pale, sinister eyes.
+i:Reddish skin around the face.
+i:Several short horns or tusks.
+i:Curled horns or tusks.
+i:Long pointy horns.
+i:An odor of brimstone.
+i:An aura of choking smoke.
+}
+{
+d:d8 ...and...
+i:Powerful hind legs for leaping and pouncing.
+i:Speaks in a hissing voice.
+i:Speaks in a growling voice.
+i:A forked tongue.
+i:Poisonous fangs.
+i:Red or black, leathery wings.
+i:Black or grey, feathered wings.
+i:A tail with a venomous stinger.
+}
+{
+d:d6 The beast is looking for...
+i:A mortal to tempt and to corrupt.
+i:A soul to collect for its master.
+i:A soul to torment.
+i:An opportunity to overthrow its master.
+i:A specific mortal who sold his or her soul.
+i:An item of great power and evil.
+}

@@ -1,0 +1,172 @@
+{
+d:d12 The killer is...
+i:A quiet artisan{.artisans}.
+i:An eccentric scholar.
+i:A mysterious foreigner.
+i:A talented artist.
+i:A polite shopkeeper.
+i:A peddler of the bizarre.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A hardened criminal.
+i:A brutish thug.
+i:A religious fanatic.
+i:A veteran soldier{.soldiers}.
+}
+{
+d:d20 The killer’s modus operandi is...
+i:Ingested poison or allergic reaction.
+i:Contact poison applied to a weapon{.legendary weapons}.
+i:Arrow/bolt from range.
+i:Impaling.
+i:Knife in the chest or back.
+i:Multiple stab wounds.
+i:Slitting the throat.
+i:Gutting or eviscerating.
+i:Flaying.
+i:Beheading.
+i:Strangulation.
+i:Hanging.
+i:Burying alive.
+i:Drowning.
+i:Boiling alive.
+i:Throwing off a roof.
+i:Severe beating.
+i:Dismemberment.
+i:Burning alive.
+i:Feeding to animals.
+}
+{
+d:d12 The killer is often armed with...
+i:Poisoned daggers.
+i:Throwing knives.
+i:An over-sized dagger.
+i:A serrated knife.
+i:A crossbow.
+i:A hammer or axe.
+i:A bow and arrows.
+i:A cudgel.
+i:A sickle or scythe.
+i:A garrote and dagger.
+i:Poisoned projectiles.
+i:Bare fists.
+}
+{
+d:d6 The killer’s purposes include...
+i:Sowing fear.
+i:Sowing destruction.
+i:Sowing chaos.
+i:Satisfying personal bloodlust.
+i:Gaining vengeance by hunting down a set of specific individuals.
+i:Vigilante justice.
+}
+{
+d:d6 The killer leaves a victim...
+i:In a signature pose.
+i:In a signature location.
+i:With a note on the corpse.
+i:With a piece of the corpse missing.
+i:With an unusual object planted on the corpse.
+i:Where the corpse will never be found.
+}
+{
+d:d6 Timing: The killer typically plans murders for…
+i:Just after sunrise.
+i:Just after sunset.
+i:Well into the night.
+i:The toll of midnight.
+i:After midnight.
+i:Just before sunrise.
+}
+{
+d:d12 The killer’s base of operations is hidden in or near...
+i:The killer’s own residence.
+i:An artisan's shop or guildhall{.artisans,.shops}.
+i:A merchant's office{.merchant caravans,.merchant guilds}.
+i:A tavern{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:A warehouse or shipyard.
+i:A temple complex{.temples}.
+i:The city's sewers.
+i:An abandoned guildhall or warehouse.
+i:An armory or barracks.
+i:The residence of a wealthy individual or prominent citizen.
+i:No where. The killer is a transient.
+}
+{
+d:d20 The killer’s favorite victims are...
+i:Fishermen and sailors{.fishermen,.sailors}.
+i:Beggars and thieves{.thieves}.
+i:Merchants and moneychangers{.merchant caravans,.merchant guilds}.
+i:Young noblemen{.nobles,.noble houses}.
+i:Young noblewomen{.nobles,.noble houses}.
+i:Old noblewomen{.nobles,.noble houses}.
+i:Gamblers and drunks.
+i:Priests and monks.
+i:Priestesses.
+i:Serving girls.
+i:Slaves.
+i:Barmaids.
+i:Harlots and madames{.harlots}.
+i:Circus performers.
+i:Foreign travelers.
+i:Farmwives.
+i:Peasant girls.
+i:Inquisitive children.
+i:Young children.
+i:Other killers and criminals.
+}
+{
+d:d10 The killer refuses to kill...
+i:Ugly women.
+i:Beautiful women.
+i:Pregnant women.
+i:Shy children.
+i:Bold children.
+i:Anyone with blue eyes.
+i:Anyone with green eyes.
+i:Anyone with blonde hair.
+i:Anyone with red hair.
+i:Anyone who is blind, deaf, or lame.
+}
+{
+d:d8 The killer wears…
+i:Old worn boots.
+i:Shiny leather boots.
+i:A mask covering the face.
+i:A wide-brimmed hat.
+i:A cap pulled low.
+i:A low-cut shirt.
+i:Tight-fitting clothes.
+i:Neatly trimmed mustaches.
+}
+{
+d:d12 The killer carries…
+i:The weapon used in his or her first kill.
+i:A trophy from his/her first kill.
+i:A trophy from every one of his or her kills.
+i:A ledger listing each and every one of his or her kills.
+i:A journal describing in gory detail each and every one of his or her kills
+i:A token stolen from his or her next mark.
+i:An exotic weapon.
+i:A highly polished weapon.
+i:A weapon with runes carved into it.
+i:A weapon with a gem{gemstones} embedded in the pommel.
+i:A weapon with soft leather tassels dangling from the pommel.
+i:A weapon made of an unusual material (blackened steel, bone, coral, crude iron, obsidian, stone).
+}
+{
+d:d12 The killer is unusually fond of or particular regarding...
+i:Horticulture and floral arrangements.
+i:Fashion trends.
+i:Gourmet cooking.
+i:Personal health and fitness.
+i:Arms and armor maintenance.
+i:Small animals.
+i:High quality fabrics and leathers.
+i:Foreign music.
+i:Theater troupes and dancers.
+i:Fine wines{.wines}.
+i:Social status.
+i:Facial hair.
+}

@@ -1,0 +1,46 @@
+{
+d:d12 The winter beast is...
+i:A bear.
+i:A boar.
+i:A drake.
+i:An eagle.
+i:An elk.
+i:A fox.
+i:A goat.
+i:An owl.
+i:An owlbear.
+i:An ox.
+i:A stag.
+i:A wolf.
+}
+{
+d:d8 The beast has...
+i:Bright, red eyes.
+i:Squinty, dark eyes.
+i:Dirty white coloration.
+i:Pale grey coloration.
+i:White stripes or markings.
+i:A thick coat of fur or feathers.
+i:An aura of swirling snow.
+i:A frigid aura.
+}
+{
+d:d8 ...and...
+i:Exhales an icy spray when it breathes.
+i:Can exhale a spout of freezing wind.
+i:Chills to the bone any who stand close to it.
+i:Leaves a trail of frost in its wake.
+i:Can freeze things with a touch.
+i:Can disappear in a puff of swirling snow.
+i:Explodes into many icy shards if it is slain.
+i:Walks without hindrance atop snow and ice.
+}
+{
+d:d6 The beast is looking for...
+i:Something to preserve to eat later.
+i:A lair with an entrance hidden from view.
+i:An individual marked by its master.
+i:An opportunity to impress its master.
+i:The frozen corpse of a long-dead frost titan.
+i:An item that can call blizzards.
+}

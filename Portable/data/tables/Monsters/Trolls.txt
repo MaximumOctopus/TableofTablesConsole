@@ -1,0 +1,181 @@
+{
+d:d6 Hair: The troll’s hair is...
+i:Long and stringy.
+i:Wispy and thin.
+i:Dark and matted.
+i:A tangled mess.
+i:Dark and curly.
+i:Gone; the troll is bald.
+}
+{
+d:d6 Nose: The troll’s nose is...
+i:Long and hooked.
+i:Long and thin.
+i:Bulbous.
+i:Large and bent.
+i:Very crooked.
+i:Short and broad.
+}
+{
+d:d6 Wart location: The troll has a pronounced wart…
+i:Below its left eye.
+i:Above its right eye.
+i:On the end of its nose.
+i:On the bridge of its nose.
+i:On its upper lip.
+i:On its chin.
+}
+{
+d:d6 Wart appearance: The troll has a large wart that is rather...
+i:Scabby.
+i:Lumpy.
+i:Pointy.
+i:Hairy.
+i:Inflamed.
+i:Rippled.
+}
+{
+d:d6 Skill: The troll is particularly good at...
+i:Biting off noses.
+i:Tearing off limbs.
+i:Cleaning bones.
+i:Roasting meat.
+i:Curing meat.
+i:Squashing meat into jelly.
+}
+{
+d:d6 Quirk/flaw: Even for an troll, the troll frequently...
+i:Gets distracted by shiny objects.
+i:Gets distracted by food.
+i:Is indecisive about cooking methods.
+i:Sniffs loudly.
+i:Picks its teeth.
+i:Eats until it is uncomfortably full.
+}
+{
+d:d6 Possessions: The troll is carrying a/an...
+i:A heavy club.
+i:Sackful of trinkets.
+i:Sackful of gold.
+i:Sackful of jerky.
+i:Sackful of bones.
+i:Empty sack.
+}
+{
+d:d6 Favorite food: The troll is especially fond of eating…
+i:Women.
+i:Children.
+i:Pixies.
+i:Elves.
+i:Mutton.
+i:Fish.
+}
+{
+d:d6 Immediate goal: The troll is looking for a/an...
+i:Easy meal.
+i:Fatty meal.
+i:Steady meal ticket.
+i:Quick snack.
+i:Big meal.
+i:Place to rest and digest after a big meal.
+i:Mutation: The troll has grown…
+i:An extra head.
+i:An extra nose.
+i:An extra arm.
+i:Long, sharp fangs.
+i:Spikes in its back.
+i:Long, curved claws.
+}
+[
+d:WAR TROLL
+d:Roll these for trolls trained for battle.
+]
+{
+d:d6 Past employment: Some time in the past, in exchange for food or treasure, the troll…
+i:Marched to war with an orkish clan.
+i:Guarded the treasure vault of a goblin king.
+i:Patrolled the grounds of a witch’s hovel.
+i:Operated a siege engine in a great army.
+i:Barely survived an expedition that expelled a dragon.
+i:Fought in a series of gladiatorial games.
+}
+{
+d:d6 Armor: The troll is clad in…
+i:Hide armor.
+i:Banded mail.
+i:Chain mail.
+i:Ring mail.
+i:Scale mail.
+i:Plate armor.
+}
+{
+d:d6 Weapon: The troll is wielding a/an…
+i:Jagged steel greatsword.
+i:Spiked club.
+i:Pair of spiked gauntlets.
+i:Enormous battleaxe.
+i:Over-sized warhammer.
+i:Heavy flail.
+}
+[
+d:CAVE TROLL
+d:Roll these for trolls that live deep underground.
+]
+{
+d:d6 Home: The troll has found a home in or near a/an…
+i:Underground lake.
+i:Diamond mine.
+i:Ooze colony.
+i:Spider pit.
+i:Forgotten tomb.
+i:Dragon’s lair.
+}
+{
+d:d6 Least favorite food: Begrudgingly, the troll often eats…
+i:Bats.
+i:Rats.
+i:Worms.
+i:Snails.
+i:Goblins.
+i:Dwarves.
+}
+{
+d:d6 Adaptation: The troll has especially…
+i:Large eyes.
+i:Good hearing.
+i:Pale skin.
+i:Slimy skin.
+i:Sharp sense of smell.
+i:Quick reactions.
+}
+[
+d:SCRAG (AQUATIC TROLL)
+d:Roll these for trolls that spend their days in the water.
+]
+{
+d:d6 Home: The troll has found a home in a/an…
+i:Underground lake.
+i:Muddy river.
+i:Cool mountain lake.
+i:Secluded cove.
+i:Foggy marsh.
+i:Forbidding swamp.
+}
+{
+d:d6 Least favorite food: Begrudgingly, the troll often eats…
+i:Eels.
+i:Shellfish.
+i:Bass.
+i:Waterfowl.
+i:Turtles.
+i:Frogs.
+}
+{
+d:d6 Adaptation: In addition to webbed toes, the troll has…
+i:Webbed claws.
+i:Gills.
+i:Exceptionally large lungs.
+i:Double-lidded eyes.
+i:A snorkel-like nose.
+i:Greenish-blue skin.
+}

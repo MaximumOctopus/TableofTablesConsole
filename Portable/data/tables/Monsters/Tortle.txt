@@ -1,0 +1,135 @@
+{
+d:D8 Profession. The tortle is a(n)...
+i:Rustic peddler.
+i:Pensive gardener.
+i:Cheery barge captain.
+i:Belligerent fisher.
+i:Anxious hermit.
+i:Talkative guide.
+i:Distracted storyteller.
+i:Talkative herbalist.
+}
+{
+d:d6 Shell. The tortle has...
+i:Spiky, thorn-like protrusions covering its shell.
+i:A knobbly shell.
+i:Colourful geometric patterns on its shell.
+i:A round, domed shell.
+i:A broad, flat shell.
+i:Raised ridges running the length of the shell.
+}
+{
+d:d8 ...and...
+i:Short, stumpy limbs.
+i:Colourful mottling around its face and neck.
+i:A prominent snout.
+i:Long, sharp claws.
+i:A long, pointed tail.
+i:Lighter coloured, vertical stripes lining its throat.
+i:A hooked beak.
+i:Broad, brawny limbs.
+}
+{
+d:d8 Colouring. The tortle’s scales are...
+i:Dull, muddy brown.
+i:Swirling light brown.
+i:Pale with brown spiral markings.
+i:White with dark green patches.
+i:Deep green.
+i:Yellow with grassy green patterning.
+i:Dark, glossy brown.
+i:Bluish gray.
+}
+{
+d:d10 The tortle is wearing...
+i:A handwoven satchel.
+i:Shark teeth on a necklace.
+i:A brightly dyed surcoat.
+i:A leather cord necklace with a carved bone tribal fishhook.
+i:Carefully wound hand wrappings.
+i:A faded silk kimono.
+i:A wide girdle or obi belt tied with an elaborate knot, with hidden pockets or pouches.
+i:A hammered bronze armband.
+i:Loose-fitting linen pants.
+i:A wide-brimmed straw hat.
+}
+{
+d:d10 The tortle is carrying...
+i:A barnacle-crusted cutlass.
+i:Their mother’s greatclub.
+i:An old warhammer.
+i:Their father’s frying pan.
+i:A sturdy spear.
+i:A hempen net.
+i:Several feet of fishing line.
+i:A hunter’s snare.
+i:Their grandmother's tarnished sickle.
+i:A sling and pouch of stones.
+}
+{
+d:d10 ...and...
+i:A pouch of collected herbs and roots.
+i:An old pipe and a small wooden box of pipeleaf.
+i:Smoked fish wrapped in paper.
+i:A model ship in a bottle.
+i:A firkin of cider.
+i:A sack of trail rations and a waterskin.
+i:A wooden lute.
+i:Coral, seashells, and flail snail fragments in a sack.
+i:A beltpouch holding a few coins.
+i:A bowl fashioned from a giant crab’s carapace.
+}
+{
+d:d8 Presently, the tortle is looking for...
+i:Ingredients for herbal tea...
+i:Someone to teach them a new skill...
+i:Something to eat...
+i:Signs of changing weather...
+i:A human settlement they've heard stories about...
+i:Fresh, clean water...
+i:Material components for their nature spells...
+i:Sweet, wild berries...
+}
+{
+d:d8 ...but the tortle would be happy to find...
+i:Companions for a drink and a chat.
+i:Another traveller to share the road.
+i:Rumours of adventure elsewhere.
+i:A good trade.
+i:News of far-flung lands and cultures.
+i:A flowering tree to rest under.
+i:Anything new or strange to experience.
+i:A beautiful vista to take in.
+}
+{
+d:d6 Enclave: The tortles live together in...
+i:Burrow-like, earth berm homes.
+i:"Amphibious" vardos: colourful houseboats on wheels.
+i:Communal longhouses fashioned from overturned longships.
+i:Round dugout “nests,” roofed with the overlapping shells of their families' ancestors.
+i:Dockside stilt houses with thatched roofs.
+i:Elevated cave apartments carved into a sea cliff.
+}
+{
+d:d20 You see among the tortles...
+i:An elderly tortle is napping on a reed mat under an awning improvised from a salvaged sail.
+i:Several large fish are being smoked over a pit.
+i:A beachside bar and surf shack, the doorway of which is obscured by strings of hanging shells.
+i:Many delighted listeners sit around an animated storyteller.
+i:A paved courtyard with small stone and shell mosaic tables, where pairs of tortles are playing a strategic game with black and white tokens, while drinking chilled fruit juices.
+i:An abstract statue of assembled driftwood dominates the plaza.
+i:Several young tortles have just returned from a fishing excursion, unloading their catch.
+i:A tortle cleric is performing a Coming of Age ceremony for a young tortle setting out for the first time.
+i:A pile of fishing traps in need of cleaning or repair.
+i:Black, red, and grey chickens running wild.
+i:Two elderly tortles play a game, using forked branches to push polished stones across the long, waxed surface of a massive felled tree that's been halved lengthwise and marked with scoring lines.
+i:A crab scuttles across the beach, clicking its pincers menacingly.
+i:A coracle bobs in the shallows, tied to a jutting stone on the beach.
+i:Several nets are draped over a hedge to dry.
+i:Four elderly female tortles are gambling under a low umbrella, playing a quiet game using colorful porcelain tiles.
+i:A tortle is emptying a stack of cane and bamboo lobster traps.
+i:A barrel-round hand cart, loaded with green coconuts, stands off to the side.
+i:Several tortle children are playing make-believe, fighting an imaginary dragon with wooden swords and stick spears.
+i:Many tortles are ambling their way into a large meeting hall, thatched with colorful roc feathers, to hear the adventures of a recently returned adventurer.
+i:Three red-bearded dwarves are haggling angrily with a tortle merchant, claiming the warhammer in her stall is an ancient dwarven heirloom of their clan. The tortle assures them that it belonged to her father, and his father before him.
+}

@@ -1,0 +1,46 @@
+{
+d:d12 The shadow beast is...
+i:A bat{.bats}.
+i:A centipede.
+i:A monkey.
+i:An owl.
+i:A panther.
+i:A rat{.rats}.
+i:A raven.
+i:A serpent.
+i:A spider{.spiders}.
+i:A vulture.
+i:A wolf.
+i:A wyvern.
+}
+{
+d:d8 The beast has...
+i:Dark, sinister eyes.
+i:Pale, glowing eyes.
+i:Dark stripes or markings.
+i:Eerie grey coloration.
+i:Venomous fangs.
+i:Blackened teeth.
+i:An aura of gloom.
+i:An odor of death.
+}
+{
+d:d6 ...and...
+i:Can disappear into shadows.
+i:Can teleport in a swirl of shadows.
+i:Moves without a sound.
+i:Speaks in rhymes and riddles.
+i:Gives you an uneasy feeling.
+i:A mournful howl or cry.
+}
+{
+d:d8 The beast is looking for...
+i:A soul to devour.
+i:Dead flesh to eat.
+i:Something to kill.
+i:A place to lair among ghosts.
+i:The location of an ancient lich's tomb{.tombs}.
+i:A dark hole in which to wait for prey.
+i:Someone to listen to its tale of terror and death.
+i:The loathsome mage who summoned it.
+}

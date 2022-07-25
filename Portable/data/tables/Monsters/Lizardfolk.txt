@@ -1,0 +1,59 @@
+{
+d:d8 Coloring: The lizardolk's scales are...
+i:Mottled green and brown.
+i:Dull and green.
+i:Shiny and green.
+i:Green with black stripes.
+i:Black and grey.
+i:Brown with black stripes.
+i:Mottled black and brown.
+i:Brown and grey.
+}
+{
+d:d8 Mannerism: The lizardfolk has...
+i:An unsavory habit of licking its lips.
+i:Shifty eyes.
+i:A nervous, hissing laugh.
+i:Eyes that never blink.
+i:A tongue that protrudes when it speaks.
+i:A crest atop its head.
+i:Two ridges starting above the brow and running down its head and neck.
+i:Sagging folds of skin on its throat.
+}
+{
+d:d10 Profession: The lizardfolk is...
+i:A savvy hunter.
+i:A deadly tracker.
+i:A skilled scout.
+i:A savage berserker.
+i:A dim-witted brute.
+i:A celebrated warrior.
+i:A powerful shaman.
+i:An eerie mystic.
+i:A scaly shapeshifter.
+i:A cold-blooded killer.
+}
+{
+d:d6 Goal: The lizardfolk is looking for...
+i:New waters for fishing and hunting.
+i:The tracks of an intruder in the region.
+i:The lair of a troublesome beast.
+i:Safe nesting grounds.
+i:Decent arms and armor.
+i:Fresh meat.
+}
+{
+d:d12 Possessions: The lizardfolk carries...
+i:A scimitar and a wooden shield.
+i:A scimitar and a short bow.
+i:A spear and a blowgun.
+i:A curved dagger and a blowgun.
+i:A curved dagger with feathers on the hilt.
+i:A handaxe and a shortbow.
+i:An oversized club.
+i:A wooden club and a wooden shield.
+i:A milky white gem{gemstones} fastened about the neck.
+i:A string of trophies fastened about the neck (d4): 1. ears; 2. finger bones; 3. scalps; 4. teeth.
+i:A gnarled wooden staff.
+i:A string of beads made from a variety of materials (d8): 1. bone; 2. clay; 3. copper; 4. silver; 5. stone; 6. teeth; 7. tin; 8. wood.
+}

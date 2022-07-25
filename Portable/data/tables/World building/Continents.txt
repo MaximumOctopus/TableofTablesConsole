@@ -1,0 +1,801 @@
+{
+d:d6 Size: The continent is...
+i:Massive; It spans most of the world
+i:Large; It makes an impact on the shape of the world
+i:Medium; About as average as average gets
+i:Small; It may be hard to find with out exploration
+i:Tiny; It's practically an island
+i:Amalgamated; A collection of landmasses into a single continent.
+}
+{
+d:d8 Location: The continent is located...
+i:Polar; It sits one of of the polar ends of the world
+i:Equatorial; It straddles the world's equator
+i:Far North; The sun never sets half the year, and never rises the other half
+i:Far South; The sun never sets half the year, and never rises the other half
+i:Northern Hemisphere
+i:Southern Hemisphere
+i:Runs laterally across both hemispheres
+i:Hidden; It can not be easily found
+}
+{
+d:d10 Sub-Climates: Compared to the rest of the the world, the continent is...
+i:Warmer than usual
+i:Colder than usual
+i:Windier than usual
+i:Rainier than usual
+i:Rather average
+i:More tropical than usual
+i:Incredibly Hot
+i:Incredibly Cold
+i:Incredibly wet
+i:More humid than usual
+}
+{
+d:d20 A unique characteristic of this continent is...
+i:It is home to an ancient volcano that has been erupting for generations
+i:It is said to be protected by a god
+i:It is the only place to find a rare mineral {.mines} (d10): 1. Gold; 2. Silver; 3. Copper; 4. Adamantine; 5. Titanium; 6. Tungsten; 7. Platinum; 8. Electrum; 9. Uranium; 10. Unobtanium
+i:It is home to the tallest mountain in the world{.mountains}
+i:It is home to the largest lake in the world
+i:An unnaturally massive number of chickens roam the wild
+i:Most of it is below sea level
+i:It is pock marked with craters
+i:A powerful enchantment has befallen it
+i:It has been afflicted by a powerful curse{cursessimple}
+i:It is landlocked
+i:It has no neighbouring continents
+i:It was recently ravaged by a major cataclysm (d6): 1. A massive meteor changed the entire landscape; 2. A massive volcano erupted, blacking out the sky; 3. A drought caused massive dust storms, and food became scarce; 4. Massive floods wiped out anyone that was not prepared; 5. A god became angry and punished the people by scorching the land; 6. A pandemic spread like wildfire, killing 60 percent of the population
+i:Massive storms make the coast uninhabitable
+i:At the center is a font of wild magic
+i:It is said to hide a legendary artifact
+i:It was claimed by a legendary hero
+i:It was claimed by a legendary villain{.villains}
+i:It used to be joined with another continent, but was split asunder.
+i:It is dominated by a single land type (d10): 1. Mountains{.mountains}; 2. Desert{.desert,.desert flame-scorched,.desert shadowy}; 3. Forests{.forest,.forest enchanted,.forest haunted}; 4. Jungle{.jungle}; 5. Tundra; 6. Plains{.plains}; 7. Lakes; 8. Rivers; 9. Swamp / Marshland{.swamp}; 10. Canyons
+}
+{
+d:d6 Discovery: When was the continent was discovered?
+i:Long before memory or written history
+i:Centuries ago
+i:A few generations ago
+i:A generation ago
+i:Very recently
+i:It has not yet been discovered
+}
+{
+d:d12 Discovery: The continent was discovered by...
+i:A travelling merchant looking for new riches{.merchant caravans,.merchant guilds}
+i:A nomadic tribe wandering aimlessly
+i:A small group of pilgrims looking for greener pastures
+i:Refugees from a massive war
+i:Colonists sent by the ruler of another land seeking to expand his borders
+i:Explorers looking for something new and exciting
+i:Map makers looking for fill in gaps of a map
+i:A small civilization escaping from a stronger, more dominant monster
+i:A small civilization seeking better a better climate
+i:Frontiersman pushing the edges of the know world.
+i:No one, it was the cradle of civilization
+i:Priests seeking worshippers
+}
+{
+d:d100 Domestic Creatures: Creatures unique to this continent include... 
+i:Monkeys{.monkeys}
+i:Apes
+i:Baboons
+i:Pelicans
+i:Deer
+i:Cows
+i:Elk
+i:Bison
+i:Coyotes
+i:Dingos
+i:Wolves
+i:Swans
+i:Lions
+i:Tigers
+i:Brown Bears
+i:Grizzly Bears
+i:Polar Bears
+i:Tarantulas
+i:Blink Dogs
+i:Badgers
+i:Wolverines
+i:Black Bears
+i:Giraffes
+i:Llamas
+i:Alpacas
+i:Chickens
+i:Hawks
+i:Eagles
+i:Tortoises
+i:Boars
+i:Cougars
+i:Mere Cats
+i:Camels
+i:Panthers
+i:Boa Constrictors
+i:Crocodiles
+i:Alligators
+i:Horses
+i:Pandas
+i:Koalas
+i:Kangaroos
+i:Wallabies
+i:Death Dogs
+i:Axe Beaks
+i:Elephants
+i:Flying Snakes
+i:Scorpions
+i:Hyenas
+i:Vultures
+i:Goats
+i:Jackals
+i:Mammoths
+i:Phase Spiders{.spiders}
+i:Rhinoceroses
+i:Saber-Toothed tigers
+i:Worgs
+i:Dire Wolves
+i:Giant Badgers
+i:Giant Rats{.rats}
+i:Giant Spiders{.spiders}
+i:Dire Chickens
+i:Giant Eagles
+i:Giant Boars
+i:Giant Centipedes
+i:Giant Bats{.bats}
+i:Giant Snakes
+i:Giant Crabs
+i:Giant Crocodiles
+i:Giant Elk
+i:Giant Fire Beetles
+i:Giant Frogs
+i:Giant Goats
+i:Giant Hyenas
+i:Giant Lizards
+i:Iguanas
+i:Giant Owls
+i:Giant Scorpions
+i:Giant Toads
+i:Giant Vultures
+i:Giant Wasps
+i:Giant Weasels
+i:Weasels
+i:Giant Wolf Spiders{.spiders}
+i:Owlbears
+i:Sloths
+i:Dodo Birds
+i:Basilisks
+i:Cockatrice
+i:Griffons
+i:Hippogriffs
+i:Squirrels
+i:Chipmunks
+i:Buffalo
+i:Ostriches
+i:Zebras
+i:Geese
+i:Mongooses
+i:Lemurs
+i:Pigs
+i:Platypi
+}
+{
+d:d100 Foreign Creatures: Creatures imported to this continent include...
+i:Monkeys{.monkeys}
+i:Apes
+i:Baboons
+i:Pelicans
+i:Deer
+i:Cows
+i:Elk
+i:Bison
+i:Coyotes
+i:Dingos
+i:Wolves
+i:Swans
+i:Lions
+i:Tigers
+i:Brown Bears
+i:Grizzly Bears
+i:Polar Bears
+i:Tarantulas
+i:Blink Dogs
+i:Badgers
+i:Wolverines
+i:Black Bears
+i:Giraffes
+i:Llamas
+i:Alpacas
+i:Chickens
+i:Hawks
+i:Eagles
+i:Tortoises
+i:Boars
+i:Cougars
+i:Mere Cats
+i:Camels
+i:Panthers
+i:Boa Constrictors
+i:Crocodiles
+i:Alligators
+i:Horses
+i:Pandas
+i:Koalas
+i:Kangaroos
+i:Wallabies
+i:Death Dogs
+i:Axe Beaks
+i:Elephants
+i:Flying Snakes
+i:Scorpions
+i:Hyenas
+i:Vultures
+i:Goats
+i:Jackals
+i:Mammoths
+i:Phase Spiders{.spiders}
+i:Rhinoceroses
+i:Saber-Toothed tigers
+i:Worgs
+i:Dire Wolves
+i:Giant Badgers
+i:Giant Rats{.rats}
+i:Giant Spiders{.spiders}
+i:Dire Chickens
+i:Giant Eagles
+i:Giant Boars
+i:Giant Centipedes
+i:Giant Bats{.bats}
+i:Giant Snakes
+i:Giant Crabs
+i:Giant Crocodiles
+i:Giant Elk
+i:Giant Fire Beetles
+i:Giant Frogs
+i:Giant Goats
+i:Giant Hyenas
+i:Giant Lizards
+i:Iguanas
+i:Giant Owls
+i:Giant Scorpions
+i:Giant Toads
+i:Giant Vultures
+i:Giant Wasps
+i:Giant Weasels
+i:Weasels
+i:Giant Wolf Spiders{.spiders}
+i:Owlbears
+i:Sloths
+i:Dodo Birds
+i:Basilisks
+i:Cockatrice
+i:Griffons
+i:Hippogriffs
+i:Squirrels
+i:Chipmunks
+i:Buffalo
+i:Ostriches
+i:Zebras
+i:Geese
+i:Mongooses
+i:Lemurs
+i:Pigs
+i:Platypi
+}
+{
+d:d100 Domestic Plants: Plants unique to this continent include... 
+i:Roses
+i:Ferns
+i:Pine Trees
+i:Maple Trees
+i:Birch Trees
+i:Black Ash Trees
+i:White Ash Trees
+i:Aspens
+i:Willows
+i:Butternut Trees
+i:Black Cherry Trees
+i:Chestnut Trees
+i:Cottonwood Trees
+i:Elms
+i:Firs
+i:Hemlock
+i:Hickory
+i:Oak Trees
+i:Spruce Trees
+i:Sycamores
+i:Walnut Trees
+i:Peach Trees
+i:Orange Trees
+i:Plum Trees
+i:Apple Trees
+i:Baobab Trees
+i:Olive Trees
+i:Cedars
+i:Banyan Trees
+i:Yews
+i:Mulberry Trees
+i:Lavender
+i:Beech Trees
+i:Poplars
+i:Pear Trees
+i:Redwoods
+i:Junipers
+i:Strawberries
+i:Blueberries
+i:Blackberries
+i:Raspberries
+i:Potatoes
+i:Carrots
+i:Poppies
+i:Azaleas
+i:Begonias
+i:Bloodroot
+i:Carnations
+i:Chrysanthemum
+i:Tumbleweed
+i:Geranium
+i:Hyacinth
+i:Iris
+i:Celery
+i:Lavender
+i:Morning Glory
+i:Bell Pepper
+i:Mint
+i:Cumin
+i:Oregano
+i:Garlic
+i:Orchid
+i:Sunflower
+i:Tulip
+i:Poison Ivy
+i:Poison Oak
+i:Onions
+i:Spinach
+i:Watermelon
+i:Mustard
+i:Apricot Trees
+i:Banana Trees
+i:Pineapple
+i:Mangos
+i:Palm Trees
+i:Dragonfruit Trees
+i:Avocados
+i:Fig Trees
+i:Grapes
+i:Guava
+i:Kiwifruit
+i:Lemon Trees
+i:Line Trees
+i:Papaya Trees
+i:Pomegranate Trees
+i:Tomatoes
+i:Rice
+i:Brussel Sprouts
+i:Cabbage
+i:Pumpkin
+i:Radishes
+i:Turnips
+i:Corn
+i:Wheat
+i:Bok Choy
+i:Arugula
+i:Ivy
+i:Chickweed
+i:Dandelion
+i:Dill
+}
+{
+d:d100 Foreign Plants: Plants imported to this continent include... I
+i:Roses
+i:Ferns
+i:Pine Trees
+i:Maple Trees
+i:Birch Trees
+i:Black Ash Trees
+i:White Ash Trees
+i:Aspens
+i:Willows
+i:Butternut Trees
+i:Black Cherry Trees
+i:Chestnut Trees
+i:Cottonwood Trees
+i:Elms
+i:Firs
+i:Hemlock
+i:Hickory
+i:Oak Trees
+i:Spruce Trees
+i:Sycamores
+i:Walnut Trees
+i:Peach Trees
+i:Orange Trees
+i:Plum Trees
+i:Apple Trees
+i:Baobab Trees
+i:Olive Trees
+i:Cedars
+i:Banyan Trees
+i:Yews
+i:Mulberry Trees
+i:Lavender
+i:Beech Trees
+i:Poplars
+i:Pear Trees
+i:Redwoods
+i:Junipers
+i:Strawberries
+i:Blueberries
+i:Blackberries
+i:Raspberries
+i:Potatoes
+i:Carrots
+i:Poppies
+i:Azaleas
+i:Begonias
+i:Bloodroot
+i:Carnations
+i:Chrysanthemum
+i:Tumbleweed
+i:Geranium
+i:Hyacinth
+i:Iris
+i:Celery
+i:Lavender
+i:Morning Glory
+i:Bell Pepper
+i:Mint
+i:Cumin
+i:Oregano
+i:Garlic
+i:Orchid
+i:Sunflower
+i:Tulip
+i:Poison Ivy
+i:Poison Oak
+i:Onions
+i:Spinach
+i:Watermelon
+i:Mustard
+i:Apricot Trees
+i:Banana Trees
+i:Pineapple
+i:Mangos
+i:Palm Trees
+i:Dragonfruit Trees
+i:Avocados
+i:Fig Trees
+i:Grapes
+i:Guava
+i:Kiwifruit
+i:Lemon Trees
+i:Line Trees
+i:Papaya Trees
+i:Pomegranate Trees
+i:Tomatoes
+i:Rice
+i:Brussel Sprouts
+i:Cabbage
+i:Pumpkin
+i:Radishes
+i:Turnips
+i:Corn
+i:Wheat
+i:Bok Choy
+i:Arugula
+i:Ivy
+i:Chickweed
+i:Dandelion
+i:Dill
+}
+{
+d:d100 Foreign Plants: Plants imported to this continent include... II
+i:Roses
+i:Ferns
+i:Pine Trees
+i:Maple Trees
+i:Birch Trees
+i:Black Ash Trees
+i:White Ash Trees
+i:Aspens
+i:Willows
+i:Butternut Trees
+i:Black Cherry Trees
+i:Chestnut Trees
+i:Cottonwood Trees
+i:Elms
+i:Firs
+i:Hemlock
+i:Hickory
+i:Oak Trees
+i:Spruce Trees
+i:Sycamores
+i:Walnut Trees
+i:Peach Trees
+i:Orange Trees
+i:Plum Trees
+i:Apple Trees
+i:Baobab Trees
+i:Olive Trees
+i:Cedars
+i:Banyan Trees
+i:Yews
+i:Mulberry Trees
+i:Lavender
+i:Beech Trees
+i:Poplars
+i:Pear Trees
+i:Redwoods
+i:Junipers
+i:Strawberries
+i:Blueberries
+i:Blackberries
+i:Raspberries
+i:Potatoes
+i:Carrots
+i:Poppies
+i:Azaleas
+i:Begonias
+i:Bloodroot
+i:Carnations
+i:Chrysanthemum
+i:Tumbleweed
+i:Geranium
+i:Hyacinth
+i:Iris
+i:Celery
+i:Lavender
+i:Morning Glory
+i:Bell Pepper
+i:Mint
+i:Cumin
+i:Oregano
+i:Garlic
+i:Orchid
+i:Sunflower
+i:Tulip
+i:Poison Ivy
+i:Poison Oak
+i:Onions
+i:Spinach
+i:Watermelon
+i:Mustard
+i:Apricot Trees
+i:Banana Trees
+i:Pineapple
+i:Mangos
+i:Palm Trees
+i:Dragonfruit Trees
+i:Avocados
+i:Fig Trees
+i:Grapes
+i:Guava
+i:Kiwifruit
+i:Lemon Trees
+i:Line Trees
+i:Papaya Trees
+i:Pomegranate Trees
+i:Tomatoes
+i:Rice
+i:Brussel Sprouts
+i:Cabbage
+i:Pumpkin
+i:Radishes
+i:Turnips
+i:Corn
+i:Wheat
+i:Bok Choy
+i:Arugula
+i:Ivy
+i:Chickweed
+i:Dandelion
+i:Dill
+}
+{
+d:d100 Foreign Plants: Plants imported to this continent include... III
+i:Roses
+i:Ferns
+i:Pine Trees
+i:Maple Trees
+i:Birch Trees
+i:Black Ash Trees
+i:White Ash Trees
+i:Aspens
+i:Willows
+i:Butternut Trees
+i:Black Cherry Trees
+i:Chestnut Trees
+i:Cottonwood Trees
+i:Elms
+i:Firs
+i:Hemlock
+i:Hickory
+i:Oak Trees
+i:Spruce Trees
+i:Sycamores
+i:Walnut Trees
+i:Peach Trees
+i:Orange Trees
+i:Plum Trees
+i:Apple Trees
+i:Baobab Trees
+i:Olive Trees
+i:Cedars
+i:Banyan Trees
+i:Yews
+i:Mulberry Trees
+i:Lavender
+i:Beech Trees
+i:Poplars
+i:Pear Trees
+i:Redwoods
+i:Junipers
+i:Strawberries
+i:Blueberries
+i:Blackberries
+i:Raspberries
+i:Potatoes
+i:Carrots
+i:Poppies
+i:Azaleas
+i:Begonias
+i:Bloodroot
+i:Carnations
+i:Chrysanthemum
+i:Tumbleweed
+i:Geranium
+i:Hyacinth
+i:Iris
+i:Celery
+i:Lavender
+i:Morning Glory
+i:Bell Pepper
+i:Mint
+i:Cumin
+i:Oregano
+i:Garlic
+i:Orchid
+i:Sunflower
+i:Tulip
+i:Poison Ivy
+i:Poison Oak
+i:Onions
+i:Spinach
+i:Watermelon
+i:Mustard
+i:Apricot Trees
+i:Banana Trees
+i:Pineapple
+i:Mangos
+i:Palm Trees
+i:Dragonfruit Trees
+i:Avocados
+i:Fig Trees
+i:Grapes
+i:Guava
+i:Kiwifruit
+i:Lemon Trees
+i:Line Trees
+i:Papaya Trees
+i:Pomegranate Trees
+i:Tomatoes
+i:Rice
+i:Brussel Sprouts
+i:Cabbage
+i:Pumpkin
+i:Radishes
+i:Turnips
+i:Corn
+i:Wheat
+i:Bok Choy
+i:Arugula
+i:Ivy
+i:Chickweed
+i:Dandelion
+i:Dill
+}
+{
+d:d100 Foreign Plants: Plants imported to this continent include... IV
+i:Roses
+i:Ferns
+i:Pine Trees
+i:Maple Trees
+i:Birch Trees
+i:Black Ash Trees
+i:White Ash Trees
+i:Aspens
+i:Willows
+i:Butternut Trees
+i:Black Cherry Trees
+i:Chestnut Trees
+i:Cottonwood Trees
+i:Elms
+i:Firs
+i:Hemlock
+i:Hickory
+i:Oak Trees
+i:Spruce Trees
+i:Sycamores
+i:Walnut Trees
+i:Peach Trees
+i:Orange Trees
+i:Plum Trees
+i:Apple Trees
+i:Baobab Trees
+i:Olive Trees
+i:Cedars
+i:Banyan Trees
+i:Yews
+i:Mulberry Trees
+i:Lavender
+i:Beech Trees
+i:Poplars
+i:Pear Trees
+i:Redwoods
+i:Junipers
+i:Strawberries
+i:Blueberries
+i:Blackberries
+i:Raspberries
+i:Potatoes
+i:Carrots
+i:Poppies
+i:Azaleas
+i:Begonias
+i:Bloodroot
+i:Carnations
+i:Chrysanthemum
+i:Tumbleweed
+i:Geranium
+i:Hyacinth
+i:Iris
+i:Celery
+i:Lavender
+i:Morning Glory
+i:Bell Pepper
+i:Mint
+i:Cumin
+i:Oregano
+i:Garlic
+i:Orchid
+i:Sunflower
+i:Tulip
+i:Poison Ivy
+i:Poison Oak
+i:Onions
+i:Spinach
+i:Watermelon
+i:Mustard
+i:Apricot Trees
+i:Banana Trees
+i:Pineapple
+i:Mangos
+i:Palm Trees
+i:Dragonfruit Trees
+i:Avocados
+i:Fig Trees
+i:Grapes
+i:Guava
+i:Kiwifruit
+i:Lemon Trees
+i:Line Trees
+i:Papaya Trees
+i:Pomegranate Trees
+i:Tomatoes
+i:Rice
+i:Brussel Sprouts
+i:Cabbage
+i:Pumpkin
+i:Radishes
+i:Turnips
+i:Corn
+i:Wheat
+i:Bok Choy
+i:Arugula
+i:Ivy
+i:Chickweed
+i:Dandelion
+i:Dill
+}

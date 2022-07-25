@@ -1,0 +1,82 @@
+{
+d:d8 The treeperson is...
+i:A dryad enchantress.
+i:A dryad protector.
+i:A dryad witch{.witches}.
+i:A dryad oracle.
+i:A treant loreseeker.
+i:A treant guardian.
+i:A treant lorekeeper.
+i:A treant elder.
+}
+{
+d:d12 Appearance: The treeperson could be described as...
+i:Tall.
+i:Very tall.
+i:Slender.
+i:Sturdy.
+i:Unwavering.
+i:Bent.
+i:Gnarled.
+i:Knotty.
+i:Weathered.
+i:Moss-covered.
+i:Withered.
+i:Stumpy.
+}
+{
+d:d20 Features: The treeperson's bark and leaves are reminiscent of...
+i:An apple or pear tree.
+i:An ash.
+i:A birch.
+i:A beech.
+i:A cedar or juniper.
+i:A cherry or plum tree.
+i:A chestnut or hazel tree.
+i:A cypress.
+i:An elm.
+i:An fir.
+i:A hawthorn or hemlock.
+i:A hickory or walnut tree.
+i:A linden or lime tree.
+i:A maple.
+i:An oak.
+i:A pine.
+i:A poplar.
+i:A spruce.
+i:A willow.
+i:A yew or holly tree.
+}
+{
+d:d10 Personality: The treeperson is...
+i:Sappy.
+i:Soft-spoken.
+i:Rooted.
+i:Dry.
+i:Patient.
+i:Green.
+i:Flowery.
+i:Steady.
+i:Prickly.
+i:Thorny.
+}
+{
+d:d8 The treeperson is looking to...
+i:Drive away intruders.
+i:Warn intruders of dangers ahead.
+i:Find a spot where a rare flower grows.
+i:Nurture an ancient grove back to health.
+i:Protect the oldest tree in the forest{.forest,.forest enchanted,.forest haunted}.
+i:Eliminate any threats to the forest{.forest,.forest enchanted,.forest haunted}.
+i:Plant trees where others been felled.
+i:Talk after centuries of silence.
+}
+{
+d:d6 The treeperson carries...
+i:A magic acorn, nut, or other seed.
+i:A clipping of ancient wood.
+i:A rare moss with healing properties.
+i:A deathly poison mushroom.
+i:A sapling from an ancient tree.
+i:A cudgel made from the wood of a legendary tree.
+}

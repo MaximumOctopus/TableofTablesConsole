@@ -1,0 +1,209 @@
+{
+d:d12 The beastshifter transforms into...
+i:A grizzly bear.
+i:A black bear.
+i:A wild boar.
+i:A oversized black rat{.rats}.
+i:A large brown rat{.rats}.
+i:A lanky grey rat{.rats}.
+i:A fierce tiger.
+i:A grey wolf.
+i:A mottled brown and grey wolf.
+i:A reddish brown wolf.
+i:A dark brown or black wolf.
+i:A white wolf.
+}
+{
+d:d6 The beastshifter transforms involuntarily...
+i:Whenever it is in moonlight.
+i:On nights when a full moon occurs.
+i:On nights when the moon is half full or more.
+i:Whenever the leader of its pack or clan transforms.
+i:Whenever it becomes enraged.
+i:Never; it is in complete control of its power.
+}
+{
+d:d8 While transformed, the beastshifter behaves...
+i:Mostly as a normal beast of its type.
+i:As an unusually intelligent version of the beast of its type.
+i:More like a human than a beast.
+i:As a skilled hunter.
+i:As a cautious predator.
+i:As a savage predator.
+i:As a frightened beast.
+i:Violently, spreading blood and chaos.
+}
+{
+d:d8 The beastshifter lives...
+i:Alone among humans, hiding its powers.
+i:Alone among humans who know and accept its powers.
+i:Alone as an outcast from human society.
+i:Among other beastshifters integrated into human society.
+i:Among other beastshifters as outcasts from human society.
+i:Among other beastshifters, hiding their powers from society.
+i:Among other beastshifters, apart from human society.
+i:Alone as an outcast from its pack or clan.
+}
+{
+d:d12 The beastshifter makes its home...
+i:In a cave.
+i:In a swamp{.swamp}.
+i:On a vast plain{.plains}.
+i:In a forest{.forest,.forest enchanted,.forest haunted}.
+i:In a cottage in the woods.
+i:Hidden in the mountains{.mountains}.
+i:In a quiet village.
+i:Just outside a quiet village.
+i:Down a dark alley in the city.
+i:In the city sewers.
+i:On a quiet residential street in the city.
+i:In or near a castle or palace.
+}
+{
+d:d8 The beastshifter has a tendency to...
+i:Lose its temper easily.
+i:Speak in low growls (or squeaks), making it difficult for others to understand when excited.
+i:Recoil from touching anything made of silver.
+i:Get nervous in moonlight.
+i:Lick its lips hungrily all the time.
+i:Fidget or pace when in indoor spaces.
+i:Daydream about hunting in its beast form.
+i:Sniff people upon meeting them.
+}
+{
+d:d8 In humanoid form, the beastshifter fights with...
+i:Hit-and-run tactics.
+i:Making a mad charge.
+i:Kicking and stomping.
+i:Sharp claws.
+i:Sharp teeth.
+i:Lots of taunts and jeers.
+i:Lots of screaming and shouting.
+i:Lots of head-butting.
+}
+{
+d:d12 In humanoid form, the beastshifter presents itself as...
+i:A farmer or herder.
+i:A miner or fishermen{.mines,.fishermen}.
+i:A beggar or urchin.
+i:A noble or knight{.knights,.nobles,.noble houses}.
+i:A barkeep or barmaid.
+i:A barbarian or gladiator{.barbarians,.gladiators}.
+i:An herbalist or healer{.healers}.
+i:A soldier or sellsword{.sellswords,.soldiers}.
+i:A hunter or assassin{.assassins' guilds}.
+i:A thief or bandit{.thieves}.
+i:A smuggler or con artist.
+i:A sailor or pirate{.sailors,.pirates}.
+}
+{
+d:d12 In humanoid form, the beastshifter’s face has...
+i:Unsightly nose and ear hair.
+i:A garish earing.
+i:An empty eye socket.
+i:A grisly scar.
+i:A grim look.
+i:Sad puppy-dog eyes.
+i:A nervous grin.
+i:An toothy grin.
+i:A frame of long, beautiful long hair.
+i:Ferocious sideburns.
+i:An unruly beard.
+i:An intimidating mustache.
+}
+{
+d:d20 The beastshifter’s favorite prey are...
+i:Foreigners and travelers.
+i:Beggars and drunks.
+i:Young men.
+i:Young women.
+i:Old women.
+i:Old noblewomen{.nobles,.noble houses}.
+i:Priests and monks.
+i:Priestesses.
+i:Harlots and madames{.harlots}.
+i:Farmwives and peasant girls.
+i:Young children.
+i:Rabbits and hares.
+i:Squirrels and chipmunks.
+i:Pheasants and other gamefowl.
+i:Ducks and other waterfowl.
+i:Mice and rats{.rats}.
+i:Pigeons and doves.
+i:Sheep and goats.
+i:Chickens and turkeys.
+i:Dogs and cats{.cats}.
+}
+[
+d:LYCANTHROPE PACKS
+]
+{
+d:d8 The pack is...
+i:A band of exiles and outcasts.
+i:A roving band of outlaws and thieves{.outlaw bands}.
+i:A nomadic warrior clan.
+i:A band of sought-after mercenaries.
+i:An integral part of the local thieves’ or assassins’ guild{.assassins' guilds,.thieves}.
+i:A mercenary company in the service of a local lord or city watch.
+i:A wild bunch of hunters and killers.
+i:An ancient clan of warrior-hunters.
+}
+{
+d:d12 The pack’s leader is...
+i:A dangerous megalomaniac.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:A talented thief{.thieves}.
+i:An outcast from a prominent family.
+i:A ruthless killer.
+i:A femme fatale.
+i:A former arena champion.
+i:A disgraced knight{.knights}.
+i:A brutish thug.
+i:A de-frocked priest.
+i:A well-known fugitive.
+}
+{
+d:d6 The pack’s attitude toward their leader is...
+i:Friendly and loyal.
+i:Respectful and business-like.
+i:Cautious and uncertain.
+i:Terrified and tight-lipped.
+i:Disappointed and disrespectful.
+i:Agitated and restless.
+}
+{
+d:d6 The pack’s goals include...
+i:Becoming the region’s dominant predators.
+i:Revenge against a rival band of lycanthropes or outlaws{.lycanthropes,.outlaw bands}.
+i:Revenge against the region’s elite.
+i:Rebellion against the region’s elite.
+i:A quiet and peaceful existence.
+i:Violence to slake their bloodlust.
+}
+[
+d:UNCOMMON LYCANTHROPES
+]
+{
+d:d20 The beastshifter transforms into...
+i:A badger.
+i:A bat{.bats}.
+i:A cat{.cats}.
+i:A crocodile.
+i:A dog.
+i:A dolphin.
+i:A fox.
+i:A hyena.
+i:A jackal.
+i:A jaguar.
+i:A leopard.
+i:A lion.
+i:An owl.
+i:A panther.
+i:A raven.
+i:A seal.
+i:A serpent.
+i:A shark.
+i:A spider{.spiders}.
+i:A swine.
+}

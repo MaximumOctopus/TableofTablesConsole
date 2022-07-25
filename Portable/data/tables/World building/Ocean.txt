@@ -1,0 +1,142 @@
+{
+d:d4 Size: This ocean is...
+i:Global: the entire world is covered by this ocean, with only scattered land masses breaking its surface. (Roll 1d6 climates and 1d8 points of interest, and add 5 to the result for exploration)
+i:Large: bordering several continents, the ocean stretches across as much as half the world. (Roll 1d4 climates and 1d6 points of interest, and add 2 to the result for exploration).
+i:Moderate: this ocean separates two or more continents. (Roll 1d4-2 (min1) climates and 1d4 points of interest)
+i:Small: maybe no larger than a continent, this large sea borders only one continent, which may even mostly surround it. (roll 1 climate and 1 point of Interest, and subtract 5 from the result for exploration).
+}
+{
+d:d6 Climate: This ocean’s waters are...
+i:Arctic.
+i:Subarctic.
+i:Moderate.
+i:Subtropical.
+i:Tropical.
+i:Magical/alien.
+}
+{
+d:d12 Exploration: How thoroughly has this ocean been charted?
+i:Entirely. The entire ocean — above and below — is accurately mapped. Undersea and oversea cultures have interacted enough, and information has been shared, so that this ocean is well-known.
+i:Very. Much of the ocean's surface and depths have been seen, if maybe only by a few.
+i:Very. Much of the ocean's surface and depths have been seen, if maybe only by a few.
+i:Some. Much of the surface has been sailed, though there are uncharted regions where undiscovered islands still hide, but almost none of the ocean's floor has ever been seen by surface-dwelling civilizations.
+i:Some. Much of the surface has been sailed, though there are uncharted regions where undiscovered islands still hide, but almost none of the ocean's floor has ever been seen by surface-dwelling civilizations.
+i:Some. Much of the surface has been sailed, though there are uncharted regions where undiscovered islands still hide, but almost none of the ocean's floor has ever been seen by surface-dwelling civilizations.
+i:Some. Much of the surface has been sailed, though there are uncharted regions where undiscovered islands still hide, but almost none of the ocean's floor has ever been seen by surface-dwelling civilizations.
+i:Some. Much of the surface has been sailed, though there are uncharted regions where undiscovered islands still hide, but almost none of the ocean's floor has ever been seen by surface-dwelling civilizations.
+i:Some. Much of the surface has been sailed, though there are uncharted regions where undiscovered islands still hide, but almost none of the ocean's floor has ever been seen by surface-dwelling civilizations.
+i:Little. Whether because the geography is constantly shifting, or inhospitable climate is too extreme, or dangerous creatures guard these waters, explorers and cartographers only have a vague sense of this ocean's features.
+i:Little. Whether because the geography is constantly shifting, or inhospitable climate is too extreme, or dangerous creatures guard these waters, explorers and cartographers only have a vague sense of this ocean's features.
+i:Not at all. This ocean is unknown. How it has remained a secret from the known world so long is a terrible mystery...
+}
+{
+d:d6 Primary Resource: If money is what you're looking for, you can find it here in...
+i:Fishing/Whaling.
+i:Pearls.
+i:A well-guarded mercantile trade route.
+i:Elemental energy harvesting.
+i:Tropical plantations (d4): 1. Coffee; 2. Sugar; 3. Spices; 4. Lumber.
+i:Illicit trade (d4): 1. Slavery; 2. Opium; 3. Piracy; 4. Smuggling.
+}
+{
+d:d6 Law & Order: Who is in charge, and how do they maintain control?
+i:An imperial armada, enforcing their Emperor’s divine edicts.
+i:All pirates what signed the Pact are beholden to uphold the articles of the Code, and to hold others to account in the case of any breach.
+i:The mageocracy has awakened their capital ships, which in gratitude are loyal to the ruling wizards.
+i:A small fleet of frigates carrying paladins of the crown, representing the prevailing kingdom and serving its charter.
+i:The merchant guild’s daring airborne constables, carried aloft by (d6): 1. Griffons; 2. Airships; 3. Wyverns; 4. Gnomish ornithopters; 5. Pegasi; 6. Balloon Packs (PotA).
+i:No one.
+}
+{
+d:d20 Point of Interest: This ocean is known for its...
+i:Major Port City.
+i:Minor Harbor Town.
+i:Small Fishing Village.
+i:Fishing Grounds.
+i:Kraken’s Grave.
+i:Blue Hole.
+i:Coral Reef.
+i:Sunken City.
+i:Coastal Cave System.
+i:Kelp Forest.
+i:Whirlpool.
+i:Shipwreck.
+i:Random Ship.
+i:Mysterious Island.
+i:Eldritch Mists.
+i:Magical Storms.
+i:Sandbars.
+i:Island Fortress.
+i:Sheltered Cove.
+i:Sea Monster: 1. Kraken, 2. Aboleth, 3. Elder Tempest, 4. Leviathan, 5. Ship Mimic, 6. Coven of Sea Hags.
+}
+{
+d:d6 Who built the sunken city?
+i:Merfolk.
+i:Sea elves.
+i:Storm Giants.
+i:Seafaring Humans.
+i:Gnomes.
+i:Locathah.
+}
+{
+d:d6 What sunk the city, if it was built on the surface?
+i:Divine Judgement.
+i:Natural Disaster.
+i:War.
+i:Time and the Elements.
+i:Monster Attack.
+i:The Creators’ Hubris.
+}
+{
+d:d6 What lives in the sunken city now?
+i:An aboleth and its thrall.
+i:Kuo-Toa.
+i:A koalinth hoard.
+i:Storm giants.
+i:Merrow raiders.
+i:Sahuagin.
+}
+{
+d:d6 Who lives in the submerged caves?
+i:A bronze dragon.
+i:Merrow reavers.
+i:A dragon turtle.
+i:A storm giant quintessence.
+i:A storm sorcerer.
+i:A sea hag.
+}
+{
+d:d6 What’s living in the kelp forest?
+i:Hunter shark.
+i:Pod of dolphins.
+i:Whale carcass.
+i:Giant octopus.
+i:Giant crab.
+i:Dragon turtle.
+i:Who built the island fortress, and why?
+i:A fallen kingdom, to defend its shores.
+i:A mercantile company, to watch over their trade route.
+i:The dominant kingdom, to monitor its encroaching neighbours.
+i:The maritime empire, to supervise an island colony.
+i:The islanders, to protect themselves from raiders.
+i:A naval power, to serve as a lighthouse to warn their ships of impassable waters.
+}
+{
+d:d6 Who/what lives in the fortress now?
+i:A flock of harpies.
+i:A monastery of elemental martial artists.
+i:A crew of orcish reavers.
+i:A gnomish artificer, collecting elemental energies for their inventions.
+i:A marooned sailor.
+i:A sunny innkeeper, offering weary voyagers rooms for rent.
+}
+{
+d:d6 What do you find at the sheltered cove?
+i:An undiscovered paradise.
+i:Hulking crabs.
+i:Merfolk cavorting in the shoals.
+i:A group of _________ tribal warriors from a nearby village (d6): 1. Goblin, 2. Yuan-ti, 3. Lizardfolk, 4. Wild elf, 5. Hill dwarf, 6. Human.
+i:A hermit’s hut on stilts.
+i:A pirate’s hideout, which is (d6): 1. Long-abandoned, 2. Temporarily empty, 3. Held by a minimal crew, 4. Awash with carousing pirates, 5. Overrun with pirates hunting buried treasure, 6. Tense with pirates in the midst of a mutiny.
+}

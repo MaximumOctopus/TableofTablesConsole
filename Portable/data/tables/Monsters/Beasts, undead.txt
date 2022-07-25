@@ -1,0 +1,46 @@
+{
+d:d12 The undead beast was once...
+i:An ape.
+i:A basilisk.
+i:A bat{.bats}.
+i:A bear.
+i:A boar.
+i:A hippogriff.
+i:A horse{.horses}.
+i:A hound.
+i:A mare.
+i:A panther.
+i:A rat{.rats}.
+i:A raven.
+}
+{
+d:d8 The beast has...
+i:Gaping holes where its eyes should be.
+i:Lidless, bloodshot eyes.
+i:Loose, grey skin hanging off its bony frame.
+i:Putrid, decaying flesh falling off its bones.
+i:A musty, moldy odor.
+i:An odor of rotting flesh.
+i:An aura of gloom.
+i:An aura of disease{.diseases}.
+}
+{
+d:d8 ...and...
+i:Grasping claws or teeth.
+i:A drooling maw.
+i:A long, protruding tongue.
+i:Several broken teeth.
+i:A weeping sore in its side.
+i:Several oozing boils on its back.
+i:Walks with an awkward limp.
+i:Shambles and shuffles when it walks.
+}
+{
+d:d6 The beast is looking for...
+i:Something to kill.
+i:Something to eat.
+i:An individual marked by its master.
+i:An opportunity to impress its master.
+i:The location of an evil shrine.
+i:The location of an evil artifact.
+}

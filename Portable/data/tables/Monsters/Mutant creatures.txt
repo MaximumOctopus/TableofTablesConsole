@@ -1,0 +1,69 @@
+{
+d:d10 The mutant creature is a...
+i:Tiny.
+i:Small.
+i:Medium.
+i:Large.
+i:Huge.
+i:Bloated.
+i:Skeletal.
+i:Sickly.
+i:Two-headed.
+i:Regenerating.
+}
+{
+d:d14 ...
+i:Ape.
+i:Bat.
+i:Boar.
+i:Bull.
+i:Crocodile.
+i:Goat.
+i:Lion.
+i:Serpent.
+i:Spider.
+i:Wolf.
+i:Cat.
+i:Dog.
+i:Bird.
+i:Bear.
+}
+{
+d:d10 ...crossed with a/an...
+i:Displacer beast.
+i:Dragon.
+i:Ethereal marauder.
+i:Fire beetle.
+i:Griffon.
+i:Nightmare.
+i:Ooze.
+i:Owlbear.
+i:Rust monster.
+i:Stirge.
+}
+{
+d:d10 The creature's special abilities include...
+i:Blindsight.
+i:Blood-sucking life drain.
+i:Burrowing.
+i:A flyby attack.
+i:A poisonous sting.
+i:A psionic blast.
+i:Swallowing prey whole.
+i:A tentacle grab.
+i:Teleportation.
+i:Tremorsense.
+}
+{
+d:d10 ...and it exudes an aura of...
+i:Befuddlement.
+i:Crackling lightning.
+i:Darkness.
+i:Decay.
+i:Flames.
+i:Freezing cold.
+i:Madness.
+i:Mists.
+i:Sleepiness.
+i:Terror.
+}

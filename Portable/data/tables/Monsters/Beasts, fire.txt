@@ -1,0 +1,46 @@
+{
+d:d12 The fire beast is...
+i:A basilisk.
+i:A bat{.bats}.
+i:A beetle.
+i:A drake.
+i:A fox.
+i:A griffon.
+i:A hawk.
+i:A hound.
+i:A lizard.
+i:A scorpion.
+i:A serpent.
+i:A worm.
+}
+{
+d:d8 The beast has...
+i:Glowing red eyes.
+i:Bright, golden eyes.
+i:Reddish skin around the face.
+i:A blackened beak or set of teeth.
+i:An burnt odor.
+i:An odor of brimstone.
+i:An aura of flickering flames.
+i:An aura of choking smoke.
+}
+{
+d:d8 ...and...
+i:Exhales smoke when it breathes.
+i:Can exhale a spout of flame.
+i:Gives off an uncomfortable amount of heat.
+i:Leaves a trail of flames in its wake.
+i:Can set things ablaze with a touch.
+i:Can disappear in a blinding flash of fire.
+i:Explodes in a fiery cloud if it is slain.
+i:Sheds dim, orange light.
+}
+{
+d:d6 The beast is looking for...
+i:Something to burn and to consume.
+i:A lair with walls that can withstand flames.
+i:An individual marked by its master.
+i:An opportunity to impress its master.
+i:The scorched skull of a long-dead fire titan.
+i:An item that grants mastery over flames.
+}

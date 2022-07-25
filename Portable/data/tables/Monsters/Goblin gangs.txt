@@ -1,0 +1,158 @@
+{
+d:d10 The goblins’ primary “business” involves...
+i:Raiding villages and farms.
+i:Burglarizing storehouses and shops.
+i:Harassing anyone who passes through their territory.
+i:Robbing caravans carrying gems, precious metals, and exotic goods{gemstones}.
+i:Holding up traders’ ships or wagons.
+i:Smuggling drugs (d4): 1. smokeleaf; 2. a hallucinogenic mushroom; (3) sleepysalt (a downer); 4. sharpsugar (an upper).
+i:Smuggling living things (d4): 1. exotic beasts; 2. foreign harlots{.harlots}; 3. fugitives; 4. slaves.
+i:Serving as muscle for evildoers.
+i:Mining and crafting.
+i:Pranks and hijinks.
+}
+{
+d:d10 The goblin gang’s symbol is...
+i:A skull.
+i:An arrow.
+i:A dagger.
+i:The moon.
+i:A star.
+i:A snake.
+i:A spider{.spiders}.
+i:A rat{.rats}.
+i:A wolf.
+i:A bat{.bats}.
+}
+{
+d:d20 The goblin gang’s colors are...
+i:Black.
+i:Dark brown.
+i:Crimson.
+i:Grey.
+i:Gold.
+i:Khaki.
+i:Dark green.
+i:White.
+i:Dark green and gold.
+i:Black and gold.
+i:Dark brown and grey.
+i:Grey and white.
+i:Black and grey.
+i:Black and white.
+i:Black and crimson.
+i:Dark brown and crimson.
+i:Crimson and khaki.
+i:Dark brown and khaki.
+i:Khaki and dark green.
+i:Dark green and crimson.
+}
+{
+d:d6 The goblins’ lair is located...
+i:In a dark and haunted forest{.forest,.forest enchanted,.forest haunted}.
+i:In an enchanted forest{.forest,.forest enchanted,.forest haunted}.
+i:Along a mountain pass{.mountains}.
+i:High in the mountains{.mountains}.
+i:Beneath a bustling city.
+i:Near a quiet farm village.
+}
+{
+d:d6 The goblins’ lair is...
+i:A series of natural caverns{.caverns}.
+i:An abandoned mine{.mines}.
+i:A mine in which the goblins are actively digging{.mines}.
+i:An underground fortress.
+i:A semi-organized military encampment.
+i:A crude encampment.
+}
+{
+d:d20 The goblins are particularly fond of picking on...
+i:Fishermen and sailors{.fishermen,.sailors}.
+i:Beggars and drunks.
+i:Merchants and moneychangers{.merchant caravans,.merchant guilds}.
+i:Young noblemen{.nobles,.noble houses}.
+i:Young noblewomen{.nobles,.noble houses}.
+i:Old noblewomen{.nobles,.noble houses}.
+i:Gamblers and thieves{.thieves}.
+i:Priests and monks.
+i:Priestesses.
+i:Constables and sheriffs.
+i:Castle or town guards.
+i:Cooks and scullery maids.
+i:Barkeeps and barmaids.
+i:Harlots and madames{.harlots}.
+i:Circus performers.
+i:Foreign travelers and peasant girls.
+i:Young children.
+i:Miners and prospectors{.mines}.
+i:Elves and rangers{.elves dark,.elves high,.elves wood}.
+i:Dwarves and gnomes{.dwarves,.gnomes}.
+}
+{
+d:d10 The goblins’ are currently planning a raid on...
+i:The residence of the leader or a senior gangmember.
+i:An artisan's shop or guildhall{.artisans,.shops}.
+i:A merchant's office{.merchant caravans,.merchant guilds}.
+i:A tavern or inn{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:A warehouse or shipyard.
+i:A temple complex or shrine{.temples}.
+i:The town hall.
+i:A shantytown
+i:The residence of a wealthy individual or prominent citizen.
+}
+{
+d:d10 The goblins’ boss is...
+i:An egotistical goblin warrior{.goblins,.goblin gangs}.
+i:A charismatic goblin rogue{.goblins,.goblin gangs,.rogue missions}.
+i:A mysterious goblin shaman{.goblins,.goblin gangs}.
+i:A talented goblin thief{.goblins,.goblin gangs,.thieves}.
+i:A well-known goblin war hero{.goblins,.goblin gangs}.
+i:A ruthless goblin hexer{.goblins,.goblin gangs}.
+i:A cunning gobliness{.goblins,.goblin gangs}.
+i:A brutal hobgoblin warpriest.
+i:A brilliant hobgoblin warlord.
+i:A calculating bugbear assassin{.assassins' guilds}.
+}
+{
+d:d6 The goblins’ goals include (boss and rank-and-file members could have different goals)...
+i:Disruption of the region’s politics.
+i:Disruption of the region’s trade.
+i:Revenge against a specific organization.
+i:Revenge against a rival goblin gang{.goblins,.goblin gangs}.
+i:Spreading chaos and destruction.
+i:Possession of a powerful artifact.
+}
+{
+d:d12 The goblins typically fight with...
+i:Swarm tactics.
+i:Hit-and-run tactics.
+i:Ambush tactics.
+i:Choreographed maneuvers.
+i:Unpredictable maneuvers.
+i:Lots of smiles and jokes.
+i:Lots of fancy footwork.
+i:Lots of screaming and shouting.
+i:Kicking and stomping.
+i:Lots of head-butting.
+i:Lots of biting and scratching.
+i:Laying traps.
+}
+{
+d:d6 As enforcers or extra muscle, the goblins sometimes hire...
+i:Hobgoblin mercenaries.
+i:Bugbear thugs.
+i:Ogre savages.
+i:Orc berserkers{.orcs,.orc warlords,.orkish clans}.
+i:Trolls.
+i:Other goblin gangs{.goblins,.goblin gangs}.
+}
+{
+d:d6 As guardians or pets, the goblins sometimes keep...
+i:Wolves.
+i:Wargs.
+i:Giant spiders{.spiders}.
+i:Boars.
+i:Giant bats{.bats}.
+i:Dire rats{.rats}.
+}

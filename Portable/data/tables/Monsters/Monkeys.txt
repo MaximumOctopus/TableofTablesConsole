@@ -1,0 +1,75 @@
+{
+d:d12 The monkey's name is...
+i:Coco.
+i:Koko.
+i:Cocoa.
+i:Marcel.
+i:Marzo.
+i:Mongo.
+i:Mondo.
+i:Mimi.
+i:Bibi
+i:Bobo.
+i:Hobo.
+i:Jerry.
+}
+{
+d:d12 Most of the monkey's fur is...
+i:Black.
+i:Dark brown.
+i:Reddish brown.
+i:Golden brown.
+i:Pale brown.
+i:Greyish brown.
+i:Brownish red.
+i:Brownish grey.
+i:Brownish orange.
+i:Orangish gold.
+i:Pale grey.
+i:Dark grey.
+}
+{
+d:d12 The monkey's distinctive markings include...
+i:Some white around the nose and mouth.
+i:Some gold around the nose and mouth.
+i:A white belly.
+i:A golden belly.
+i:White tufts behind the ears.
+i:Golden tufts behind the ears.
+i:A black nose with a white face.
+i:A black nose with a golden face.
+i:A white tip on the tail.
+i:A golden tip on the tail.
+i:One white paw.
+i:One golden paw.
+}
+{
+d:d12 The monkey is especially good at...
+i:Climbing trees.
+i:Climbing ropes.
+i:Climbing walls.
+i:Making mischief.
+i:Throwing fruit.
+i:Throwing nuts.
+i:Throwing poop.
+i:Shrieking.
+i:Pickpocketing.
+i:Biting.
+i:Fighting.
+i:Mating.
+}
+{
+d:d12 The monkey is looking for...
+i:Some bananas.
+i:Some nuts.
+i:Some dates.
+i:A date.
+i:Some love.
+i:A barrel in which to hide.
+i:A good laugh.
+i:A new friend.
+i:Someone to torment.
+i:Something shiny to steal.
+i:Something sparkly to steal.
+i:A new hat.
+}

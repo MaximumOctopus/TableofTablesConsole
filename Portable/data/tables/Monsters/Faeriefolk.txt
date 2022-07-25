@@ -1,0 +1,106 @@
+{
+d:d12 The faerie is...
+i:A capricious nymph.
+i:An apprehensive nymph.
+i:A playful nymph.
+i:A nervous pixie.
+i:A cheerful pixie.
+i:A carefree pixie.
+i:A wrathful sprite.
+i:A curious sprite.
+i:A surly sprite.
+i:A drunken satyr.
+i:A satyr bully.
+i:A sharp-witted satyr.
+}
+{
+d:d20 Hair: The faerie has...
+i:Black hair.
+i:Copper hair.
+i:Golden blonde hair.
+i:Platinum blonde hair.
+i:Silver-white hair.
+i:Dark brown hair.
+i:Reddish-brown.
+i:Fiery red hair.
+i:Light brown hair.
+i:Auburn hair.
+i:Black hair with a brown streak.
+i:Dark brown hair with an auburn streak.
+i:Brown hair with a blonde streak.
+i:Bright white hair.
+i:Silver-blonde hair.
+i:Whitish blonde hair.
+i:Golden hair with a pink streak.
+i:Golden hair with a green streak.
+i:Black hair with a blue streak.
+i:Black hair with a white streak.
+}
+{
+d:d20 Eyes: The faerie has...
+i:Pale golden eyes.
+i:Bright golden eyes.
+i:Dark green eyes.
+i:Brilliant green eyes.
+i:Bright blue eyes.
+i:Dark blue eyes.
+i:Blue eyes with golden flecks.
+i:Green eyes with golden flecks.
+i:Pale green eyes.
+i:Golden brown eyes.
+i:Dark brown eyes.
+i:Hazel eyes.
+i:Whitish blue eyes.
+i:Pale blue eyes.
+i:Lilac eyes.
+i:Pale violet eyes.
+i:Bright violet eyes.
+i:Deep red eyes.
+i:Pale pink eyes.
+i:Silver eyes.
+}
+{
+d:d12 Mannerisms: The faerie has...
+i:A likable grin.
+i:A delicate laugh.
+i:A playful laugh.
+i:A laugh that goes on too long.
+i:An amused smirk.
+i:A humorless visage.
+i:A habit of sighing.
+i:A touch of sorrow in his or her voice.
+i:A habit of pacing.
+i:A habit of scratching the back of the neck.
+i:A habit of winking.
+i:A seductive sway of the hips.
+}
+{
+d:d12 The faerie is looking for...
+i:An unnatural creature that has taken up residence in the forest{.forest,.forest enchanted,.forest haunted}.
+i:Ways to cause mischief for travelers.
+i:Worthy visitors of a secret grove.
+i:Amusement in frightening travelers.
+i:Someone to listen to a new song.
+i:A heart to break.
+i:Love and war.
+i:Love and mischief.
+i:Mischief and mayhem.
+i:The answer to a riddle.
+i:A dance partner.
+i:A drinking partner.
+}
+{
+d:d12 The faerie carries...
+i:An delicate wreath of flowers.
+i:A gem{gemstones} glowing with moonlight or starlight.
+i:A finely-crafted bow or knife.
+i:A vial containing a potent potion{.potions}.
+i:Several magical mushrooms.
+i:A variety of herbs commonly used in potionmaking{.herbalism,.potions}.
+i:A message from a faerie king or queen.
+i:A token from a past love.
+i:A string instrument (d4): 1. fiddle; 2. harp; 3. lute; 4. lyre.
+i:A wind instrument (d4): 1. flute; 2. horn; 3. ocarina; 4. panpipes.
+i:A piece of sweet cake.
+i:A jug of wine{.wines}.
+}

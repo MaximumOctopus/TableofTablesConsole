@@ -1,0 +1,46 @@
+{
+d:d12 The demonic beast appears in the form of...
+i:An ape.
+i:A boar.
+i:A drake.
+i:A goat.
+i:A horse{.horses}.
+i:A hyena.
+i:A manticore.
+i:A scorpion.
+i:A serpent.
+i:A spider{.spiders}.
+i:A vulture.
+i:A wolf.
+}
+{
+d:d8 The beast has...
+i:Glowing red eyes.
+i:Dark, sinister eyes.
+i:Unsettling stripes or markings.
+i:Unusually long, sharp claws or talons.
+i:A pincer where you expect a claw or foot.
+i:Huge horns or tusks.
+i:An unwholesome odor.
+i:An odor of decay.
+}
+{
+d:d8 ...and...
+i:Powerful hind legs for leaping and pouncing.
+i:A slavering maw.
+i:Rows of wicked looking teeth.
+i:Vicious fangs.
+i:Bony spikes running down its back.
+i:Fins or ridges running down its back.
+i:Black or grey, leathery wings.
+i:A ferocious howl or roar.
+}
+{
+d:d6 The beast is looking for...
+i:Blood to spill.
+i:Bones to crunch.
+i:A soul to burn.
+i:A soul to devour.
+i:A fight.
+i:The loathsome mage who summoned it.
+}

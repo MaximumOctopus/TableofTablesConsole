@@ -1,0 +1,117 @@
+{
+d:d6 Scale color: The dragon’s scales are mostly...
+i:Black.
+i:Gold
+i:Dark green.
+i:Pale green.
+i:Red.
+i:White.
+}
+{
+d:d6 Hide accent: The dragon has...
+i:A belly and chest...
+i:Diamond shapes on its back...
+i:Flecks all over its hide…
+i:A mask...
+i:Spots on its belly and chest…
+i:Stripes on its back…
+}
+{
+d:d6 ...of…
+i:Brown.
+i:Crimson.
+i:Green.
+i:Grey.
+i:Silver
+i:Yellow
+}
+{
+d:d6 Eyes: The dragon’s eyes are...
+i:Mismatched colors.
+i:Misty white.
+i:Smoky grey.
+i:Blood red.
+i:Blazing gold.
+i:Deep green.
+}
+{
+d:d6 Distinguishing feature: The dragon has a/an…
+i:Pronounced underbite.
+i:Pair of ridges above the eyes.
+i:Frill around its neck.
+i:Crest atop its head.
+i:Especially long, forked tongue.
+i:Unusually long fangs.
+}
+{
+d:d6 Scar: The dragon has…
+i:A scar through one of its eyes.
+i:Several missing toes.
+i:A tear in one of its wings.
+i:A long scar on its neck.
+i:A deep scar on its side.
+i:No noticeable scars.
+}
+{
+d:d6 Breath weapon: The dragon’s breath consists of...
+i:Poisonous smoke and dim orange flames.
+i:Black smoke and dim red flames.
+i:A scorching line of red flame.
+i:Punctuated blasts of yellow flame.
+i:Billowing puffs of orange flame.
+i:A less common form of energy (d6): 1. cone of cold air; 2. line of acid; 3. line of lightning; 4. cloud of toxic green gas; 5. Icy blast; 6. forks of lightning.
+}
+{
+d:d6 Favorite activity: The dragon is most content when it is...
+i:Battling dangerous prey.
+i:Eating.
+i:Hunting intelligent prey.
+i:Scavenging for shiny objects.
+i:Sleeping.
+i:Soaring.
+}
+{
+d:d6 Quirk/flaw: Even for a dragon, the dragon frequently...
+i:Gets distracted by shiny objects.
+i:Gets distracted by food.
+i:Exhales flame even when it does not intend to do so.
+i:Lets loose a terrifying cry.
+i:Flies a little too close to the ground when on the attack.
+i:Eats until it is uncomfortably full.
+}
+{
+d:d6 Lair: The dragon has an affinity for building its lair in...
+i:Remote mountains.
+i:Deep caverns.
+i:Savage forests.
+i:Ancient stone ruins.
+i:Coastal caves.
+i:Vast deserts.
+}
+{
+d:d6 Hoard: The dragon has a collection of...
+i:Bones of great beasts it ate.
+i:Bones of humanoids it ate.
+i:Bones of dragons it vanquished.
+i:Shiny objects and broken glass.
+i:Gold and silver coins of every nation.
+i:Sparkly gems from all over the world.
+}
+{
+d:d6 Immediate goal: The dragon is looking for a/an...
+i:Easy meal.
+i:Meal that will fight back.
+i:Meal that will squeal.
+i:Suitable site in which to lair.
+i:Suitable mate.
+i:Shiny bauble.
+}
+{
+d:d6 Past misfortune (for ancient dragons): The dragon survived a/an…
+i:Attempt at being eaten by its own mother.
+i:Period of forced servitude in an orkish army.
+i:Period of forced servitude at the hands of a shadowwitch.
+i:Demonic invasion.
+i:Long imprisonment in a dark, cold place.
+i:Near-decapitation by an elvish hero.
+}

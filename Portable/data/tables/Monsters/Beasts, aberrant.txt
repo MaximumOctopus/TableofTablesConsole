@@ -1,0 +1,46 @@
+{
+d:d12 The aberrant beast looks a good bit like...
+i:An ape.
+i:A bat{.bats}.
+i:A centipede.
+i:A crow.
+i:A fish.
+i:A jellyfish.
+i:A lizard.
+i:A lobster.
+i:An octopus.
+i:A panther.
+i:A spider{.spiders}.
+i:A vulture.
+}
+{
+d:d8 The beast has...
+i:Tentacles where you expect eyes.
+i:A blind, jawed worm for a tongue.
+i:A large single, lidless eye.
+i:Several extra eyes.
+i:Slime covering its body.
+i:Small tentacles covering its body.
+i:Dexterous tentacles it uses like hands.
+i:An unpleasant, briny odor.
+}
+{
+d:d8 ...and...
+i:Moves by floating eerily in air or water.
+i:Moves by slithering or scuttling.
+i:Can teleport in a swirl of shadows.
+i:Can fade away and reappear elsewhere.
+i:Shambles awkwardly across the ground.
+i:Glides smoothly over the ground or water.
+i:Mutters darkly to itself.
+i:Whispers strange desires to mortals.
+}
+{
+d:d6 The beast is looking for...
+i:A brain to devour.
+i:A host to infect with its parasitic larva.
+i:A mortal to enslave.
+i:A mortal to present to its master.
+i:An opportunity to overthrow its master.
+i:Someone to lovingly caress.
+}

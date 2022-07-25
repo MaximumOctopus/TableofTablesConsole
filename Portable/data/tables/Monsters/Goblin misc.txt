@@ -1,0 +1,59 @@
+{
+d:d20 What has it got in its pocketses?
+i:1 A piece of string and a dead rat
+i:2 Five wedding rings
+i:3 A colorful caterpillar collection
+i:4 Mushroom sandwich
+i:5 Flask of moonshine
+i:6 Flask of moonshine (literal)
+i:7 Handful of sheep’s eyes
+i:8 Pet lint spirit
+i:9 Saint’s stolen fingerbone
+i:10 Loaded dice (always come up 1 and 6)
+i:11 The deed for a large bridge, legitimate
+i:12 Gigantic tricorn with ostrich feathers (folds up neatly)
+i:13 Emblem of one of the lost goblin kings
+i:14 Firecracker grenade
+i:15 Ruby the size of an egg, is actually a type of fruit
+i:16 Receipt from the Market for kitten whiskers and maids’ tears
+i:17 Pipe, tobacco, cleaning kit
+i:18 Bottle of Dr. Lugubrious Hob’s Miracle Tonic
+i:19 Rust-dust from a hero’s sword
+i:20 A very confused badger
+}
+{
+d:d20 What are they planning?
+i:1 Maiden flight of bovine-powered aircraft
+i:2 Weasel-Stomping Day
+i:3 Flood local schoolhouse with ice cream
+i:4 Kidnap local prince’s bride-to-be, replace with troll
+i:5 Re-instate fish dueling in the courts
+i:6 Curse everyone to talk backwards
+i:7 Bringing powdered wigs back in style
+i:8 Operation: Emperor’s Got No Clothes
+i:9 Introducing democracy by means of everyone throwing rotten vegetables at everyone else
+i:10 Instituting the Diet of Worms
+i:11 Steal everyone’s left shoe, hide them all at the tops of trees
+i:12 Stand on each other’s shoulders, wear overcoats and sheets, descend upon townsfolk
+i:13 Mass chaos and disarray, with explosions
+i:14 Drag races
+i:15 Replace king’s crown with live groundhog during dinner
+i:16 Wide scale protests for / against topic they refuse to tell people about
+i:17 Seduce the youth of today with their hippity-hop big-band ragtime music
+i:18 Found Church of the Great Cosmic Pierogi
+i:19 Countywide spellcheck graffiti campaign
+i:20 Something completely different
+}
+{
+d:d10 Who’s your broodmother?
+i:1 Famous opera singer and notorious Munchausen
+i:2 Hidden from sight behind spider-silk veils, crossword fiend
+i:3 Permanently out to lunch
+i:4 Dreams of exploring, collects maps instead
+i:5 Lives in and moves about by a Rube Goldberg machine
+i:6 Biggest fan of the local sports team
+i:7 Friend of giant eagles, skydives regularly
+i:8 Amateur comedian. Not good, but willing to take criticism
+i:9 Maintains a 30,000 strong live butterfly collection
+i:10 Has organized the entire warren as a living musical show
+}

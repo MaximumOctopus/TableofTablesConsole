@@ -1,0 +1,90 @@
+{
+d:d8 These monsters use the base template of
+i:Goblins
+i:Hobgoblins
+i:Kobolds
+i:Orcs
+i:Lizardfolk
+i:Ogres
+i:Bugbears
+i:Gnolls
+}
+{
+d:d6 They have an increased ability attribute
+i:Strength +4
+i:Intelligence +4
+i:Wisdom +4
+i:Dexterity +4
+i:Constitution +4
+i:Charisma +4
+}
+{
+d:d6 They have adapted physically to the following environment
+i:Sub-zero Temperatures
+i:Subterranean underground living
+i:Living inside a volcano
+i:Scorching heat in a desert
+i:Dense Jungle or Thick Forest
+i:Barren Wasteland and/or marshland
+}
+{
+d:d6 They are different from the base monster because of their
+i:Organisation and Discipline
+i:Aggression and Shock Tactics
+i:Stealth and Guerrilla Tactics
+i:Skirmishing tactics
+i:Supreme Intellect
+i:Knowledge of their environment
+}
+{
+d:d10 They have the following physical anomaly
+i:A large set of wings
+i:A third eye
+i:Darkvision, Tremorsense, Truesight or Blindsight
+i:An extra set of arms
+i:Sharp claws
+i:Oversized mouths and a dangerous bite
+i:Venomous Fangs
+i:Faster movement speed
+i:Thicker skin or hide
+i:Webbed Feet and/or Hands
+}
+{
+d:d12 Their weapon of choice is the
+i:Javelin
+i:Sling
+i:Greataxe
+i:Flail
+i:Mace
+i:Greatsword
+i:Whip
+i:Crossbow
+i:Scythe
+i:Trident
+i:Pike
+i:Shuriken
+}
+{
+d:d6 In battles, these clans are usually lead by a
+i:Elected Chieftain
+i:Powerful Warlord
+i:Crafty Tactician
+i:Skilled Tracker/Bounty Hunter
+i:Mentally-insane Priest
+i:A powerful spellcaster
+}
+{
+d:d12 They domesticate the following beasts to hunt with them
+i:Dire Wolves
+i:Drakes
+i:Wyverns
+i:Giant Spiders
+i:Blink Dogs
+i:Gibbering Mouthers
+i:Giant Apes
+i:Nagas
+i:Displacer Beasts
+i:Gricks
+i:Panthers
+i:Dire Rats
+}

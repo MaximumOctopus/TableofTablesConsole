@@ -1,0 +1,88 @@
+{
+d:d6 Hair color: The fire giant’s hair is...
+i:Reddish blonde.
+i:Orange.
+i:Reddish gold.
+i:Fiery red.
+i:Red.
+i:Reddish brown.
+}
+{
+d:d6 Eye color: The fire giant’s eyes are...
+i:Black.
+i:Gold.
+i:Golden brown.
+i:Steely grey.
+i:Silvery grey.
+i:Blood red.
+i:Skin color: The fire giant's skin is...
+i:Smoky grey.
+i:Ashen grey.
+i:Sickly grey.
+i:Dark grey.
+i:Burnt black.
+i:Volcanic black.
+}
+{
+d:d6 Distinguishing feature: The fire giant has…
+i:One eye larger than the other.
+i:Gold teeth.
+i:A permanent limp.
+i:Terrible scars on its face.
+i:One ear missing.
+i:Unkempt facial hair.
+}
+{
+d:d6 Training: The fire giant is a/an...
+i:Crafter.
+i:Flameshaper.
+i:Pikeman.
+i:Scout.
+i:Shocktrooper.
+i:Warchanter.
+}
+{
+d:d6 Skill: Even among fire giants, the fire giant is particularly good at...
+i:Decapitating foes.
+i:Forging arms and armor.
+i:Composing songs.
+i:Conjuring flames.
+i:Swordplay.
+i:Organizing allies in battle.
+}
+{
+d:d6 Quirk/flaw: The fire giant frequently...
+i:Tries to carry more plunder than it should.
+i:Snores loudly.
+i:Sings a little out of tune.
+i:Picks fights with its allies.
+i:Drinks too much.
+i:Can't help but investigate any magical effects it finds.
+}
+{
+d:d6 Possessions: The fire giant is carrying a/an...
+i:Huge greatsword.
+i:Pair of battleaxes.
+i:Longbow with flaming arrows.
+i:Bag full of rings and trinkets.
+i:Finely-made chainmail shirt.
+i:Strange gemstone that radiates power.
+}
+{
+d:d6 Immediate goal: The fire giant is looking for a/an...
+i:Shinier weapon.
+i:Sharper weapon.
+i:Opportunity for plunder.
+i:Chance to prove its skill in battle.
+i:Easy meal.
+i:Spicy meal.
+}
+{
+d:d6 Accomplishment: The fire giant is especially proud of…
+i:The bejeweled sword it spent years forging.
+i:The beautiful song of war it composed.
+i:Eating every halfling in a conquered village.
+i:Slaying a young dragon with only its bare hands.
+i:Stealing a magic greatsword of elvish make.
+i:The song a satyr wrote about its exploits in an elvish land.
+}

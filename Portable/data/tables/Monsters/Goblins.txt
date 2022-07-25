@@ -1,0 +1,113 @@
+{
+d:d20 This goblin is...
+i:A miner{.mines}.
+i:A forager.
+i:A warrior.
+i:A scout.
+i:A trapmaker.
+i:An archer.
+i:An assassin{.assassins' guilds}.
+i:A hexer.
+i:A wolf-rider.
+i:A sneak.
+i:An armorer.
+i:A cook.
+i:A builder.
+i:A beastshifter.
+i:A skullcrusher.
+i:A thug.
+i:A warpriest.
+i:A prankster.
+i:A blackblade.
+i:A worthless nobody.
+}
+{
+d:d12 The goblin is particularly skilled at...
+i:Being sneaky.
+i:Not being seen.
+i:Tracking foes.
+i:Building traps.
+i:Avoiding traps.
+i:Repairing traps.
+i:Foraging for food and water.
+i:Wrangling beasts.
+i:Digging tunnels.
+i:Crafting arms and armor.
+i:Crushing skulls.
+i:Cutting throats.
+}
+{
+d:d12 The goblin wields...
+i:A rusty sword.
+i:A finely-made sword
+i:A spiked club.
+i:A wicked looking axe.
+i:A spear decorated with feathers.
+i:Several polished daggers.
+i:A large, serrated dagger.
+i:A pair of curved daggers.
+i:A cracked wooden shield.
+i:A shield, emblazoned with the gangs’ symbol.
+i:Arrows fletched with crow feathers.
+i:Arrows fletched with hawk feathers.
+}
+{
+d:d12 The goblin wears...
+i:Armor with greasy stains.
+i:Patched leather armor.
+i:Piecemeal chain armor.
+i:A leather helm.
+i:A large skull as a helm.
+i:A wolf-face helm.
+i:A lanyard of severed ears.
+i:A big hoop earring.
+i:A shiny silver belt.
+i:A wolf skin.
+i:A black cloak with a hood.
+i:A large belt purse.
+}
+{
+d:d12 The goblin’s face has...
+i:Blue warpaint.
+i:An eyepatch.
+i:Burn scars.
+i:Only one ear.
+i:No front teeth.
+i:An unusal tattoo on the forehead.
+i:Stitches closing a wound on the jaw.
+i:A topknot above it.
+i:Several muddy smudges.
+i:A boil oozing pus.
+i:A wisp of a mustache.
+i:Amazing sideburns.
+}
+{
+d:d12 The goblin has...
+i:An unsettling stare.
+i:A lean and hungry look.
+i:A maniacal laugh.
+i:A mad cackling laugh.
+i:A high-pitched twittering laugh.
+i:A tendency to snicker at everything.
+i:A nervous twitch.
+i:A difficult time standing still.
+i:A waddle.
+i:A limp.
+i:An unsavory habit of drooling.
+i:A habit of sniffing loudly.
+}
+{
+d:d12 Presently, the goblin is looking to...
+i:Find something to eat.
+i:Find something to drink.
+i:Find some coins or gems to steal{gemstones}.
+i:Warn the gang of monster hunters in the area.
+i:Warn the gang of a savage beast in the area.
+i:Report to the gang as to where to find treasure.
+i:Prove its mettle to the gang's boss.
+i:Avoid notice by the gang's boss.
+i:Avoid notice by anyone.
+i:Leave the gang entirely.
+i:Play a cruel prank.
+i:Swap distasteful jokes.
+}

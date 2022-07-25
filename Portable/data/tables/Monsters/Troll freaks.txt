@@ -1,0 +1,87 @@
+{
+d:d30 The troll...
+i:Has a vestigial, second face growing out of its neck.
+i:Insect, bat, celestial, or avian wings, which are too small/weak to support its weight.
+i:Smells remarkably bad, even by troll standards!
+i:Is bio-luminescent and sheds bright light for 10ft and dim light for 10 additional ft.
+i:Possesses gills, fins, webbed toes/fingers, and intense aquaphobia.
+i:Has bug eyes. They're bulbous and reminiscent of flies.
+i:Has an extremely long tongue, and uses it to moisten its eyeballs in place of blinking.
+i:Can cast Vicious Mockery at will, with a save DC of 9. It makes an obscene gesture while doing so if it does not share a language with its target.
+i:Oozes.
+i:Has poor depth perception (may only have one eye), and has disadvantage on ranged attack rolls beyond 30ft.
+i:Has a clubbed tail, beak, bone hooks, pincerns, horns, or talons in place of its usual claw/bite attacks.
+i:Has a new mouth grow everywhere it takes slashing or piercing damage.
+i:Has a tail. It can be long, short, hairless, furry, prehensile, squirrely, or a fish's fin.
+i:Walks on arms sprouting from where it should have legs, or has four legs.
+i:Has four arms and no legs.
+i:Has arms that end in feet and/or legs that end in hands.
+i:Has enormous ears, like an elephant.
+i:Has a long trunk.
+i:Has an unusual skin tone, like jet black or violet.
+i:Has rainbow colored fur.
+i:Is covered in feathers.
+i:Caws, meows, mewls, barks, yips, or otherwise makes uncharacteristic sounds.
+i:Posses a large shell, like a turtle.
+i:Has a throat that expands when it ribbits.
+i:Has backwards legs.
+i:Has a bee hive (or several!) growing from its skin.
+i:Is covered in moss, mushrooms, and tree bark.
+i:Has the head of a horse.
+i:Has the head of a bird.
+i:Has the head of a dinosaur.
+}
+{
+d:d38 Something about its diet is different. It's a...
+i:Arguetroll. It possesses two heads, which grants advantage on Wisdom (Perception) checks that rely on sight. They constantly argue with each other, granting disadvantage on Dexterity (Stealth) checks.
+i:Skytroll. Bat, insectoid, fey, celestial, infernal, or avian wings grant it a flight speed of 10ft.
+i:Stench Ogre. The troll smells so bad it can't even take advantage of its own Keen Smell trait, but it can use Stench as the Troglodyte ability, with a save DC of 15.
+i:Aquatroll. Also known as "Merrow," these slimy monsters can only regenerate while immersed in water. They are amphibious, and possess a swim speed of 30ft.
+i:Infernotroll. Also known as a "Werrom," these hot messes are not only immune to fire damage, it activates their regeneration. Fortunately water and acid still kills 'em square.
+i:Umbertroll. A cross between an Umber Hulk and a bad dream, these trolls can use Confusing Gaze (as the Umber Hulk ability) with a save DC of 15.
+i:Charge Troll. Any troll that has antlers, horns, or another pointy thing it runs into people with. Gains a Gore Attack action. If it moves at least 20ft and hits (+7 to-hit bonus) it deals 2d6 + 8 damage, and the target must make a DC 15 STR or DEX save to avoid being knocked prone. Then it gets to take the attack action. They're bad news.
+i:Arachnotroll. Just what it sounds like: A goddamned spider troll! These trolls gain Spider Climb and Web Walker (only their own webbing), and the Web (Recharge 5-6) action: Ranged Weapon Attack: +7 to hit, range 30//60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15 STR check, bursting the webbing on a success. Web can be attacked (AC10; HP 5; instantly destroyed by fire or acid damage).
+i:Scorpotroll. Another nightmare. In addition to claws and a big, nasty bite, these buggers come with a scorpion's tail, injecting tongue, piercing arm, or some other, awful way to put poison in your body. +7 to hit 1d6 + 4 piercing and DC 15 CON vs 9 (3d6) poison damage (save for half).
+i:Sproutling. Sometimes when trolls don't get enough access to fresh meat, they start eating dirt instead, and inadvertently ingest plant matter. Not only have I seem some start growing fruit (would not recommend trying any), they sometimes start sprouting leaves, vines, and flowers, granting advantage on Stealth (Dexterity) checks when attempting to hide in the local flora.
+i:Sucker Troll. Just, ew. I was born into mud and coal mines like any other dwarf, and these are so gross I can't stand them. They sprout tentacles, sometimes out of their face like Mindflayers, which grants them Extract Organs. Melee Weapon Attack: +7 to hit, reach 5ft., one incapacitated creature grappled by the Suckertroll. Hit: Target takes 3d6 piercing damage. If this damage reduces the target to 0 hit points, the Suckertroll kills its target and devours its brain. If it's any consolation, the troll is still stupid.
+i:Constrictotroll. They're like snakes, but worse; it gains Constrict: +7 to hit, reach 10ft. Target takes 26 + 4 bludgeoning damage and, if it is medium or smaller, is grappled. Until the grapple is broken (DC 14) or the troll lets go, instead of attacking the troll can choose to apply this damage on its turn, and may not target any creature but the one it has grappled.
+i:Trolltaur. Just what it sounds like: The unholy union of a troll's torso and the legs of a Minotaur. Its movement speed is doubled.
+i:Moletroll. These trolls are usually blind, and instead rely on a tremorsense out to 30ft. If you're lucky, they're only blind. Either way it gains a climb and burrow movement speed of 30ft.
+i:Quick Troll. These trolls are so fast, they can make one extra attack or take the dash action as a bonus-action on their turn. Unfortunately they rarely take advantage of the second option to run away.
+i:Glow Troll. Sometimes they light up like a firefly, sometimes there's a roiling fire somewhere in their belly. Either way, the glow troll sheds bright light for 20ft and dim light for another 20ft and hates Christmas.
+i:Toader. Gains the Swallow action as the giant frog (pg 325). A Toader can also jump horizontally and vertically a distance equal to its strength score without a running start.
+i:Iquanotroll. Like a chameleon, these trolls blend into the background. If it wasn't for the smell, grunting, and total inability to take advantage of the element of surprise, they would gain advantage on all Dexterity (Stealth) checks.
+i:Siege Troll. This troll is so big it deals double damage against objects.
+i:I'm too embarrassed to name this one. They're every bit as charming as a succubus and every bit as stupid as a noodle. It gains the Charm and *Draining Kiss abilities as a Succubus (DC 9; DK damage is 3d10-2)
+i:Strollrge. A mosquito as big as a barn door, a Strollrge gains Blood Drain (as Stirge but +7 to hit)
+i:Sword Breaker. You'll be wanting a wizard or a crossbow to deal with this. It gains Rust Metal: Any nonmagical weapon made of metal that hits a Sword Breaker corrrodes and takes a permanent, cumulative -1 penalty to damage rolls. If it reaches -5 it is destroyed. Nonmagical ammunition is destroyed after dealing damage.
+i:Slurper. It's not just an onomatopoeia: It's right awful. A Slurper is a troll that can engulf enemies like a gelatinous cube, and is named after the sound it makes when it moves. It gains Engulf: The troll moves up to its speed. While doing so, it can enter Large or a smaller creature's space. Creatures must make a DC 15 DEX saving throw. On a success, it is pushed 5 feet back or to the side of the troll, unless it chooses to fail. On a failed save, the troll enters the creature's space and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of its turns. Interestingly, Slurpers do not seem to regenerate. At least, not by the conventional means; they heal by as much damage as Engulf deals, but otherwise lose Regeneration.
+i:Mummy Troll. I know that sounds terrifying, but in this case the bark is worse than the bite. Mummy Trolls produce spores like Myconids that reanimate the remains of their victims. Fortunately most of their victims are half-eaten, and Mummy Trolls don't seem to be intelligent enough to direct them-or even realize they're alive. It gains the Hallucination Spores quality of a Myconid Sovereign (save DC 15) and the Animating Spores (1/day) quality.
+i:Gurgler. I didn't name 'em that 'cause they gurgle you; it's 'cause they need to gurgle something to deal with their breath. It gains Weakening Breath (5-6). It exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 15 STR saving throw or have disadvantage on attack rolls, strength checks, and strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+i:Displacer Troll. Works just like those damn cats. Gains Displacement as the Displacer Beast.
+i:Thumper. Drags a big club tail behind it. +7 to hit, 2d6 + 4 bludgeoning damage. Target creature must make a DC 15 STR or DEX save to avoid being knocked prone.
+i:Porcitroll (or trollipine). Is covered in quills, which deal 5 (1d10) damage to any creature grappling with it at the start of the troll's turn. It can also launch these quills. Ranged Weapon Attack: +7 to hit, range 20/80 ft., one target. Hit: 3d4 piercing damage.
+i:Crasher Troll. Gains Deadly Leap: If the troll moves at least half its movement by jumping and can reach a target creature(s), one creature and others within 5 feet must make a DC 15 STR or DEX saving throw. Any who fail are knocked prone and take 1d6 + 4 slashing and 1d6 + 4 bludgeoning damage. Any who succeed take half damage and are not prone, and are moved 5 feet in a direction away from the Crasher of their choice.
+i:Oculon. These trolls are covered in eyestalks like snails, which grow out of its back and arrange themselves around its head or dangle down from under its arms like armpit hair from hell. It can choose as an action to cast up to two of the following magical eye rays at one or two creatures it can see within 60 feet. It can use each ray only once per turn. Confusion Ray DC 15 WIS saving throw, or target can't take reactions, move, and uses its action to make a melee or ranged attack against a randomly determined creature within range until its next turn. Paralyzing Ray. DC 15 CON or target is paralyzed for 1 minute. Can repeat saving throw at the start of each of its turns, ending the effect on a success. Fear Ray. Target must succeed on a DC 15 WIS saving throw or be frightened for 1 minute. Can repeat saving throw at the end of each of its turns, with disadvantage if the troll is visible t o the target. Wounding Ray. Target must make a DC 15 DEX saving throw or take 3d8 necrotic damage (half on a success).
+i:Octotroll. Like a centaur, except troll meets octopus. The troll's speed is reduced to 15 feet, gains a swim speed of 15 feet, and has advantage on grappling rolls.
+i:Burster. If you see a troll that's unusually bulbous, it's either pregnant or filled with something volatile. When a Burster takes more than 20 damage from a single attack, every creature within 10 feet must make a DC 15 STR save or take 1d6 force damage, be pushed 5 feet, and knocked prone. Anyone who succeeds takes half damage and is not pushed or knocked prone. If a Burster does this 3 times before taking a long rest, it dies. On death the same effect happens, but the damage is 4d6.
+i:Faerie Troll. I don't mean like "out of a fairy tale troll." They have the Fey Ancestry quality: The troll has advantage on saving throws against being charmed, and magic can't put the troll to sleep.
+i:Trollgar. All trolls love to each dwarves, but these ones do us all a favor by targeting Duergars. Unfortunately this means once per day they can use Enlarge (as the enlarge/reduce spell, but only enlarge and targeting itself).
+i:Hydratroll. For each body part severed, two more sprout in its place. Interestingly enough, an ingenuous party could make a troll more arms or legs than monster, to the point that it can't figure out what to attack with, or how. It's hard enough trying to use a non-dominant hand; imagine having forty of them.
+i:Mimic Troll. When immobile, appears as any large piece of furniture. If disturbed, it unfolds (transformer-like) to reveal its trollish nature. Possibly bleeds gold pieces or gems.
+i:Trollasque. Quite simply, a ginormous troll. Less simply, it's a Huge monster with +40 HP, 22 STR (+6), and a +10 to hit. It also gains the Siege Monster trait, and deals double damage to objects.
+i:Trowlbear. Has feathered wings instead of arms, large round eyes and a beak. Gains Keen Sight in addition to its keen smell.
+}
+{
+d:d10 Something awful this way comes, in the form of a...
+i:Assasotroll. The troll stomps around a little less loud than the others, has advantage on attack rolls against creatures that haven't acted in combat yet, and deals an extra 2d6 damage against targets when it attacks with advantage from any source.
+i:Rager. These trolls are so brusque and ferocious they have advantage on all attack rolls. Their recklessness means anyone attacking a Rager has advantage, too.
+i:Mirror Troll. It's the one thing you want a troll to look at, until they decide to start acting like one! The troll gains Spell Reflection. If the troll makes a successful saving throw against a spell, or a spell attack misses, it can choose another creature (including the spellcaster) it can see within 30 feet. The spell targets the chosen creature instead. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.
+i:Rotter. It gains Rotting Flesh: In addition to its bite or claw (or other) damage, it deals an extra 6 (2d6) necrotic damage, and the target must roll a DC 15 CON save. If it fails, it can't regain hitpoints by any means for 24 hours. It may roll against the save again once every hour, ending the effect on a success.
+i:Teletroll. You wouldn't expect a troll to be a good conversationalist. You'd be right. Nevertheless a teletroll has Limited Telepathy: It can magically transmit simple messages and images to any creature within 120 feet, but doesn't allow a response.
+i:Blobber. The troll is amorphous and can fit through a space as narrow as 1 inch wide.
+i:Trollgre Mage. Not quite as fearsome as a true Ogre Mage but still obnoxious, the Trollgre Mage has a meager but dangerous spell list. At-Will: Mage Hand, Shocking Grasp. 2 slots: Mage Armor, Magic Missile. 1 slot: Counterspell.
+i:Reflector Troll. I'm not one to rely on casting spells, but if I was I'd really hate these ones. They have advantage on all saving throws against magic and magical effects (Spell Resistance).
+i:Trollholder. A floating troll head with d6+4 arms. Each arm can cast a random cantrip. Can use two cantrips per turn.
+i:Lucky Troll. As in, you're really unlucky if you happen across one. Gains the Unnaturally Lucky ability: (Recharge 6) the troll can choose to reroll one attack, save, skill check, or ability roll it failed, and can accept either result. It may also treat all 1's as 2's when making damage rolls.
+}

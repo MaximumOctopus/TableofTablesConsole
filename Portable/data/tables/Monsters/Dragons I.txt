@@ -1,0 +1,350 @@
+{
+d:d100 Age: The dragon is...
+i:01-25. A wyrmling.
+i:26-50. A youngling.
+i:51-75. An adult.
+i:76-100. An ancient one.
+}
+{
+d:d100 Color: The dragon is colored...
+i:01-10. Black, a sadistic beast fond of torture.
+i:11-20. Blue, as proud as it is deadly.
+i:21-30. Green, treacherously cunning.
+i:31-40. Red, fiery and mad.
+i:41-50. White, a primal beast of ice.
+i:51-60. Brass, always fond of a nice chat.
+i:61-70. Copper, a crafty jokester.
+i:71-80. Gold, majestic and wealthy.
+i:81-90. Silver, friendly and caring.
+i:91-100. Bronze, a dragon of the coast.
+}
+{
+d:d100 Major feature: The dragon has a unique appearance...
+i:01-02. It has very sleek and soft scales that blend together and shine.
+i:03. It is relatively normal for its color.
+i:04. It has very tough and overgrown scales like barbaric plate armor.
+i:05-06. Shards of bone grow out of its body painfully at every angle.
+i:07-08. Crystal grows out of its scales seemingly brimming with magical power.
+i:09. It has runes carved into every scale each one with magical meaning.
+i:10-11. It is albino and is often mistaken for a white dragon even though it may be of a different type.
+i:12. Its entire body is covered in thick shaggy fur.
+i:13. It has multiple sets of small sharp wings.
+i:14-15. Its wings are coated in feathers giving it an oddly angelic appearance.
+i:16. It radiates its chosen element making it glow with power under its scales.
+i:17-18. It has weapons of all kinds lodged in its scales which the dragon wears proudly{.legendary weapons}.
+i:19-20. It’s covered in thick chains. Most likely result of it losing a fight long ago.
+i:21-22. It has large scars cut into its body.
+i:23-24. Shadows seem to cling to its form like a cloak, no matter how bright the area is.
+i:25-26. It has a long slender body like a great serpent.
+i:27. It has an extra set of arms with strong muscle and sharp claws.
+i:28-29. Mottled scale coloring gives it a patchy look between two colors 30-31. It is exceedingly large with a bloated and obese body.
+i:32. It has an insect-like mandible instead of a normal maw.
+i:33-34. It has trouble shutting its over-large mouth with rows and rows of sharp teeth.
+i:35. It has a slimy goo-like substance all over its body.
+i:36. It appears to be changing colors at all times like an optical illusion.
+i:37. It has bark or stone all over its body.
+i:38. It has multiple sets of eyes that glow with arcane power.
+i:39. It wears large ancient gauntlet-like constructs on its claws that it uses in combat.
+i:40-41. It wears extra armor added to its body, adamantine or mithral.
+i:42-43. It has a thin almost skeletal form.
+i:44-45. It has ugly diseased marks on its scales and a sickly pallor{.diseases}.
+i:46-47. Its front legs are its wings in a way similar to a wyvern.
+i:48-49. It wears grisly trophies of its kills on its body, covering it in severed heads and hands.
+i:50-51. Areas of its body are completely devoid of scales. Its skin has grown tough and leathery to make up for that.
+i:52. It has fish-like adaptations to living at deep sea.
+i:53. It has some kind of weakness and wears an exo-suit-like harness over its body to make it stronger.
+i:54. A second head on its tail that can also shoot its breath weapon.
+i:55. It has two heads, both with different personalities like an ettin.
+i:56-57. It has an aura of its elemental power around it at all times, such as a bubble of uncontrollably burning flame.
+i:58. It has no mouth and speaks entirely telepathically. Its breath weapon is magical instead.
+i:59-60. It is almost blind, and relies on its extremely strong smell and sound to find prey.
+i:61-62. It has sharp monstrous barbs all over its body.
+i:63-64. It has a very soft underbelly of a different color that is weaker than its other scales.
+i:65-66. It has gemstones and coins inset into its scales like a traditional dragon, reinforcing its strength and armor{gemstones}.
+i:67-68. It has sharp scythe-like claws on its forelegs.
+i:69-70. Its claws are very long and slender, but it has great tactile control of them.
+i:71. It has a very long tongue that it eagerly uses like an extra arm.
+i:72. It has a face eerily similar to a humanoid’s.
+i:73. Its form is slightly more humanoid than usual, with the typical muscles more prominent and obvious than usual.
+i:74-75. It has ridges of horn-like spines over its back, each one like a sharp blade.
+i:76-77. It has very long curled horns like a minotaur that it will to head-butt and gore foes.
+i:78-79. It has only one, very long horn like a unicorn.
+i:80. It seems to have no claws at all instead relying on hard slamming attacks.
+i:81. It’s missing one of its limbs entirely.
+i:82. It has half of its face missing, revealing the bone and muscle beneath.
+i:83. Its scales are slightly translucent allowing one to see its insides.
+i:84-85. It has a cobra-like hood on its neck.
+i:86. It wears bandages and wrappings around a good deal of its body.
+i:87. It has a somewhat bird-like beak instead of a traditional dragon maw.
+i:88. It has eerily human-like hands instead of claws.
+i:89. It has a disturbing number of multiple scuttling legs.
+i:90. It has huge crab-like claws.
+i:91. It has a beholder-like eye with several twisting eyestalks.
+i:92. It has a huge twisting worm-like body.
+i:93. It has a sharp bladed tail that it uses as a slashing weapon.
+i:94. It has a bloody stump where its tail used to be.
+i:95. It has a cloud of smoke around its body at all times.
+i:96. It has huge and actually somewhat uncomfortable wings that sweep around it.
+i:97. It stands on its hind legs similar to a humanoid.
+i:98. It has carefully manicured claws in sword-like shapes.
+i:99. It has broad fan-like tail fins.
+i:100. It wears wreathes of flowers and plants around its body.
+}
+{
+d:d100 Minor feature: The dragon also has... 01-03. One horn missing; it was broken off.
+i:04-05. Light scarring around the eyes.
+i:06-08. A heavy mace-like tail which it will happily use as a weapon.
+i:09-10. A mane of ‘hair’ by its head.
+i:11-13. A crown of horns around the top of its skull.
+i:14-16. A face that looks like a skull.
+i:17-20. A pair of overly large fangs.
+i:21-22. A powerful artifact of some kind embedded in its forehead.
+i:23-24. An extra tail.
+i:25-27. Each eye is a different color and extra vibrant.
+i:28-30. A hungry and yet charming grin.
+i:31-33. A beard of hanging scales.
+i:34-36. Scales of varying shininess and hue.
+i:37-38. Far brighter colors than normal.
+i:39-40. Far darker colors than normal.
+i:41-43. Mud or dirt covering its scales.
+i:44-45. Some kind of make up on its face.
+i:46-47. Painted tattoos on its scales.
+i:48-50. Several missing teeth.
+i:51-53. A single missing scale making a small weak point.
+i:54-56. A missing wing.
+i:57-59. Stripe-like patterns to its scales.
+i:60-61. One single magical eye.
+i:62-63. A pet that constantly stays by its side.
+i:64-65. Brand-like markings burnt onto its body.
+i:66-68. Smoke constantly billowing from its mouth and nostrils.
+i:69-71. A thin slender form.
+i:72-73. A cuddly stocky form.
+i:74-76. A spiny ridge on its back.
+i:77-78. Very large custom-made eyeglasses.
+i:79-81. A large ridge behind its head like a triceratops.
+i:82-84. Shackles on its legs.
+i:85-86. Plants growing on its body.
+i:87-88. A very long tail, several times the length of its body.
+i:89-90. Large fins on its tail.
+i:91-92. A vastly different than normal hue.
+i:93-94. Fins on its limbs.
+i:95-96. A large overbiting jaw.
+i:97-98. A large underbiting jaw.
+i:99-100. Fake horns.
+}
+{
+d:d100 Traits: The dragon is...
+i:1-2. A dire dragon seemingly mutated someway by fell energies, larger and more violent than even most dragons.
+i:3-4. The runt of the litter. It’s smaller than average and weaker, yet more intelligent and stealthy.
+i:5-6. A new parent protecting its eggs. It is proud and excited for them but will protect them to the death.
+i:7-8. Part of a long family lineage of dragons and trying to live up to the expectations of that.
+i:9-10. The survivor of an attack that haunts it. Whatever this attack was, it deeply disturbs the dragon whenever anything similar happens. For example, the dragon may freeze and panic around fire.
+i:11-12. One half of a pair of twins. It is very connected to its twin.
+i:13-14. Fond of staying in humanoid form. It lives as a human, or similar race, living the normal life of a mortal and enjoying it greatly.
+i:15-16. A powerful wild mage. It uses spells and breath attacks that often cause completely unexpected chaotic surges of magic.
+i:17-18. A powerful wizard who has a large tome of magic. It adores magic and tries to learn as much as possible.
+i:19-20. Tainted by fiends, making it demonic and more evil than normal. The dragon is the lord of many minor demons that do its bidding{.fiends}.
+i:21-22. Tainted by celestials making it holy and good. The dragon is worshipped by many due to its holiness.
+i:23-24. A fey dragon, giving it an affinity for the Feywild and to nature. It seems constantly surrounded by flowers and fairies and is quite the trickster{.beasts fey}.
+i:25-26. An energetic builder who has actually tried to make its lair into the perfect dungeon. It will eagerly lure in and tempt people into it. It would even be excited if someone survived the entire dungeon{basic dungeons,castle dungeons,dungeon dressing}.
+i:27. A self-styled mercenary, hunting down either heroes or evildoers. It hunts down these people and takes great pride in killing them.
+i:28-29. Fond of meditation and has spent years reaching inner enlightenment and tranquility.
+i:30-31. Very eager to make friends. Although making friends for a dragon often involves ‘playing’ with them in ways similar to a cat playing with a mouse{.cats}.
+i:32-33. Trying to become the most infamous dragon in the entire realm, almost to the extent of making itself a brand.
+i:34-35. Part of a pair mated for life. They’re very unwilling to separate.
+i:36-37. Actually very stealthy. It will lay traps, bait an enemy, and then attack from the shadows.
+i:38-39. Undead but trying to cling to what it once was without losing its soul and its mind.
+i:40. Not afraid of using technology. It has learnt from rock gnomes various steam and clockwork powered technologies, and it has created several auto turrets to use in its defenses{.gnomes}.
+i:41. Highly religious. It worships its god or gods strongly and will go to the extent of performing great rituals or sacrifices.
+i:42-43. The god-like leader of a cult of followers. It of course loves this as godhood strokes the ego.
+i:44-45. Highly emotional and will go through manic swings in its emotions. The dragon is kind and caring one day, and destructive the next.
+i:46. Connected to the environment around its lair in a profound way. It is able to manipulate the surrounding region, and it protects its territory fiercely.
+i:47. A mad scientist that uses arcane magic to do twisted experiments on itself and others. Its lair is full of these experiments.
+i:48. Party to an agreement with a monster-hunting guild to kill those applicants that get annoying after they pay in their initial application payments.
+i:49-50. Respectful of mortals and smaller creatures. It sees meaning in all life, even something as small as an insect.
+i:51-52. A king of a small land. The dragon wears a crown, and may be a harsh king, but the locals wont argue with a dragon.
+i:53. Very interested in medicine and will heal and fix up anyone near death, even those trying to kill it. They will then keep them in a dungeon until they regain strength{basic dungeons,castle dungeons,dungeon dressing}.
+i:54-55. Almost entirely feral and primal.
+i:56-57. Fond of living in animal form, experiencing the wild. It has picked up many animal-like traits due to this.
+i:58-59. Extremely intelligent, or thinks it is. It tries to use its mind to solve problems, and, of course, it thinks it’s better at this than everyone else.
+i:60-61. Very charming and charismatic. It will actually talk its way out of, or into, sticky situations.
+i:62. Not a blood-born dragon, but it was created by magic or some other source. This makes it confused about its life and creation.
+i:63-64. Adopted. As a wyrmling, it was raised by mortals. If they were kind, the dragon loves mortals. If they were cruel, the dragon harbors a hatred for mortals that borders on madness.
+i:65-66. Completely insane. Perhaps, this was caused by magic or some kind of drug abuse.
+i:67. More comfortable in flight than on the ground. It tries to touch the ground as little as possible. It even flies in its sleep, hovering above the ground.
+i:68. Unable or unwilling to fly. It never leaves the ground, despite having wings. The dragon has learnt to burrow instead when other dragons might fly.
+i:69. Extremely fast and agile, but not particularly strong. The dragon is able to dish out many attacks at one go that deal small but biting damage.
+i:70. Slow, lumbering, but deadly. When this dragon eventually gets to combat, its blows are highly destructive.
+i:71. Honorable. It has a strange honor code, only ever wanting to fight when it follows its precise set of rules. When people break this code, the dragon gets angry and unleashes its true power.
+i:72. A member of a community. The dragon is part of a large community of friendly, or not so friendly dragons, who send messages and gifts to each other on a regular basis.
+i:73-74. Sleeping. It hibernates for centuries at a time… leading to a lot of confusion. Its snoring is so loud it is mistaken for wind.
+i:75. False. The dragon tries to be the opposite alignment of its natural state… While it tries hard, it still feels urges and can lose control.
+i:76. A singer and composer. It considers itself a master bard and will write songs and music. The music may be good, but dragons are not the best at singing or playing the lute{.bards}.
+i:77. Cursed with vampirism. While this doesn’t work exactly the same as with humanoids, it has given the dragon a ceaseless hunger for blood.
+i:78. Cursed with lycanthropy. While it doesn’t work the same as with humanoids, the dragon is amazingly violent beneath a full moon, and it hates silver.
+i:79. Terminally ill and is either trying to help or to hinder the world as much as possible in its dying days.
+i:80. An exotic merchant. It runs a shop for those customers that are strong enough or clever enough to survive the trip through its lair{.merchant caravans,.merchant guilds,.shops}.
+i:81. A brilliant mastermind, a game master that plays with its pawns in one huge game, a game of dungeons and dragons.
+i:82. Mostly lawful. It follows ‘the law’ of the land, but it might occasionally stretch laws to allow it do what it wants.
+i:83. Greedy but appreciative. It will be kind to those that give it gifts that it deems exciting enough.
+i:84. A lusty beast, which can be rather dangerous especially when it gets its eye on a party member.
+i:85. A kingpin. It employs adventurers or mercenaries across the land, giving them funds to do things the dragon is simply to lazy to do.
+i:86. A glutton for food, drink, and just about everything{.food}.
+i:87. Full of pride and vanity. This dragon has trouble looking away from the mirror.
+i:88. Greedy, moreso than most dragons. If anyone has any treasure in any way, the dragon needs it.
+i:89. Lazy. Why do anything when you can rest? It doesn’t want to bother any one as much as it just wants to sleep and be left alone.
+i:90. Vengeful. If someone wrongs this dragon even slightly, it will come at them, their children, their children’s children as well as every town they have been through ever.
+i:91. A guardian. It is protecting a powerful artifact of intense magical power.
+i:92. Lonely, and only wants to find friends.
+i:93. A bully. It bullies all the other dragons and monsters in the area, becoming their leader.
+i:94. Paranoid. It works intensely on illusions and creates illusionary traps and environments.
+i:95. A thug. It demands protection money and food from nearby settlements.
+i:96. Very shy. It suffers from severe social anxiety and doesn’t want to talk to anyone.
+i:97. Conniving. It enjoys traipsing about in its human form, influencing the entire realm and doing dark dealings.
+i:98. A homebody. It only leaves its lair during a certain season each year.
+i:99. A fame-seeker. It wants to die in such a way that legends and songs will be created after it. It may actually try and orchestrate this.
+i:100. Sick with the flu. A dragon sneeze is a powerful, but embarrassing weapon.
+}
+{
+d:d100 Speech: When it comes to conversation, the dragon...
+i:01-05. Is offended by those who will not speak Draconic, and it refuses to speak in any other tongue.
+i:06-10. Knows many languages and loves to talk.
+i:11-15. Is mute or refuses to talk.
+i:16-20. Talks very slowly and conservatively.
+i:21-25. Speaks its mind very simply.
+i:26-30. Speaks only in riddles and metaphors.
+i:31-35. Tends to ask constant questions but give no answers.
+i:36-40. Is very flirty. Uncomfortably so.
+i:41-45. Mimics anyone that talks to them.
+i:46-50. Will find any excuse to argue.
+i:51-55. Uses its breath weapon as violent punctuation.
+i:56-60. Speaks using illusions like charades.
+i:61-65. Is very friendly until someone swears and then is extremely offended and angry.
+i:66-70. Laughs darkly almost whenever possible.
+i:71-75. Growls out most of its words.
+i:76-80. Speaks very broken language.
+i:81-85. Refers to itself in third person.
+i:86-90. Only speaks through a scribe interpreter.
+i:91-95. Gets uncomfortably close as it speaks.
+i:96-100. Seems to know everything about everyone it talks too.
+}
+{
+d:d100 Hoard: Each dragon is compelled to hoard what it treasures, and this dragon’s hoard is... 01-04. A sea of gold and silver coins.
+i:05-07. Gold, but only the currency of one race, and oddly not the race in the nearby areas.
+i:08-11. Carefully organized; money is in neat stacks and every treasure is organized using a complex system.
+i:12-14. All famous art, paintings and statues. It will commission paintings of itself, and go to art shows in disguise.
+i:15-17. Food. The dragon loves to eat and sees food as a potential to be an art form. It actually hires chefs to cook the best food possible.
+i:18-20. The frozen or petrified statuesque forms of adventurers that tried to kill it. It will tell the tales of their attempts proudly and with great interest.
+i:21-24. Stories and legends. It loves to hear and tell stories and has an obsession with bards{.bards}.
+i:25-28. Music. It constantly needs music playing in its lair, and it gets very agitated if there is none.
+i:29-31. A zoo of various monsters and creatures. It aims to have two of every race at one point, male and female.
+i:32-34. Buildings. This dragon hoards real estate and territory. In disguise, it owns and buys land. The land is more important than the people that live there, but it will help the people if it helps them get more land.
+i:35-38. Gemstones. This dragon has little time for money but loves gemstones. Preferably cut{gemstones}.
+i:39-42. A library of books and stories. Knowledge is its passion.
+i:43-46. Magical artifacts from all across the world.
+i:47-49. A very beautiful mansion that it uses like a doll house, furnished with the finest in appearance and luxury.
+i:50-52. People it deems interesting that it either enslaves or convinces to stay.
+i:53-55. Narcotics. The dragon loves to try different types of drugs, such as pipeweeds and psychotropic mushrooms. Of course it needs to take a large dose to gain the desired effect.
+i:56-58. A large and beautiful garden that it keeps and tends.
+i:59-61. Its children. The dragon has many pure and half-blood children and takes care of them lovingly.
+i:62-64. Potions and all kinds of strange alchemical creations{.potions}.
+i:65-67. The corpses and remains of other dragons. The dragon is particularly interested in weapons and armors made of dragonscales.
+i:68-70. Artisan jewelry that the dragon actually wears on its body{.artisans}.
+i:71-73. Literally everything. This leads to this dragons hoard being very random and chaotic.
+i:74-76. Objects of power linked to its element.
+i:77-79. Minions that swear loyalty to the dragon.
+i:80-82. Gemstones and other things that are the same color as the dragon.
+i:83-85. Very sparsely laid out over many rooms with a single treasured object in each room 86-88. Very dense and compact with a large amount of treasure forced into one small room.
+i:89-93. Hidden. The dragon assumes visitors intend to steal its treasure.
+i:94-96. Up for being shared. The dragon will often share its hoard to those that need it, endorsing heroes. Often though, this is a loan to be repaid.
+i:97-100. Vast and very old. The hoard has been passed down for several generations.
+}
+{
+d:d100 Lair: This dragon’s lair is...
+i:01-04. An ancient ruin from an ancient race.
+i:05-08. On the peak of the tallest mountain with few paths leading up to it{.mountains}.
+i:09-12. A temple built for the dragon personally by its worshippers or slaves{.temples}.
+i:13-15. On a flying island above the land. Lush or barren, it is a very safe and secure place.
+i:16-18. In the underwater wreckage of a galley, perhaps with caverns and ruins below it{.caverns}.
+i:19-22. An abandoned mine. The mineshafts are filled with minions who defend the dragon{.mines}.
+i:23-25. A cavern carved out of stone by the dragon itself. The walls are full of these sharp cuts scraped by the dragon and the chambers are of a size that matches the dragon’s wingspan{.caverns}.
+i:26-29. A reclaimed castle. The surrounding area is plains or desert, and the castle was most likely abandoned by its old owners{.plains,.desert,.desert flame-scorched,.desert shadowy}.
+i:30-32. A huge pyramid, surrounded by dangerous deserts{.desert,.desert flame-scorched,.desert shadowy}.
+i:33-35. A giant tree, perhaps dead or in a lush environment. A tree large enough to hold a dragon is impressive.
+i:36-38. In a series of Underdark caverns. The Underdark can be a great place for a dragon that’s trying to hide away{.caverns}.
+i:39-42. Inside a volcano. The heat is quite comfortable for a fire-breathing dragon, but also provides defense from attackers.
+i:43-45. An abandoned settlement. The towns walls now protect the dragon who claims the empty town.
+i:46-49. A tomb. The dragon has little respect for the dead of mortals, so the tomb’s layout has proved a useful lair{.tombs}.
+i:50-53. On a lonely island away from most of the world.
+i:54-56. A structure built by its minions (goblins and the sort) with a ramshackle base. It seems like it will fall apart at any time.
+i:57-59. Atop a high, flat mesa that is perfect for dragon duels.
+i:60-62. Behind a waterfall. The falls hide the entrance to the large cave system in which the dragon lairs.
+i:63-65. No where. The dragon is nomadic and has no fixed home, always travelling for some reason.
+i:66-68. A large roost community of several young dragons.
+i:69-71. A pocket dimension of its own creation.
+i:72-74. A realm designed to imprison it, perhaps the dragon took control of the realm after its imprisonment.
+i:75-78. On an elemental plane linked to the dragon.
+i:79-81. A citadel designed to imprison the dragon, and perhaps also other beings of similar power waiting to be freed.
+i:82-84. On the site of a great battle. The ground littered with corpses, making an unsettling stomping ground for a dragon.
+i:85-87. A ravine where the dragon can enter with ease.
+i:88-90. Built by the dragon. The best homes are made yourself.
+i:91-94. On an arctic glacier, cold and far away.
+i:95-97. Underneath a settlement, likely hidden from most of the population.
+i:98-100. A mountain top shrine{.mountains}.
+}
+{
+d:d100 The dragon’s lair also has...
+i:01-03. A place of magical power, a ley line that lets the dragon tap into raw magic.
+i:04-07. A place of elemental power.
+i:08-10. A portal between realms.
+i:11-14. Skinned monsters in every hallway. The decorator has a macabre sense of style.
+i:15-18. A library of ancient tomes.
+i:19-21. A room of the dragon’s concubines of various races{races_core,races_all}.
+i:22-24. Puzzles that requires a dragon’s strength to operate.
+i:25-27. Arcane traps.
+i:28-30. Murals of the dragon’s personal conquests.
+i:31-34. A clutch of dragon eggs.
+i:35-38. Illusions playing tricks on all that enter.
+i:39-42. Scaly-skin molted all over the floors.
+i:43-45. A fake hoard filled with a sea of coin mimics.
+i:46-49. Several holes in the roof through which the dragon can enter and exit while in flight.
+i:50-52. Friendly inhabitants that live with the dragon.
+i:53-55. Many statues and paintings of the dragon.
+i:56-59. Maze-like corridors.
+i:60-62. Puzzles that are easy if one understands Draconic.
+i:63-65. A huge chess set with pawns the size of people.
+i:66-69. The bones of one of the dragon’s parents.
+i:70-72. Warding stones outside from several races warning of danger.
+i:73-75. A ghost bound to guard the lair and politely turn away invaders.
+i:76-78. A cloud of smoke and mist around it at all times.
+i:79-81. A huge pantry of all kinds of raw meats.
+i:82-84. An illusory dragon to bait enemy spells and attacks.
+i:85-87. Strange music traveling throughout the whole lair.
+i:88-90. An alarming amount of mold and decay.
+i:91-93. Strange and violent weather in its vicinity at all times.
+i:94-97. Flooded caverns full of waterborne monsters{.caverns}.
+i:98-100. One huge chamber with pillars breaking it up.
+}
+{
+d:d100 Henchmen: Their lair is defended by...
+i:01-05. Goblins who worship the dragon out of fear. The dragon does not care for their lives and hires them en masse{.goblins,.goblin gangs}.
+i:06-10. Mercenaries hired by the dragon to keep it safe. The races and skills do not matter to the dragon, so they may be a mixed bunch.
+i:11-15. Hobgoblin soldiers, highly trained professionals{.soldiers}.
+i:16-20. The dragon’s children, including purebred dragons and half-dragon creatures.
+i:21-25. The nightmares of all that enter{.nightmnres}.
+i:26-30. Kobolds with the intelligence of toddlers. They just want to help{.kobolds}.
+i:31-35. Mortal cultists.
+i:36-40. A sect of mortal dragon knights{.knights}.
+i:41-45. Wild beasts, lured in by the dragon.
+i:46-50. Intelligent beasts.
+i:51-55. Mephits and elementals suiting the dragon.
+i:56-60. Genasi linked to the dragon’s element.
+i:61-65. Undead.
+i:66-70. Fiends{.fiends}.
+i:71-75. Shadowy versions of the party raiding the dungeon{basic dungeons,castle dungeons,dungeon dressing}.
+i:76-80. Seemingly harmless warning signs that hold deadly curses{cursessimple} for those who approach.
+i:81-85. Terrified peasants.
+i:86-90. Arcane defense turrets.
+i:91-95. Giant Insects.
+i:96-100. Smaller dragon-like creatures.
+}

@@ -1,0 +1,99 @@
+{
+d:d6 Hair: The hobgoblin’s hair is...
+i:Long and dark.
+i:Wispy and thin.
+i:Light brown and beautifully groomed.
+i:Neatly braided.
+i:Shaved, except for a long top-knot.
+i:Shaved; the hobgoblin’s head is covered with tattoos.
+}
+{
+d:d6 Skin: The hobgoblin’s skin is...
+i:Pale green.
+i:Olive.
+i:Greenish yellow.
+i:Brownish yellow.
+i:Brownish orange.
+i:Pinkish orange.
+}
+{
+d:d6 Facial feature: The hobgoblin has…
+i:One ear missing.
+i:One eye noticeably larger than the other.
+i:A hideous snaggletooth.
+i:A scar on the forehead.
+i:A pronounced, rounded chin.
+i:An overly wide nose.
+}
+{
+d:d6 Training: The hobgoblin is a/an...
+i:Archer or skirmisher.
+i:Armorer or fletcher.
+i:Drummer or chanter.
+i:Footsoldier or pikeman.
+i:Forager or cook.
+i:Scout or hunter.
+}
+{
+d:d6 Skill: Even among hobgoblins, the hobgoblin is particularly good at...
+i:Carrying out orders.
+i:Donning armor quickly.
+i:Leading military drills.
+i:Roasting meat.
+i:Sharpening weapons.
+i:Singing marching songs.
+}
+{
+d:d6 Quirk/flaw: The hobgoblin has a tendency to...
+i:Over-eat.
+i:Drink to much.
+i:Laugh too loudly.
+i:Lose its temper.
+i:Nurse a grudge.
+i:Snore loudly when it sleeps.
+}
+{
+d:d6 Armor: The hobgoblin is wearing a/an…
+i:Shirt of boiled leather.
+i:Suit of studded leather armor.
+i:Leather helm and a chain-shirt.
+i:Steel cap and fur-lined hide armor.
+i:Steel helm and scale armor.
+i:Suit of plate armor with several nasty spikes.
+}
+{
+d:d6 Weapon: The hobgoblin is wielding a/an...
+i:Spear.
+i:Mace.
+i:Scimitar.
+i:Longsword.
+i:Battleaxe.
+i:Flail.
+}
+{
+d:d6 Equipment: The hobgoblin is also carrying or wearing a/an…
+i:Longbow and quiver of arrows.
+i:Shortbow and quiver of arrows.
+i:Belt full of throwing knives.
+i:Steel buckler.
+i:Heavy shield.
+i:Case stuffed full of maps or scrolls.
+}
+{
+d:d6 Immediate goal: The hobgoblin is looking for a/an...
+i:Opportunity to impress its superiors.
+i:Greasy meal.
+i:Stiff drink.
+i:Fight it can win.
+i:Easy mark from whom to steal coins or gems.
+i:Chance to avenge the death of a fallen comrade.
+}
+{
+d:d6 Past glory: The hobgoblin is proud to have been part of a company that...
+i:Held its fortress against repeated elvish attacks for centuries.
+i:Deposed a wood elf king who reigned over a forest for centuries.
+i:Defended its home from an army of undead servants.
+i:Exterminated the giant clans who plagued a mountain range.
+i:Survived a lengthy imprisonment in a hellish military camp.
+i:Drove a dragon out from under a mountain.
+}

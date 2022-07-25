@@ -1,0 +1,103 @@
+{
+d:d100 What's in the orge's pocket?
+i:Tombstone
+i:Wagon Wheel
+i:Wooden Oar
+i:Giant Drum
+i:Tree Stump
+i:Boulder
+i:Beehive
+i:Wooden Barrel
+i:Dragon Scale
+i:Mushrooms
+i:Tree Branch Toothpick
+i:Bag of Stolen Wheat
+i:Javelins
+i:Wooden Spear
+i:Cheese Wheel
+i:Bag of Colourful Pebbles
+i:Acorns
+i:Giant Waterskin
+i:Mammoth Tusk
+i:Boat Anchor
+i:Bag of Pipeweed
+i:Giant Club
+i:Tattered Banners
+i:Live Goat
+i:Empty Bottle
+i:Large Bag of Salt
+i:Large Arrowheads
+i:Bag of Leather
+i:Cured Meat
+i:Giant Tooth
+i:Decaying Book
+i:Cask of Ale
+i:Incomprehensible Notes
+i:Makeshift Pillow
+i:Elf Bones
+i:Barrel of Honey
+i:Bag of Onions
+i:Cauldron
+i:Animal Pelt
+i:Huge Fish
+i:Dragon Skull
+i:Berries
+i:Collection of Giant Snail Shells
+i:An Unhappy Lynx
+i:Firewood
+i:Ram Horns
+i:Bag of Pine Needles
+i:Iron Spikes
+i:Half of a Horse/Goat
+i:Huge Hammock
+i:Giant Eating Utensils
+i:River Stones
+i:10 ft. of Chain
+i:Scraps of Bread
+i:Barrel of Grog
+i:Fish Bones
+i:Bag of Seeds
+i:Large Candle
+i:Live Chicken
+i:Barn Door
+i:Huge Frog
+i:1d20 gps
+i:Fishing Net
+i:Throwing Rocks
+i:Cabbages
+i:Snot Rag
+i:Bag of Stolen Vegetables
+i:Cooking Pot
+i:Large Iron Key
+i:Mutton
+i:50 ft. of Hempen Rope
+i:Arm of a Statue (Back Scratcher)
+i:Broken Compass
+i:Barrel of Oil
+i:Crude Map of Area
+i:Bag of Coal
+i:Jar of Fishing Bait
+i:Humanoid Skulls
+i:Gigantic Egg
+i:Shiny Rock
+i:Large Makeshift Shovel
+i:Tree Roots
+i:Dead Giant Rats
+i:Bag of Herbs
+i:Pick Axe
+i:Emerald
+i:Leather Scraps
+i:Large Bedroll
+i:Bear Skin Rug
+i:Giant Torch
+i:Loincloth
+i:Food Scraps
+i:Giant Hand Axe
+i:Broken Fishing Rod
+i:Large Apron
+i:Rusted Armour
+i:Stone Maul
+i:Jar of Bugs
+i:Stone Knife
+i:A live, scared Dwarf
+}

@@ -1,0 +1,104 @@
+{
+d:d10 Color: The wolf's coat is...
+i:Black.
+i:Dark grey.
+i:Dark brown.
+i:Black and brown.
+i:Black and grey.
+i:Pale brown.
+i:Brown and grey.
+i:Reddish brown.
+i:Sandy brown.
+i:White.
+}
+{
+d:d10 Markings: The wolf has...
+i:White or pale fur on each paw.
+i:White or pale fur on one paw.
+i:White or pale fur around the face and muzzle.
+i:Black or dark fur around the face and muzzle.
+i:A banded pattern on its back (d4): 1. dark grey; 2. pale grey; 3. reddish brown; 4. sandy brown.
+i:Lighter fur on its belly.
+i:Darker fur on its belly.
+i:A distinct, white or pale grey shape on its chest (d4): 1. arrowhead; 2. diamond; 3. a wide stripe; 4. star.
+i:A scar from a past injury (d6): 1. flank; 2. foreleg; 3. hindleg; 4. snout; 5. eye; 6. ear.
+i:No obvious markings.
+}
+{
+d:d12 Eyes: The wolf's eyes are...
+i:Reflective and black.
+i:Pale grey.
+i:Brownish grey.
+i:Dark grey.
+i:Dark brown.
+i:Golden brown.
+i:Light brown.
+i:Red.
+i:Yellow.
+i:Green.
+i:Pale blue.
+i:Dark blue.
+}
+{
+d:d12 Manner: The wolf is...
+i:Panting lightly.
+i:Panting heavily, its tongue lolling out of its mouth.
+i:Salivating.
+i:Hungrily licking its chops.
+i:Yawning.
+i:Watching curiously.
+i:Watching warily.
+i:Pacing nervously.
+i:Whining softly.
+i:Watching with ears perked and hackles raised.
+i:Growling low, giving warning.
+i:Standing perfectly still, ready to lunge.
+}
+{
+d:d6 Hunting: The wolf prefers to...
+i:Pick off weak, easy prey.
+i:Stalk its prey until the opportune time to strike.
+i:Harrying its prey over long distances until the prey is exhausted.
+i:Chase its prey to a place where its packmates are waiting in ambush.
+i:Wait in ambush while one or more of its packmates chases the prey to it.
+i:Choose its prey and to run it down.
+}
+{
+d:d10 Favorite prey: If given the choice, the wolf will opt to eat...
+i:Rabbit.
+i:Squirrel.
+i:Pheasant.
+i:Goose.
+i:Deer.
+i:Sheep.
+i:Chicken.
+i:Carrion.
+i:Human flesh.
+i:Scraps from a roadside inn's refuse heap.
+}
+{
+d:d10 Pack: The wolf is...
+i:The alpha of a large pack.
+i:The alpha of a small pack.
+i:The beta of its pack, patiently waiting for the alpha to fail.
+i:The beta of its pack, constantly challenging the alpha.
+i:Somewhere in the middle of the pack order, looking for opportunities to ascend.
+i:Somewhere in the middle of the pack order, satisfied to follow the alpha.
+i:The omega of a large pack.
+i:The omega of a small pack.
+i:One of a mated pair.
+i:A lone predator.
+}
+{
+d:d10 Habitat: This type of wolf evolved to thrive...
+i:In canyonlands.
+i:In grassy hills.
+i:In forested hills{.forest,.forest enchanted,.forest haunted}.
+i:On grassy plains{.plains}.
+i:In ancient forests{.forest,.forest enchanted,.forest haunted}.
+i:In young forests{.forest,.forest enchanted,.forest haunted}.
+i:In rocky deserts{.desert,.desert flame-scorched,.desert shadowy}.
+i:In the foothills of mountains{.mountains}.
+i:In mountain passes{.mountains}.
+i:In frozen lands.
+}

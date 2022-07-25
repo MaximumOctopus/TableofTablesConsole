@@ -1,0 +1,113 @@
+{
+d:d20 This kobold is...
+i:A miner{.mines}.
+i:A scout.
+i:A warrior.
+i:A trapmaker.
+i:A sentry.
+i:A slinger.
+i:A sneakthief{.thieves}.
+i:A wyrmpriest.
+i:A rat-catcher{.rats}.
+i:A speardancer.
+i:A pyromancer.
+i:A sorcerer.
+i:A tunnel-prowler.
+i:A dragonshield.
+i:A gemcutter{gemstones}.
+i:A cook.
+i:A digger.
+i:A prankster.
+i:A slyblade.
+i:A worthless nobody.
+}
+{
+d:d12 The kobold is particularly skilled at...
+i:Being sneaky.
+i:Not being seen.
+i:Tracking foes.
+i:Building traps.
+i:Avoiding traps.
+i:Repairing traps.
+i:Foraging for food and water.
+i:Digging tunnels.
+i:Blasting tunnels.
+i:Backstabbing foes.
+i:Backstabbing allies.
+i:Cutting throats.
+}
+{
+d:d12 The kobold wields...
+i:A jagged little sword.
+i:A mended sword
+i:A spiked club.
+i:A wicked looking axe.
+i:A spear tipped with obsidian.
+i:Several daggers of obsidian.
+i:A large, serrated dagger.
+i:A pair of curved daggers.
+i:A cracked wooden shield.
+i:A shield with scorch marks.
+i:A sling with a pouch of small, smooth stones.
+i:A sling with a clay pot full of goo.
+}
+{
+d:d12 The kobold wears...
+i:Armor with greasy stains.
+i:Patched leather armor.
+i:Piecemeal chain armor.
+i:A leather helm.
+i:A bat-winged helm.
+i:A dragon-face helm{.dragons}.
+i:A breastplate emblazoned with a snake.
+i:Several ropes tied to its belt.
+i:A belt with a lot of tools.
+i:A cloudy crystal on a string around its neck.
+i:A black cloak with a hood.
+i:A large belt purse.
+}
+{
+d:d12 The kobold has...
+i:Red warpaint on its face.
+i:A missing eye.
+i:Burn scars on its face.
+i:Several missing front teeth.
+i:Unusually long teeth.
+i:A long, thin bone in its nose piercing.
+i:Violet eyes.
+i:Dark, striped scales.
+i:Bright, spotted scales.
+i:Pale, striped scales.
+i:Dull, spotted scales.
+i:Several missing fingers.
+}
+{
+d:d12 The kobold has...
+i:An unsettling stare.
+i:A lean and hungry look.
+i:A maniacal laugh.
+i:An incessant cackle.
+i:A high-pitched twittering laugh.
+i:A tendency to snicker at everything.
+i:A nervous twitch.
+i:A difficult time standing still.
+i:A limp.
+i:A habit of tapping one foot when it stands still.
+i:A habit of chewing on its fingers.
+i:A ponderous bulk, for a kobold{.kobolds}.
+}
+{
+d:d12 Presently, the kobold is looking to...
+i:Find something to eat.
+i:Find something to drink.
+i:Find some coins or gems to steal{gemstones}.
+i:Warn its master of monster hunters in the area.
+i:Warn its master of a savage beast in the area.
+i:Report to its master as to where to find treasure.
+i:Prove its mettle to its master.
+i:Avoid notice by its master
+i:Avoid notice by anyone.
+i:Leave its master entirely.
+i:Play a cruel prank.
+i:Test out a newly built trap.
+}

@@ -1,0 +1,46 @@
+{
+d:d12 The celestial beast appears in the form of...
+i:A badger.
+i:A bull.
+i:A dove.
+i:An eagle.
+i:A griffon.
+i:A hound.
+i:A horse{.horses}.
+i:A lion.
+i:A serpent.
+i:A stag.
+i:A swan.
+i:A unicorn.
+}
+{
+d:d8 The beast has...
+i:Shining golden eyes.
+i:Sympathetic pale blue or grey eyes.
+i:Eyes full of knowledge and judgment.
+i:A crown of gold.
+i:Wings of the pure white feathers.
+i:Pristine white feathers or fur.
+i:An aura of glowing light.
+i:An aura of peacefulness.
+}
+{
+d:d6 ...and...
+i:Moves gracefully, almost gliding.
+i:Carries itself proudly.
+i:Has a gentle manner.
+i:Speaks eloquently.
+i:Speaks in poetic riddles.
+i:Fills you with a sense of peace.
+}
+{
+d:d8 The beast is looking for...
+i:An answer to a cosmic riddle.
+i:A mortal worthy of its service.
+i:A mortal worthy of serving its master.
+i:A mortal condemned to die by its master.
+i:A mortal who has succumbed to temptation.
+i:An item of importance to its master.
+i:The location of an ancient, hidden evil.
+i:The resting place of a great hero.
+}

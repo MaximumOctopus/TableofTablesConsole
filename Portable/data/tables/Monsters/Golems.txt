@@ -1,0 +1,287 @@
+{
+d:d12 The golem is...
+i:1. Tiny.
+i:2. Compact.
+i:3. Humanoid.
+i:4. Four-legged.
+i:5. Enormous.
+i:6. Shifting.
+i:7. Thickset.
+i:8. Willowy.
+i:9. Round.
+i:10. Foldable.
+i:11. Paunchy.
+i:12. Slight.
+}
+{
+n:material
+d:d100 ...and made of...
+i:01-03. Clay.
+i:04-06. Rock.
+i:07-09. Iron.
+i:10-12. Steel.
+i:13. Titanium.
+i:14. Orichalcum.
+i:15. Glass.
+i:16-18. Bone and tooth.
+i:19. Ivory.
+i:20. Wood.
+i:21. Chalk.
+i:22-24. Ice.
+i:25. Gold.
+i:26. Silver.
+i:27. Bronze.
+i:28. Copper.
+i:29-31. Brass.
+i:32. Dirt.
+i:33. Grass and vines.
+i:34. Sky iron.
+i:35. Scarletite.
+i:36. Diamond.
+i:37. Garnet.
+i:38. Amethyst.
+i:39-41. Flesh.
+i:42. Shaped Souls.
+i:43-45. Quartz.
+i:46-48. Obsidian.
+i:49-51. Chains.
+i:52. Ash.
+i:53. Gears.
+i:54. Magnetic rock.
+i:55-57. Mud.
+i:58. Web.
+i:59. Demonic flesh.
+i:60. Scales.
+i:61. Dragonbone.
+i:62. Hellfire.
+i:63-65. Sand.
+i:66-68. Marble.
+i:69. Books.
+i:70. Straw.
+i:71. Coral.
+i:72. Amber.
+i:73. Shadow.
+i:74. Lightning.
+i:75. Blood glob.
+i:76. Rope and string.
+i:77. Jelly.
+i:78. Wax.
+i:79. Water.
+i:80. Slate.
+i:81. Plastic.
+i:82. Fur.
+i:83. Quicksilver.
+i:84. Honey.
+i:85. Locusts.
+i:86. Paper.
+i:87. Fabric.
+i:88. Vapour.
+i:89. Mercury.
+i:90. Aluminium.
+i:91. Platinum.
+i:92-94. Tin.
+i:95. Gravestone{.graverobbers}.
+i:96. Brick.
+i:97. Springs.
+i:98. Feathers.
+i:99. Vegetables.
+i:100. Sponge.
+}
+{
+d:d20 The golem is powered by...
+i:1. Clockwork.
+i:2. Steam.
+i:3. Bound souls.
+i:4. A magical-mechanical rune system.
+i:5. Divine will.
+i:6. A purpose inherent to the universe.
+i:7. Arcane force.
+i:8. A system of weight lifts and pendulums.
+i:9. Life Essence.
+i:10. Electricity.
+i:11. Tapping into mana veins.
+i:12. A reality shaping force or spell.
+i:13. Elementals.
+i:14. Strings to a puppet master.
+i:15. Sunlight.
+i:16. Food{.food}.
+i:17. A symbiote.
+i:18. Fuel combustion.
+i:19. The wind.
+i:20. Liquid pumps.
+}
+{
+d:d6 The golem...
+i:1. Is brand new.
+i:2. Is recent.
+i:3. Has been around for a while.
+i:4. Is old.
+i:5. Is very old.
+i:6. Is ancient.
+}
+{
+d:d100 The golem was built for...
+i:01-03. Mining.
+i:04-06. Guarding.
+i:07-09. Soldiering{.soldiers}.
+i:10-12. Defending.
+i:13-15. Forging.
+i:16. Alchemy.
+i:17-19. Carrying.
+i:20-22. Searching.
+i:23-25. Intimidating.
+i:26-28. Storing knowledge.
+i:29. Aesthetics.
+i:30. Hunting.
+i:31-33. Collecting.
+i:34-36. Farming.
+i:37-39. Constructing.
+i:40-42. Transporting.
+i:43-45. Policing.
+i:46. Exploring.
+i:47. Advising.
+i:48-50. Arena fighting.
+i:51. Healing.
+i:52. Powering.
+i:53. Entertaining.
+i:54. Sexual gratification.
+i:55. Teaching.
+i:56. Guiding.
+i:57. Recording.
+i:58. Drawing.
+i:59. Observing.
+i:60. Holding.
+i:61. Exterminating.
+i:62. Brewing.
+i:63. Tabulating.
+i:64. Informing.
+i:65. Illuminating.
+i:66. Fetching.
+i:67. Handling.
+i:68. Taming.
+i:69. Playing.
+i:70. Cooking.
+i:71. Sorting.
+i:72. Casting spells.
+i:73. Grave digging{.graverobbers}.
+i:74. Investigating.
+i:75. Breaking things down.
+i:76. Maintaining.
+i:77. Cutting.
+i:78. Protesting.
+i:79. Heating.
+i:80. Road building.
+i:81. Climbing.
+i:82. Stealing.
+i:83. Consuming.
+i:84. Reciting.
+i:85. Accounting.
+i:86. Following.
+i:87. Reading.
+i:88. Shearing.
+i:89. Tanning.
+i:90. Assembling.
+i:91. Monitoring.
+i:92. Flight.
+i:93. Keeping secrets.
+i:94. Deciphering.
+i:95. Spelljamming.
+i:96. Sealing.
+i:97. Sparring.
+i:98. Generating.
+i:99. Enchanting.
+i:100. Grinding.
+}
+{
+d:d20 The golem was created by...
+i:1. A priest.
+i:2. A lich.
+i:3. A mage.
+i:4. An artisan{.artisans}.
+i:5. A god.
+i:6. A demon.
+i:7. A warlord.
+i:8. A factory.
+i:9. A general.
+i:10. A king.
+i:11. Nature.
+i:12. A druid.
+i:13. An alchemist{.alchemists}.
+i:14. A scholar.
+i:15. A cultist{.cultists,.cultists (snake cultists)}.
+i:16. A dragon{.dragons}.
+i:17. A merchant{.merchant caravans,.merchant guilds}.
+i:18. A criminal.
+i:19. An ealdorman.
+i:20. An experimentalist.
+}
+{
+d:d8 Who imbued or equipped it with...
+i:1. Knowledge (d6): 1. magic; 2. creatures and plants; 3. alchemy and medicine 4. strategy and tactics; 5. economics and craftsmanship; 6. people and cultures.
+i:2. Social skills (d6): 1. human-level speech; 2. true empathy; 3. an ability to manipulate; 4. language translation; 5. group psychology; 6. body language.
+i:3. Gadgetry (d6): 1. a grappling hook; 2. an automatic saw; 3. a powerful lamp; 4. a trap placer; 5. a number of hidden compartments; 6. a gyroscope of perfect balance.
+i:4. Special senses (d6): 1. night vision; 2. magical sensitivity; 3. acute senses; 4. presence of spirits, demons and curses; 5. lie detection; 6. absolute direction.
+i:5. Emotion (d6): 1. rage; 2. melancholy; 3. sadness; 4. happiness; 5. fear; 6. hatred.
+i:6. A personality trait (d6): 1. compassion; 2. rudeness; 3. curiosity; 4. aggressiveness; 5. joyfulness; 6. mischievousness.
+i:7. A magical force (d6): 1. demonic; 2. holy; 3. elemental; 4. arcane; 5. wild; 6. void.
+i:8. A special ability (d6): 1. self-repair; 2. extreme temperature and environmental resistance; 3. self-destruct sequence; 4. perfect memory; 5. alternate form; 6. gain additional armour or summon a protective force field.
+}
+{
+d:d100 Distinguishing Feature: The golem has or is...
+i:01-03. An extra pair of limbs.
+i:04-06. A vibrant and unusual colour.
+i:07-09. The complete lack of any facial features.
+i:10-12. An inability to move.
+i:13-15. A set of predatory fangs.
+i:16-18. A section that has been repaired with a different material.
+i:19-21. Glowing runes.
+i:22-24. Instructions written in a strange script displayed prominently.
+i:25-27. Rich and elaborate decorations.
+i:28-30. The crest or sigil of a noble house or organization{.nobles,.noble houses}.
+i:31-33. A face made to resemble a real living or dead person.
+i:34-36. Brightly shining eyes.
+i:37-39. A head shaped to resemble an animal's.
+i:40-42. Part of the head is shaped to resemble a crown.
+i:43-45. Been prominently built of a second material: @material.
+i:46-48. It is designed to look like a statue.
+i:49-51. Obviously made by an amateur.
+i:52-54. Parts are chipped off or well worn.
+i:55-57. Colour differences seem to indicate being made in different stages.
+i:58-60. It is inlayed with gems and precious metals{gemstones}.
+i:61-62. Magical strains and strings are visible.
+i:63-64. Overgrown.
+i:65-66. Wearing clothes.
+i:67-68. No eyes.
+i:69-70. Its material is polished to almost mirror-like qualities.
+i:71-72. Its material was shaped to resemble a fancy hairstyle.
+i:73-74. Elaborate scrollwork.
+i:75-76. Carrier bags.
+i:77-78. A single Cyclopean eye.
+i:79-80. Oddly shaped shoulders.
+i:81-82. A veil.
+i:83-84. Hooks and eyelets placed all over.
+i:85-86. A custom suit of armour.
+i:87-88. Etched geometric or themed patterns.
+i:89-90. Covered in fur.
+i:91-92. Reinforced joints.
+i:93-94. Some of the inner workings is visible.
+i:95-96. A fan or chutes for heat dissipation.
+i:97-98. It's designed to resemble a mythical creature.
+i:99-100. A strange hum emanating from its core.
+}
+{
+d:d4 The golem defends itself with...
+i:1. Melee attacks (d6): 1. a massive hammer; 2. unarmed combat; 3. sharp twin blades; 4. a trident or spear; 5. a broadsword; 6. a battleaxe.
+i:2. Ranged attacks (d6): 1. a fixed repeater crossbow; 2. a mounted grenade launcher; 3. a blade or shuriken thrower in the wrist; 4. a flamethrower; 5. a directed force coil; 6. a liquid spray.
+i:3. Magic (d6): 1. elemental force; 2. holy smiting; 3. necrotic corruption; 4. arcane energy; 5. terrible curses; 6. wild power.
+i:4. Nothing; it can't defend itself.
+}
+{
+d:d6 The golem's condition might be described as...
+i:1. Pristine.
+i:2. Well-maintained.
+i:3. Showing a little wear from active duty.
+i:4. In need of some maintenance.
+i:5. In need of repair and soon.
+i:6. Barely holding together.
+}

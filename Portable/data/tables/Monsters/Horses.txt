@@ -1,0 +1,110 @@
+{
+d:d8 Breed/Variety: The horse is...
+i:A pony; stout and suitable for small riders and narrow trails.
+i:A dray; reliable and suitable for pulling plows and wagons.
+i:A garron; hardy and well-suited for harsh weather and terrain.
+i:A palfrey; tireless and well-suited for long journeys.
+i:A rounsey; medium-sized and suitable for riding or for battle.
+i:A courser; swift and well-suited for hunting or for battle.
+i:A charger; solid and suitable for jousting or for battle.
+i:A destrier; huge and well-suited for jousting or for battle.
+}
+{
+d:d8 Gender and Age: The horse is...
+i:A colt.
+i:A young gelding.
+i:An old gelding.
+i:A stallion.
+i:A yearling.
+i:A filly.
+i:A young mare.
+i:An old mare.
+}
+{
+d:d8 Quality: The horse is...
+i:A stot; this animal is completely useless.
+i:A canner; this animal is good for nothing but meat.
+i:A hack; this animal is mediocre, but useful.
+i:A hard keeper; this animal requires extra food to maintain its strength and endurance. .
+i:An easy keeper; this animal requires little food to maintain its strength and endurance.
+i:Of middling quality; acceptable for its breed.
+i:Of high quality; a very good animal for its breed.
+i:Of the highest quality; a paragon of its breed.
+}
+{
+d:d8 Color: The horse's coat is...
+i:Bay.
+i:Black.
+i:Buckskin.
+i:Chestnut.
+i:Gray.
+i:Piebald.
+i:Roan.
+i:White.
+}
+{
+d:d8 Eyes: The horse has...
+i:Light brown eyes.
+i:Brown eyes.
+i:Dark brown eyes.
+i:Green eyes.
+i:Hazel eyes.
+i:Amber eyes.
+i:Brown and blue eyes.
+i:Blue eyes.
+}
+{
+d:d8 Flaw: The horse is...
+i:Pigeon toed.
+i:Splay footed.
+i:Mule footed (narrow feet).
+i:Mushroom footed (large feet).
+i:Barrel chested.
+i:Narrow chested.
+i:Steep rumped.
+i:Slab sided.
+}
+{
+d:d8 Severity of Flaw: The horse's flaw is...
+i:Imperceptible to all but the most expert horsemasters and riders.
+i:Barely noticeable.
+i:Not a hindrance to the horse's performance.
+i:Something the horse can make up for with its other qualities.
+i:Something that sufficient training can overcome.
+i:Something that makes riding the horse a little difficult.
+i:Something that makes riding the horse a little embarrassing.
+i:A severe hindrance to the horse's performance.
+}
+{
+d:d8 Distinguishing Feature: The horse has...
+i:One eye that is blind or nearly blind.
+i:Pig eyes (small eyes).
+i:Large ears.
+i:Small ears.
+i:A wry tail (tail carried to one side).
+i:A clipped tail.
+i:A scar above one forehoof.
+i:A shaggy mane.
+}
+{
+d:d8 Personality: Most of the time, this horse is...
+i:Eager to please.
+i:Social.
+i:Gentle.
+i:Aloof.
+i:Unimpressed.
+i:Fearful.
+i:Challenging.
+i:Foul-tempered.
+}
+{
+d:d8 Behavior: The horse often...
+i:Nickers when anxious.
+i:Whinnies when anxious.
+i:Bucks when impatient.
+i:Stamps when impatient.
+i:Froths when tired.
+i:Snorts when tired.
+i:Stamps when content.
+i:Snorts when content.
+}

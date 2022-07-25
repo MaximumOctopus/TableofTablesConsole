@@ -1,0 +1,12 @@
+// library files contain look-up tables for other tables. they will not appear in 
+// the ToT category or subcategory lists.
+// see the readme.txt file for more information on using look-up tables.
+//
+// this is an example library file that should be edited to create custom content
+// ToT will never edit or overwrite library files EXCEPT library.data
+{
+n:paulscats
+d:d2 which of paul's cats:
+i:rutherford
+i:freeman
+}

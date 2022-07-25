@@ -1,0 +1,55 @@
+[
+d:How will the enemy behave in battle?
+{
+d:d50 This enemy...
+i:Is racist against Elves. It will attack a randomly chosen elf in the party, or whoever looks most like an elf.
+i:Is racist against Dwarves. It will attack a randomly chosen dwarf in the party, or whoever looks most like a dwarf.
+i:Is afraid of monsters. It will attack any randomly chosen tiefling, dragonborn, or other monster-like race in the party.
+i:Thinks humans are the real monsters. It will attack any randomly chosen human in the party, or whoever looks most human-like.
+i:Is attracted to bright colours. It will attack whoever is the most flamboyantly dressed.
+i:Is enraged by the colour red. It will attack whoever is wearing the most red (including red skin and tattoos).
+i:Is easily distracted by shiny objects. It will attack whoever is wearing/carrying the most precious metal, gems, or other shiny material.
+i:Is a slut-shamer. It will attack whoever is showing the most exposed skin.
+i:Can’t stand the trends of this generation. It will attack whoever has the most tattoos and/or piercings.
+i:Is in a blind panic. Roll randomly to decide who it attacks each turn.
+i:Has a vicious bloodlust. Roll randomly to decide who it attacks first, and it will not stop attacking until they are dead.
+i:Has a thirst for revenge. It will attack the first person who makes an attack against it and won't stop attacking until they are dead.
+i:Has a short-term memory. It will attack the last person who made an attack against it, whether it hits or misses.
+i:Wants the pain to stop. It will attack whoever has dealt the most damage to it during the battle.
+i:Hates/fears magic. Will attack anybody it sees using a spell, focusing on whoever is closest.
+i:Has tunnel vision. Will attack whoever is closest to it.
+i:Is nearsighted. Will only attack melee opponents, and seems to not understand where ranged attacks are coming from.
+i:Has trouble seeing up close. Will try to move away from melee attackers, and prefers to attack ranged opponents.
+i:Knows how to cripple a party. Will attack anyone it sees using a healing spell, and won't let up until they are dead.
+i:Can smell blood. It will attack whoever in the group has the lowest current HP.
+i:Can’t smell enough blood. It will attack whoever in the group has the highest current HP.
+i:Can sense easy prey. It will attack whoever in the group has the lowest max HP.
+i:Recognizes easy targets. It will attack whoever in the group has the lowest AC.
+i:Enjoys a challenge. It will attack whoever in the group looks the most dangerous/threatening.
+i:Recognizes that the bigger they are, the harder they fall. It will attack whoever is physically the largest.
+i:Laughs at its puny opponents. It will attack whoever is physically the smallest.
+i:Thinks it can destroy the tank. It will attack whoever has the highest AC.
+i:Gives up too easily. It will attack whoever is closest, but will switch to the next closest target if its attack misses.
+i:Is misogynistic. It will attack the closest female character.
+i:Is misandristic. It will attack the closest male character.
+i:Fears what it doesn’t understand. It will attack the most androgynous-looking character, who can’t be identified as male or female.
+i:Is extremely far-sighted. It will charge at whoever in the group is furthest away.
+i:Goes after slow targets. It will attack whoever in the group is last in the initiative order.
+i:Makes a snap judgement. It will attack whoever in the group moves first.
+i:Is threatened by fast movements. It will attack whoever in the group moved the furthest distance in the last round.
+i:Can’t keep track of moving targets. It will attack anybody who stands still during their turn.
+i:Believes in the power of teamwork. It will only attack party members who are already being attacked by one of its allies.
+i:Fears fire. It will attack whoever uses a fire-based attack, or is carrying a torch or other exposed flame.
+i:Is extremely jealous of beauty. It will attack whoever in the party is the most beautiful, attempting to scar them.
+i:Wants to beautify the world. It will attack whoever in the party is the most ugly.
+i:Has a sensitive nose. It will attack whoever in the party smells the worst.
+i:Can’t stand the smell of alcohol. It will attack whoever was most recently drunk.
+i:Is startled by loud voices. It will attack whoever talks/yells the loudest.
+i:Distrusts those who keep quiet. It will attack whichever character spoke the least this round.
+i:Had a cruel ex-lover with long, beautiful hair. It will attack whichever character has the longest hair.
+i:Is a tool for the DM to pettily enforce their table rules. It will attack whichever player (in real life) last looked at their phone or computer.
+i:Was a high school bully who never grew out of it. It will attack whoever has high Intelligence and low Strength, or seems the most "nerdy".
+i:Was bullied as a child and is resentful. It will attack whoever has low Intelligence and high Strength, or seems the most like a dumb jock.
+i:Thinks it’s unnatural and wrong for people to fly. It will attack whoever flies in the air (or just jumps really high).
+i:Is afraid of sharp objects. It will move away from anybody brandishing a sword or axe, and will prefer to attack enemies carrying blunt weapons.
+}

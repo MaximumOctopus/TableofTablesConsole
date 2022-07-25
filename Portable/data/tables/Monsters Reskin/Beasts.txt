@@ -1,0 +1,69 @@
+{
+d:d8 These monsters use the base template of
+i:Dire Wolf
+i:Displacer Beast
+i:Blink Dog
+i:Elk
+i:Giant Eagle
+i:Cave Bear
+i:Rhino
+i:Horse
+}
+{
+d:d6 They have an increased ability attribute
+i:Strength +6
+i:Intelligence +6
+i:Widsom +6
+i:Dexterity +6
+i:Constitution +6
+i:Charisma +6
+}
+{
+d:d6 They have adapted physically to the following environment
+i:Sub-zero Temperatures
+i:Subterranean underground living
+i:Living inside a volcano
+i:Scorching heat in a desert
+i:Dense Jungle or Thick Forest
+i:Barren Wasteland and/or marshland
+}
+{
+d:d6 They have one of the following traits
+i:Darkvision, Tremorsense, Truesight or Blindsight
+i:Sharp claws
+i:Immune to aging effects
+i:Resistant to a certain damage type
+i:Faster Movement Speed
+i:Thicker Hide
+}
+{
+d:d8 They have an advantageous physical anomaly
+i:A large set of wings
+i:A second head
+i:Natural horns, spines, and/or Spikes
+i:An extra set of arms
+i:An extra set of legs
+i:Oversized mouths and a dangerous bite
+i:Venomous Fangs
+i:Opposable Thumbs
+}
+{
+d:d8 And to make things even crazier, they have
+i:An extra set of arms
+i:An extra set of legs
+i:A pair of claws
+i:A scorpion's tail
+i:The ability to grow to a tremendous size
+i:Spellcasting abilities
+i:A hive-mind shared throughout the entire species
+i:The ability to teleport short distances
+}
+{
+d:d6 Their meat is
+i:Tasty
+i:Of religious value
+i:Poisonous
+i:Cursed
+i:Tasteless
+i:Revitalising
+}

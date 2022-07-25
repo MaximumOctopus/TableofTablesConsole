@@ -1,0 +1,338 @@
+{
+d:d20 The sport is played...
+i:on a grass field
+i:on tilled ground
+i:on packed earth
+i:in a recently harvested field
+i:in a recently planted field
+i:on the side of a hill
+i:in an excavated pit
+i:in a specially constructed room with wooden floors
+i:atop castle walls
+i:in a body of water
+i:suspended from harnesses
+i:on city streets
+i:in a magically constructed pocket dimension
+i:on a field of bamboo poles
+i:in the air
+i:on ice
+i:on hot coals
+i:in the mind
+i:on shifting stone slabs
+i:wherever there is room
+}
+{
+d:d10 by...
+i:two equal opposing teams
+i:two unequal opposing teams
+i:many equal competing teams
+i:many unequal competing teams
+i:two equal opposing individuals
+i:two unequal opposing individuals
+i:many equal competing individuals
+i:many unequal competing individuals
+i:teams competing against a record
+i:individuals competing against a record
+}
+{
+d:d20 using...
+i:their feet
+i:their hands
+i:their bodies
+i:telekinesis
+i:their heads
+i:wheeled vehicles
+i:riding animals
+i:flying vehicles
+i:flying creatures
+i:racquets
+i:bats or clubs
+i:nets
+i:swords
+i:magic
+i:ten foot poles
+i:strength augmenting armor
+i:bows
+i:explosives
+i:golems or constructs
+i:magic items
+}
+{
+d:d20 to...
+i:move spherical balls
+i:move lopsided balls
+i:move themselves
+i:move someone else
+i:move pucks
+i:move batons
+i:move living creatures
+i:capture moving objects
+i:capture stationary objects
+i:capture living creatures
+i:capture opponents
+i:combat living creatures
+i:combat opponents
+i:combat golems or constructs
+i:combat illusions
+i:destroy objects
+i:save objects from destruction
+i:save living creatures from destruction
+i:save people from destruction
+i:save themselves from destruction
+}
+{
+d:d20 Each session is...
+i:played continuously until completed
+i:divided into two halves
+i:divided into three sets
+i:divided into four quarters
+i:divided into five quints
+i:divided into six sestets
+i:divided into seven heptads
+i:divided into eight ogdoads
+i:divided into nine enneads
+i:divided into ten decades
+i:paused after each success or point
+i:paused by the teams or players at will
+i:paused by the officiants at will
+i:paused by the spectators at will
+i:paused by a noble at will
+i:divided by a naturally occurring phenomenon
+i:divided by chance
+i:divided by a complex system of rules
+i:divided at the whims of a deity
+i:paused only to refresh or repair the playing field
+}
+{
+d:d20 lasts...
+i:for fifteen minutes
+i:for thirty minutes
+i:for forty-five minutes
+i:for an hour
+i:for two hours
+i:for three hours
+i:for four hours
+i:for eight hours
+i:for twelve hours
+i:from sunrise to sunset
+i:from sunset to sunrise
+i:for a full day
+i:until a set score or objective is reached
+i:until only the victor is standing
+i:until after the last competitor or team competes
+i:until the last spectator leaves
+i:until the playing field is unusable
+i:until a noble wills it
+i:until a deity wills it
+i:indefinitely
+}
+{
+d:d10 and is officiated by...
+i:impartial professionals
+i:impartial volunteers
+i:representatives of the competitors
+i:spectators
+i:royalty
+i:a religious order
+i:a soothsayer translating the will of a deity
+i:a deity
+i:the competitors themselves
+i:no one
+}
+{
+d:d20 The sport is...
+i:played by simple folk
+i:played by landed gentry
+i:played by the military
+i:played by paid professionals
+i:played by university students
+i:played by artisans guilds
+i:played by mariners and pirates
+i:played by barbarians
+i:played by druids
+i:played by rangers
+i:played by religious orders
+i:played by savage races
+i:played by noble races
+i:played by long-lived races
+i:played by short-lived races
+i:played by everyone with varying levels of skill
+i:played by everyone with varying levels of risk
+i:played by everyone with universal levels of skill
+i:played by everyone with universal levels of risk
+i:not played - it exists only in the annals of history
+}
+{
+d:d20 at the...
+i:immediate level
+i:local level
+i:regional level
+i:city/town level
+i:kingdom level
+i:provincial level
+i:district level
+i:cross-kingdom level
+i:empire level
+i:cross-empire level
+i:sub-continental level
+i:continental level
+i:sub-hemispherical level
+i:hemispherical level
+i:sub-global level
+i:global level
+i:sub-planar level
+i:planar level
+i:sub-universal level
+i:universal level
+}
+{
+d:d20 and is...
+i:organized by a single overarching league
+i:organized by several competing leagues, using the same rules
+i:organized by several non-competing leagues, using different rules
+i:organized by regional leagues that occasionally compete with one another
+i:organized by regional leagues that only compete internally
+i:organized by individuals or teams that compete independently
+i:organized by individuals or teams that compete in large exhibitions
+i:organized by local governments that compete against other governments
+i:organized by local religious orders that compete against other orders
+i:organized by local trade guilds that compete against other guilds
+i:organized by local militias that compete against other militias
+i:organized by sponsors, who choose who competes against whom
+i:organized by a series of interconnected leagues that seed skilled individuals and teams into higher levels of play
+i:organized by wealthy owners who buy and trade teams or individuals
+i:organized by deities who choose teams or individuals as their champions
+i:organized by an ancient magic that determines who competes
+i:organized by a machine that randomly chooses who competes
+i:unorganized - the sport is not played competitively
+i:unorganized - teams or individuals compete against whom they wish
+i:unorganized - the nature of the game defies attempts to organize it
+}
+{
+d:d20 The sport is...
+i:universally popular - almost everyone who is aware of the sport is a fan
+i:incredibly popular - most who are aware of the sport are fans
+i:very popular - many who are aware of the sport are fans
+i:somewhat popular - more than half of people who are aware of the sport are fans
+i:moderately popular - about half of people who are aware of the sport are fans
+i:somewhat unpopular - more than half of people who are aware of the sport are not fans
+i:very unpopular - many who are aware of the sport are not fans
+i:incredibly unpopular - most who are aware of the sport are not fans
+i:universally unpopular - almost everyone who is aware of the sport is not a fan
+i:very divisive - in some places, the sport is very popular, but in other places it is very unpopular
+i:somewhat divisive - in some places, the sport is a little popular, but in other places it is a little unpopular
+i:selectively popular - only certain groups of people who are aware of the sport are fans
+i:selectively unpopular - only certain groups of people who are aware of the sport are not fans
+i:waning in popularity - the sport is currently popular, but is becoming less so
+i:gaining in popularity - the sport isn't currently popular, but is becoming more so
+i:secret - only certain groups that are in the know are aware of the sport
+i:almost forgotten - only older populations and anachronists are aware of the sport
+i:brand new - only a few early adopters are aware of the sport
+i:illegal - only people who are willing to defy the law are fans
+i:state mandated - by law, everyone must be a fan of the sport
+}
+{
+d:d20 the most popular sessions are...
+i:attended by 50,001 or more spectators
+i:attended by 25,001-50,000 spectators
+i:attended by 10,001-25,000 spectators
+i:attended by 5,001-10,000 spectators
+i:attended by 2,501-5,000 spectators
+i:attended by 1,001-2,500 spectators
+i:attended by 501-1000-spectators
+i:attended by 251-500 spectators
+i:attended by 101-250 spectators
+i:attended by 51-100 spectators
+i:attended by 50 or fewer spectators
+i:attended only by royalty
+i:attended only by the families of the competitors
+i:attended only by other competitors
+i:attended only by artists and writers
+i:attended only by winning a lottery
+i:attended only by the incredibly wealthy
+i:attended only by those chosen by a deity
+i:only viewed remotely via magical or mechanical means
+i:unattended
+}
+{
+d:d6 and tend to be...
+i:boring
+i:diverting
+i:interesting
+i:intense
+i:exciting
+i:thrilling
+}
+{
+d:d6 as well as...
+i:slow-paced
+i:steady
+i:moderate
+i:constant
+i:fast-paced
+i:too quick to follow
+}
+{
+d:d6 in addition to being...
+i:technical
+i:complex
+i:rules-driven
+i:flowing
+i:uncomplicated
+i:free
+}
+{
+d:d6 and...
+i:raucous
+i:chaotic
+i:energy-filled
+i:relaxing
+i:sedate
+i:calm
+}
+{
+d:d20 Fans identify their team or player affiliation...
+i:with brightly colored uniforms
+i:with complex handshakes
+i:with unique shouts and chants
+i:with beard- and hairstyles
+i:with body paint and cosmetics
+i:with magical auras
+i:with stylized symbols
+i:with intricate tattoos
+i:with interesting hats
+i:with flamboyant scarves
+i:with exaggerated body language
+i:with realistic bird calls
+i:with customized weapons
+i:with painted tokens and coins
+i:with grandiose titles
+i:with delicate paper fans
+i:with expensive pins and brooches
+i:with colorful flags and pennants
+i:with caricatured homunculi
+i:with coded communications
+}
+{
+d:d20 and fall...
+i:along gender affiliations
+i:along political affiliations
+i:along gang affiliations
+i:along religious affiliations
+i:along guild affiliations
+i:along wealth affiliations
+i:along racial affiliations
+i:along regional affiliations
+i:along player class affiliations
+i:along school of magic affiliations
+i:along elemental affiliations
+i:along planar affiliations
+i:along alignment affiliations
+i:along professional affiliations
+i:along secret society affiliations
+i:along temperamental affiliations
+i:along governmentally mandated affiliations
+i:along deity mandated affiliations
+i:along randomly chosen affiliations
+i:along social affiliations
+}

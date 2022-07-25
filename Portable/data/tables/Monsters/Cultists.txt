@@ -1,0 +1,61 @@
+{
+d:d6 The cultist...
+i:Is an outspoken true believer.
+i:Is a raving lunatic.
+i:Is a quiet, fervent believer.
+i:Has doubts, but is devoted to the cult's leader.
+i:Has doubts, but is too afraid to voice them.
+i:Doesn't care about the religious stuff; the cult meets other needs.
+}
+{
+d:d10 The cultist wears...
+i:A bandage on the thumb.
+i:A face tattoo of a holy symbol.
+i:A tattoo depicting an evil icon.
+i:A string of garlic around the neck.
+i:A robe with a tear at the knee.
+i:A fine silk robe.
+i:A large gold ring on one hand.
+i:A hooded robe.
+i:A robe emblazoned with a holy symbol.
+i:A lush, full beard.
+}
+{
+d:d10 The cultist has...
+i:A ceremonial dagger in hand.
+i:A book protruding from his or her pocket.
+i:A large scar on the throat.
+i:Scraggly matted hair.
+i:A shaved head.
+i:Scars on the wrists.
+i:A protruding chin.
+i:A maniacal grin.
+i:A surly curl of the lip.
+i:A gap between the front teeth.
+}
+{
+d:d10 The cultist is...
+i:Humming an eerie incantation.
+i:Sweating profusely.
+i:Breathing heavily.
+i:Twitching nervously.
+i:Laughing hysterically.
+i:Muttering under his/her breath.
+i:Coughing up a lung.
+i:Whispering a prayer.
+i:Moving with a limp.
+i:Stinking of wine{.wines}.
+}
+{
+d:d10 The cultist is looking for...
+i:Ways to impress the cult’s leader.
+i:Tips for seducing the cult’s leader.
+i:Methods to assassinate the cult’s leader{.assassins' guilds}.
+i:Something that will impress his/her god.
+i:Something to eat.
+i:Something to kill.
+i:Ways to advance the cult’s goals.
+i:New recruits.
+i:Religious scholars to debate.
+i:A bottle of wine{.wines}.
+}

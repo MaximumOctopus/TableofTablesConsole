@@ -1,0 +1,197 @@
+{
+d:d12 Status/Rank: The fiend is...
+i:In the service of a more powerful fiend.
+i:Bound to serve a mortal spellcaster.
+i:Recently freed of its bonds.
+i:Bound to a particularly location.
+i:Recently reborn.
+i:An ancient and powerful being.
+i:Rapidly ascending in rank.
+i:Recently demoted from a position of greater power.
+i:Rampaging after breaking free of its summoner.
+i:A respected and feared lieutenant of a mighty fiend.
+i:A laughingstock among the mighty fiends of its home realm.
+i:Not entirely certain what its purpose and place may be.
+}
+{
+d:d12 Skin: The fiend's skin is...
+i:Dark crimson.
+i:Blood red.
+i:Blackened.
+i:Pale pink.
+i:Sickly grey.
+i:Burnt orange.
+i:Mottled brown.
+i:Orange-ish tan.
+i:Shiny.
+i:Rough.
+i:Fur-covered.
+i:Scaly.
+}
+{
+d:d12 Eyes: The fiend's eyes are...
+i:Glowing yellow.
+i:Burning red.
+i:Pitch black.
+i:Deep blue.
+i:White, with no visible pupils.
+i:Toxic green.
+i:Dull grey.
+i:Midnight blue.
+i:Laughing.
+i:Unblinking and hollow.
+i:More often closed than open.
+i:Wide and perceptive.
+}
+{
+d:d12 Head/Face: The fiend has...
+i:A long snout.
+i:Sharp fangs.
+i:The face of a beautiful woman.
+i:Curved horns.
+i:Short horns.
+i:Long, sharp horns.
+i:Blackened horns.
+i:An unsettling grin.
+i:A terrifying scowl.
+i:A constant smirk.
+i:Long, dark hair.
+i:Large ears.
+}
+{
+d:d12 Body: The fiend has...
+i:A well-muscled physique.
+i:A voluptuous feminine shape.
+i:Burnt flesh.
+i:Cracked flesh.
+i:A slender frame.
+i:A thick-set frame.
+i:A tall, bony frame.
+i:A grotesque, obese body.
+i:A lithe, athletic body.
+i:Horrific scars.
+i:Discolored flesh.
+i:Many piercings.
+}
+{
+d:d12 Appendages: The fiend has...
+i:A pair of leathery wings.
+i:A pair of feathered wings.
+i:Wings pull close to its body to hide from view.
+i:A scaly tail.
+i:A tail ending in a poisoned stinger.
+i:A forked tail.
+i:An extra pair of arms.
+i:Over-sized pincers in place of hands.
+i:Hooves in place of feet.
+i:Exceptionally long fingernails.
+i:Talons in place of feet.
+i:The body and legs of a beast (d6): 1. crocodile; 2. goat; 3. lion; 4. serpent; 5. spider{.spiders}; 6. walrus.
+}
+{
+d:d12 Knowledge and Magic: The fiend possesses...
+i:A missing line from a dark prophecy.
+i:The soul of a celebrated hero trapped in a gem{gemstones}.
+i:The soul of a terrifying villain trapped in a gem{gemstones,.villains}.
+i:The true name of a god or goddess.
+i:A contract with an ancient dragon{.dragons}.
+i:A map to the prison of a powerful aberrant being{.prisons}.
+i:A map to the location of a dead god's resting place.
+i:The key to the gates of a destructive realm.
+i:A key to the gates of the realm of the dead.
+i:Knowledge of the location of a lost city.
+i:A book of morbid omens and prophecies.
+i:A book of foul summoning rituals.
+}
+{
+d:d12 Weapons/Attacks: The fiend prefers to fight with...
+i:A whip of pure flame.
+i:A sword of elemental lightning.
+i:A cudgel covered in teeth and sharp spikes.
+i:A black steel mace.
+i:A steel sword tempered in blood.
+i:A wicked trident or spear.
+i:Poison-coated arrows.
+i:Life-draining arrows.
+i:Spells and enchantments.
+i:Its minions and thralls.
+i:Its bare fists.
+i:Tooth and claw.
+}
+{
+d:d12 Goal: The fiend is looking for...
+i:A soul to collect and to keep.
+i:A soul to devour.
+i:Flesh to devour.
+i:Powerful secrets.
+i:A specific person who cheated it.
+i:An artifact from a previous age.
+i:Something to kill.
+i:Something to burn.
+i:An opportunity to usurp the place of its fiendish liege.
+i:An opportunity to prove its value to its fiendish liege.
+i:A lost temple or tomb of story and song{.temples,.tombs}.
+i:The means to open a portal to a dark realm.
+}
+{
+d:d6 Weakness: The fiend cannot resist...
+i:Tasty flesh.
+i:A pretty face.
+i:A stiff drink.
+i:Breaking and smashing things.
+i:Setting things on fire.
+i:A chance to gloat.
+}
+{
+d:d12 Favorite Prey: The fiend is particularly fond of preying upon...
+i:Beautiful young women.
+i:Handsome young men.
+i:Rulers and tyrants.
+i:Poor, simple folk.
+i:Pious, religious folk.
+i:Mighty warriors.
+i:Greedy and ambitious nobles and merchants{.merchant caravans,.merchant guilds,.nobles,.noble houses}.
+i:Sad old men and women.
+i:Sailors, pirates, and fishermen{.sailors,.pirates,.fishermen}.
+i:Desperate outlaws and thieves{.outlaw bands}.
+i:Talented actors and musicians.
+i:Anyone; the fiend enjoys variety.
+}
+{
+d:d20 Favorite Torments: With prey in its clutches, the fiend prefers to...
+i:Dismember its prey savagely.
+i:Devour the flesh of its prey hungrily.
+i:Toy with its prey before killing it.
+i:Seduce its prey before violating the prey sadistically.
+i:Mutilate its prey, leaving a horrifying reminder of the encounter.
+i:Imprison its prey, subjecting it to years of psychological torment.
+i:Torture its prey, keeping it alive and in pain for years.
+i:Trap the soul of its prey in a gem{gemstones}, jar, or other object.
+i:Collect the soul of its prey, sending it along to a fiendish realm.
+i:Mark the soul of its prey, returning to collect it later.
+i:Corrupt its prey, inciting it to commit evil acts.
+i:Devour the soul of its prey, leaving a soulless husk.
+i:Set dates for meetings then arrive late or cancel at the last minute.
+i:Set dates for meetings and then never show up, apologize profusely, and promise to “make it up to you.”
+i:Sow discord between its prey and the prey’s companions.
+i:Lead its prey far afield while important matters are left undecided.
+i:Lie to its prey; painting a rosier picture than reality dictates.
+i:Undermine its prey’s business ventures.
+i:Enter contracts it knows are flawed in its favor to the prey’s detriment.
+i:Make promises to its prey for the sole purpose of breaking them.
+}
+{
+d:d12 Vulnerability: To bind, to summon, or to control the fiend or to drive it back to the shadow, one must...
+i:Speak its true name.
+i:Write its true name in one’s own blood.
+i:Tattoo its true name to one’s breast.
+i:Ritualistically burn a bit of the fiend’s skin.
+i:Graft some of the fiend’s skin to one’s self.
+i:Replace one’s own hand with the fiend’s.
+i:Drink the fiend’s poisonous blood, die from the poison, and be resurrected.
+i:Perform a ritualistic sacrifice of a goat.
+i:Perform a ritualistic sacrifice of a maiden.
+i:Locate the place of the fiend’s birth.
+i:Pay tribute to the fiend’s far more dangerous and powerful liege lord.
+i:Give up; no one’s ever bound this fiend.
+}

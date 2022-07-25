@@ -1,0 +1,90 @@
+{
+d:d6 Hair color: The frost giant’s hair is...
+i:Reddish blonde.
+i:Whitish blonde.
+i:Silver grey.
+i:Red.
+i:Reddish brown.
+i:Brown.
+}
+{
+d:d6 Eye color: The frost giant’s eyes are...
+i:Black.
+i:Icy blue.
+i:Deep blue.
+i:Steely grey.
+i:Whitish grey.
+i:Blood red.
+}
+{
+d:d6 Skin color: The frost giant's skin is...
+i:Sickly blue.
+i:Bright blue.
+i:Pale blue.
+i:Dark blue.
+i:Bluish grey.
+i:Blue with many blackened burn scars.
+}
+{
+d:d6 Distinguishing feature: The frost giant has…
+i:Long, scraggly hair.
+i:Several tattoos.
+i:Wicked scarring on its chest.
+i:Terrible scars on its face.
+i:One hand missing.
+i:A peg leg.
+}
+{
+d:d6 Training: The frost giant is a/an...
+i:Axefighter.
+i:Berserker.
+i:Iceshaper.
+i:Scout.
+i:Spearthrower.
+i:Warchanter.
+}
+{
+d:d6 Skill: Even among frost giants, the frost giant is particularly good at...
+i:Decapitating foes.
+i:Tossing dwarves.
+i:Biting.
+i:Conjuring snowstorms.
+i:Shouting.
+i:Taunting foes.
+}
+{
+d:d6 Quirk/flaw: The frost giant frequently...
+i:Tries to carry more plunder than it should.
+i:Grinds its teeth.
+i:Snores especially loud.
+i:Picks fights with its allies.
+i:Eats too much.
+i:Picks its teeth.
+}
+{
+d:d6 Possessions: The frost giant is carrying a/an...
+i:Huge greataxe.
+i:Pair of battleaxes.
+i:Half-dozen spears.
+i:String of scalps.
+i:Patchwork cloak of humanoid skins.
+i:Unusual, misty crystal.
+}
+{
+d:d6 Immediate goal: The frost giant is looking for a/an...
+i:Bigger weapon.
+i:Sharper weapon.
+i:Opportunity for plunder.
+i:Chance to prove his/her toughness.
+i:Easy meal.
+i:Meal of humanoid flesh.
+}
+{
+d:d6 Accomplishment: The frost giant is especially proud of…
+i:Having eaten an entire horse in one sitting.
+i:Shaving the beards of more than fifty dwarves.
+i:Conquering a village single-handedly.
+i:Slaying a young dragon with only its bare hands.
+i:Stealing a magic warhammer of dwarvish make.
+i:Catching a dozen arrows in its backside and still managing to steal a handful of well-crafted blades from a company of soldiers.
+}

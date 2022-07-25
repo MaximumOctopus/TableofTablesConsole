@@ -1,0 +1,46 @@
+{
+d:d12 The fey beast is...
+i:A bear.
+i:A beaver.
+i:A boar.
+i:An elk.
+i:A hawk.
+i:An owl.
+i:An owlbear.
+i:A panther.
+i:A songbird.
+i:A swan.
+i:A toad.
+i:A wolf.
+}
+{
+d:d6 The beast has...
+i:Unusually bright coloration.
+i:Unusual stripes or markings.
+i:Captivating, blue or grey eyes.
+i:Mischievous, green or gold eyes.
+i:A shimmering aura.
+i:A misty aura.
+}
+{
+d:d8 ...and...
+i:Moves gracefully, almost dancing.
+i:Darts in and out of hiding places.
+i:Can create an illusory double of itself.
+i:Can teleport short distances.
+i:Speaks in rhymes and riddles.
+i:Speaks in songs.
+i:Gives you an uneasy feeling.
+i:Relishes in playful pranks and hijinks.
+}
+{
+d:d8 The beast is looking for...
+i:An answer to an ancient riddle.
+i:A mortal worthy of its service.
+i:A mortal to torment and to tease.
+i:An artifact of an elvish hero of a past age.
+i:The location of an ancient, elvish ruin.
+i:The source of corruption near its home.
+i:The recipient of a specific, secret message.
+i:A new song to sing.
+}

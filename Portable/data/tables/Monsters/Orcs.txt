@@ -1,0 +1,121 @@
+{
+d:d8 Skin: The orc has...
+i:Pale green skin.
+i:Yellowish green skin.
+i:Dirty brown skin.
+i:Reddish brown skin.
+i:Grey skin.
+i:Greenish grey skin.
+i:Brownish grey skin.
+i:Yellowish brown skin.
+}
+{
+d:d8 Eyes: The orc has...
+i:Greenish yellow eyes.
+i:Green and grey eyes.
+i:Muddy brown eyes.
+i:Dark brown eyes.
+i:Black eyes.
+i:A missing eye.
+i:Squinty eyes.
+i:Bug eyes.
+}
+{
+d:d8 Face: The orc has...
+i:A pronounced underbite, large even for an orc{.orcs,.orc warlords,.orkish clans}.
+i:An especially wide chin.
+i:Long tusks.
+i:A broken tusk.
+i:A jagged scar.
+i:A missing nose.
+i:A missing ear.
+i:A lot of war paint.
+}
+{
+d:d8 Hair: The orc has...
+i:Unkempt, cropped black hair.
+i:Wild, stringy black hair.
+i:A long black braid.
+i:Unkempt, cropped brown hair.
+i:Wild, stringy brown hair.
+i:A long brown braid.
+i:A shaved head.
+i:A shaved head except for one long topknot.
+}
+{
+d:d8 Build: The orc has...
+i:A well-muscled frame.
+i:Enormous, bulging muscles.
+i:An agile wiry frame, for an orc{.orcs,.orc warlords,.orkish clans}.
+i:A stocky build.
+i:A grotesquely fat belly.
+i:A tall frame.
+i:A thick-set frame.
+i:Extra wide shoulders and long arms.
+}
+{
+d:d8 Tattoo: The orc has...
+i:A bone tattoo.
+i:A dragon tattoo{.dragons}.
+i:A skull tattoo.
+i:A spear tattoo.
+i:A spiderweb tattoo{.spiders}.
+i:A tattoo of thorns.
+i:A snake tattoo.
+i:A tattoo of chains.
+}
+{
+d:d8 Role: The orc is...
+i:A ferocious berserker.
+i:A rage-filled killer.
+i:A persistent hunter.
+i:A fearless scout.
+i:A masterful strategist.
+i:A mighty leader.
+i:A grim mystic (d4): 1. bone shaman; 2. blood shaman; 3. earth shaman; 4. moon shaman.
+i:An eager warrior.
+}
+{
+d:d8 Skill: Even among orcs, the orc is particularly good at...
+i:Tracking creatures by scent.
+i:Identifying and following the tracks of creatures.
+i:Running down prey.
+i:Decapitating foes.
+i:Impaling foes.
+i:Roping captives.
+i:Breaking slaves.
+i:Handling savage beasts.
+}
+{
+d:d8 Armor: The orc is armored in...
+i:Nothing.
+i:Tattered leather.
+i:Blood-stained leather.
+i:Boiled leather.
+i:The hides of scaly beasts.
+i:The hides of furry beasts.
+i:The hides of exotic beasts.
+i:A helm and breastplate taken from a fallen enemy.
+}
+{
+d:d8 Weapon: The orc is wielding...
+i:A spear.
+i:A scimitar.
+i:A falchion..
+i:A pike.
+i:A battleaxe.
+i:A greatsword.
+i:A greataxe.
+i:A longbow.
+}
+{
+d:d8 Motivation: The orc is looking for...
+i:A good meal, fresh if possible.
+i:A hearty meal, spoiled is not a problem.
+i:A throat to cut.
+i:A head to bash in.
+i:A chance to prove itself in combat.
+i:A place to rest and to sharpen weapons{.legendary weapons}.
+i:Glory and battle.
+i:A strong drink.
+}

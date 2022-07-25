@@ -1,0 +1,86 @@
+{
+d:d10 This monster uses the base template of
+i:Rust Monster
+i:Grick
+i:Bulette
+i:Cockatrice
+i:Darkmantle
+i:Phase Spider
+i:Roper
+i:Manticore
+i:Basilisk
+i:Ankheg
+}
+{
+d:d8 Except they don't look like players might imagine...
+i:They have a serpent's tail instead of hind legs
+i:Their skin is covered in dragonscales
+i:They are a size category larger than the base template
+i:Their eyes are on stalks
+i:If they usually stand on all fours, they instead are bipedal (and vice versa)
+i:Their skin is dark and rubbery
+i:Their mouth is far too big for its head
+i:Their eyes are far too large for its face
+}
+{
+d:d8 They also have another physical advantage to their anatomy:
+i:A large set of wings
+i:A second head
+i:Natural horns, spines, and/or Spikes
+i:An extra set of arms
+i:An extra set of legs
+i:A scorpion's tail, with stinger
+i:Venomous Fangs
+i:Opposable Thumbs (And boy, do they love using weapons!)
+}
+{
+d:d8 The colour of the creature's skin is a:
+i:Grey Hue
+i:Blue Hue
+i:Green Hue
+i:Red Hue
+i:Yellow Hue
+i:Purple Hue
+i:Orange Hue
+i:Brown Hue
+}
+{
+d:d6 They have an increased ability attribute
+i:Strength +6
+i:Intelligence +6
+i:Widsom +6
+i:Dexterity +6
+i:Constitution +6
+i:Charisma +6
+}
+{
+d:d6 They have adapted physically to the following environment
+i:Sub-zero Temperatures
+i:Subterranean underground living
+i:Living inside a volcano
+i:Scorching heat in a desert
+i:Dense Jungle or Thick Forest
+i:Barren Wasteland and/or marshland
+}
+{
+d:d6 Beyond all else, they love to
+i:Attack from the shadows only when safe
+i:Attack in large packs using swarming overpowering tactics
+i:Play with it's food (YOU)
+i:Attack fast and recklessly
+i:Make it's move when their prey is least expecting an attack
+i:Stay highly mobile for long-winded skirmish battles
+}
+{
+d:d10 Their meat is
+i:Tasty
+i:Beef (Gotta love them cows)
+i:Poisonous
+i:Cursed
+i:Tasteless
+i:Revitalising
+i:Gooey and snot-like
+i:Very tough and chewy
+i:Sloppy, like drinking an off thickshake
+i:Spicy like hot chili!
+}

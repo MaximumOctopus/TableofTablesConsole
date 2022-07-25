@@ -1,0 +1,61 @@
+{
+d:d10 Profession: The cultist is...
+i:A cunning warrior.
+i:A battle-tested soldier{.soldiers}.
+i:A stealthy assassin{.assassins' guilds}.
+i:A fanatical priest or priestess.
+i:A newly initiated acolyte.
+i:A charismatic preacher.
+i:A foolish zealot.
+i:A raving madman or madwoman.
+i:A scaly shapeshifter.
+i:An enthusiastic poisonmaker.
+}
+{
+d:d12 Scaly Obsession: The cultist is particularly fond of or fearful of...
+i:Cobras and asps.
+i:Rattlers and sidewinders.
+i:Pythons and boas.
+i:Sea snakes.
+i:Black dragons.
+i:Green dragons.
+i:Female medusas.
+i:Male medusas.
+i:Giant snakes.
+i:Yuan-ti malisons.
+i:Yuan-ti abominations.
+i:Yuan-ti halfbloods.
+}
+{
+d:d10 Distinguishing Feature: The cultist has...
+i:A bandaged thumb.
+i:A tattoo on the face.
+i:A tear at the knee of his or her robe.
+i:A forked tongue.
+i:A nervous twitch.
+i:Almost no nose.
+i:An unsettling laugh.
+i:A large scar on the throat.
+i:A profuse amount of sweat soaking through his or her robes.
+i:A hissing lisp when he or she speaks.
+}
+{
+d:d6 Goal: The cultist is looking to...
+i:Recruit new members to the cult.
+i:Warn outsiders away from the cult.
+i:Collect captives for human sacrifice.
+i:Lead travelers into a trap near the cult's shrine or temple{.temples}.
+i:Escape from the clutches of the cult's leadership.
+i:Slip some poison into someone’s drink.
+}
+{
+d:d8 Possessions: The cultist carries or wears...
+i:Several eggs stolen from a snake’s nest.
+i:A necklace or bracelet of snake fangs.
+i:Snakeskin armor or boots.
+i:A book of prayers and curses{cursessimple}.
+i:A sharp, ceremonial dagger.
+i:A scimitar and a set of lightweight, supple armor.
+i:A constrictor snake fashioned like a scarf about the shoulders.
+i:Several doses of a deadly poison.
+}

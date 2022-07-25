@@ -1,0 +1,115 @@
+{
+d:d20 Color: The ooze is...
+i:Transparent.
+i:Translucent white.
+i:Translucent yellow.
+i:Translucent green.
+i:Translucent red.
+i:Translucent brown.
+i:White.
+i:Bright yellow.
+i:Pale green.
+i:Yellowish green.
+i:Bright green.
+i:Brownish green.
+i:Golden brown.
+i:Muddy brown.
+i:Reddish brown.
+i:Burnt orange.
+i:Blood red.
+i:Iridescent blue.
+i:Deep violet.
+i:Black.
+}
+{
+d:d20 Consistency: The ooze is...
+i:Silky.
+i:Smooth.
+i:Creamy.
+i:Thick.
+i:Thin.
+i:Watery.
+i:Spongy.
+i:Lumpy.
+i:Chunky.
+i:Fluffy.
+i:Stringy.
+i:Viscous.
+i:Sticky.
+i:Gooey.
+i:Slimy.
+i:Jiggly.
+i:Scummy.
+i:Soggy.
+i:Luscious.
+i:Velvety.
+}
+{
+d:d20 Habitat: This type of ooze often makes its home in...
+i:Refuse heaps.
+i:The lairs of subterranean monsters.
+i:Discarded bottles.
+i:Deep caverns{.caverns}.
+i:Crevices and cracks in a cave walls and floors.
+i:Crypts or graves.
+i:Sewer pipes or culverts.
+i:Prison or dungeon cells{.prisons,basic dungeons,castle dungeons,dungeon dressing}.
+i:Old battlefields and castle ruins.
+i:Tavern kitchens.
+i:Castle kitchens.
+i:The laboratory or library of a mage.
+i:Lakes or along lake shores.
+i:Magic shops or magic-touched area.
+i:Extradimensional spaces.
+i:Earth motes in the sky.
+i:Swamps and bogs{.swamp}.
+i:The ocean or along an ocean shore.
+i:Dense forests{.forest,.forest enchanted,.forest haunted}.
+i:Teapots or tankards.
+}
+{
+d:d20 Foraging/Hunting: This type of ooze is known to...
+i:Drop down on prey from the ceiling.
+i:Climb a wall from which to pounce when prey comes near.
+i:Wait for prey to step on it.
+i:Wait for prey to walk right into it.
+i:Camouflage itself with debris.
+i:Disguise itself as a puddle of filth.
+i:Lurk in dark corners.
+i:Mold itself into a non-threatening shape.
+i:Mold itself into something prey will try to pick up.
+i:Emit faint light to attract prey.
+i:Split in two to flank its prey.
+i:Split into dozens of oozes to surround its prey.
+i:Digest nearly everything but stone.
+i:Digest nearly everything but metal.
+i:Digest nearly everything but glass.
+i:Engulf creatures while they sleep.
+i:Poison its prey with a paralyzing toxin.
+i:Poison its prey with a slow-acting toxin.
+i:Stalk its prey for days on end.
+i:Go years between meals.
+}
+{
+d:d20 Reactivity: This type of ooze reacts to...
+i:Sunlight; the light burns the ooze.
+i:Loud noises; loud noises frighten the ooze.
+i:Music; the ooze becomes sleepy.
+i:Vibrations; the ooze becomes agitated and aggressive.
+i:Electricity; the ooze begins to move more rapidly and erratically.
+i:Cold; the ooze partially freezes and stops flowing.
+i:Water; the ooze becomes dilute, weakening its grasp.
+i:Air; the ooze dries out and moves more slowly.
+i:Fire; the ooze panics and flees from flames.
+i:Acid; the ooze bubbles and hisses and loses its ability to sense prey.
+i:Salt; the ooze shrivels up and shrinks in size.
+i:Lye; the ooze dissolves into a puddle.
+i:Alcohol; the ooze lurches when it moves and belches acidic sludge everywhere.
+i:Sugar; the ooze becomes bouncy in its movement.
+i:Bone; patches of the ooze calcify and solidify.
+i:Oil; the ooze begins to separate into aqueous and organic phases.
+i:Copper; the ooze begins to crackle with electricity.
+i:Iron; the ooze becomes magnetic pulling more and more iron to it.
+i:Silver; the ooze's color becomes highly reflective.
+i:Gold; the ooze grows rapidly.
+}

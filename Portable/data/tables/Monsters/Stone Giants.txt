@@ -1,0 +1,90 @@
+{
+d:d6 Skin color: The stone giant’s skin is...
+i:Whitish grey.
+i:Pale grey.
+i:Stony grey.
+i:Granite grey.
+i:Dull grey.
+i:Mottled grey.
+}
+{
+d:d6 Eye color: The stone giant’s eyes are...
+i:Black.
+i:Dark grey.
+i:Dark grey flecked with black.
+i:Black flecked with brown.
+i:Black flecked with silver.
+i:Black flecked with gold.
+}
+{
+d:d6 Distinguishing feature: The stone giant has…
+i:Face paint.
+i:Body paint.
+i:Tattoos on its face.
+i:An ancient rune tattooed to its chest.
+i:A missing eye.
+i:A scar atop its head.
+}
+{
+d:d6 Home: The stone giant dwells in a/an…
+i:Cavern far beneath a frozen mountain.
+i:Cavern far beneath a stony mountain.
+i:Cavern far beneath a coastal mountain range.
+i:Cave in a dangerous mountain pass.
+i:Series of tunnels far below the surface.
+i:Huge cavern with an underground lake.
+}
+{
+d:d6 Training: The stone giant is a/an...
+i:Dreamseer.
+i:Guardian.
+i:Hunter.
+i:Sculptor or painter.
+i:Rockthrower.
+i:Stoneshaper.
+}
+{
+d:d6 Skill: Even among stone giants, the stone giant is particularly good at...
+i:Carving stone figures.
+i:Carving stone columns and archways.
+i:Cave paintings.
+i:Catching and throwing rocks.
+i:Interpreting dreams.
+i:Leaping and climbing.
+}
+{
+d:d6 Quirk/flaw: The stone giant frequently...
+i:Slaps itself in the face while aboveground.
+i:Hums to itself.
+i:Fails to acknowledge when someone else is speaking.
+i:Attacks surface dwellers on sight.
+i:Ignores surface dwellers who speak to it.
+i:Is irritable when roused from its slumber.
+}
+{
+d:d6 Possessions: The stone giant is carrying a/an...
+i:Huge stone club.
+i:Oversized stone warhammer.
+i:Pouch full of cave bear treats.
+i:Dozen or so vials of various pigments.
+i:Hammer and chisel.
+i:Sack full of large throwing stones.
+}
+{
+d:d6 Immediate goal: The stone giant is looking for a/an...
+i:Replacement for a worn out artist’s tools.
+i:Fine gem to add to its collection.
+i:Dark, quiet place to sit and think.
+i:Report of the goings-on in tunnels beneath a neighboring mountain.
+i:New source of inspiration for its artwork.
+i:Audience to view its latest piece of art.
+}
+{
+d:d6 Accomplishment: The stone giant is especially proud of…
+i:His/her pair of graceful, dancing cave bears.
+i:Throwing a boulder across a vast lake.
+i:The impressive statue of a stony god it spent years scuplting.
+i:The sprawling mural it painted depicting an epic history of its tribe.
+i:Warning its tribe of the doom that would befall its tribe’s previous home.
+i:The intricate stonework adorning the walls of its personal chamber.
+}
