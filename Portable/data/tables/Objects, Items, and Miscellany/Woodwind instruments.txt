@@ -1,0 +1,63 @@
+{
+d:d6 Type: This instrument is a(n)...
+i:Panflute
+i:Ocarina
+i:Horn
+i:Flute
+i:Shawm
+i:Bagpipes
+}
+{
+d:d6 Material: The instrument is constructed from...
+i:Rosewood.
+i:Horn/Bone/Ivory.
+i:Cedar.
+i:Kiln-dried clay.
+i:Bamboo.
+i:Nickel/Silver/Brass.
+}
+{
+d:d6 Magical Music: When activated, the instrument provides an extra boost to a bard’s...
+i:Feywild and nature/maritime knowledge.
+i:Enchantments.
+i:Movement speed.
+i:Inspirational music.
+i:Psychic damage.
+i:Thunder damage.
+}
+{
+d:d6 Special Property: The musical instrument...
+i:Causes those who hear it to become charmed by it.
+i:Causes those who hear it to feel an uncontrollable urge to dance.
+i:Fills those who hear it with a feeling of crippling despair.
+i:Allows the player to grant 1d4 temporary hit points to an ally.
+i:Allows the player to summon minor fey or elementals.
+i:Allows the player to command children.
+}
+{
+d:d6 Activation: The instrument’s Magical Music or Special Property activates or amplifies when played...
+i:In the presence of a specific type of enemy (d6): 1. celestials; 2. elementals; 3. fey; 4. goblinoids; 5. beasts; 6. undead.
+i:By a member of a specific race (d6): 1. halfling; 2. elf; 3. genasi; 4. aarakocra; 5. tabaxi; 6. tortle.
+i:On a plane outside the mortal realm (d6): 1. Feywild; 2. Arborea; 3. The Plane of Air; 4. The Plane of Fire; 5. Beastlands; 6. Abyss.
+i:At sea.
+i:In a forest.
+i:Underground.
+}
+{
+d:d6 Creator: The instrument was made by a(n)...
+i:Halfling peddler.
+i:Carefree gnomish tinker.
+i:Elf (d6): 1. Wood elf whittler, 2. High elf silversmith, 3. Drow artisan, 4. Sea elf arcanist, 5. Shadow elf ranger, 6. Eladrin enchanter.
+i:Tricky fey.
+i:A cursed sailor.
+i:An impoverished genius.
+}
+{
+d:d6 Past owner: The instrument’s most famous owner was a(n)...
+i:Legendary knight.
+i:Notorious pirate.
+i:Eccentric noble.
+i:Mad sage.
+i:Reclusive outlander.
+i:Melancholy satyr.
+}

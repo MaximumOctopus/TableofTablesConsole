@@ -1,0 +1,137 @@
+{
+d:d12 This disease is spread by...
+i:Inhaling contaminated air.
+i:Drinking contaminated water.
+i:Consuming contaminated food.
+i:Skin-to-skin contact.
+i:Saliva, sweat, mucus, and/or blood.
+i:Sexual contact.
+i:The bite of a fly or tick.
+i:The bite of a rat or bat{.bats,.rats}.
+i:Nothing; it’s a genetic condition.
+i:Nothing; it’s a chronic condition brought on by lifestyle choices.
+i:Mysterious, magic-related means.
+i:Unknown means.
+}
+{
+d:d8 Once exposed to the disease, a person develops symptoms...
+i:Almost immediately (1-8 hours).
+i:Very rapidly (4-24 hours).
+i:Within a few days (1-4 days).
+i:In the next week (2-8 days).
+i:In the next few weeks (1-4 weeks).
+i:Some time in the next 2 months (2-8 weeks).
+i:Some time in the next year; (2-12 months).
+i:Some time in the person’s life (2 to 40 yrs).
+}
+{
+d:d10 This disease is most frequently encountered in regions with...
+i:A tropical climate.
+i:An arid climate.
+i:A mediterranean climate.
+i:A coastal climate.
+i:A cold climate.
+i:A temperate climate.
+i:A foggy or damp climate.
+i:Swamps, bogs, or marsh land{.swamp}.
+i:Dense jungles{.jungle}.
+i:High altitude.
+}
+{
+d:d10 Common symptoms affect the...
+i:Eyes (d8): 1. blurred vision; 2. light sensitivity; 3. puffiness; 4. poor night vision; 5. watery eyes; 6. yellow discharge; 7. double vision; 8. difficulty focusing.
+i:Brain (d8): 1. changes in mood; 2. dissociative fugues; 3. dizziness; 4. drowsiness; 5. headaches; 6. insomnia; 7. nightmares{.nightmnres}; 8. shortened attention span.
+i:Chest (d8): 1. chest pain; 2. congestion; 3. coughing fits; 4. hives; 5. wheezing; 6. shortness of breath; 7. coughing up blood; 8. tightness in chest.
+i:Ears and throat (d8): 1. hearing loss; 2. difficulty swallowing; 3. excessive ear wax; 4. sore throat; 5. swollen glands; 6. vertigo; 7. bleeding from the ears; 8. loss of voice.
+i:Head and nose (d8): 1. dry scalp; 2. hair loss; 3. pimples; 4. sinus pressure; 5. sneezing; 6. swollen cheeks; 7. runny nose; 8. bleeding from the nose.
+i:Limbs (d8): 1. achiness; 2. joint pain; 3. muscle spasms; 4. restlessness; 5. stiff joints; 6. weakness; 7. bruising; 8. discoloration of the fingernails or toenails.
+i:Mouth (d8): 1. bleeding gums; 2. canker sores; 3. cracked lips; 4. dry mouth; 5. foamy, excessive salivation; 6. tooth pain; 7. tooth discoloration; 8. tooth decay.
+i:Sex organs (d8): 1. loss of desire; 2. pale discharge; 3. inability to climax; 4. open sores; 5. pain during urination; 6. warts; 7. itchy bumps; 8. bloody discharge.
+i:Skin (d8): 1. black or purple spots; 2. boils; 3. itchiness; 4. pale or yellow hue; 5. peeling; 6. rash; 7. red spots; 8. scales.
+i:Stomach and gut (d8): 1. bloody stool; 2. constipation; 3. excessive flatulence; 4. loose stool; 5. loss of appetite; 6. nausea and vomiting; 7. ulcers, 8. vomiting blood.
+}
+{
+d:d20 In rare cases, symptoms may include...
+i:Amnesia; partial or complete.
+i:Blindness or deafness.
+i:Coma; short-term, long-term, or indefinite.
+i:Complete changes in personality.
+i:Concurrent vomiting and diarrhea.
+i:Coughing up blood.
+i:Delusions and paranoia.
+i:Extreme, persistent nausea.
+i:Fits of narcolepsy.
+i:Hallucinations.
+i:Insomnia.
+i:Lengthy fits of high fever.
+i:Loss of muscle coordination.
+i:Paralysis; partial or complete.
+i:Periodic, temporary loss of consciousness.
+i:Sleep walking.
+i:Susceptibility to other illnesses.
+i:Tumors or tumor-like growths.
+i:Wild mood swings.
+i:Sudden aversion to one or more familiar foods, individuals, or objects.
+}
+{
+d:d4 Symptoms are...
+i:Acute and curable; once the afflicted is cured, the symptoms never return.
+i:Acute but recurring; once the afflicted is cured, symptoms may return later in life.
+i:Chronic but completely curable; once the afflicted is cured, symptoms rarely return.
+i:Chronic but treatable; once the afflicted is cured, symptoms will likely reoccur every few years.
+}
+{
+d:d6 If untreated, the disease is...
+i:Rarely serious; running its course in a few days or weeks.
+i:Rarely lethal; fatal complications occur in less than 1% of cases.
+i:Sometimes debilitating, but rarely lethal; permanent disabilities occur in approximately 10% of cases, and fatal complications in less than 1% of cases
+i:Sometimes lethal; fatal complications occur in approximately 10% of cases.
+i:Often debilitating, and sometimes lethal; permanent disabilities occur in more than 50% of cases, and fatal complications in approximately 10% of cases.
+i:Often lethal; fatal complications occur in more than 50% of cases.
+}
+{
+d:d8 The disease can be cured with...
+i:A simple herbal remedy{.herbalism}.
+i:A complex herbal potion or salve{.herbalism,.potions}.
+i:A widely available healing potion or balm{.potions}.
+i:A rare alchemical concoction.
+i:No known earthly substances.
+i:Basic healing spells and incantations.
+i:Advanced healing spells and potions{.potions}.
+i:Extremely powerful and rare magic.
+}
+{
+d:d6 The time-course of treatment is...
+i:Rapid; the afflicted is cured within 1 day.
+i:Short; the afflicted is cured within a few days of receiving treatment.
+i:Typical; the afflicted is cured within a few days of receiving treatment.
+i:Lengthy; the afflicted is cured within a few weeks of receiving treatment.
+i:Long-term; the afflicted is cured within a few months of receiving treatment.
+i:Erratic; the time-course of treatment varies greatly among individuals or among outbreaks of the disease{.diseases}.
+}
+[
+d:MAGICAL MALADIES
+]
+{
+d:d20 The magical disease is associated with...
+i:Belching up vermin.
+i:Demonic or ghostly possession.
+i:The desire to consume humanoid flesh.
+i:The desire to consume rocks or dirt.
+i:The desire to consume pixies and sprites.
+i:The desire to dig a deep hole.
+i:The desire to build an immense wall.
+i:Gaining the personality of a long-dead, well-known magic-user.
+i:Gradually morphing into a wild beast.
+i:Gradually morphing into a puddle of ooze{.oozes}.
+i:Imitating the behavior of a common beast.
+i:Loss of the power of speech.
+i:Periodic spells of befuddlement.
+i:Purple or green splotches on the skin.
+i:Rapid growth of facial hair.
+i:Rapid growth of fingernails or teeth.
+i:Rapid hair growth.
+i:Uncontrollable fits of laughter or tears.
+i:Uncontrollable singing or dancing.
+i:Overactive libido.
+}

@@ -1,0 +1,64 @@
+{
+d:d20 The book's subject is...
+i:Alchemy and potions (d6): 1. healing tonics; 2. metallurgy; 3. pyromancy; 4. poisoncraft; 5. potionmaking{.potions}; 6. recipes.
+i:Art and architecture (d6): 1. fortresses and palaces; 2. painting; 3. sketching; 4. sculpture; 5. stonemasonry; 6. temples and tombs{.temples,.tombs}.
+i:Astronomy and astrology (d6): 1. comets; 2. constellations; 3. moon; 4. sun; 5. stars; 6. strange phenomena.
+i:Beast lore (d6): 1. domestic beasts; 2. habits; 3. handling; 4. husbandry; 5. poisonous beasts; 6. regional bestiary.
+i:Demonology (d6): 1. conjurings; 2. exorcisms; 3. fiendish bargains{.fiends}; 4. fiendish bestiary{.fiends}; 5. fiendish realms{.fiends}; 6. fiendish symbols{.fiends}.
+i:Divination (d6): 1. anthropomancy; 2. crystal gazing; 3. oneiromancy; 4. palm reading; 5. tarot cards; 6. tea leaves.
+i:Healing arts (d6): 1. alchemical remedies; 2. anatomy; 3. herbal remedies{.herbalism}; 4. prayers; 5. rituals; 6. surgery.
+i:Herb lore {.herbalism} (d6): 1. healing herbs; 2. mushrooms; 3. poisons; 4. roots; 5. trees; 6. wildflowers.
+i:History (d6): 1. ancient; 2. cultural; 3. economic; 4. military; 5. political; 6. regional.
+i:Languages (d6): 1. ancient; 2. forbidden; 3. exotic; 4. grammar and punctuation; 5. translations; 6. traveler's phrases.
+i:Literary fiction (d6): 1. adventure; 2. fairy tales, 3. folk tales, 4. murder mystery; 5. romance; 6. satire.
+i:Mining and mineralogy (d6): 1. gems{gemstones}; 2. metals; 3. mining sties; 4. strategy; 5. rocks; 6. smithing.
+i:Music and songs (d6): 1. heroic ballads; 2. love ballads; 3. bawdy tunes; 4. dirges and laments; 5. hymns; 6. works of a celebrated singer.
+i:Necromancy (d6): 1. animation; 2. corpses; 3. lichdom; 4. spirits and souls; 5. undead bestiary; 6. vampirism.
+i:Plays (d6): 1. comedy; 2. drama; 3. history; 4. romance; 5. satire; 6. tragedy.
+i:Poetry and poems (d6): 1. ballads; 2. epic poetry; 3. love poetry; 4. lyric poetry; 5. odes and laments; 6. works of a celebrated poet.
+i:Prophecies and omens (d6): 1. apocalypse; 2. astronomical events; 3. birds; 4. dreams; 5. visions; 6. weather.
+i:Theology (d6): 1. afterlife; 2. rituals and practices; 3. religious history; 4. saints and martyrs; 5. sacred symbols; 6. sacred texts.
+i:True magic (d6): 1. elementalism; 2. enchantment; 3. illusions; 4. summoning; 5. teleportation and travel; 6. warding.
+i:Travel and trade (d6): 1. ancient ruins; 2. exotic travelogue; 3. economics and taxation; 4. foreign cultures; 5. regional landmarks and terrain; 6. trade routes.
+}
+{
+d:d10 The book's condition is...
+i:Worn and tattered.
+i:Poor. An ink stain obscures a fair amount of the pages.
+i:Accidentally damaged. Various water damage around the edges but readable.
+i:Vandalized. It appears that a good dozen pages have been ripped out.
+i:Deliberately damaged. Towards the middle there is a section hollowed out. In this hiding place, you find (d6): 1. a locket; 2. a knife; 3. a small hammer; 4. a small scroll; 5. a vial of mysterious liquid; 6. a ring.
+i:Badly damaged. A lot of the ink has run through water damage and it is nearly illegible.
+i:Ancient. The pages crumble as they turn.
+i:Strange. The pages are blank?
+i:Good, but used. There are handwritten notes in the margins of the pages.
+i:Pristine. You can smell the ink drying.
+}
+{
+d:d12 The book's cover is...
+i:Missing. The pages are bound with string woven through holes near the spine.
+i:Stained leather. Some sign of wear.
+i:Wooden. The title is carved into the spine.
+i:Paperback.
+i:Animal hide. The fur is still on.
+i:Stone. Iron rings hold it together.
+i:Cast Iron. Hinges keep it bound.
+i:Leather with gemstones embedded in it{gemstones}.
+i:Leather with the title branded on it.
+i:Leather with gilding on the spine.
+i:Torn off. It's kept together by a leather belt.
+i:Tree Bark. Dried vine binds it.
+}
+{
+d:d10 The book is...
+i:A standalone volume, the author's only published work.
+i:A standalone volume, the author's only surviving work.
+i:A standalone volume, written by a prolific but obscure author.
+i:A standalone volume, written by a well-known author.
+i:The sequel to a book by the same author.
+i:A part of a series with 3-9 books.
+i:A single volume of a larger work with 4-15 volumes.
+i:An edition of a regularly published book with multiple authors.
+i:A collection of works by the same author.
+i:An anthology of works by several authors.
+}

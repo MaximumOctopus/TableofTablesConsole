@@ -1,0 +1,75 @@
+[
+d:What they find.
+]
+{
+d:d6 The item is... 
+i:Crossbow gears (for light, heavy, or a hand crossbow).
+i:Axehead (for a hand axe, battle axe, halberd, or great axe.
+i:Spear point (for javelins, pikes, spears, possibly lances).
+i:Blade (for daggers, swords, great swords).
+i:Arrow heads (for arrows, bolts, possibly whips or tridents).
+i:An exotic weapon (for scimitars, morningstars, or any random weapon).
+}
+{
+n:wpu_state
+d:d6 Current state... 
+i:Covered in runes of a dead tongue.
+i:Made of an exotic metal.
+i:With extraordinarily detailed engravings.
+i:Made from ivory or dragon bones.
+i:Which is always pleasantly warm to the touch.
+i:@wpu_state!5 and @wpu_state!5
+}
+{
+n:wpu_problem
+d:d6 Problem... 
+i:Yet it is covered in rust, coral, or another suitable hard substance.
+i:But it is scattered into pieces (no pieces missing).
+i:But important pieces are missing or beyond repair.
+i:But it is bent, twisted, cracked, or otherwise deformed.
+i:But it is weathered and corroded by rust, bugs, exposure, or other elements which made the item fragile to the touch.
+i:@wpu_problem!5 AND @wpu_problem!5
+}
+[
+d:How to fix it!
+]
+{
+n:wpu_howto
+d:d6 How to fix it/Who can fix it (Optional features (see DMG p142-143))... 
+i:Craftsmen: smiths, bone carvers, alchemists, or tinkerers. A craftsman might be familiar with the way it's made, and reveal what sort of creature created it. It might grant the carrier credibility, respect, or jealousy by the creatures who made it.{.alchemists}
+i:Sage advisor:	historians, librarians, religious authorities, or creatures with extensive knowledge, such as nothics and flumph colonies. A sage might recognize it as an item of legend, and reveal a certain juicy detail from its history. It might carry a name befitting of its history.
+i:Arcane specialist: a cleric, a wizard, a cultist, or a creature such as a hag, a sphinx or a cloud giant. An arcane specialist might be able to restore a certain minor magic property, such as making automatically point north when laid down on level ground.{.cultists,.druids,.witches,.wizard (mad mage)}
+i:A layman who requires rare items:	uncommon metal ores, rare flowers, the essence of a certain monster's fluids, or gems.
+i:PC's own time and effort the removing of rusts with expensive solvents, the carefull recreation of faded runes with expensive inks and tireless research, the filing and cutting to make fitting replacement parts, or the reassembly of a hundred or so shards. Involve other PCs by setting tasks that can be split up, and suit certain skills. Ask the PC what material he/she uses for a blade's grip, a crossbow's bow, or other secondary materials. Suggest that he/she names the weapon when it's done.
+i:@wpu_howto!5 AND @wpu_howto!5
+}
+{
+d:d0 What's it going to take... 
+i:Fixing the item will take =d8+d12 working days, at a cost of 25 gp per day.
+i:If the fixer is a craftsman, a sage advisor, or an arcane specialist, finding an expert will double the cost and half the time, while employing a layman will double the time and half the cost.
+i:If you make it a side-quest to venture out and find rare items or a certain expert, the combined time of the PCs spent on this quest will be detracted from the total amount of working days.
+i:For example: 4 NPCs trekking two days to enter an ancient library and consult it's Nothic will detract 4x2=8 days from the total time needed to fix the item.
+i:If you roll twice, you split the total costs over the two options as you see fit.
+}
+[
+d:What do they get?!
+]
+{
+d:d6 Result... 
+i:1-3 Weapon +1
+i:4 Weapon of warning
+i:5 Uncommon magical item, suitable to the item's form (you can't make a Javelin of Lightning out of crossbow gears of course)
+i:6 Weapon ignores magical resistance (silvering a weapon does the same, and costs roughly 200gp. If the player invested more than 200gp, reroll this table)
+}
+[
+d:Notes
+]
+{
+d:d0 ... 
+i:It is well possible to start with a magic item in mind, and use the tables above to deteriorate it. Your bard can find rusty pipes of haunting, your monk a broken wind fan.
+i:If you can customize the fixing process to fit your story line, all the better. Maybe the players can keep an eye out for rare flowers next time they travel a jungle.
+i:Talking about story lines, certain background feats might help the PCs to get discounts or speed up the pace. This can get other PCs involved in fixing up the fixer upper.
+i:The price and time required is based on the prices and time required to make uncommon magic items suggested in the DMG. For rare items, you have to multiply the prices and time by 10, for very rare by 100, and for legendaries by 1000.
+i:A +1 weapon can be upgraded to a +2 weapon or other rare weapons (e.g. +1 dragon slayer sword), but you would have to use the prices and time required for rare items, as mentioned above.
+i:Credit where credit is due, this concept is inspired by the Rust Shards of the Monster Hunter games. These were rare items that gave access to otherwise inaccessible upgrade paths for your weapons. These items would require several xpensive investments before they payed off, and the delayed gratification+extreme rarity made you rather attached to your very own dragon metal weapon.
+}

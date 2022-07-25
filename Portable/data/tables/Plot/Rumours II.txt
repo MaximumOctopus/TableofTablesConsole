@@ -1,0 +1,413 @@
+{
+d:d100 You know, they say that...
+i:The king.
+i:The queen.
+i:The local miller.
+i:The local blacksmith.
+i:A retired adventurer.
+i:A famous assassin.
+i:An influential guildmaster.
+i:The mayor.
+i:An up-and-coming young knight.
+i:The high priest of Bhaal.
+i:A powerful Drow Matron.
+i:A wicked wizard.
+i:The Knight-Lord of a local order of Paladins.
+i:Strahd von Zarovich.
+i:A militant emperor in the West.
+i:A dragon-tamer in the mountains.
+i:The local dragon.
+i:An Orc warlord.
+i:One of the party members.
+i:An ancient Pharaoh.
+i:A popular gladiator.
+i:A teamster who is a local legend for reckless driving.
+i:The crown prince.
+i:A master alchemist.
+i:A high-ranking Hobgoblin commander.
+i:An elven sage.
+i:The duchess.
+i:The duke.
+i:The local priest.
+i:An eccentric inventor.
+i:The town lunatic.
+i:A notorious pirate captain.
+i:A travelling monk.
+i:A famous mystic.
+i:The housekeeper of a local hostel.
+i:A Viking king.
+i:The Great Chief of Ogres.
+i:A famous trap-maker.
+i:An influential politician.
+i:The town beggar.
+i:The Princess.
+i:A newly-appointed Lady Knight of the region.
+i:A newly-appointed Lord Knight of the region.
+i:The Caesar of Minotaurs.
+i:The local weapon-smith.
+i:The BBEG.
+i:The mysterious man with a long, silver beard and a ragged black cloak.
+i:The mysterious woman with long, silver hair and an old-fashioned scarlet cloak.
+i:The local tobacco merchant.
+i:The kingpin of a crime ring.
+i:The head of a Tarrasque-worshiping cult.
+i:A vicious Manticore baron.
+i:A highly sought-after tailor.
+i:A highly sough-after baker.
+i:A highly sought-after physician.
+i:Every gravedigger in the entire region.
+i:The king's two-year-old son.
+i:A kuo-toa diplomat.
+i:The Bloodlord of Vampires.
+i:A necromancer.
+i:The court magician.
+i:A boatman on the local river.
+i:A mason building the king's new palace.
+i:A great athlete.
+i:The head of a not-so-secret society.
+i:The local innkeeper.
+i:A zombie who was voted in as townmaster.
+i:An Elvish king.
+i:The Lord of a druidic circle.
+i:The new 8-year-old king.
+i:A famous painter.
+i:One of the PC's mentor.
+i:A famous evangelist.
+i:A Gorgon beauty guru.
+i:The yuan-ti God-King.
+i:A powerful Unseelie Fey.
+i:A goblin warlord.
+i:The editor of a local newspaper.
+i:The game warden.
+i:The king's butler.
+i:A renowned golem-building wizard.
+i:A great General.
+i:A local veteran and war hero.
+i:A folk-music writer.
+i:The street-lamp lighter.
+i:The street sweeper.
+i:The chimney-sweep.
+i:The harsh boss of a local factory.
+i:A far-sailing explorer, back in town after an expedition.
+i:A local archaeologist.
+i:The Witchfinder General.
+i:The Protector Angel of the nearest large city.
+i:A powerful Seelie Fey.
+i:The Iron Emperor of Dwarves.
+i:The Erlking of a local band of monster-hunters.
+i:A fashion icon.
+i:The Grand Duke of the Society for the Preservation of Gnomish Vocabulistics and Grammar.
+i:A famous daredevil.
+i:The leader of a mostly harmless local cult.
+i:The leader of an extremely harmful local cult.
+}
+{
+d:d100 
+i:Is disgusted by...
+i:Hates...
+i:Weeps tears of joy for...
+i:Breaks down laughing at the thought of...
+i:Is worryingly obsessed with...
+i:Spent all their money on...
+i:Has asked the Church to forbid...
+i:Has asked the Church to demand...
+i:Has formed a society based around...
+i:Has led an expedition to...
+i:Once enjoyed...
+i:Has recently picked up...
+i:Demands someone to explain to them what all the fuss is with...
+i:Has forbid the mere mention of...
+i:Commissioned several murals of...
+i:Sentenced convicts to....
+i:Named their new yacht....
+i:Disowned their child for the child's becoming addicted to...
+i:Is hopelessly addicted to...
+i:Has challenged any takers to a contest of...
+i:Has started a scandal by...
+i:Has completely ignored the issues of...
+i:Got drunk and admitted to...
+i:Firmly denies that they have ever...
+i:Is hosting a costume ball themed around...
+i:Suffers nightmares about...
+i:Wants advice on how to go about...
+i:Tossed someone out of a window for daring to malign...
+i:Hired bards to sing the praises of...
+i:Is trying to quit...
+i:Divorced their spouse to spend more time...
+i:Wandered into the desert with the intent of...
+i:Demanded that any honest man would never stoop to...
+i:Stole a carriage to go...
+i:Has paid people to stop...
+i:Has demanded, against ancient tradition, that they be allowed to...
+i:Carved a statue of themselves...
+i:Has never even tried...
+i:Is ignoring the obvious solution to their current problem, ....
+i:Gives up all hope for the world when they think about...
+i:Turns into a panda whenever they try...
+i:Has been cursed by a witch to ceaselessly wander through the forest, ...
+i:Loves their spouse, but more so, ...
+i:Used magic to make 100 people go...
+i:Got drunk and went...
+i:Spent all their inheritance on...
+i:Might start a war over...
+i:Tattooed themselves with scenes of...
+i:Ceaselessly talks about...
+i:Ran 40 miles so as not to be late for...
+i:Wears their finest clothes to...
+i:Believes in the Gods but more so in...
+i:Doesn't even understand...
+i:Pays good money for people to compete at ... for their amusement.
+i:Found an ancient urn, worth thousands, depicting...
+i:Insists that it is a genteel pursuit to...
+i:Is causing trouble for everyone by...
+i:Sees it as unseemly to...
+i:Frequently enjoys...
+i:Is enraged by...
+i:Is saddened by...
+i:Got sick while...
+i:Broke their foot while...
+i:Died while...
+i:Proposed to their true love whilst...
+i:Is terrified by the prospect of...
+i:Believes it is a grievous sin to...
+i:Nearly started a revolution while a nobleman was...
+i:Clapped a man in irons for trying to...
+i:Is only ever gladdened by...
+i:Fully intends to kill their rival, making it look like an accident that occurred while they were...
+i:Has changed their main pursuit to....
+i:Denies claims that they ever..., despite solid evidence.
+i:Has a long history in their family of...
+i:Was nearly assassinated while...
+i:Explodes with fury when others ask if they intend to...
+i:Is enchanted to slowly levitate into the sky should they ever try...
+i:Has ordered a local noble to stop...
+i:Is haunted by the ghosts of those who died such that they could...
+i:Has cured themselves of a terrible illness by simply...
+i:Arose from the grave when they heard their relatives were... instead of attending their funeral.
+i:Wrote long and vivid books on the subject of...
+i:Will not so much as get out of bed until they...
+i:Rises bright and early to...
+i:Trained several hawks for the purposes of...
+i:Breaks into song and dance randomly to distract people from their habit of...
+i:Says they would rather die than...
+i:Dreams of...
+i:Has no appetite on days when they haven't...
+i:Hired adventurers to...
+i:Hired a wizard to help them with...
+i:Built an entire facility dedicated to...
+i:Used slaves and prisoners for...
+i:Threw themselves into a lake after a long day of...
+i:Hosted a banquet in celebration of their successful quest of...
+i:Frequently boasts about how good they are at...
+i:Demands that nobody but themselves be allowed to...
+i:Prays to the gods for success in...
+i:Recommends that pregnant women try...
+i:Firmly believes that .... is extremely classy and romantic.
+}
+{
+d:d100 
+i:Hunting ogres.
+i:Digging pit traps.
+i:Minting gold pieces.
+i:Falling out of windows.
+i:Human sacrifice.
+i:Setting things on fire.
+i:Raiding small settlements.
+i:Eating pastries shaped like sacred icons.
+i:Swimming around in pools of oil.
+i:Riding horses.
+i:Painting pictures.
+i:Sabotaging other people's carriages.
+i:Hurling radishes at beggars.
+i:Stepping on people's toes.
+i:Doing nothing.
+i:Shutting up.
+i:Feeling confident.
+i:Running over small and fluffy animals.
+i:Tipping over Dominoes.
+i:Going on shopping sprees.
+i:Punching sacks of potatoes.
+i:Building elaborate but useless siege engines.
+i:Having rap-battles with pixies.
+i:Doing the conga.
+i:Convincing other people to do the conga.
+i:Building extremely comfortable couches.
+i:Building up an immunity to every kind of poison they can find.
+i:Studying vaccination.
+i:Learning how to fly.
+i:Burying dead bodies.
+i:Juggling swords.
+i:Juggling.
+i:Being a clown.
+i:Buying elaborate tricorn hats.
+i:Ringing people's doorbells and running away.
+i:Writing terrible books.
+i:Reading scandalous magazines.
+i:Praising themselves.
+i:Cow-tipping.
+i:Throwing china plates across rooms.
+i:Plating things with solid gold.
+i:Getting involved in tangled love-triangles.
+i:Awarding themselves trophies for things they never did.
+i:Giving long and elaborate speeches.
+i:Getting drunk.
+i:Getting high.
+i:Throwing knives at pictures of their enemies.
+i:Mixing fake blood in excessive quantities.
+i:Fighting Treants.
+i:Inventing new kinds of forks.
+i:Grave robbing.
+i:Burning down mansions.
+i:Writing speeches full of innuendos for pastors.
+i:Recycling old furniture.
+i:Playing war-games.
+i:Playing card games.
+i:Playing dice games.
+i:Making loaded dice.
+i:Starting bar fights.
+i:Making theatrical declarations of war against non-existent countries.
+i:Completely ignoring real-world geography.
+i:Crashing the economy.
+i:Hurling cinder-blocks at passer-by.
+i:Teaching Trolls calligraphy.
+i:Insulting Dragons.
+i:Writing dramatic Last Wills for themselves regarding fictitious deaths.
+i:Murdering people to start a murder-investigation romantic drama.
+i:Brooding on rooftops.
+i:Doing tuck-and-rolls into wedding ceremonies.
+i:Hiding treasures in local dungeons.
+i:Doing the Charleston at funerals.
+i:Starting moshpits at children's cello recitals.
+i:Head-banging to the church choir.
+i:Rolling themselves down hills.
+i:Giving excessive amounts of charity.
+i:Joining every secret society they can find.
+i:Doing somersaults when excited.
+i:Shooting people with crossbows.
+i:Designing a new national flag for their country every day, and sending it to the nobility for approval.
+i:Taming Mimics.
+i:Hitting people over the head with bar stools.
+i:Wearing cool cloaks.
+i:Spontaneously combusting.
+i:Drag-racing in carriages.
+i:Trying to ride Displacer Beasts.
+i:Trying to ride Owlbears.
+i:Jumping out at people from behind corners and shouting "Boo!"
+i:Rigging old castles to explode.
+i:Making silly faces at high-ranking clergy.
+i:Smoking far too many cigarettes than is advisable.
+i:Writing fake magazine articles describing wars between closely allied countries.
+i:Deep-frying books.
+i:Writing dictionaries of all 89 dialects of Abyssal.
+i:Pulling pranks.
+i:Breeding new horses.
+i:Conducting unethical scientific experiments.
+i:Building exact replicas of small villages, then demanding that all the villagers from that village move to the replica.
+i:Giving themselves ludicrous new titles.
+i:Carrying far too many canes.
+i:Carrying out exorcisms.
+}
+{
+d:d100
+i:But then again, I only heard that from:
+i:The local newspaper.
+i:The village idiot.
+i:The gods themselves.
+i:A giant demon.
+i:A local magistrate.
+i:The police chief.
+i:A drunk in a bar.
+i:An eerily sober man in a bar.
+i:The local miser.
+i:My grandmother's ghost.
+i:An insane prophet.
+i:A mercenary captain.
+i:A mermaid.
+i:A man who turned out to be a Doppleganger.
+i:Three gnomes in a trench coat.
+i:Two halflings in a trench coat.
+i:Eighty-six pixies in a trench coat.
+i:An animated, sentient trench coat.
+i:A Beholder.
+i:A man cursed to only speak the truth.
+i:A local jester.
+i:A mafia hitman.
+i:A goblin who was on fire.
+i:A Cloud Giant.
+i:A group of Azers.
+i:A man who fell through the roof.
+i:A Viking warrior.
+i:A man who rolled through like tumbleweed.
+i:A Mind Flayer.
+i:Mordenkainen himself.
+i:Volo himself.
+i:A bounty hunter.
+i:An old soldier.
+i:An old policeman.
+i:A former army commander.
+i:A crusader.
+i:An occultist.
+i:A grave robber.
+i:A postman.
+i:An animated reflection of myself in a mirror.
+i:A man who wore two dark cloaks.
+i:A one-legged, one-armed, one-eyed man.
+i:A werewolf.
+i:A stone golem.
+i:A tap-dancer.
+i:A saxophone player.
+i:The high priest of Kelemvor.
+i:An entire travelling circus.
+i:The town crier.
+i:A retired pirate.
+i:A retired bandit.
+i:A slightly insane author.
+i:A salty old sailor.
+i:A great-grandmother from a large local clan.
+i:The greatest clown in the world.
+i:A suit of Animated Armor that had trapped a man inside it.
+i:A man selling salt.
+i:A trickster spirit.
+i:An imp.
+i:A regiment of Hobgoblins.
+i:A tribe of Orcs.
+i:An Ettin, who also said it wasn't true.
+i:A Wraith.
+i:A lich lord.
+i:A lost traveller.
+i:The mayor's niece.
+i:A fisherman.
+i:A silent and mysterious stranger who recently moved into town.
+i:A professional spy.
+i:A stockbroker.
+i:A tabaxi minstrel.
+i:A Goliath monk.
+i:A band of singing Dwarves who sung it to me.
+i:An Elvish comedian.
+i:A halfling with a mohawk.
+i:My evil twin.
+i:A lost Planes-walker.
+i:A slightly evil magician.
+i:A poison dealer.
+i:A Mob leg-breaker.
+i:Someone covered head to toe in scarves and coats.
+i:My spouse.
+i:My son.
+i:A Tortle with a purple-painted shell.
+i:Three knights, one in white armour, one in black, one in grey.
+i:A Kobold with a violent temper who screamed at me about it.
+i:A dragonborn who was looking for their parents.
+i:A beautiful forest nymph.
+i:An old woman who turned out to be a Hag.
+i:An old man who turned out to be a Vampire.
+i:A man who refused to stop doing jumping jacks.
+i:A young woman who started a dance party after telling me.
+i:A skeleton.
+i:A morbid man with tired-looking eyes and rumpled suit.
+i:A talking parrot.
+i:A wandering preacher.
+i:A young half-elf who was on a pilgrimage.
+i:A knight in golden armour.
+i:Gary Gygax.
+i:A talking cat.
+}

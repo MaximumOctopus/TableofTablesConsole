@@ -1,0 +1,101 @@
+{
+d:d12 The weapon is...
+i:A longsword.
+i:A shortsword.
+i:A greatsword.
+i:A broadsword.
+i:A scimitar.
+i:A bastard sword.
+i:A spear.
+i:A scythe.
+i:A dagger.
+i:A battleaxe.
+i:A greataxe.
+i:A warhammer.
+}
+{
+d:d12 The blade (or head) is made of...
+i:Obsidian.
+i:Diamond.
+i:Simple steel, forged to perfection.
+i:Steel cooled in demon's blood.
+i:Steel cooled in dragon's blood{.dragons}.
+i:Adamantium.
+i:Dragon fang{.dragons}.
+i:An elemental substance (d4): 1. flame; 2. ice; 3. lightning; 4. wind.
+i:Stone.
+i:Glass.
+i:Enchanted wood.
+i:Bone.
+}
+{
+d:d12 The shaft is made of...
+i:Polished elm.
+i:Bone.
+i:Gold.
+i:Rough oak.
+i:Iron.
+i:Bronze.
+i:Silver.
+i:Blackened steel.
+i:Ancient oak.
+i:Steel with diamond pattern knurling for grips.
+i:Steel with leather strips wound for grips.
+i:The weapon is made of one piece, the shaft is the same material as the blade{.legendary weapons}.
+}
+{
+d:d12 The maker was...
+i:A dwarf{.dwarves}.
+i:A tiefling.
+i:A human.
+i:An elf{.elves dark,.elves high,.elves wood}.
+i:A dragonborn.
+i:A god.
+i:An orc{.orcs,.orc warlords,.orkish clans}.
+i:A hobgoblin.
+i:A half-elf{.elves dark,.elves high,.elves wood}.
+i:A fiend{.fiends}.
+i:A vampire{.vampires}.
+i:A shapeshifter.
+}
+{
+d:d12 Who was...
+i:A blacksmith.
+i:A weaponsmith{.legendary weapons}.
+i:An armorer.
+i:A king.
+i:A magician.
+i:A hero.
+i:A priest.
+i:An adventurer.
+i:A warrior.
+i:A hunter.
+i:A tyrant.
+i:A prophet.
+}
+{
+d:d10 The weapon is famous because...
+i:It slew a mighty beast.
+i:It was used to lead a great army.
+i:It killed kings.
+i:Its owner stood, alone, against an army, and won.
+i:Its owner was a paragon of virtue.
+i:It killed a god.
+i:It killed a great demon.
+i:It has slain hundreds of thousands.
+i:It slew a dragon{.dragons}.
+i:It contains the soul of an ancient hero or villain{.villains}.
+}
+{
+d:d10 Other interesting things include...
+i:A jewel where the shaft meets the blade (d4): 1. diamond; 2. emerald; 3. ruby; 4. sapphire.
+i:Its maker was killed to stop him from making a better weapon{.legendary weapons}.
+i:It has fine metal work along the blade (even if the blade is made of an elemental substance).
+i:It cannot be sheathed without tasting blood.
+i:It was tempered in an icy lake.
+i:It was forged in a volcano.
+i:It is decorated with symbols where the shaft meets the blade.
+i:It was cooled in a full moons light.
+i:It can only be wielded by the pure of heart.
+i:It can only be wielded by the just.
+}

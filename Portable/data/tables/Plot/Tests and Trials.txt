@@ -1,0 +1,121 @@
+[
+d:So your players are in trouble with the law. Again. Or perhaps the High Priest must judge their worthiness before handing them the Item of Power. Or maybe they must prove themselves strong/quick/smart enough to be seen as equal (or at least equal enough) by the locals. Seems like what you are looking for is some sort of Trial! A good trial is more than just a specific test or task. It should have weight to it, and be grounded in your world. How a group's Trials work can speak volumes to their beliefs, motivations, and values. In many ways how the Trial is conducted says far more than what the Trial specifically is. But what makes a good trial? A Trial can be broken down into nine important points. What is the history of this event? Who can demand the trial? Who administers? How public is it? How easy is it supposed to be? What is it? When is it done? What is the punishment for failure? And finally, because players are players, how is it commonly cheated? This post will be broken down by each of these points, with a table at the end to roll for these elements. Often you'll have several of these elements already fixed, but it can be an interesting worldbuilding exercise to leave it to chance. To be clear this is to create the trial itself, how you use or implement this is entirely up to how you see fit.
+]
+[
+d:What is the history of the Trial? This goes straight to the worldbuilding. Is this done to mimic a great deed like the modern marathon? Or perhaps a god handed it down directly? Or maybe it is continually evolving with new tests each time? Like all elements of this post the options in the table are just suggestions, your trials should fit your world and your players. That being said here are some places to start thinking.
+]
+{
+d:d8 What is the History?
+i:The gods created it long ago
+i:It is done in honor of a hero long past
+i:It was created as an outlet for tensions within a country
+i:Is is used to resolve diplomatic disputes in a formalized way
+i:It is used to select a worthy hero
+i:Standard punishment for high crimes or oathbreaking
+i:Ritualized Induction/Excommunication
+i:No one really knows
+}
+[
+d:This gives us a broad range of to work with. Lots of variety and lots of implications with each. And also they can be taken in multiple ways. For example "No one really knows" can mean anything from "This is how it has always been. Since before records began we did this.' to "I'm honestly not sure, when you think about it is really odd. Huh, wonder why.'.
+]
+[
+d:Who can demand the Trial? Is the Great Good testing the heroes to see if they are worthy of the Artifact of Plot? Is the Ancient Order seeing if they have learned enough to be told the Elder Lore? Is it any schmuck on the street who decides they Players looked at them funny? Or maybe it could be your Players themselves who decide they will attempt this. No matter what the trial is, someone has to demand it. It can lose some of its power if it is something that can just happen or be walked into by accident.
+]
+{
+d:d8 Who can Demand the Trial?
+i:A god
+i:Priests
+i:The Nobility
+i:Merchants
+i:Beggars
+i:Anyone
+i:It's demanded anonymously
+i:Who can demand it rotates by season
+}
+[
+d:Who Administers? This is an important distinction from the previous point. It can be the difference between a modern legal battle (two people go to a judge or jury to settle the matter) and a duel. Who oversees the trial can say a lot about what a certain culture holds worthy. Is closeness to the gods important? Gobs of money? Is equality prized? Experience?
+{
+d:d8 Who Administers the Trial?
+i:An emissary of the gods
+i:A noble
+i:An appointed representative of the crown
+i:People at random from the streets
+i:A rotating selection of people
+i:The oldest member of the community
+i:Ritualized Induction/Excommunication
+i:People compete to be allowed to administer
+}
+[
+d:How public is the Trial? Is this done as a spectacle? Or is it done in complete secret? Just those who are going through it and those who are administering? This is the difference from a massive arena with screaming crowds, and things done in dark rooms at the dead of night. If there is a massive crowd then the Players will likely gain some notoriety if they manage to pass, if it is done in secret, then the repercussions will be very different.
+]
+{
+d:d6 How public is the Trial?
+i:People come from miles away to witness it
+i:Most of a city will turn up to watch
+i:All those in the relevant field will be there
+i:Only a select few will witness this
+i:Only the one who takes the trial and the one who administers it
+i:No one will ever know that it happened
+}
+[
+d:How easy is it supposed to be? An initiation right should be different from a full test of worthiness. Sometimes it is useful to have an easily passed trial, it can allow players to get acquainted with a group quicker, or to show how much they have grown. It can also be an interesting worldbuilding too. Maybe your Trial is how people say hello? That being said be wary about betraying expectations. If you play something up and then it can be easy to let a party down.
+]
+{
+d:d6 How easy is it supposed to be?
+i:No one has ever passed
+i:Few people have ever passed
+i:Maybe a quarter of the people make it
+i:Most people pass the test
+i:Almost everyone passes the test
+i:It is so laughably easy to pass you wonder why it even exists
+}
+[
+d:What even is this Trial anyway? The meat and potatoes of the trial. There are plenty of examples to draw from, Sita walking through fire in the Ramayana, the Letherii tradition of weighing people down with gold and having them try to walk across a canal bottom from the Malazan Books of the Fallen, even traditional book tests at schools. The possibilities are limitless, but unfortunately that is rather hard to put into a table. So here are some rough ideas.
+]
+{
+d:d6 What is the Trial?
+i:Trial by combat
+i:A race
+i:Trial by the elements/exposure
+i:Trial of knowledge
+i:Fine art contest
+i:A test of skill
+}
+[
+d:When is it done? Is the Trial officiated right away? Or is it only done at the third full moon after the harvest beginning when the second star is seen in the sky? Probably somewhere in between. But when a trial is done can say a lot about how seriously it is taken. One with a very specific start time is likely to be a lot more formal and ritualized than one that can start at a drop of a hat. But if people drop their daily lives and go into full Trial mode that quickly it can also say something about how seriously this Trial is taken. To use the example I've been rolling: if everyone fights to administer a poetry challenge and then the players are bundled off immediately because a beggar told them that he wanted to hear their poetry, then you get an good idea about how important this is to them.
+]
+{
+d:d6 When does it take place?
+i:It is begun immediately
+i:Within the day
+i:Within a week
+i:At a certain time in a lunar cycle
+i:Only can happen at a certain point in the year
+i:Every 4 years
+}
+[
+d:What is the punishment for failure? At last we have come to the deterring factor of the trial. A DM friend of mine once told me that half of his job is making sure that the Players felt the consequences of ALL their actions. That means successes as well as failures. Nothing ventured, nothing gained. But failure shouldn't always result in death or dismemberment, sometimes it is just you don't get the Item of Power, or the people don't recognize you as Chosen. However that is not as much fun to put in a table so this will be a bit more bloodthirsty than perhaps is warranted.
+]
+{
+d:d6 What is the punishment for failure?
+i:Death
+i:Loss of limb/eye
+i:You are labeled an outcast
+i:You are considered shamed in the eyes of the public
+i:Nothing bad happens
+i:Through failing you have actually passed
+}
+[
+d:How can you cheat? As long as there have been rules there have been people figuring out ways to subvert them. Bribery and corruption can run rampant and thus subvert the actual ritual of the Trial. Or perhaps cheating is encouraged? So long as it is subtle and in line with the tradition of course. Players attempting to subvert whichever trial they are going into should be given due diligence and their scheme weighed carefully. The penalty for being caught cheating might end up being greater than the penalty for failure. As before this is not an exhaustive list of ways to cheat a Trial, but a starting ground to think about what people may be susceptible to.
+]
+{
+d:d8 How can you cheat?
+i:Bribe with money
+i:Bribe with political favors
+i:Sneak an item in
+i:Garner insider knowledge
+i:Cast spells ahead of time
+i:Have someone else do it
+i:Cheating is encouraged
+i:There is no way to cheat this trial
+}

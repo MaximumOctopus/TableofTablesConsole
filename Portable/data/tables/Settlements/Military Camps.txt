@@ -1,0 +1,258 @@
+{
+d:d10 This tent is functions as...
+i:Barracks.
+i:A chapel or shrine.
+i:A forge (d4): 1. armorer; 2. blacksmith; 3. farrier; 4. swordmaker.
+i:An infirmary or surgeons’ office.
+i:A mess hall.
+i:Officers’ quarters.
+i:Officers’ mess.
+i:A supply tent (d4): 1. armory; 2. building materials; 3. food, 4. water.
+i:A stable or kennel.
+i:A workshop (d4): 1. cartwright; 2. fletcher; 3. leatherworker; 4. siege engineer.
+}
+{
+d:d12 Other Landmarks: You see...
+i:A corral or wagon yard.
+i:A guard post or watch tower.
+i:A gatehouse.
+i:Tables that serve as an outdoor mess hall.
+i:A drill yard.
+i:A target range or sparring pit.
+i:Water wells.
+i:A privy or waste pit.
+i:An outdoor forge or workshop.
+i:A stockade or jail.
+i:Animal pens.
+i:Graves{.graverobbers}.
+}
+{
+d:d6 The camp’s mounts include...
+i:Camels.
+i:Large draft horses.
+i:Reliable garrons.
+i:Quick-footed palfreys.
+i:Huge destriers.
+i:Exotic mounts (d6): 1. bears; 2. bison; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
+}
+{
+d:d6 As hunting or war beasts, the camp has...
+i:Falcons.
+i:Fighting dogs.
+i:Hounds.
+i:Terriers.
+i:Wolves.
+i:Exotic beasts (d10): 1. boars; 2. dire rats{.rats}; 3. dire wolves; 4. drakes; 5. eagles; 6. lions; 7. owlbears; 8. ravens; 9. tigers; 10. wargs.
+}
+{
+d:d6 The camp’s general mood is...
+i:Desperate; a calamity has befallen them.
+i:Solemn; badly outnumbered, battle is nigh.
+i:Foul; morale is bad, and provisions are low.
+i:Tired; the journey is long and longer yet.
+i:Eager; great plunder waits at journey’s end.
+i:Cheerful; victory is all but certain.
+}
+[
+d:COMMANDER
+]
+{
+d:d6 The commander is...
+i:A brilliant strategist.
+i:A brutish thug.
+i:A dashing swashbuckler.
+i:A celebrated war hero.
+i:An anointed knight{.knights}.
+i:A career soldier{.soldiers}.
+}
+{
+d:d6 The commander is looking for...
+i:Information regarding enemy positioning.
+i:Information regarding the terrain ahead.
+i:Reinforcements or new recruits.
+i:News of his hometown.
+i:Revenge against a bitter rival.
+i:Drinking companions and storytellers.
+}
+{
+d:d4 The commander is trying to avoid...
+i:Barbarians{.barbarians}.
+i:Bandits.
+i:The enemy army.
+i:Hazardous terrain.
+}
+{
+d:d6 The commander carries...
+i:A superbly crafted sword.
+i:A trusted blade and a map.
+i:A lucky charm (rabbit’s foot, old coin).
+i:The token of a faraway love.
+i:A pipe and pouch of tobacco.
+i:A little jar of mustache wax.
+}
+[
+d:SOLDIER
+]
+{
+d:d6 The soldier fights for...
+i:The steady pay.
+i:Pure bloodlust.
+i:A chance to escape from life imprisonment.
+i:A chance at vengeance.
+i:God and country.
+i:Fortune and glory.
+}
+{
+d:d4 On the soldier’s face is...
+i:An unsightly scar.
+i:A haughty sneer.
+i:A look of sadness.
+i:An eager grin.
+}
+{
+d:d4 The soldier carries…
+i:A highly polished blade.
+i:A letter from a fallen comrade.
+i:A trophy from a fallen enemy.
+i:A ribbon from a faraway maiden.
+}
+[
+d:SCOUT
+]
+{
+d:d4 The scout is...
+i:A daring ranger.
+i:A skilled hunter.
+i:An expert tracker.
+i:A brutal warrior.
+}
+{
+d:d4 The scout is looking to...
+i:Help the camp slaughter the enemy.
+i:Keep the camp from marching into a trap.
+i:Hear word of enemy patrols and wild game.
+i:Eat, drink, and be merry.
+}
+{
+d:d4 The scout carries...
+i:A map with notes scrawled all over it.
+i:A unique trinket or piece of jewelry.
+i:A longbow and a quiver of arrows.
+i:A large knife and climbing gear.
+}
+[
+d:ARMORER
+]
+{
+d:d4 The armorer is...
+i:A meticulous armorsmith.
+i:A blacksmith with some militia experience.
+i:A farrier with little experience with weapons{.legendary weapons}.
+i:A highly-skilled weaponsmith{.legendary weapons}.
+}
+{
+d:d4 The armorer is looking for...
+i:A new apprentice or a journeyman assistant.
+i:Rare metals.
+i:Dull blades to sharpen.
+i:A mug of strong ale.
+}
+{
+d:d4 The armorsmith carries...
+i:A hammer.
+i:A metal trinket made by the armorer.
+i:A contract for a set of special plate armor.
+i:Little more than a few coins.
+}
+[
+d:QUARTERMASTER
+]
+{
+d:d4 The quartermaster is...
+i:A member of a trading clan.
+i:A member of a prominent family.
+i:A survivor of a terrible battle wound.
+i:Secretly a coward.
+}
+{
+d:d4 The quartermaster seeks someone to...
+i:Obtain hard-to-get provisions.
+i:Purchase contraband items.
+i:Help win over a sweetheart.
+i:Share a drink and a laugh.
+}
+{
+d:d4 Currency: The quartermaster trades in...
+i:Coins.
+i:Gems and trinkets{gemstones}.
+i:Meat, foraged roots, and other provisions.
+i:Bones, scalps, teeth, or other grisly trophies.
+}
+[
+d:STABLE HAND / SQUIRE / VALET
+]
+{
+d:d8 The servant is...
+i:A squire from a noble house{.nobles,.noble houses}.
+i:A frightened link boy.
+i:A long-time valet or reformed criminal.
+i:A reformed criminal-turned valet.
+i:A prisoner of war.
+i:A mysterious foreigner.
+i:A simple-minded stable hand.
+i:An expert on horses.
+}
+{
+d:d4 The servant has...
+i:An awkward gait.
+i:Incredibly large hands.
+i:Quite an odor.
+i:A ragged beard.
+}
+{
+d:d6 The servant wants to...
+i:Earn a little silver.
+i:Go back home.
+i:Show off an animal’s new trick.
+i:Train with weapons and be a hero{.legendary weapons}.
+i:Earn the affection of his or her master.
+i:Have a drink and a rest.
+}
+[
+d:COOK
+]
+{
+d:d6 The cook is looking for...
+i:Someone more important to talk to.
+i:Someone to try an improvised recipe.
+i:Some better ingredients.
+i:A good joke or story.
+i:Someone with whom to share some wine{.wines}.
+i:The bottom of a bottle.
+}
+[
+d:CAMP FOLLOWER
+]
+{
+d:d6 The traveler is...
+i:A harlot{.harlots}.
+i:A healer{.healers}.
+i:A minstrel or storyteller.
+i:A peddler.
+i:A preacher.
+i:A refugee.
+}
+{
+d:d4 The traveler is seeking...
+i:To find a long lost friend or family member.
+i:To escape from a troubled past.
+i:To gain revenge against a bitter rival.
+i:To survive the war and start over.
+}
+{
+d:d4 Tonight, the traveler is looking for...
+i:A little company.
+i:An opportunity to earn a little coin.
+i:Someone to hear a sad tale.
+i:Drinking companions.
+}

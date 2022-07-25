@@ -1,0 +1,300 @@
+{
+d:d50 Settlement name (part 1)...
+i:Stone.
+i:Water.
+i:Leaf.
+i:Ice.
+i:Flame.
+i:Sol.
+i:Storm.
+i:Earth.
+i:Gleam.
+i:Star.
+i:Art.
+i:War.
+i:Heart.
+i:Hard.
+i:Fall.
+i:Rock.
+i:Doom.
+i:Oak.
+i:Tear.
+i:Raven.
+i:Badger.
+i:Snake.
+i:Lion.
+i:Hell.
+i:Rage.
+i:Brine.
+i:Rat{.rats}.
+i:Buck.
+i:Lily.
+i:Core.
+i:Stench.
+i:Mage.
+i:God.
+i:Soil.
+i:Pure.
+i:Mal.
+i:Cam.
+i:Fen.
+i:Clear.
+i:Split.
+i:Founder's.
+i:Heir.
+i:Fair.
+i:Spin.
+i:Lord's.
+i:King's.
+i:Servant's.
+i:Demon's.
+i:Snow.
+i:Land's.
+}
+{
+d:d50 Settlement name (part 2)...
+i:crest.
+i:bridge.
+i:run.
+i:catch.
+i:blade.
+i:haven.
+i:rise.
+i:more.
+i:light.
+i:main.
+i:blaze.
+i:place.
+i:tear.
+i:fold.
+i:rest.
+i:host.
+i:craft.
+i:lair.
+i:hollow.
+i:vale.
+i:hammer.
+i:pike.
+i:rail.
+i:spike.
+i:ring.
+i:henge.
+i:coil.
+i:spring.
+i:jaw.
+i:mark.
+i:hail.
+i:loch.
+i:child.
+i:keep.
+i:fort.
+i:brook.
+i:forth.
+i:melt.
+i:borourgh.
+i:ford.
+i:crawl.
+i:moral.
+i:combe.
+i:glen.
+i:garden.
+i:wish.
+i:fellow.
+i:ridge.
+i:ward.
+i:town.
+}
+{
+d:d6 Population size...
+i:50 people (hamlet).
+i:100 people (small village).
+i:250 people (village).
+i:1'000 people (small town).
+i:5'000 people (town).
+i:25'000 people (city).
+}
+{
+d:d100 Main inhabitants are...
+i:1-35. Humans.
+i:36-40. Wood Elves{.elves dark,.elves high,.elves wood}.
+i:41-49. High Elves{.elves dark,.elves high,.elves wood}.
+i:50-51. Eladrin.
+i:52-53. Half-Elves{.elves dark,.elves high,.elves wood}.
+i:54-55. Drow.
+i:56-65. Mountain Dwarves{.mountains}.
+i:66-70. Hill Dwarves{.dwarves}.
+i:71-73. Lightfoot Halflings.
+i:74-75. Stout Halflings.
+i:76-77. Rock Gnomes{.gnomes}.
+i:78-79. Forest Gnomes{.forest,.forest enchanted,.forest haunted,.gnomes}.
+i:80. Deep Gnomes{.gnomes}.
+i:81-85. Dragonborn.
+i:86-88. Orcs and Half-Orcs{.orcs,.orc warlords,.orkish clans}.
+i:89-90. Tieflings and Fiends{.fiends}.
+i:91-92. Aarakocra.
+i:93-94. Genasi and Elementals.
+i:95-96. Shifters and Lycanthropes{.lycanthropes}.
+i:97. Goliaths and Giants.
+i:98. Changelings and Doppelgangers.
+i:99. Warforged and Constructs.
+i:100. Aasimar and Celestials{.beasts celestial}.
+}
+{
+d:d20 The settlement's atmosphere is...
+i:Calm.
+i:Quaint.
+i:Peaceful.
+i:Vaguely unsettling.
+i:Decidedly sinister.
+i:Tense.
+i:Violent.
+i:Fearful.
+i:Bustling.
+i:Tumultuous.
+i:Chaotic.
+i:Pleasant.
+i:Dark.
+i:Heavy.
+i:Stifling.
+i:Relaxing.
+i:Freeing.
+i:Spiritual.
+i:Apathetic.
+i:Grief-stricken.
+}
+{
+d:d100 A prominent feature of the settlement is...
+i:Its beautiful parks.
+i:Its majestic orchards.
+i:A notable library.
+i:A powerful guild.
+i:The smell of baked bread.
+i:The sounds of blacksmiths working.
+i:The abundance of game in the surrounding land.
+i:The extensive farmland surrounding it.
+i:Its exotic goods.
+i:The slums.
+i:Its criminal syndicate.
+i:Its high-class brothels{.brothels}.
+i:Its ban on prostitution.
+i:That it is protected by thick stone walls.
+i:That it stands atop a floating mote of earth.
+i:Its visible magic wards, which repel monsters.
+i:That it is constantly besieged.
+i:That it is ruled by a tyrant.
+i:The law is enforced harshly.
+i:The lack of government; anarchy reigns.
+i:A large temple{.temples}.
+i:A gated cemetery larger than is warranted.
+i:A system of tunnels beneath the settlement.
+i:A planar gate.
+i:A powerful curse{cursessimple}.
+i:That adventurers are hated by the people.
+i:A mysterious obelisk towers over other buildings.
+i:A famous entertainer inhabits the settlement.
+i:That magic is hated by the people.
+i:Its heavily armed, well-trained guards.
+i:The tamed monster that defends it.
+i:A well-traveled trade route that runs through it.
+i:Its "friendly" barmaids.
+i:The local ale distillery.
+i:A keep of a noble lord{.nobles,.noble houses}.
+i:A tower in which a princess is locked up.
+i:That it's overrun with pests.
+i:That it's in an economic depression.
+i:That it's being extorted by an intelligent monster.
+i:A group of refugees tenting near the settlement.
+i:That it's on the path of a gypsy caravan.
+i:That a traveling carnival often passes through.
+i:The nearby vineyards.
+i:Its history as a battleground.
+i:Its proximity to a monster stronghold.
+i:A wishing well with a local legend.
+i:That it is built in a dead magic zone.
+i:That it is built in a wild magic zone.
+i:That it was the site of a mythic event.
+i:That it was built atop ancient ruins.
+i:A statue honoring some long-dead hero.
+i:An abundance of a particular animal.
+i:A shrine to an evil god.
+i:An affordable periodical carrying news of the realm.
+i:A peaceful cult.
+i:Its wide streets.
+i:Its incredibly beautiful architecture.
+i:Its patronage of the arts.
+i:The nearby academy of magic.
+i:The rare herbs that grow nearby{.herbalism}.
+i:The use of glowing crystal as streetlamps.
+i:The settlement's astronomy observatory.
+i:A bridge that spans a wide river.
+i:The fiercely patriotic inhabitants.
+i:A gallows erected in the main square.
+i:A genial ghost.
+i:Its "no-weapons" policy{.legendary weapons}.
+i:A corrupt politician.
+i:Regular raids by a nearby group of bandits.
+i:That it was founded by cannibals, and some continue the tradition.
+i:That it's actually a bandit base.
+i:That all light except sunlight is smothered.
+i:That it was the location of a pirate's unclaimed treasure hoard{.pirates}.
+i:The nearby mines{.mines}.
+i:A history of assassinations{.assassins' guilds}.
+i:Its very progressive attitude.
+i:Its staunch conservative attitude.
+i:Its incompetent buffoon of a leader.
+i:Its paranoia.
+i:Its xenophobia.
+i:Its tolerance of others.
+i:A coven of witches as rulers{.witches}.
+i:Its predominantly male population.
+i:Its predominantly female population.
+i:Its high concentration of children.
+i:Its noticeable lack of children.
+i:Its connection to the Feywild{.beasts fey}.
+i:Its connection to the Shadowfell.
+i:Its grimy feel.
+i:The stench of sewage.
+i:A river that divides it.
+i:The undead servants that perform labor.
+i:That it's the center of a manhunt.
+i:A pony mascot with an adorable name.
+i:The overpowering smell of sulfur.
+i:A low hum that permeates the settlement with no known cause.
+i:A thousand-year-old tree in town square.
+i:That it is under the protection of friendly elemental spirits.
+i:The blistering heat of its forges.
+i:Its famous impartiality.
+}
+{
+d:d30 The players should care about the settlement because...
+i:It has magic item shop(s){.shops}.
+i:A dungeon was discovered nearby recently{basic dungeons,castle dungeons,dungeon dressing}.
+i:A powerful wizard lives there.
+i:A NPC the players have met before is there.
+i:Something they want is there.
+i:A thief stole something from them here{.thieves}.
+i:It was mentioned in a letter found on a slain foe.
+i:They are hired by someone in the settlement.
+i:This is the only settlement with which to resupply within leagues.
+i:One of the inhabitants asked for help with a problem.
+i:It is the only save haven from the monster-infested surroundings.
+i:They are implicated in a crime and asked not to leave town.
+i:There are some interesting rumors about their foes.
+i:The players liberated some prisoners who asked to be taken there.
+i:An enemy has called them out.
+i:The rewards on the job board are high.
+i:Things don't quite add up; perhaps investigation is called for.
+i:It keeps getting mentioned wherever they go.
+i:The townspeople greet them like heroes.
+i:They need to take shelter from a severe storm.
+i:They need help that the settlement can provide.
+i:A child/helpless NPC is in danger and needs help.
+i:There are signs of a monster infestation.
+i:A creature whose goals clash with theirs lives there.
+i:A powerful NPC tries to put them under a "geas".
+i:A patron promises them jobs there.
+i:They hear rumors of a hidden magic item nearby.
+i:A strange crime is committed, peripherally involving them.
+i:A local NPC did them a favor, and wants to cash in.
+i:A powerful entity offers them a deal there.
+}

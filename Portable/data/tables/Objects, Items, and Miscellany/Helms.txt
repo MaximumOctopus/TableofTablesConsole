@@ -1,0 +1,81 @@
+{
+d:d6 Helm material: The helm is made of…
+i:Boiled leather.
+i:Bronze.
+i:Copper.
+i:Iron.
+i:Steel.
+i:Valuable metal (d6): 1. gold-plated steel; 2. silver-plated steel; 3. platinum-plated steel; 4. mithral; 5. adamantine; 6. odium.
+}
+{
+d:d6 Helm feature: The helm has…
+i:Several sharp spikes.
+i:Fur-lined interior.
+i:A mesh facemask.
+i:A solid facemask with a pair of eye holes.
+i:A solid facemask with a single wide eye slit.
+i:An open face with a protective nose guard.
+}
+{
+d:d6 Decorative feature: The helm is adorned with…
+i:Ancient runes etched into the surface.
+i:A single large feather.
+i:Several feathers.
+i:A horsehair tassel.
+i:The likeness of a skull.
+i:The likeness of a beast.
+}
+{
+d:d6 Beast Likeness: The helm is formed in the likeness of a/an...
+i:Dragon.
+i:Lion or tiger.
+i:Wolf or hound.
+i:Stag or bull.
+i:Eagle or owl.
+i:Snake or frog.
+}
+{
+d:d6 Special protection: When properly activated, the helm provides extra protection against...
+i:Enchantments.
+i:Illusions.
+i:Radiant damage.
+i:Necrotic damage.
+i:Psychic damage.
+i:Thunder damage.
+}
+{
+d:d6 Special property: The helm...
+i:Allows the wearer to commune with dead souls or demonic beings.
+i:Erupts with a burst of necrotic or psychic energy when the wearer is hit.
+i:Enhances the wearer’s senses.
+i:Allows the wearer to grant resistance to damage an ally.
+i:Allows the wearer to summon elementals or incorporeal undead.
+i:Allows the wearer to teleport short distances.
+}
+{
+d:d6 Activation: The helm’s special protection or special property activates or amplifies…
+i:Against a specific type of enemy (d6): 1. dragons; 2. giants; 3. fiends; 4. aberrations; 5. fey; 6. celestials.
+i:When worn by a member of a specific race (d6): 1. dwarf; 2. genie; 3. giant; 4. half-dragon; 5. human; 6. undead.
+i:On a plane outside the mortal realm (d6): 1. Feywild; 2. Plane of Air; 3. Plane of Earth; 4. Plane of Fire; 5. Plane of Water; 6. Shadowfell.
+i:In darkness.
+i:In the realm of a particular elemental lord or arch-fiend.
+i:In places touched by death.
+}
+{
+d:d6 Creator: The helm was made by a/an…
+i:Severely misunderstood sorcerer.
+i:Dwarvish warpriest.
+i:Simple blacksmith.
+i:Charismatic crusader.
+i:Devoted monk.
+i:Exarch of a deity.
+}
+{
+d:d6 Past wielder: The helm’s most famous wearer was a/an…
+i:Dwarvish battlelord.
+i:Legendary elvish hero.
+i:Famous dragonslayer.
+i:Treacherous knight.
+i:Notorious cult leader.
+i:Fearsome warlord.
+}

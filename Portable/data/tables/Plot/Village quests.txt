@@ -1,0 +1,90 @@
+{
+d:d6 You've got to help! There is a
+i:Monster
+i:Noble
+i:Thief
+i:Guard
+i:Peasant
+i:Cow
+}
+{
+d:d6 Who
+i:Is missing
+i:Killed someone
+i:Was found dead
+i:Stole something
+i:Is plotting something
+i:Has been lurking about
+}
+{
+d:d8 at
+i:The tavern
+i:The river
+i:The Church
+i:The forest
+i:The Village
+i:The mines
+i:My House
+i:The paddock
+}
+{
+d:d10 We found
+i:Blood
+i:A skull
+i:A dagger
+i:A letter
+i:A key
+i:Witnesses
+i:An arrow
+i:Footprints
+i:A corpse
+i:A sack of gold coins
+}
+{
+d:d10 Which we expect involves
+i:The King
+i:The Queen
+i:My wife
+i:The Neighbour
+i:The Barmaid
+i:The Bartender
+i:Meddling Kids
+i:Demons from another world
+i:The Town Watch
+i:A Cow
+}
+{
+d:d8 But the
+i:Meddling Kids
+i:Town Watch
+i:Wife
+i:Neighbours
+i:Cows
+i:Nobles
+i:Rich Man
+i:Scoundrel
+}
+{
+d:d8 is stopping us from
+i:Searching the town
+i:Leave the town
+i:Call for aid
+i:Drinking, until this has been resolved
+i:Hosting the annual village dance
+i:Harvesting our crops
+i:Speaking out
+i:Asking any questions
+}
+{
+d:d10 Please! If you can help, I'll give you
+i:A pouch of silver
+i:My best pitchfork
+i:A signet ring
+i:The mightiest handshake you'll ever receive
+i:A treasure map
+i:My cow
+i:My brother's name, he's in the big city
+i:My blessing
+i:A gold coin
+i:Anything you want
+}

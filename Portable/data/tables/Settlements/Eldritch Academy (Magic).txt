@@ -1,0 +1,100 @@
+{
+d:d6 Type: This institution for magical education is a(n)...
+i:Bardic College.
+i:Wizarding Boarding School.
+i:Sorcery Symposium.
+i:Artificing Technical School.
+i:Warcaster Boot Camp.
+i:Omni-Arcane University.
+}
+{
+d:d6 Site ...
+i:...On a floating island above the clouds.
+i:...In an idyllic vale surrounded by misty woodlands.
+i:...In the centre of a cosmopolitan city.
+i:...At the fount of all the world’s magic.
+i:...At the foot of a tropical volcano.
+i:...On an ancient giant burial ground.
+}
+{
+d:d6 Students are...
+i:Elves.
+i:Children.
+i:Privileged highborns.
+i:Military cadets.
+i:Troubled youth with magical potential.
+i:Second-career adventurers looking to multi-class.
+}
+{
+d:d6 The school's loner/rebel is a(n):
+i:Eldritch knight.
+i:Arcane trickster.
+i:Warlock.
+i:Arcane archer.
+i:Sorcerer.
+i:Monstrous humanoid (d6): 1. Orc; 2. (Hob)Goblin; 3. Drow; 4. Kenku; 5. Vampire; 6. Werewolf.
+}
+{
+d:d6 The magical extracurricular activity of choice is...
+i:Catching, raising, and training magical or monstrous pets for tournament-style combat.
+i:Practising and performing magic-infused musical pieces.
+i:Crafting magical objects, or enchanting mundane items, for sale at the school-run shop.
+i:Going on the school-sponsored “retreats:” faculty-led dungeon runs and wilderness expeditions for extra credit.
+i:Magical duelling.
+i:Pranking local non-magical commoners (and other students) with illusions, enchanted edibles, and other magical hijinks.
+}
+{
+d:d6 The professors are...
+i:Retired heroes and adventurers, each with a wealth of experience...
+i:Academics and sages, each paragons in their chosen discipline,...
+i:Qualified, passionate, and capable educators...
+i:Avant-garde theorists...
+i:Petty, competitive narcissists working for a paycheck...
+i:Villains, out to crush or warp the next generation of magic-users.
+}
+{
+d:d6 ...who...
+i:Tend to give students almost careless, laissez-faire treatment.
+i:Insist on students' self-control and discipline in their use of magical power.
+i:Have ambitions of teaching the world’s greatest mages.
+i:Use students as unwitting test subjects for new spells, potions, and magic items.
+i:Give each student all the personal attention and customized instruction they need to excel as mages and as fully actualized individuals.
+i:Use competition and shame to motivate their pupils.
+}
+{
+d:d6 The staff (the cooks, custodians, groundskeepers, etc.) are mostly...
+i:Kindly brownies, working in exchange for room and board,...
+i:Trod-upon goblins,...
+i:Gnomes,...
+i:Animated objects,...
+i:Constructed homunculi,...
+i:Rustic commoners who are in awe of the simplest magicks,...
+i:...But there is a(n)...
+i:Ogre, who is in charge of waste disposal.
+i:Centaur, who is in charge of campus security.
+i:Kobold office manager, who is the face of the institution.
+i:Fire Genasi, who runs the kitchens.
+i:Satyr, whose goats graze the vast lawns.
+i:Tortle, who keeps the time and sounds a massive gong to signal the changing of class periods.
+i:The school is run by...
+i:A domineering but out-of-touch board of directors.
+i:An absentee headmaster.
+i:A saccharine governess.
+i:A group of wizened, benign archmages.
+i:A sarcastic lich.
+i:A demoted deity of magic and knowledge.
+i:The grounds are protected by:
+i:An elite group of rangers.
+i:Explosive Glyphs of Warding.
+i:Complex illusions.
+i:A dragon.
+i:Elaborate traps, bordering on the excessive.
+i:Undead.
+i:The school’s hospital wing is filled with...
+i:Cabinets of healing potions.
+i:Ill and injured locals for the students to practice their healing spells on.
+i:Students suffering from magical mishaps sustained during their absurd shenanigans after hours.
+i:The clumsy students whose magical mistakes consistently backfire.
+i:Polymorphed animals having identity crises.
+i:Monstrous cadavers for anatomical study and classification.
+}

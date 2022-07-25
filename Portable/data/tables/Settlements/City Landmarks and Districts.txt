@@ -1,0 +1,46 @@
+{
+d:d20 Landmark: You see a/an...
+i:Academy or university.
+i:Ancient ruin.
+i:Arena.
+i:Cemetery.
+i:Civic hall, council hall, or guild hall.
+i:Common or greenway.
+i:Fortress.
+i:Gateway or arch.
+i:Library.
+i:Lighthouse or watchtower.
+i:Marketplace.
+i:Memorial (d4): 1. mausoleum; 2. reflecting pool; 3. large statue; 4. botanical garden.
+i:Monument (d6): 1. colossus; 2. column; 3. obelisk; 4. plaque; 5. statue garden; 6. wall.
+i:Palace.
+i:Parade grounds or drilling yard.
+i:Pier, marina, or traveler's bazaar.
+i:Plaza or public square.
+i:Temple{.temples}.
+i:Theater.
+i:Stockyards.
+}
+{
+d:d20 This part of the city is the...
+i:Slums.
+i:Residential district, poor.
+i:Residential district, middle class.
+i:Residential district, upper class.
+i:Palace district.
+i:Temple district{.temples}.
+i:Crafting district.
+i:Docks district.
+i:Riverfront district.
+i:Harbor district.
+i:University district.
+i:Military district.
+i:Market district.
+i:Garden district.
+i:Monument district.
+i:Necropolis.
+i:Theater district.
+i:Civic center.
+i:Ethnic enclave.
+i:Foreign enclave.
+}

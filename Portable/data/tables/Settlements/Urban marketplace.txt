@@ -1,0 +1,104 @@
+{
+d:d8 The marketplace is located in...
+i:A wide, rectangular plaza.
+i:A large, circular or elliptical plaza.
+i:A large plaza with a polygonal shape (d4): 1. perfect square; 2. trapezoid; 3. triangle; 4. pentagon.
+i:An intersection of two wide roads.
+i:A sprawling maze of small alleyways.
+i:A sprawling maze of tunnels beneath the city streets.
+i:A huge pavilion with a solid roof overhead.
+i:A disorganized series of large tents.
+}
+{
+d:d10 Vendor stalls, carts, and booths are mostly organized by...
+i:Type of merchandise.
+i:Nation of origin of the merchandise.
+i:Race or ethnicity of the merchants{.merchant caravans,.merchant guilds,races_core,races_all}.
+i:Nothing; the place is a big disorganized mess.
+i:Religious or political affiliation of the merchants{.merchant caravans,.merchant guilds}.
+i:Raw materials and commodities on one half of the market, finished products on the other half.
+i:Imported goods on one half of the market, local goods on the other half.
+i:An intricate and archaic system put down in an ancient civic or religious document.
+i:The social class to which the vendor caters.
+i:Order of arrival at the marketplace on any given day.
+}
+[
+d:INDIVIDUAL VENDORS
+]
+{
+d:d12 This vendor is selling wares from...
+i:A little push cart.
+i:A small, mule-drawn cart.
+i:A sizable, horse- or ox-drawn wagon{.horses}.
+i:A handful of crates or chests the vendor has set up.
+i:A large rug on which the vendor has laid out the merchandise.
+i:A flimsy wooden booth.
+i:A sturdy wooden booth with a cotton awning.
+i:A semi-permanent wooden stall.
+i:A permanent stone stall.
+i:A huge sack the merchant has set down on the ground{.merchant caravans,.merchant guilds}.
+i:A one- or two-man tent.
+i:A myriad of pockets in the vendor's clothes or a hidden demiplane.
+}
+{
+d:d8 This vendor specializes in...
+i:Raw foodstuffs.
+i:Prepared foodstuffs.
+i:Arms and armor.
+i:Clothing, apparel, or accessories.
+i:Tools, trinkets, or other household goods.
+i:Potions, talismans, religious relics, or other magical goods{.potions}.
+i:Live animals.
+i:Raw materials.
+}
+{
+d:d8 This vendor's wares were produced or prepared...
+i:In a foreign land.
+i:In a local workshop.
+i:By slaves.
+i:By skilled laborers or crafters.
+i:By the vendor him- or herself.
+i:By laborers or crafters working under horrible conditions.
+i:In a distant city or region known for goods of this type.
+i:Somewhere by someone; the vendor neither knows nor cares.
+}
+{
+d:d8 This vendor's goods are...
+i:Of poor quality.
+i:Cheap but usable, a real bargain.
+i:Priced for more than they are worth.
+i:Of decent quality and fairly priced.
+i:Of the highest quality and quite expensive.
+i:A mixed bag of low-quality and high-quality stuff.
+i:Of mysterious origin.
+i:Possibly stolen.
+}
+{
+d:d8 The vendor is...
+i:An old woman.
+i:An old man.
+i:A fat man.
+i:A scrawny man.
+i:A hardy woman.
+i:A plain-faced maid.
+i:A large woman.
+i:An odd foreigner.
+}
+{
+d:d8 The vendor is...
+i:Cheerful.
+i:Surly.
+i:Suspicious.
+i:Friendly.
+i:Alert.
+i:Sleepy.
+i:Nervous.
+i:Frightened.
+}
+{
+d:d4 This vendor is...
+i:Very busy; customers are waiting in line to make purchases.
+i:Reasonably busy; the vendor makes a sale every few minutes.
+i:A little slow; the vendor makes a few sales every hour.
+i:Very slow; the vendor makes only a few sales a day.
+}

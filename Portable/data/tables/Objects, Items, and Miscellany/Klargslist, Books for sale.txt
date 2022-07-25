@@ -1,0 +1,160 @@
+{
+d:d6 Eye-catching headline
+i:Book For Sale -
+i:How to Learn
+i:The History of
+i:The Tome You’re Searching For -
+i:Secrets of
+i:1000 Pages of
+}
+{
+d:d100 Mention Item in Headline
+i:Alchemy and Potions of Healing Tonics
+i:Alchemy and Potions of Metallurgy
+i:Alchemy and Potions of Pyromancy
+i:Alchemy and Potion Recipes
+i:Art and architecture of Fortresses
+i:Art and architecture of Palaces
+i:Art and Painting
+i:Art and Sketching
+i:Art and Sculpture
+i:Architecture and Stonemasonry
+i:Art and Architecture of Temples and Tombs
+i:Astronomy and Comets
+i:Astronomy and Constellations
+i:Astronomy and the Sun
+i:Astronomy and Strange Phenomena
+i:Astrology and Comets
+i:Astrology and Constellations
+i:Astrology and the Moon
+i:Astrology and the Sun
+i:Astrology and Strange Phenomena
+i:Beast Domestication
+i:Beasts and Their Habits
+i:Beast Handling
+i:Beast Husbandry and Wifery
+i:Demonology and Conjuring
+i:Demonology and Exorcism
+i:Demonology and Fiendish Bargains
+i:Demonology and Fiendish Beasts
+i:Demonology and Fiendish Symbols
+i:Divination and Anthropomancy
+i:Divination and Oneiromancy
+i:Divination and Palm Reading
+i:Divination and Tarot Cards
+i:Divination and Tea Leaves
+i:Anatomy and the Healing Arts
+i:Prayers and the Healing Arts
+i:Rituals and the Healing Arts
+i:Surgery and the Healing Arts
+i:Healing Herbs and their Lore
+i:Mushrooms and their Lore
+i:Poisons and Herbal Lore
+i:Roots and Herb Lore
+i:Trees and their Lore
+i:Wildflowers and their Lore
+i:Ancient History
+i:Cultural History
+i:Economic History
+i:Military History
+i:Political History
+i:Ancient Languages and Tongues
+i:Forbidden Languages and Tongues
+i:Exotic Languages and Tongues
+i:Grammar and Punctuation
+i:Translations of Languages of Tongues
+i:Tales of Grand Adventure
+i:Fairy Tales and Other True Fiction
+i:Folk Tales
+i:Murder Mystery Tales
+i:Romantic Tales
+i:Tales of Satire
+i:Gems, Mining, and Mineralogy
+i:Metals, Mining and Mineralogy
+i:Mining, Mineralogy, and the Strategies Thereof
+i:Smithing, Mining, and Mineralogy
+i:Heroic Ballads and Limericks
+i:Love Ballads
+i:Bawdy Tunes and Haiku
+i:Dirges and Laments
+i:Hymns for Humming
+i:Corpses and Necromancy
+i:Lichdom and Necromancy
+i:Spirits, Souls, and Necromancy
+i:Necromancy and Undead Beasts
+i:Vampirism and Necromancy
+i:Comedic Plays
+i:Dramatic Plays
+i:Historical Plays
+i:Romantic Plays
+i:Satirical Plays
+i:Tragic Plays
+i:Epic Poetry
+i:Love Poetry
+i:Lyric Poetry
+i:Poetic Odes and Laments
+i:Prophecies and Omens of the Apocalypse
+i:Foreboding Astronomical Events
+i:Ominous and Prophetic Birds
+i:Ominous and Prophetic Dreams
+i:Ominous and Prophetic Visions
+i:Ominous and Prophetic Weather
+i:Theology and the Afterlife
+i:Rituals and Practices in Theology
+i:Saints, Martyrs, and Theology
+i:Sacred Symbols and Texts
+i:Totally Real Magic and Enchantments
+i:Totally Real Magic and Illusions
+i:Totally Real Magic and Elementalism
+i:Totally Real Magic and Summoning
+i:Totally Real Magic and Teleportation
+i:Totally Real Magic and Warding
+}
+{
+d:d4 I’m selling this book because...
+i:it was purchased as part of a large lot and I have no use for it.
+i:it has brought nothing but bad luck into my life.
+i:my shelves are full and it’s time to pare down.
+i:it belongs to a friend who can’t read or write.
+}
+{
+d:d10 The book is...
+i:worn and tattered.
+i:in poor shape. An ink stain obscures a fair amount of the pages.
+i:accidentally damaged. Various water damage around the edges but readable.
+i:vandalized. It appears that a good dozen pages have been ripped out.
+i:deliberately damaged. Towards the middle there is a section hollowed out.
+i:badly damaged. A lot of the ink has run through water damage and it is nearly illegible.
+i:ancient. The pages crumble as they turn.
+i:strange. The pages are blank?
+i:in good shape, but used. There are handwritten notes in the margins of the pages.
+i:pristine. You can smell the ink drying.
+}
+{
+d:d12 The book’s cover is...
+i:missing. The pages are bound with string woven through holes near the spine.
+i:stained leather. Some sign of wear.
+i:wooden. The title is carved into the spine.
+i:paperback.
+i:animal hide. The fur is still on.
+i:stone. Iron rings hold it together.
+i:cast Iron. Hinges keep it bound.
+i:leather with gemstones embedded in it.
+i:leather with the title branded on it.
+i:leather with gilding on the spine.
+i:torn off. It's kept together by a leather belt.
+i:tree bark. Dried vine binds it.
+}
+{
+d:d10 The book is...
+i:a standalone volume, the author's only published work.
+i:a standalone volume, the author's only surviving work.
+i:a standalone volume, written by a prolific but obscure author.
+i:a standalone volume, written by a well-known author.
+i:the sequel to a book by the same author.
+i:a part of a series with 3-9 books.
+i:a single volume of a larger work with 4-15 volumes.
+i:an edition of a regularly published book with multiple authors.
+i:a collection of works by the same author.
+i:an anthology of works by several authors.
+}

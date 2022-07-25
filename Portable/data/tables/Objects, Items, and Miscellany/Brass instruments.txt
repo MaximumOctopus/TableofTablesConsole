@@ -1,0 +1,63 @@
+{
+d:d6 Type: This instrument is a...
+i:Tuba.
+i:Trumpet.
+i:French Horn.
+i:Trombone.
+i:Sousaphone.
+i:Vuvuzela.
+}
+{
+d:d6 Material: The instrument is constructed from...
+i:brass.
+i:copper.
+i:tin.
+i:jade.
+i:bronze.
+i:cobalt.
+}
+{
+d:d6 Magical Music: When activated, the instrument provides an extra boost to a bard’s...
+i:Religious or artistic knowledge.
+i:Enchantments.
+i:armour class.
+i:Inspirational music.
+i:thunder damage.
+i:psychic damage.
+}
+{
+d:d6 Special Property: The musical instrument...
+i:Causes those who hear it to become stunned
+i:Causes those who hear it to have an uncontrollable urge to dance.
+i:Fills those who hear it with a Deep sense of despair.
+i:Allows the player to grant bonus damage to an ally.
+i:Allows the player to summon minor angels or devils.
+i:Allows the player to speak with animals or plants.
+}
+{
+d:d6 activation: the instrument's magical music or special property activates or amplifies when played...
+i:In the presence of a specific Type of enemy (d6): 1. Beasts; 2. Giants; 3. Fiends; 4. Abberations 5. dragons; 6. Oozes.
+i:By a member of a specific race (d6) 1. Elves; 2. Kenkus; 3. Grung; 4. Half orcs; 5. Dwarves; 6. Goliaths.
+i:On a plane outside the mortal realm (d6) 1. Abyss; 2. Feywild; 3. Nine hells; 4. Plane of earth; 5. Plane of battles; 6. Astral plane.
+i:Under sunlight.
+i:Under starlight.
+i:Underground.
+}
+{
+d:d6 creator: the instrument was made by a/an...
+i:Gnomish inventor.
+i:Orkish war priest.
+i:Blind metal Smith.
+i:Court musician.
+i:Guardian angel.
+i:Tricky devil.
+}
+{
+d:d6 Past owner: the instrument’s most famous owner was a/an...
+i:Notorius cult leader.
+i:Orkish warlord.
+i:Famous singer.
+i:Mad sage.
+i:Eccentric monk.
+i:Infamous assassin.
+}

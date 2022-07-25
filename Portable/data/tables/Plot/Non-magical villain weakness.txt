@@ -1,0 +1,23 @@
+{
+d:d20 Weakness
+i:Depends financially on the continuing success of an unrelated business venture
+i:Endeared to a henchman so much that the villain's unwilling to imperil them
+i:Compelled to stop in the midst of battle to inflict cruel wounds onto unconscious enemies
+i:Hides illiteracy to avoid public shame
+i:Devotes the same hour every day to worship/contemplation
+i:Hides secret passages and extra keys throughout lair, out of paranoia
+i:Trusts a confidant with all the details of the villain's plans
+i:Obsessed with completing a collection
+i:Severe allergic reaction to a common allergen
+i:Cannot abide animal cruelty
+i:Addicted to a narcotic
+i:Fears the specific details of a prophecy signalling the villain's downfall
+i:Adheres slavishly to the tenets of a prophet or religion
+i:Superstitiously avoids cats
+i:Overwhelmed with nausea in the presence of odoriferous flowers
+i:Desires an audience with a bard the villain once saw as a child
+i:Requires regular treatment of an incurable illness to maintain active lifestyle
+i:Cannot abide an insult to the villain's mother
+i:Suffers from a phobia of water
+i:Compensates for poor memory by writing everything down
+}

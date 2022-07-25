@@ -1,0 +1,338 @@
+{
+d:d200 This place is called...
+i:Daisies.
+i:The Don.
+i:Blinkers.
+i:The Prude's Suspenders.
+i:Gold’s Dust.
+i:The Velvet Fang.
+i:The Whisper Home.
+i:The Hook.
+i:Over the River.
+i:Slooshes.
+i:The Rapid Rascal.
+i:The Stoat.
+i:The Fidgety Ferret.
+i:Long Shaft.
+i:The Guards.
+i:Chastity’s.
+i:The Mask.
+i:The Red Dress.
+i:Jewels.
+i:Silken Flute.
+i:The Nag’s Head.
+i:Drummers.
+i:Sailors Choice{.sailors}.
+i:Blacksmiths Envy.
+i:The Nagging Wife.
+i:Colins Rubble.
+i:Dron's Beat.
+i:The Wink.
+i:Maggie’s Horn.
+i:The Sun & Cider.
+i:The Oakworm.
+i:Tickle & Feather.
+i:The Mistress.
+i:Madam Zersannies's.
+i:The King's Court.
+i:The Cursed Coin.
+i:Slit.
+i:The Maiden Head.
+i:The Rusty.
+i:The Silken Ferret.
+i:Long Legs.
+i:Elven Whispers.
+i:The Leg.
+i:False Suspenders.
+i:Aunt Fannies Bloomers.
+i:Final Rest.
+i:Cocks Crow.
+i:The Unblinking Eye.
+i:The Bountiful Bosom.
+i:Tuskers.
+i:The Thrusting Gentleman.
+i:Tally Hoes.
+i:Rutting.
+i:Pigs in Blankets.
+i:The Delicate Touch.
+i:Aphrodite’s Wish.
+i:The Dirty Secret.
+i:Long Locks.
+i:Sweat.
+i:Brothel{.brothels}.
+i:Taters.
+i:The Swift Finish.
+i:Cumberlands.
+i:The Missing Sausage.
+i:The Fools Frolic.
+i:Dragons.
+i:The Bushel.
+i:Farmers Oats.
+i:The Raised Brow.
+i:Genies.
+i:The Farfetched Feather.
+i:Junk.
+i:The Connoisseur’s Choice.
+i:Colossus.
+i:The Smooth Ride.
+i:Bucking.
+i:The Great Big Globes.
+i:The Glimmeric.
+i:Loving Embrace.
+i:Chokers Necklace.
+i:The Grand Madame's Emporium of Fine Delicacies, Treats, and the Exotic.
+i:Thug’s Retreat.
+i:Warriors' Return.
+i:Gold Gobblers.
+i:Cackling Croons.
+i:The Warty.
+i:Bessie’s Best.
+i:Corset.
+i:Winkies.
+i:The Shagger.
+i:Port of Call.
+i:The Home Away from Hoes.
+i:Smooth.
+i:The Maiden Fair.
+i:The Bit.
+i:Hosted.
+i:Glamourous Delights
+i:Happily Ever After.
+i:Sultry Stare.
+i:The Full Flush.
+i:The Lighted Candle.
+i:The Red Candle.
+i:The Raised Candle.
+i:The Dancing Flame.
+i:The Candlelight Resort.
+i:The Sweetest Cherry.
+i:Cherry's.
+i:Cherry Pie.
+i:The Velvet Cherry.
+i:The Golden Cherry.
+i:The Silk Curtain.
+i:The Red Curtain.
+i:The Lacy Curtain.
+i:The Welcoming Curtain.
+i:The Satin Curtain.
+i:Satin Dolls.
+i:Sweet Dolls.
+i:Porcelain Dolls.
+i:The Sugar Doll.
+i:Dancers and Dolls.
+i:The Red Door.
+i:The Golden Door.
+i:The Silver Door.
+i:The Maiden's Door.
+i:The Dancers' Door.
+i:Lover's Embrace.
+i:Lady's Embrace.
+i:The Sweetest Embrace.
+i:The Warmest Embrace.
+i:Welcoming Embrace.
+i:The Satin Glove.
+i:Silky Gloves.
+i:Lacy Gloves.
+i:The Lady's Glove.
+i:The Maiden's Glove.
+i:The Shining Heart.
+i:Pink Hearts.
+i:Lacy Hearts.
+i:Sweetheart's
+i:The Maiden's Heart.
+i:The Night House.
+i:The Pink House.
+i:The Porcelain House.
+i:The Welcoming House.
+i:The Cozy House.
+i:The Warmest Lamp.
+i:The Red Lamp.
+i:The Pink Lamp.
+i:The Soft Lamp.
+i:The Lady's Lamp.
+i:The Lady's Kiss.
+i:The Maiden's Kiss.
+i:The Night's Kiss.
+i:Cozy Kisses.
+i:Satin Kisses.
+i:Peach's Place.
+i:The Peach.
+i:The Prettiest Peach.
+i:The Sweetest Peach.
+i:The Golden Peach.
+i:The Silky Purse.
+i:The Satin Purse.
+i:The Lady's Purse.
+i:The Dancer's Purse.
+i:The Pink Purse.
+i:The Maiden's Room.
+i:The Lovers' Room.
+i:The Night Room.
+i:The Warm Room.
+i:The Red Room.
+i:The Silver Slipper.
+i:The Satin Slipper.
+i:The Silk Slipper.
+i:The Red Slipper.
+i:The Dancer's Slipper.
+i:The Lacy Skirt.
+i:The Welcoming Skirt.
+i:The Pink Skirt.
+i:The Dancer's Skirt.
+i:The Lady's Skirt.
+i:The Maiden's Shoe.
+i:The Red Shoe.
+i:Cozy Shoes.
+i:Lovers' Shoes.
+i:Silver Shoes.
+i:Silky Stockings.
+i:The Red Stocking.
+i:The Lacy Stocking.
+i:The Lady's Stocking.
+i:The Softest Stockings.
+i:The Maiden's Veil.
+i:The Lacy Veil.
+i:The Silk Veil.
+i:The Lovers' Veil.
+i:The Veil of Night.
+i:Soft-Lighted Window.
+i:The Shining Window.
+i:The Lighted Window.
+i:The Pink Winodw.
+i:The Welcoming Window.
+}
+{
+d:d20 The brothel is located...
+i:In the slums.
+i:In a shantytown.
+i:In a well-to-do residential neighborhood.
+i:In the docks district.
+i:In the riverfront district.
+i:In the barracks district.
+i:In an ally off a foreign bazaar.
+i:In an ally off the main market square.
+i:In the shadow of a temple{.temples}.
+i:Above a boisterous tavern{.tavern goings-on}.
+i:Behind a tavern teeming with criminals{.tavern goings-on}.
+i:Adjacent to a tavern full of gamblers{.tavern goings-on}.
+i:Underground.
+i:Outside the walls of the city or on the outskirts of a town.
+i:At the base of a wizards’ tower.
+i:In cave that had been a monster’s lair.
+i:Above an inn on a busy trading route.
+i:In the basement of a tavern{.tavern goings-on}.
+i:On a street with many other brothels.
+i:In a house in a park, garden, or forest{.forest,.forest enchanted,.forest haunted}.
+}
+{
+d:d10 In addition to the ‘usual’ everyday brothel fare, here you can procure...
+i:Really weird stuff, for those with the most interesting fetishes.
+i:Illegal stuff. If this is found out, the place would be burnt down, and the owners hung. It is clearly kept in great secret.
+i:Performances involving food{.food}.
+i:An outlet to live out violent fantasies.
+i:Exotic races{races_core,races_all}.
+i:The most beautiful women and men. Not just a claim, it’s the gods’ honest truth.
+i:An all-inclusive lump-sum deal—all the harlots, food, and drink you can handle!{.food,.harlots}
+i:The sale of mind-altering drugs.
+i:Stuff with exotic/magical ingredients, potions, etc.{.potions}
+i:Magical delights.
+}
+{
+d:d8 The place is run by...
+i:A collective of the inmates themselves.
+i:A mean old madam.
+i:A large madam with a no-nonsense attitude.
+i:A warm motherly figure.
+i:A surly brute.
+i:A tyrannical and cruel fellow.
+i:A sultry seductress.
+i:A charming witch{.witches}.
+}
+{
+d:d12 To eat, the place serves...
+i:Simple snacks.
+i:Banquets.
+i:Peasant food{.food}.
+i:Food hand-fed to you by a harlot{.food}.
+i:Exotic delights.
+i:Spicy treats.
+i:Simple food{.food}.
+i:Sweets and delicacies.
+i:Grubby, poorly made meals.
+i:All you can eat buffets.
+i:Simple stew and bread.
+i:Nothing; it satisfies other appetites.
+}
+{
+d:d8 To drink, the place serves...
+i:Ales.
+i:Cocktails
+i:Grog, and nothing but grog.
+i:Cheap wines{.wines}.
+i:Mead.
+i:The finest wines and champagnes{.wines}.
+i:Lagers.
+i:Nothing; inebriation is not tolerated.
+}
+{
+d:d10 People talk about this place; they say...
+i:The girls are underpaid and poorly treated.
+i:Nothing really; it’s a neighborhood brothel{.brothels}.
+i:A prominent noble or merchant is a regular{.merchant caravans,.merchant guilds,.nobles,.noble houses}.
+i:The goddess of love and fertility blessed this place and all her followers must visit.
+i:The usual stuff; a new girl is making a stir.
+i:Once a month it offers discounted services.
+i:It is secretly the home to a dark cult.
+i:All the inmates there are related.
+i:Nothing much, a popular girl is with child.
+i:You can pay for services with things other than coin (d6): 1. contract work; 2. criminal favors; 3. goods; 4. religious services; 5. secrets; 6. stock.
+}
+{
+d:d10 People talk about this place; rumors suggest that recently...
+i:A nobleman got one of the girls with child but refuses to acknowledge her or the baby{.nobles,.noble houses}.
+i:Someone slaughtered half of the workers and clients in the night.
+i:A client was stabbed with a letter opener.
+i:A man claiming to be a paragon of the god of love visited the place.
+i:A group of outraged townsfolk has started protesting outside of the brothel, disgusted with what it does{.brothels}.
+i:The oldest patron, who visited the brothel every day for the last fifty years has died. A day of mourning and celebration, along with a lavish funeral is being held for him{.brothels}.
+i:One of the inmates was strangled.
+i:One of the inmates has fallen madly in love with a client, but he or she is married.
+i:A sinkhole has appeared in the basement. No one can see bottom, and the boss worries it might grow and do more damage.
+i:Several clients have caught a disease{.diseases}.
+}
+{
+d:d10 Room Furnishings: This room has...
+i:A four-poster bed with velvet curtains.
+i:A four-poster bed with lacy curtains.
+i:A soft, leather chaise lounge.
+i:A plush, pink chaise lounge.
+i:A large pile of pillows with soft tassels.
+i:A large pile of pillows with frilly edges.
+i:A table with fruit and wine set upon it{.wines}.
+i:A table with perfumes and oils set upon it.
+i:A large mirror against one wall.
+i:A large mirror on the ceiling over the bed.
+}
+{
+d:d20 Features: You notice...
+i:The scent of lavender.
+i:The scent of lilac perfume.
+i:The scent of ginger and cinnamon.
+i:The scent of roses.
+i:Scented candles.
+i:The soft red glow from a shaded lamp.
+i:A lamp burning dimly.
+i:A statue of two figures kissing.
+i:A statue of two figures coupling.
+i:A statue of a nude woman bathing.
+i:A painting of several nudes bathing.
+i:A painting of a pair of lovers.
+i:A curtain of beads.
+i:A silky curtain.
+i:A plush carpet beneath your feet.
+i:A thick fur carpet beneath your feet.
+i:The sound of distant, soft music.
+i:The sound of furniture creaking nearby.
+i:A lengthy, shrill scream.
+i:A long moan.
+}

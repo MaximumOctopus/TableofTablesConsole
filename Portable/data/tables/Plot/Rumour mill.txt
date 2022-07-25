@@ -1,0 +1,327 @@
+[
+d:SITUATION TABLES
+]
+{
+d:d20 When the NPC overhears the PC or the party talking, his/her reaction is...
+i:1-3. Hostile. Now the NPC is a nemesis. He/she gives a Major Bane (F) and will pursue one or more of the PCs until dead.
+i:4-6. Unhappy. The NPC gives a Minor Bane (E). There is an 80% chance his/her attitude will shift to hostile on next encounter.
+i:7-9. Disgruntled. The NPC gives False Rumor. There is a 40% chance his/her attitude will shift to unhappy on next encounter.
+i:10-12. Indifferent but helpful. The NPC gives Personal Information (A) or Local Information (B), as requested.
+i:13-15. Pleased. The NPC shares a Specific Rumour. There is a 40% chance his/her attitude will shift to happy on next encounter.
+i:16-18. Happy. The NPC gives a Minor Boon (H). There is an 80% chance his/her attitude will shift to friendly on next encounter.
+i:19-20. Friendly. The NPC is now an ally. He/she gives a Major Boon (G) and will protect PC until dead.
+}
+{
+d:d20 When questioned about his/her motivation, the NPC reveals (or hides) that he/she is...
+i:1-3. On The Run (J) from a Minor Enemy (Q) or a Major Enemy (R) for Good Deeds(O) or Evil Deeds (P).
+i:4-6. On a Vendetta (I) against an Minor Enemy (Q) or a Major Enemy (R).
+i:7-9. Searching for Personal Information (A), Local Information (B), or Item Information (C).
+i:10-12. Buying or Selling (K) at nearby location, then returning Home (L).
+i:13-15. On a local Minor Quest (M) for Treasure (U).
+i:16-18. On a Minor Quest (M) or a Major Quest (N) for a Minor Enemy (Q).
+i:19-20. On a Major Quest (N) for Treasure (U).
+}
+{
+d:d20 The area or site is...
+i:1-3. Faithtouched (AA) or Weavetouched (BB).
+i:4-6. Home to an evil or neutral Faction (D).
+i:7-9. Home to a Monster (Roll on Own Encounter Table). Nearby, there is a Minor Treasure (U).
+i:10-12. A benign area of NPC population or an abandoned site. No treasure.
+i:13-15. Home to a good or neutral Faction (D).
+i:16-18. Home to a Monster (Roll on Own Encounter Table). Nearby, there is a Major Treasure (U).
+i:19-20. Haunted (S) or Cursed (T){cursessimple}.
+}
+[
+d:SUBTABLES
+]
+{
+d:d20 [A] Personal Information: The information...
+i:1-3. Gives a secret that leads to Major Boon (G).
+i:4-6. Describes a family Emergency (V).
+i:7-9. Passes along a rumor (check Ladder) about the PC as told by a friend, a Minor Enemy (Q), or a Major Enemy (R).
+i:10-12. Gives information that confirms a suspicion held by the PC or the party.
+i:13-15. Passes along a minor Warning (W) that concerns the PC or the party.
+i:16-18. Gives Exact Knowledge about information the PC or party has been investigating.
+i:19-20. Passes along knowledge of a major Warning (W) to the PC or party.
+}
+{
+d:d20 [B] Local Information: The information...
+i:1-3. Tells of a Major Boon (G) concerning the area.
+i:4-6. Tells of an Emergency (V).
+i:7-9. Passes along knowledge of a Social Event (X).
+i:10-12. Gives information about a Minor Enemy (Q) or a Major Enemy (R) threat.
+i:13-15. Passes along information of a Political Event (Y).
+i:16-18. Gives information about a Religious Event (Z).
+i:19-20. Tells of a Major Bane (F).
+}
+{
+d:d20 [C] Item information: The item is...
+i:1-2. An artifact (d10): 1. arcane; 2. dwarvish; 3. elemental; 4. elvish; 5. giant; 6. holy; 7. relic of a hero; 8. relic of a villain{.villains}; 9. unholy; 10. a piece of an item set.
+i:3-4. An object (d6): 1. A piece of jewelry; 2. A chest; 3. A map; 4. A bucket; 5. A lantern; 6. A jar.
+i:5-6. A book (d6): 1. bestiary; 2. potion recipes{.potions}; 3. historical record; 4. holy scripture; 5. personal journal; 6. mage's spellbook.
+i:7-9. Armor (d10): 1. leather helm; 2. steel helm; 3. leather baldric; 4. bronze breastplate; 5. steel breastplate; 6. chain shirt; 7. leather gloves; 8. steel gauntlets; 9. suit of chainmail; 10. suit of plate.
+i:10-12. A weapon or piece of ammunition {.legendary weapons} (d10): 1. dagger; 2. spear; 3. axe; 4. sword; 5. flail; 6. hammer; 7. bow; 8. crossbow; 9. arrow or bolt; 10. exotic weapon.
+i:13-15. An implement or symbol of power (d6): 1. rod; 2. staff; 3. wand{.magic wands}; 4. sceptre; 5. crown; 6. gemstone{gemstones}.
+i:16-18. A work of art (d6) 1. statue; 2. painting; 3. musical instrument; 4. sheet music; 5. article of clothing.
+i:19-20. A prosthesis (d6): 1. arm; 2. eye; 3. foot; 4. hand; 5. heart; 6. leg.
+}
+{
+d:d20 [D] Faction: They are...
+i:1-3. A Mystery Cult (CC).
+i:4-6. Slavers or brutal overlords.
+i:7-9. Religious warriors or clerics.
+i:10-12. Law and justice officers or warriors.
+i:13-15. Corrupt mercenaries or rogues{.rogue missions}.
+i:16-18. Merchants collective or guild{.merchant caravans,.merchant guilds}.
+i:19-20. Cabal of mages.
+}
+{
+d:d20 [E] Minor Bane: The misfortune involves...
+i:1-3. Disease or pestilence{.diseases}.
+i:4-6. The destruction of one or more buildings.
+i:7-9. A Minor Enemy (Q) or a Major Enemy (R) of the PC or party is actively opposing them.
+i:10-12. The loss of items of value.
+i:13-15. A Curse (T) has been activated{cursessimple}.
+i:16-18. People being injured.
+i:19-20. A person or place being Haunted (S).
+}
+{
+d:d20 [F] Major Bane: The misfortune involves...
+i:1-3. Bad luck (random penalties or disadvantage to random die rolls) for 1 month or 10 combat encounters.
+i:4-6. The outbreak of large plague or pestilence.
+i:7-9. A large loss of monetary wealth.
+i:10-12. The loss or destruction of many items of value.
+i:13-15. The destruction of many buildings or damage to the land itself.
+i:16-18. The deaths of many people.
+i:19-20. The PC or party attracting the attention of a Minor Enemy (Q) or a Major Enemy (R).
+}
+{
+d:d20 [G] Minor Boon: The good fortune involves...
+i:1-3. Learning that a Minor Enemy (Q) or a Major Enemy (R) has been temporarily thwarted.
+i:4-6. Obtaining a minor magic item.
+i:7-9. Obtaining a small amount of money or resources.
+i:10-12. Obtaining a magicked gemstone (the wielder can use a 0-level spell or Cantrip 1/day as a level 1 caster){gemstones}.
+i:13-15. Being awarded a minor property or granted an improvement to a minor property.
+i:16-18. Establishing a personal relationship with a potential ally or increasing social status with ally.
+i:19-20. For one day, all activities are easier (+1 bonus on all rolls).
+}
+{
+d:d20 [H] Major Boon: The good fortune involves...
+i:1-3. Divine intervention granting a Treasure (U).
+i:4-6. Obtaining true knowledge of a Treasure (U) location.
+i:7-9. Being granted a large amount of monetary wealth.
+i:10-12. Improving an existing skill or knowledge (+1) or obtaining a new skill.
+i:13-15. Improving a personal relationship (up to 100%).
+i:16-18. Being awarded a major property or granted an improvement to a major property.
+i:19-20. The PC or party being pointed towards an Artifact (C) (Specific on the Rumor Ladder).
+}
+{
+d:d20 [I] Vendetta: The NPC is seeking vengeance against...
+i:1-3. Accusers. The NPC was wrongfully jailed or persecuted.
+i:4-6. Members of a specifc race{races_core,races_all}. The NPC is on a racial crusade.
+i:7-9. Thieves or fraudsters. The NPC was the victim of theft or deception{.thieves}.
+i:10-12. Murderers. The NPC seeks to avenge the death of one or more friends, family members, or associates.
+i:13-15. Religious crusaders. The NPC was ruined by a religious crusade or suffered religious persecution (locally or on a quest).
+i:16-18. Political opponents. The NPC suffered political persecution.
+i:19-20. Societal rivals. The NPC's social status was destroyed, or he/she was socially exiled.
+}
+{
+d:d20 [J] On the Run: The NPC...
+i:1-3. Committed political crime.
+i:4-6. Escaped from detention for crime.
+i:7-9. Committed minor crime of theft, fraud, or assault.
+i:10-12. Committed major crime of theft, murder, or rape (or the NPC is an anarchist).
+i:13-15. Committed religious crime.
+i:16-18. Got tangled up with a Mystery Cult (CC).
+i:19-20. Was unjustly accused of a crime.
+}
+{
+d:d20 [K] Buying or Selling: The NPC is buying or selling...
+i:1-3. Cloth (d10): 1. raw cotton; 2. raw linen; 3. raw silk; 4. raw wool; 5. finished cotton; 6. finished linen; 7. finished silk; 8. finished wool; 9. soft leather; 10. unusual animal hair.
+i:4-6. Wood (d6): 1. rough cut; 2. finished; 3. furniture; 4. containers; 5. paper; 6. carved.
+i:7-9. Food (d10): 1. fresh fruits and vegetables; 2. cured meats; 3. cheeses; 4. grain; 5. preserved fruits; 6. nuts; 7. preserved vegetables; 8. oils; 9. live animals; 10. foreign delicacies.
+i:10-12. Beverages (d6): 1. ale; 2. mead; 3 distilled spirits; 4. raw juice; 5. water; 6. wine{.wines}.
+i:13-15. Spices (d10): 1. salt; 2. sugar; 3. variety of pepper; 4. savory spice; 5. unusual spice; 6. legal drug; 7. illegal drug; 8. healing herb{.herbalism}; 9. magical herb{.herbalism}; 10. exotic herb{.herbalism}.
+i:16-18. Minerals (d6): 1. raw stone; 2. refined stone; 3. raw ore; 4. refined ore; 5. rough-cut gemstones{gemstones}; 6. finely-cut gemstones{gemstones}.
+i:19-20. Luxury goods (d10): 1. painting; 2. sculpture; 3. work of art; 4. rare commodity; 5. masterwork armor; 6. masterwork weapon{.legendary weapons}; 7. fine textiles; 8. perfumes; 9. exotic foods; 10. expensive potions{.potions}.
+}
+{
+d:d20 [L] Homeland: The NPC is from... (These are purposely vague, replace them with appropriate regions from your world.)
+i:1-3. The north.
+i:4-6. The west.
+i:7-9. The south.
+i:10-12. The east.
+i:13-15. A savage land.
+i:16-18. An exotic island.
+i:19-20. Another realm of existence.
+}
+{
+d:d20 [M] Minor Quest: The NPC is seeking to...
+i:1-3. Commune with an avatar.
+i:4-6. Map a location.
+i:7-9. Deliver a message.
+i:10-12. Recover a minor Treasure (U).
+i:13-15. Deliver a package.
+i:16-18. Destroy a minor monster or cleanse a tainted area.
+i:19-20. Rediscover a local forgotten place.
+}
+{
+d:d20 [N] Major Quest: The NPC is seeking to...
+i:1-3. Awaken a sleeping NPC.
+i:4-6. Recover or destroy an Artifact (C).
+i:7-9. Aid or slay an NPC.
+i:10-12. Slay a monster.
+i:13-15. Liberate or enslave an NPC.
+i:16-18. Discover a lost foreign land.
+i:19-20. Save or destroy the world.
+}
+{
+d:d20 [O] Good Deeds: The NPC...
+i:1-3. Freed an innocent from imprisonment.
+i:4-6. Corrected a long-standing error.
+i:7-9. Helped unfortunates with financial aid.
+i:10-12. Spread a charitable political message or religious doctrine.
+i:13-15. Helped local children or relatives to overcome oppression.
+i:16-18. Healed the sick and comfort the dying.
+i:19-20. Used an Artifact (C) to spread goodwill.
+}
+{
+d:d20 [P] Evil Deeds: The NPC...
+i:1-3. Humiliated and torture a rival.
+i:4-6. Collected an extortion's payoff and punish the offender.
+i:7-9. Stole from friends or family.
+i:10-12. Badly beat or killed a rival.
+i:13-15. Destroyed a business, financially or physically.
+i:16-18. Agitated a harmful political message or religious doctrine.
+i:19-20. Spread lies and rumors against an individual or group of a shocking nature.
+}
+{
+d:d20 [Q] Minor Enemy: The enemy is...
+i:1-3. A snubbed ex-friend.
+i:4-6. A school bully.
+i:7-9. A business rival.
+i:10-12. A local thug.
+i:13-15. A romantic rival.
+i:16-18. A spiteful boss or teacher.
+i:19-20. A family member.
+}
+{
+d:d20 [R] Major Enemy: The enemy is...
+i:1-3. A politician or political group.
+i:4-6. A powerful rogue, thug, or assassin{.assassins' guilds,.rogue missions}.
+i:7-9. A noble's family.{.nobles,.noble houses}
+i:10-12. A religious cult, sect, group, or temple{.temples}.
+i:13-15. A powerful mage or cabal.
+i:16-18. A mercenary company.
+i:19-20. A mysterious NPC.
+}
+{
+d:d20 [S] Haunted: The person or place is haunted by...
+i:1-3. Spirits locked in battle.
+i:4-6. A tortured revenant who must relive its brutal murder.
+i:7-9. A benign phantom who provides small comforts and messages.
+i:10-12. A crazed banshee.
+i:13-15. A spiteful haunt, who appears as dead loved ones and friends.
+i:16-18. A playful poltergeist, a childish trickster.
+i:19-20. An evil ghost, driven to consume lifeforce in a bid to regain life.
+}
+{
+d:d20 [T] Cursed: This place is cursed with...
+i:1-3. A chronological anomaly. Time moves at a different speed.
+i:4-6. Insomnia. Sleep and rest are impossible.
+i:7-9. Extreme heat or cold.
+i:10-12. An overwhelming aura of helplessness and suffering.
+i:13-15. Plagues of vermin.
+i:16-18. Foul weather.
+i:19-20. A corruption of reality.
+}
+{
+d:d20 [U] Treasure: The treasure contains...
+i:1-3. Potions{.potions}.
+i:4-6. Gems{gemstones}.
+i:7-9. Weapons or armor{.legendary weapons}.
+i:10-12. Coins.
+i:13-15. Wands, rods, and staves.
+i:16-18. Clothing.
+i:19-20. An artifact (C).
+}
+{
+d:d20 [V] Emergency: Action is urgent because...
+i:1-3. A political power figure allied to the NPC has suddenly died, been arrested, or been exiled.
+i:4-6. The NPC's business in trouble.
+i:7-9. A family friend of the NPC has taken ill, gone mad, or died suddenly.
+i:10-12. The NPC's hometown has been attacked, enslaved, or destroyed.
+i:13-15. A disease epidemic is afflicting the local region or the NPC's hometown{.diseases}.
+i:16-18. The NPC's spouse or close relative has done something terrible.
+i:19-20. All the NPC's resources or income have been stolen or destroyed.
+}
+{
+d:d20 [W] Warning: The NPC warns that...
+i:1-3. A powerful enemy is coming for the PC or party.
+i:4-6. An enemy is plotting against the PC or party.
+i:7-9. The government is investigating the PC or party.
+i:10-12. Friend or lover or spouse is lying to the PC or party.
+i:13-15. Co-worker or business partner is stealing from the PC or party.
+i:16-18. A rival is spreading terrible lies and rumors.
+i:19-20. An avatar is coming.
+}
+{
+d:d20 [X] Social Events: The NPC tells you that...
+i:1-3. An invitation to an upcoming event (party, play, etc.) given by a mysterious stranger.
+i:4-6. A local revival of a deity's followers is nearby and drawing crowds.
+i:7-9. A challenge has been issued by the local ruler, calling for Feats of Strength, a Battle of Wits, or some other display of skill.
+i:10-12. A guild-house is permitting new members to join, decided by a contest.
+i:13-15. A circus has come to town. Rumors are they are taking on workers or performers.
+i:16-18. A fancy dress party for the local ruler has drawn all the wealthy in the area.
+i:19-20. A family event in the local ruler or his/her spouse or close family (d4): 1. marriage; 2. birth; 3. death; 4. divorce; 5. disinheritance; 6. something else.
+}
+{
+d:d20 [Y] Political Events: The NPC tells you that...
+i:1-3. The opposition is soon to gain or has recently gained control through a coup.
+i:4-6. A downshift in the support of financial backers has driven prices way up.
+i:7-9. A noble has been accused of a terrible crime{.nobles,.noble houses}.
+i:10-12. A marriage between noble houses has been announced, and rumors of treachery persist{.nobles,.noble houses}.
+i:13-15. A shift in the government's stance on taxes has been taken badly by the populace.
+i:16-18. Corruption rumors abound, and evidence of murder and treachery is being sought.
+i:19-20. A powerful figure has been killed, exiled, or worse.
+}
+{
+d:d20 [Z] Religious Events: The NPC tells you that...
+i:1-3. An avatar has recently issued sanctions.
+i:4-6. Open warfare against temple enemies is now public knowledge{.temples}.
+i:7-9. A new edict or sanction has recently been announced, causing a radical shift in the local population's mood.
+i:10-12. An expedition to the Heathen Lands has been announced{.temples}.
+i:13-15. Temple leaders have declared a peace agreement and a Summit of Faith has been announced.
+i:16-18. An artifact or holy relic has been found or destroyed and a Call to the Faithful has gone out.
+i:19-20. An avatar has recently appeared and denounced (or blessed) the faithful and has punished (or rewarded) them with a bane (or boon).
+}
+{
+d:d20 [AA] Faithtouched: In this place, you'll find...
+i:1-3. The dreams of the lives of those who gave their lives in sacrifice for the Faith.
+i:4-6. All skills relating to the practice of the faith are more easily accomplished (+1 or advantage).
+i:7-9. Hallucinations of the landscape of the deity's Plane haunt the waking mind.
+i:10-12. Those not of the Faith will be psionically attacked by the environment, driving them out.
+i:13-15. Animal servants of the deity roam the grounds here, protecting from heathen intruders.
+i:16-18. All divine spells are cast here as if the caster was 1 level higher.
+i:19-20. Manifestation of an Avatar. Its mood depends on the PC or party's interaction.
+}
+{
+d:d20 [BB] Weavetouched: In this place, you'll find...
+i:1-3. A living mask of a Jester can be found here, hidden, but waiting. The parasite sleeps.
+i:4-6. All skills relating to the practice of the arcane mysteries are more easily accomplished (+1 or advantage).
+i:7-9. Time and space are on vacation here. Non-causality is a possibility. Things might get dimensionally weird, and non-Euclidian geometry abounds.
+i:10-12. All arcane objects are recharged here, but they can only be used once per item per location.
+i:13-15. Astral and ethereal creatures are feeding from this bountiful font. They are hostile.
+i:16-18. All arcane spells are cast here as if the caster were 1 level higher.
+i:19-20. Wild magic regularly spawns here, bathing the area with random level spells and duration.
+}
+{
+d:d20 [CC] Mystery Cult: These cultists are...
+i:1-3. Trying to interact with a minor or major deity (d6): 1. return it from exile; 2. free it from imprisonment; 3. enslave it; 4. destroy it; 5. bring about its rebirth; 6. raise it to a higher status.
+i:4-6. Collecting objects to trade to a deity for power.
+i:7-9. Thralls under a larger power, acquiring resources, knowledge, manpower for a larger plan.
+i:10-12. Disaffected people angry at inequality. They have resorted to violence and rhetoric.
+i:13-15. Animal worshipers, devoted to returning humanity to a more primal lifestyle.
+i:16-18. Outsiders who are interacting with the local populace (d6): 1. killing them; 2. enslaving them; 3. stealing from them; 4. trading with them; 5. helping them; 6. converting them.
+i:19-20. Wealthy cannibals and defilers, seeking only pleasure for themselves.
+}

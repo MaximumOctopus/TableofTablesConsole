@@ -1,0 +1,1003 @@
+{
+d:d1000 Trinkets
+i:A Compass that always points to Mulmaster.
+i:A paper fan that won't produce a breeze no matter how hard it's waved.
+i:A petrified potato that resembles someone important to you.
+i:A glass cup that can only be filled half way no matter how much liquid is poured into it.
+i:A mirror that only shows the back of your head.
+i:A small glass bird that when set down near water dips its head in as if to get a drink.
+i:A lady's coin purse containing two sharp fangs.
+i:A small sea conch with the words "From the beginning" painted on the lip.
+i:A frost-covered silver locket that's frozen shut.
+i:A seal which imprints a mysterious, unknown coat of arms into hard rock.
+i:A small wooden doll that when held brings back fond memories.
+i:A small hand mirror which only reflects inanimate objects.
+i:A glass eyeball that looks about of its own accordance, and can roll around.
+i:A glass orb that replicates yesterday's weather inside itself.
+i:A drinking cup, that randomly fills with fresh or salt water. Refilling once emptied.
+i:A deep blue piece of flint, that when struck with steel produces not a spark but a drop of water.
+i:A conch shell which is always damp and constantly drips saltwater.
+i:A charred, half-melted pewter clasp that glows as if smoldering but releases no heat.
+i:A clockwork finch that flaps its wings in the presence of a breeze.
+i:A unbreakable sealed jar of glowing water that hums when shaken.
+i:A small, finely polished geode whose crystals slowly fade between every color of the spectrum.
+i:A rough stone eye pulled from a petrified creature.
+i:A stone smoking pipe that never needs lighting.
+i:A small whistle, that when blown, whispers a name of a person or place unknown to you, instead of the whistle sound.
+i:A fist sized rock that "beats" like a heart.
+i:A pair of bronze scissors in the shape of a pair of leaping dolphins.
+i:A bronze oil lamp which is rumored to have once held a genie.
+i:A single gauntlet inscribed with a fire motif and an unfamiliar name in Primordial.
+i:A one-eyed little fish inside a spherical vial, much bigger than the vial's neck. He has a cunning look.
+i:The tiny skull of a rabbit that whispers scathing insults when nobody's looking.
+i:A rag doll in the likeness of an owlbear.
+i:The desiccated body of a small eight-legged black lizard.
+i:A small toy boat made with a walnut shell, toothpick, and piece of cloth.
+i:A small pocket mirror that slowly fogs over while held.
+i:Wind chimes that glow when the wind blows.
+i:A small, clay square with an unknown rune etched into one side.
+i:A tea kettle that heats itself when filled with water.
+i:An old scratched monocle which shows an underwater landscape whenever someone looks through it.
+i:A rose carved from coral.
+i:A set of dice with elemental symbols and primordial runes instead of pips or numbers.
+i:A amulet filled with liquid that churns, freezes, or boils to match its wearer's mood.
+i:A small silver bell that makes a faint sound like distant thunder when it's struck.
+i:A small vial of black sand that glows slightly in the moonlight.
+i:A small whale tooth with etched with an image of waves crashing upon a beach.
+i:An hourglass in which the sands pour upward instead of downward.
+i:A glass pendant with a hole in the center that a mild breeze always blows out of.
+i:A soft feather that falls like a stone when dropped.
+i:A large transparent gem{gemstones} that, when gripped tightly, whispers in Terran.
+i:A small crystal snow globe that, when shaken, seems to form silhouettes of dancing forms.
+i:Half of a palm-sized geode that pulses dimly with purple light.
+i:A book filled with writing that only appears when the book is held underwater.
+i:A sealed envelope made of red leather that you haven't been able to open. It smells of campfire.
+i:A locket of hair that is rumored to have come from a famed fire genasi.
+i:Flint and steel that, when used to start a faire, creates a random colored flame.
+i:A blank piece of wet parchment that never seems to dry.
+i:A small puzzle box made of brass, that is slightly warm to the touch.
+i:A cloudy chunk of glass that is said to hold a spark of breath from a blue dragon{.dragons}.
+i:A crude chalice made of coal.
+i:A miniature brass horn, silent when played, but fills the air with the scent of warm and exotic spices.
+i:An eye-sized blue pearl that floats in salt water.
+i:A tuning fork made from a dark metal which glows with a pale, white light during thunderstorms.
+i:A small vial that is always filled with the smell of autumn wind.
+i:A clear marble that slowly rolls toward the nearest source of running water.
+i:A small collapsible silver cup that perspires constantly when opened.
+i:An hourglass that tells time with falling mist instead of sand.
+i:An ornate razor, which only cuts in freezing cold temperature.
+i:A shark tooth covered in tiny etched words from a lost language.
+i:A large brass coin with no markings or images on it.
+i:A small wooden box filled with a strange red clay.
+i:A necklace with a small, rusted iron anchor.
+i:A small brass flute adorned with silver wire that is always faintly sounding.
+i:A red and black Aarakocra feather.
+i:A palm-sized stone with a hole in it, through which can be heard a constantly whispering wind.
+i:A small conch shell covered in black crystal.
+i:A small music box made of brass. It features a pair of tiny automatons that resemble Azer working at a forge.
+i:A glass jar containing the preserved corpse of an unfamiliar aquatic creature.
+i:A piece of petrified wood carved into the shape of a seashell.
+i:A wooden puzzle cube covered in elemental symbols.
+i:A small stone cube that acts as a magnet when placed against another stone.
+i:A ring made of a white metal. On the inside is a name etched in Auran.
+i:A bracelet made of silvered fish hooks.
+i:A journal filled with poetry hand-written in Primordial.
+i:A yellow gemstone that glows dimly when a storm is nearby{gemstones}.
+i:A charred chisel with an unfamiliar symbol stamped into its base.
+i:A canteen filled with a foul smelling orange mud.
+i:A faceless doll made of driftwood.
+i:A heavy iron key bearing the name of a ship long lost to the sea{.ships}.
+i:A small jewelry box made from the shell of a turtle.
+i:A chess piece fashioned to look like fire myrmidon.
+i:A spinning top with an image of one of the four elements on each side.
+i:A single hoop earring made of a porous red stone.
+i:An arrowhead carved from seasalt
+i:A small comb made of blue coral.
+i:Seven small beads of sandstone on a string, all different colors.
+i:A romance chapbook written in undercommon titled "Just one Layer of Grey".
+i:A tiny, broken clockwork Harpy.
+i:An ivory whale statuette.
+i:A fist-sized cog, covered in barnacles.
+i:A leather eyepatch set with obsidian and a braided leather cord.
+i:A glass bottle with a tiny ship of unfamiliar design inside{.ships}.
+i:A small, otherwise worthless stone, that briefly glows bright white every third day.
+i:A hand mirror that reflects an unknown eye at all times.
+i:The skeleton of a small bird with hands where its wings should be.
+i:A quill pen which, no matter what color ink is used, writes in green.
+i:Four dried corn kernels sealed in an amber sphere.
+i:Folded parchment containing an intricate diagram of a complex machine of unknown origin and purpose.
+i:A sliding puzzle which, when solved, spells out “derf”.
+i:A flag for a country which no longer exists.
+i:A religious text describing the proper observance of a holiday no one has heard of.
+i:An intricately carved wooden rose.
+i:A sealed tube of clear liquid with a tiny bobber floating in the middle of it.
+i:A sturdy three-foot tube of rolled paper.
+i:A wooden bowl made of rosewood.  When placed upside down on a surface and then removed, it deposits a robin's egg.
+i:A nose flute.
+i:A scarf of extraordinary length and multiple colors.
+i:A leather pouch labeled ‘interesting rocks’.
+i:A lead model of a dragon, about three inches across{.dragons}.
+i:A key ring full of locks without keys.
+i:A wide-gauge blow gun and a hand-full of small bags filled with whitewash.
+i:A finely crafted beard snood.
+i:A child’s drawing of a house on a hill, with a smiling sun in the sky.
+i:A single hair in a vial, possibly a whisker, with black and white stripes along its length.
+i:A medal for fighting in the Goblin Wars over a hundred years ago{.goblins,.goblin gangs}.
+i:A three-sided coin, each time it's flipped or turned another face appears.
+i:A lace garter in black and red.
+i:A hempen anklet that cannot be untied once attached.
+i:A wooden model of a horse which has another, smaller wooden horse inside it.
+i:A necklace made of the dessicated eyes of numerous different creatures, no two of which are alike.
+i:A tarot-sized card whose face shows the last meal eaten by its holder.
+i:A flask of blue liquid which smells faintly of urine.
+i:A copper spoon that tastes of raw meat.
+i:A selection of feathers stuck into a ball of tar.
+i:A horse shoe which makes a slight humming sound at all times.
+i:A perfectly smooth stone which, when pressed, turns blue for 5 minutes.
+i:Two kitten whiskers pressed and sealed between two glass plates.
+i:A square of soft leather that tarnishes any metal object wrapped in it.
+i:An oak leaf on a cord that can be worn as an eye patch.
+i:Six small, badly carved, goblin figures{.goblins,.goblin gangs}.
+i:A doll with hair made of rare moss.
+i:A fist sized metallic pyramid, deeply etched in incomprehensible runes.
+i:A complex, but delicately made, marble maze puzzle.
+i:Twenty-two very small silver tokens, each with a happy face painted on them.
+i:A scroll titled: Properly Attacking, Subduing, and Dispatching a Dragon of Any Color by Lord Pepping IV{.dragons}
+i:A single, all blue, piece for a jigsaw puzzle.
+i:A frog statuette from which the legs have been broken off.
+i:A collection of pressed butterflies.
+i:Three white cloth arm bands. One labeled “Happy”, one labeled “Sad”, and one labeled “Orange”.
+i:A glass elf ear{.elves dark,.elves high,.elves wood}.
+i:A half-brick of cheese in a sock.
+i:A fashionable domino mask.
+i:A small cube made of fish bones with a glass marble in the center.
+i:A large, yellow, wooden exclamation point on a spring.
+i:The last page of an unknown diary containing only the words “close the door” written in what appears to be blood.
+i:A very small paper box containing a tiny twig that disappears in a puff of smoke when removed, only to reappear in the box 24 hours later.
+i:A leather pouch full of rainbow colored sand.
+i:A pamphlet describing the usage of ear wax as a medical remedy for excessive flatulence.
+i:A single drop of lamp oil sealed in a glass bead.
+i:A monkey's tail{.monkeys}.
+i:A blank mask that allows the wearer to look exactly like himself when worn.
+i:A cloth bandana showing the map symbol for a hidden door.
+i:A torn piece of cloth once used to wipe down a famous heroes sword.
+i:A stick of petrified child’s candy.
+i:3-year old trail rations that look disgusting but smell delicious.
+i:A music box that appears to be in working order but makes no noise.
+i:The left shoulder piece from a set of dwarven plate mail, deeply scarred.
+i:A stuffed Tarrasque doll.
+i:A parchment flip book showing a knight galloping on a horse{.horses,.knights}.
+i:A small metallic rod that glows faintly and makes a whining noise when held aloft.
+i:Four empty eggshell halves.  You hear faint whispers when you are alone with them.
+i:Two rocks, one hollowed out as a mortar and the other shaped like a pestle.
+i:A shopping list: Milk, Bread, Eggs, Cheese, Yams, Goblin Dander{.goblins,.goblin gangs}.
+i:A clay dove mounted inside a wooden cage.
+i:A finely preserved sheep's bladder.
+i:A flask which has had its inside surface blackened by soot.
+i:Two feet of catgut with knots tied every four inches.
+i:Two copper coins stuck face to face which can not be separated by any known means.
+i:A flat stone with white chalk marks that change each time it is observed.
+i:A jeweler’s hammer with a head on both ends.
+i:A toy wooden top that cannot be made to spin, but always remains balanced, upside down.
+i:A locket containing a picture of an ogre and a manticore.
+i:Two sticks which, when thrown in the air, always land pointing to each other.
+i:A snail shell containing a viscous green liquid.
+i:A game board and pieces for a game no one knows how to play.
+i:An earring that appears to be made of bird excrement.
+i:A wooden code cylinder that shows only the number 7 on all dials.
+i:Two links of iron chain, a thin frosty mist constantly falls from them.
+i:Three short strands of lead wire braided together.
+i:A rusted fork that gently warms any food picked up with it.
+i:Miniature playing cards each of which has two backs and no faces.
+i:An artistic painting of two hamsters locked in mortal combat.
+i:A pickled turnip in a jar, a miniscule 1/2" door seems to be set into the side of the vegetable.
+i:An IOU confirming that a certain farmer in a distant land owes you three suckling pigs.
+i:An orcish phrasebook containing only the phrases for food, enemy, and fight{.orcs,.orc warlords,.orkish clans}.
+i:Two bars of musical notes, which, when played, sound awful.
+i:A wax seal matrix bearing the insignia of The Ebon Claw, a long dead thief{.thieves}.
+i:Captain Igleby’s long johns -- it says it on the tag!
+i:A bottle for a rare vintage of dwarven wine, now empty{.wines}.
+i:A tiny bellows mechanism.
+i:A kilt worn by someone only ever referred to as ‘The Greatest Adventurer Who Ever Lived.’ Along with an certificate of authenticity...
+i:A needle made from an imp stinger
+i:A scrap of wyvern hide, stretched across a five-inch square frame.
+i:A thri-kreen antennae
+i:A pegasus feather fan
+i:A shard of obsidian with a tiny skull inside of it
+i:A necklace made with githyanki fingerbones
+i:A pink wyvern stinger
+i:A small box containing the complete skeleton of a snake
+i:A dried esper weed flower
+i:A bone insignia of rank from an orc army{.orcs,.orc warlords,.orkish clans}
+i:A hardened sand painting depicting a gladiator match{.gladiators}
+i:A leather amulet with a strange rune on it
+i:A vial that contains silt from the bottom of the silt sea
+i:A crystal eye from a crystal spider{.spiders}
+i:A dried out hurrem beetle that hums
+i:A coin made from carved carapace
+i:A small set of bones, looks like a complete humanoid, in a tiny 2 inch coffin.
+i:A rough stone statue of a lizardfolk{.lizardfold}
+i:A treasure map written on parchment with names of places you've never heard of
+i:A broken bone heart pick inscribed with the name of a goliath tribe
+i:A lock of giant hair
+i:A small wooden statue of a small halfling like creature you've never seen before
+i:A ring made of agafari wood
+i:A wooden box, in which is nestled petrified egg with the label "Pixie Egg"
+i:A smooth cylinder made from Zurkwood
+i:A small rock that was once part of a stone elemental
+i:A vial with the saliva of a glabrezu
+i:A hardened bone slave's collar
+i:A scroll with a spell written incorrectly on it
+i:one half of a hooked horror carapace
+i:A small gem{gemstones} that holds the Focus of a dwarf{.dwarves}
+i:Half of templar's amulet depicting the sorcerer king Hamanu
+i:A tuft of hair from a bugbear
+i:A piece of supple leather with the image of a forest{.forest,.forest enchanted,.forest haunted} on it
+i:A glass jar with tentacles in a pickling fluid
+i:A whistle made of bone
+i:An elven rattle made from a tortoise shell
+i:A slaad spur
+i:A tooth from a water drake that always has condensation on it
+i:A derro bone needle 
+i:A bone key of drow design
+i:A halfling war fetish with dried blood on it
+i:A bottle containing a very small ochre jelly
+i:A wooden toy in the shape of a centaur
+i:A mummified hand of a juvenile yeti
+i:A holy symbol of an elemental priest of water
+i:A sharpened feather
+i:A preserved cockatrice head
+i:A perfectly round black obsidian orb 2" in diameter with a small wedge-shaped chunk taken out of it
+i:A ceramic coin minted by a long dead merchant house{.merchant caravans,.merchant guilds}
+i:A fire drake scale that is always warm to the touch
+i:An inert grick stinger
+i:The branch of a peryton's horn
+i:A small piece of bronze hammered into the form of a bearded dwarf's head{.dwarves}
+i:A 6" piece of darkmantle leather
+i:A small wooden top, when you spin it you hear the rushing wind, but no one else does
+i:A piece of crystal that lightly vibrates
+i:A templar amulet from the candlekeep
+i:A tiny sketch of a small humanoid the likes of which you've never seen
+i:An hippogriff beak with string tied to it, to make a mask
+i:A dried out chasme honey globule, the smell is still pungent.
+i:A crystal with a face that bears uncanny likeness to you etched inside of it
+i:A glass bead, hardened by psionics
+i:A small stone box with unknown ashes in it
+i:A small wooden sail cart toy
+i:A pouch filled with defiler ash
+i:A small sundial with a wristband.
+i:An incense holder carved in the likeness of a hooked horror
+i:A piece of wax imprinted with the image of a noble{.nobles,.noble houses}
+i:A broken jade disk inscribed with the image of cambion grasping an excised heart
+i:An minotaur horn carved with the map of a village on it
+i:A small orange flag with crossed scimitars in black on it
+i:A gourd with dried herbs{.herbalism}.  Whispers drift through the air when it is shaken.
+i:A small piece of leather which holds several small pieces of dried sap
+i:A broken Miribar trade bar.  The jagged edge of matching silver halves constantly emanates faint trails of smoke.
+i:A ceremonial dagger given to free a gladiator slave{.gladiators}
+i:A dwarven beard ring
+i:A skull of a Pristine Tower warped creature
+i:A wooden box filled with dried leaves from the High Forest{.forest,.forest enchanted,.forest haunted}
+i:A wooden plate with a drawing of the Candlekeep on it
+i:A small stone pineapple statue taken from a building
+i:A flask with water containing gold flakes
+i:A small bottle with black sand
+i:A piece of ceramic with the image of silk skimmer on it
+i:A skull carved from a pock-marked lava rock
+i:A knitted yarn wand cozy{.magic wands}
+i:A faded writ of trade from Yartar
+i:A drumstick from the forgotten city of Eldaarich
+i:A stone tablet with names of ancient knights{.knights}
+i:A clay tablet with unknown runes on it.  A stylized impression of a dragon fills the bottom quarter{.dragons}.
+i:A ceramic disk in the shape of the sun
+i:An arrowhead made by a dead elven tribe
+i:A small iron hammer made by an ancient dwarven clan
+i:Three coins are made of unusual but non-precious material: @nonprecious; they are of little monetary value, even within their original culture.
+i:A standard deck of playing cards; includes two jokers but mustaches are drawn on all the figures
+i:Novelty cards: @noveltycards
+i:A broken tin bell, the soft meal has been crushed flat, but the bell is still able to ring.
+i:A tuning fork that, when struck, emanates a specific note that does not fit the conventional tonal scale, making it not useful for tuning instruments.
+i:Six-sided dice, with a skull pictogram replacing the 6. Made of: @nonprecious.
+i:An unremarkable bronze wedding band made for someone without much money, and inscribed with a date.
+i:An unusually well-made inkpen, made of metal. It's make does not affect writing quality but offers slightly superior ergonomics.
+i:A glass lens set in a cheap metal rim. The glass is scuffed, but it makes reading slightly easier on weak eyes.
+i:A leather-cover, bound book of 34 handwritten pages. It contains the descriptions of a naturalist travelling through the Dessarin Valley
+i:Three spheres are chipped, scuffed, and slightly deformed, but they have intricately curving designs. Made of @nonprecious.
+i:A clay tobacco pipe that produces animated puffs of smoke when used.  The plumes depict an assortment of animals, people, and objects.
+i:A toy made of fabric in the shape of: @softtoy, and stuffed with some soft material.
+i:A chess piece made of some semi-valuable material: @semiprecious @chesspiece.
+i:A table knife, sharp on one side. Can deal 1 point of slashing damage, and glows blue for 1 minute afterwards.
+i:An extremely small metal bucket, the size of a thimble, but with a handle the same as a normal pail.
+i:A dog-eared map, folded several times over. While it does not portray your current location, the landmarks seem familiar.
+i:Fine scarlet thread, suitable for sewing.  Makes for good stitching on extravagant clothing.  It emanates faint red sparkles in the darkness.
+i:5 oz bottle of common perfume of a non-exotic scent. Is generic enough to be appropriate for both genders.
+i:A moderately well crafted glass eye. It turns black on nights of a full moon.
+i:A 5-inch length of enchanted string. It tries to constrict the most nearby living person, acting somewhat like a snake.
+i:A small, gleaming metal porcupine figure with spines that are extremely sharp and never go blunt.
+i:A small metal dragon. If you press it’s tail, it spits a small blue flame{.dragons}.
+i:A jar of gooey salve with small eyeballs in it. It heals magical blindness over the course of ten minutes.
+i:A pair of black stone dice that always roll a one and a six, respectively.
+i:A large tooth with a channel running through. Now dry, it once came from a creature that used venom to paralyze or poison
+i:A three inch cubic metal chest with a key. It’s enchanted so it can't be opened in any other way than with the key.
+i:A jar of ink that seems like perfectly normal ink, but when used, it takes a 12 hours to appear.
+i:A small leather-bound notebook with 14 blank pages,and one page with the word "Presto."  Once the any writing on a page is read aloud, the page combusts.
+i:An origami bird is made of paper and re-folds itself overnight if unfolded.
+i:A whalebone pipe. Should you smoke any in it near a waterfront, it summons a sunken ship to the surface somewhere within a mile{.ships}.
+i:A small terracotta flask which fills itself each day with cow urine.
+i:A small glass rod that float and, when put in water, it points north.
+i:A stranger’s amulet depicting a lion’s head.  While worn, you forget the names of people you know, but still feel their familiarity.
+i:A roughly carved wooden birdwhistle that attracts any nearby birds.
+i:A small black box with a tied down lid. Inside is a greyish powder that audibly screams nonstop when it comes in contact with sunlight.
+i:A gold ring.  Looking through it grants True Sight to 30 feet, but the field of view is far too narrow to be used in combat.
+i:An old, filthy silver spoon. The metal is extremely toxic - if it comes in contact with the mouth or other susceptible membrane it imparts a deadly poison.
+i:A small copper bell that seems to be in order, but does not make any sound.
+i:This is a huge, bizarre looking mosquito encased in amber. It has an effect on other mosquitoes such that it scares them away.
+i:A small and rusty pocket watch.  The clock moves imperceptibly slowly, it shows a slightly different time each day.
+i:A Shrunken Head: This item has no useful functions whatsoever. It’s just a collectable and has a painted inscription "17/20"
+i:A silver ring with the name “Aleena” engraved inside. The wearer can cast Spare the Dying once per week.
+i:A wooden bear toy that screams loudly when in the immediate presence of fire.
+i:A blanket which makes you invisible but also causes to snore, making an unusually loud racket.
+i:A lucky rabbit’s foot with a "Made in Caerbannog" label. It grants +1 AC versus tiny creatures.
+i:One sock riddled with holes which attracts vermin when worn.
+i:A comb that randomly changes the hair color of its user.
+i:A small obsidian rooster which crows loudly at dawn. Only heard by the current owner.
+i:A picture amulet showing an opalescent blue altar. Provides lightning resistance 1/day while underground{.altars (holy),.altars (unholy)}.
+i:A small demon idol with red crystal eyes that glow when in the presence of reptiles.
+i:An ugly perfume box which releases monster pheromones once per week.
+i:A blank coin which progressively weighs more and more in the vicinity of gold.
+i:A dull spoon engraved with the name Heartseeker. 
+i:A pair of obnoxious dragon tooth cufflinks. Wearer compelled to act haughty in public{.dragons}.
+i:A crystal cube with light trapped inside. Squeeze to illuminate a room for 1 round a day.
+i:A rusty old fisherman’s hook which becomes a grappling hook when near water{.forest,.forest enchanted,.forest haunted}.
+i:An antique wooden box engraved with a forest scene. Fills with chocolate treats once a week.
+i:A strange mechanical eyestalk. If peered through see twice as far but speak in a staccato delivery with rising inflection for 1 hour.
+i:A tiny castle-shaped box. Inside are 9 miniature mundane weapons which expand to normal size if removed, reappearing after =1d4 days.
+i:A tiny adamantine box of curiously strong mints. Refills every week.
+i:A crumpled piece of parchment with an inked grid. Can be written on and then erased if crumpled again. 1974 charges remain.
+i:Hand mirror.  You see the scene reflected in the mirror as if you had Truesight.
+i:Kazoo of Wonder:  When played continuously for 1 minute, it produces a magical effect, rolled randomly from the wand of wonder table{.magic wands}.
+i:Decoy bracer: pointing this bracer and uttering a command word causes a half-size illusory duplicate of yourself to run in the direction you pointed for 5 minutes, the image cannot traverse any difficult terrain but will avoid any minor obstacles in the way.
+i:Lawman's badge: when this badge is presented and the command word is uttered the badge subjects all creatures within 20 feet to a DC12 Hold Person spell, which the bearer automatically fails.
+i:Golden Helmet of Mambrino: This item looks like a shaving basin, but when placed on the head, it produces the same benefit as a full set of Mithral plate armor.  It gives you -4 to Charisma, though, since it still looks like a shaving basin.
+i:Folding Cot of Alarm:  This folding cot will alert the person sleeping upon it when hostile creatures or effects come within 100 feet.  The owner is alerted by the cot folding up and grappling them.  An action for a DC10 strength check allows escape.
+i:The Ivory Truffle Pig: This ivory statuette of a pig can, once per day, be commanded to grow to full size and seek the nearest source of food, fresh water, or truffles. It remains active for 2 hours before reverting to a figurine.
+i:Hoard-Coin: A small metal coin that when flipped it will always land on its side. One per day the coin can be rolled on the floor, where it will roll toward the nearest source of significant precious metal or gems, as a "Locate Object" spell{gemstones}.
+i:A quarterstaff that is ordinary in all aspects, except that it will stay upright, balancing perfectly on one end, if left that way.
+i:A bucket that flips over a short while after you put it on the ground, regardless of contents.
+i:Robe of Useless Items: This Robe has pockets from which it's wearer can pull nearly any mundane item, though the item extracted is guaranteed to be completely useless (or at the very least, the most unhelpful) for the current situation.
+i:Dagger of Unfortunate Accidents:  If dropped on the ground, it will magically move to impale any creature that falls prone within 30 feet.
+i:A knife enchanted so that the dull edge appears sharp and vis versa.
+i:Fairy in a jar -- She looks really angry.
+i:Sovereign Goo:  The king of all things gelatinous... in a small glass bottle{.ships}.
+i:Ship in a bottle:  looks like an ordinary ship in a bottle but when smashed a rubber dingy appears.
+i:Paper of Rock and Scissors:  a sheet of paper with a picture of a rock and a pair of scissors. both pictures can be transformed into actual items by saying "shoot" while folding one's hand into the appropriate position.
+i:Ring of Immolation:  Sets you on fire.
+i:Flaming Dagger:  The grip of this dagger is wrapped in red leather, and the blade shows fire-like ornaments. When drawn, it starts to insult the nearest neutral or hostile person using its wielder's voice (if there is one within earshot).
+i:Potion of Flies:  A flask with ornaments that look somewhat like leaves. The word "Fly" is written on it. Whoever drinks it won't be able to fly, but any winged insects within a few miles will find him irresistible{.potions}.
+i:Solar-Powered Torch:  As Everburning Torch, but only functions above ground during the day, or within the area of a Daylight spell.
+i:Hairbrush of Prestidigitation:  When passed over a subject's head, the subject's hair assumes any style he desires.
+i:Vampyre's Vanity:  An ornate hand mirror of polished silver. The reflections of ethereal creatures can be seen in this mirror, but creatures on the Material Plane do not reflect.
+i:Miniature Golem: A really small golem, similar in appearance to an action figure. It would perform any single-word command to its best ability (which, frankly, isn't very well){.golems}.
+i:A single pubic hair from a nymph folded within a sheet of silk in a tiny wooden box.
+i:A string of firecrackers.
+i:An ancient bronze coin. The tyrant on it looks exactly like you.
+i:A deck of dirty playing cards.  Each illustration depicts a different humanoid race, even some beastly ones.
+i:A link of chain from a Valkyrie's chain mail bikini.
+i:A horseshoe once worn by a unicorn.
+i:A pinch of lich dust in a tiny batskin pouch{.bats}.
+i:A genie's veil.
+i:15 noxious drow cigarettes in a little tin coffin.
+i:The holy book of a dead god.
+i:An apple from a dryad's garden.
+i:Gold from a dragon's horde, fused into a blob by his heat & weight (=1d6 GP){.dragons}.
+i:Chunk of amber, 1" tall prehistoric proto-faerie trapped inside.
+i:Bookmark made from the skin of an infamous assassin{.assassins' guilds}.
+i:A single scale from a mermaid's tail.
+i:A 1-inch tall lead figure of yourself.
+i:White crayon and =1d6 weird dice, all in a green velvet pouch.
+i:Piece of goblin chalk -markings last one week & can only be seen by those w/ darkvision{.goblins,.goblin gangs}.
+i:Little plastic toy rust monster.
+i:Vial of unicorn's milk.
+i:Feather from a pegasus.
+i:A failed adventurer's suicide note. "I should have died down there with the others..."
+i:Exquisite flute made from a human thigh bone.
+i:Little plastic toy bullette.  Its mouth can be opened and can be used as a trowel.
+i:Little plastic toy owlbear (With "Moe" haircut).
+i:Piece of weird fruit from a sunless goblin orchard deep underground{.goblins,.goblin gangs}.
+i:A page of hastily-scribbled mathematical formulas no one has been able to explain to you yet
+i:A shrunken gnoll head
+i:A rag doll dressed in clothes from another time
+i:A metal tube about 6 inches long. When you press a button, a narrowly-focused beam of colored light shoots out from it
+i:The rowel (the little wheel part) from a spur
+i:A silver spoon with a handle shaped like a medusa
+i:An exotic dried fruit
+i:A lump of heavy, grey metal that is always warm to the touch
+i:A scrap from your childhood blanket
+i:An ivory miniature of a duck
+i:A lump of coal that appears to be burning but sheds no heat and is never consumed
+i:A spare reed from a wind instrument
+i:A small sphere, about fist-sized, half red and half white, with a black band tying the two halves together.
+i:A partially burnt family tree on vellum
+i:A jar of jam, half eaten.  The jar has an inscription bearing the name "Mason."
+i:A ticket to a dwarven opera, to be performed a tenday hence
+i:A small black cube that projects the image of a spider driven saucer when placed on a level surface{.spiders}
+i:The ace of tears from a card deck.  One edge of the card is soaked in blood that never dries.
+i:A crystal containing a trapped stirge. Emits a faint glow at night.
+i:A broken sword-hilt made of black metal. On it is written "Whoever recovers my blade..."
+i:A tiny, mummified miniature beholder.
+i:A severed hand: human-sized, scaly and perfectly preserved (still warm).
+i:A triangular silver coin of unknown origin. Always finds its way back into your pocket.
+i:Fashionable top hat of fine molehide.
+i:A glass eye. Hourglass pupil like a goat.
+i:Billfold with 4d4 notes of Hobgoblin paper money.
+i:A monocle.  Looking through it inverts the colors of what you see.
+i:Big gaudy silver belt buckle. Rot grub encased in resin at center, "CRAWLER" written in cheap gems at bottom{gemstones}.
+i:Pocket-sized Orc-to-Common phrase book; it's not very long at all.
+i:Vial holds a single tear from a nymph, seduced and abandoned by a heartless adventurer.
+i:Black iron spur from a devil's scourge.
+i:Single scale from a demon's ass.
+i:The creepiest old doll anyone has ever seen.
+i:"Broken" compass. Only accurate underground.
+i:Key. Intended to wind up some unknown clockwork machine.
+i:Vial of the Elf Queen's bathwater. Armpit hair floating in it.
+i:Airtight vial holds the hot breath of a nymph, captured in the throes of passion.
+i:Single Dwarf dragonlard candle. Burns with a low red light that won't disrupt darkvision{.dwarves}.
+i:Single fishwood torch. As normal torch but needs no oxygen, can even burn underwater.
+i:The hilt from a great hero's broken sword.
+i:A scold's bridle.
+i:Tiny two-minute hourglass.  The sand slows its fall if you focus on it intently enough.
+i:Twenty-sided dice (Glass, Roman-style).
+i:Pocket mirror that reflects men as women and vice-versa.
+i:Astrolabe with a pattern of notches along the edge as if it was made to fit into a receptacle.
+i:One of the Vampire Queen's long black satin gloves (Left hand){.vampires}.
+i:The Book of Common Prayer. Pocket-sized. Wedding, funeral, and baptismal rites shared by all Lawful religions.
+i:Opera glasses.  While looking through them, the world around you sounds more melodic.
+i:1d100 feet of high-strength fishing line.
+i:Vial of a hag's bile.
+i:A Witch's thimble{.witches}.
+i:Swank leather dice cup.
+i:Stolen communion wafer from the Church of Violence.
+i:Single piece of goblin candy. Hard as a rock & tastes like paint thinner drunk from a dirty ashtray{.goblins,.goblin gangs}.
+i:Single gold piece with no monarch profiled on it. Dated seven years in the future.
+i:A tooth from a megalodon.
+i:Bronze coin. Bears the profile of a rat wearing a crown{.rats}.
+i:Brass coin bearing the profile of a woman with bird's wings for ears.
+i:Copper coin bearing the profile of a man with no eyes.
+i:Single playing card stolen from the private game room of the King of Gamblers.
+i:A matchbook with =1d10 modern-style matches. "Compliments of the Knave & Badger Social Club".
+i:A pocket watch with a strange design of interlinked circles on it. Sometimes it whispers to you about time and space.
+i:A cane made from an exotic mummified snake.
+i:A manuscript of a dwarven poem about a couple who debate whether to go against the will of their clans for love. Ultimately they decide not to.
+i:A book of pressed flowers, you recognize none of them.
+i:A small vial containing pure dirt from the elemental plane of Earth.
+i:A copper piece with a bearded king that no one recognizes on one side and a columned temple on the other.
+i:The fishhook-sized barb from the stinger of a giant bee
+i:A sack containing two pouches of psychedelic mushrooms, a jar of peyote, a quart of tequila, a quart of rum, and a pint of raw ether.
+i:A kobold tooth with a glowing rune etched into it{.kobolds}.
+i:A gilded egg, about the size of your fist.  If you listen carefully something can be heard scratching and muttering to itself inside it.
+i:Tin box containing the toenail clippings of a forgotten saint.
+i:Single nail from the gallows that hung one of the most infamous killer who ever lived.
+i:A single 1980's arcade token from our world.
+i:Small card marked "Get out of jail FREE" in Common. King's official stamp or good forgery thereof on back.
+i:Steel washer on a string.  When allowed to dangle, it constantly spins while within 100 feet of a construct.
+i:Bronze coin. Grey-market shadow currency. Bears the profile of the Prince of Spies.
+i:A marriage certificate between a Duke of Blackmail and a Baroness of Kidnappers.
+i:Crossbow built for a small child. =1d4 damage. Disadvantage vs. metal armor.
+i:A once-awesome wizard's wand with orbiting blue crystals and an azure glow. All the charges have been used up, no longer magical.
+i:Single cheap chrome shuriken. 1d3 damage. Disadvantage vs. metal armor.
+i:Tarnished old dog whistle. Can only be heard by mad or rabid dogs.
+i:Pamphlet announcing upcoming show by Brusker & Piemoore, a controversial comedy duo that consists of a fat elf and a bald dwarf{.dwarves,.elves dark,.elves high,.elves wood}.
+i:Single link of a chain from the torture garden of a demon prince, it constantly drips blood.
+i:Origami dragon made from a (used, blank) spell scroll{.dragons}.
+i:Tiny model ship built inside an empty potion bottle{.potions,.ships}.
+i:Cigar box. Empty except for an auction receipt for 162.5 GP.
+i:A leaf from a treant, it's quite large.
+i:A bolt from the neck of a flesh golem{.golems}.
+i:Knife made from the tooth of a purple worm.
+i:A bronze hoop earring. Flick it and it snaps into a professional-grade lockpick.
+i:Vial with a single scarlet tear from a vampire{.vampires}.
+i:Black leather domino mask once worn by the Queen of Thieves{.thieves},
+i:Ancient, acid-pitted doubloon from the guts of a kraken.
+i:Sailor's cap with an interior pocket containing notes on a voyage to a land found on no map{.sailors}.
+i:Bell from the cap of the King of Fools.
+i:A succubi's soiled panties. Reek of sulfur.
+i:Dainty ladies wrist-length glove. Scaled to the size of a storm giant, about as large as a long pillowcase.
+i:Pocket-size magnet. Attracts wood instead of steel.
+i:Big noxious cigar. Orc "Tobacco" (Fungus, really) wrapped in a suicide note{.orcs,.orc warlords,.orkish clans}.
+i:An ornate onyx bishop chess piece with an inscription on the bottom that appears to be a skull in the center of a starburst.
+i:Matchbox with a live cricket in it.
+i:Silk scarf once used to gag a captive siren.
+i:Scale from a sea serpent- feels like heavy iron, floats like cork.
+i:Nail from the crucifixion of a prophet.
+i:Ear trumpet.
+i:Cigar box containing a complete suit of plate armor, a shield, a lance, a flail, and a sword- all scaled for someone 3.75" tall.
+i:A piece of hard bubblegum and =2d4 printed cardboard cards featuring woodcuts of famous adventurers and promising rookie heroes.
+i:A glass jar containing a live goldfish
+i:A velvet pouch full of troll hair clippings
+i:A nearly-empty tube labeled "flying ointment" with a single solitary glob left in it. If consumed, it produces the slight feeling of weightlessness.
+i:A glass bottle of water containing a live Quipper that is too large for the mouth of the container.
+i:A rogue's lucky ball bearing{.rogue missions}
+i:A book of half finished dungeon maps that gently weeps when left unattended{basic dungeons,castle dungeons,dungeon dressing}
+i:A gnome's traveling journal. All pages are taken up by lewd drawings{.gnomes}.
+i:A halfling's traveling journal. Most pages unused, what little is written makes fun of people's hats and noses.
+i:Shabby hand-crafted ceramic mug, "Wurldz gratest Worelord" engraved.
+i:Ripped apart piece of a leather cap, "For Dad" sewn on the inside.
+i:Painted metal figurine of a frost giant, missing one arm.
+i:Pink apron with "Seasoned adventurers have better taste!" written on it.
+i:Funky hat, made out of Kobold tails{.kobolds}.
+i:Rubber elf ears{.elves dark,.elves high,.elves wood}.
+i:A caltrop painted in bright pink.
+i:A jar of live bees.
+i:Music box. Plays a tinny version of Basil Poledouris' Conan theme.
+i:A child-sized short bow with a missing bowstring.
+i:A golden amulet in the shape of a bug on a leaf.
+i:A spider trained to perch on your shoulder when you walk{.spiders}.
+i:An arrow covered in intricate carvings depicting elven life in the forest{.forest,.forest enchanted,.forest haunted}.
+i:A small crystal globe that dimly glows yellow during the day and white at night.
+i:A pinecone painted with glitter and gold on a small loop of twine{.forest,.forest enchanted,.forest haunted}.
+i:A pair of green leather archery bracers.  They have a pouch on the wrist for extra bowstrings.
+i:A map of a forested area indicating the locations of various wolf dens.
+i:A shard of blue crystal that produces a beautiful chime when struck.
+i:A pair of leather trousers embroidered with leaf designs.
+i:The carcass of a woodland animal, fashioned into a hat.
+i:A smooth stone that, when held, removes all fear of heights.
+i:Five silver bells on a string that seem to sooth the tempers of elves when jingled{.elves dark,.elves high,.elves wood}.
+i:A fur-lined cloak that looks like a pile of leaves.
+i:A scrap of paper inscribed with a haunting elvish poem.
+i:A tiny silver knife etched with ivy patterns.
+i:A circular sheet of crystal that reveals elven constellations when the stars are seen through it.
+i:A wooden fife that cannot be heard by humans.
+i:A crow trained to carry a message parcel to any elf whose name is whispered to it{.elves dark,.elves high,.elves wood}.
+i:A loaf of herbed bread wrapped in cloth{.herbalism}.
+i:A bottle of golden wine{.wines}.
+i:Boots made for climbing trees.
+i:The hilt of an ancient sword bearing the elvish words: “Dawn rises before death’s fall.”
+i:A needle made of gold that can pierce any hide.
+i:A tiny lute painted with the images of faeries and food.
+i:A crystal goblet that fills to the brim with red wine at the end of every hour{.wines}.
+i:A crown fashioned from vines.
+i:A scroll bearing an urgent message for an elven lord.
+i:A small lifelike painting of an elven woman casting a spell.
+i:A rosewood box containing a single set of silverware that never tarnishes or rusts.
+i:A hemp necklace that amplifies the wearer’s voice slightly.
+i:A leather-bound book full of pages made of dried leaves.
+i:A pouch full of tangy berries.
+i:The skull of a goblin.  An intricate pattern of lines and circles has been carved into the top{.goblins,.goblin gangs}.
+i:A walking stick, the top of which is a carving of a mountain lion’s head that become alarmingly lifelike in firelight{.mountains}.
+i:The scabbard of a curved dagger, inlaid with patterns of the moon and stars{.wines}.
+i:A wineskin filled with animal musk.
+i:A 1 inch wide strip of paper.  It seems to always be possible to unfold it again lengthwise, doubling its length, but never making it wider.
+i:A novice wizard's booklet intended as an rudimentary introduction to performing the somatic component of spells.
+i:An arrow painted red.
+i:Three edible insects that induce hallucinations when consumed.
+i:A few feet of rope made from spider silk{.spiders}.
+i:A list of 33 elven names for a particular dragon known to frequent this area{.dragons}.
+i:A stinky tincture that makes wounds hurt less when applied.
+i:Three silver balls that float about your head.
+i:A pair of logs that produce fire without smoke when burnt.
+i:An ink drawing of an elven goddess shooting a dragon with a bow{.dragons}.
+i:A wooden plate that cleans itself after each meal.
+i:A dowsing rod.
+i:A studded bracer that just seems magical somehow.
+i:A long stemmed flower that always points at the sun and never wilts.
+i:A leather pouch that keeps herbs fresh for months{.herbalism}.
+i:A glowing rock that was once worshipped as a god.
+i:A broken harlequin mask.
+i:A long book full of elven advice, most of which amounts to “stay the course.”
+i:A short, forest-colored coat with broad shoulders.
+i:An ink pot that never spills.
+i:A small pouch full of burnt up expended spell components, but the name embroidered into the side seems familiar.
+i:Intricately articulated metal armor that covers a single slender finger.
+i:A broken bell that rings with the sound of lost love.
+i:A pair of wooden earrings.  The wearer is able to hear as normal while underwater.
+i:A rock that projects colored light onto surfaces, such as walls, ceilings, or tree canopies.
+i:Two sharp teeth from a large predator, enchanted to stay near each other at all times
+i:A tunic that smells like fresh herbs and soil{.herbalism}.
+i:A broken lyre made of a strange orange metal.
+i:A wooden puzzle box with no known solution.
+i:A slender circlet that grants the wearer memories of an ancient war between the elves and a now dead race.
+i:An inordinately heavy and unwieldy ceremonial staff.
+i:The face of an elf, broken off a marble statue{.elves dark,.elves high,.elves wood}.
+i:An elven gardening spade, depicting a broad leaf as its blade.
+i:Soft leather armoring that only covers the right arm, shoulder, and hand. [Provides no AC bonus.]
+i:A tearstained love letter from an elven lady, breaking things off with her human lover.
+i:The carapace of a breathtakingly beautiful beetle.
+i:A notebook detailing an elvish account of an important treaty being signed over 400 years ago.
+i:Two wooden children’s dolls: one elf and one orc; each armed with a tiny sword{.elves dark,.elves high,.elves wood}.
+i:A sand timer that drops a single grain each day.
+i:A bottle of a perfume that smells like summer in the forest{.forest,.forest enchanted,.forest haunted}.
+i:An ornately inlaid and painted wooden box containing the mummified remains of a small animal
+i:A circular stone covered in tiny, almost imperceptible engraved patterns.
+i:The handle of a sword that has rusted in the ground for a thousand years.
+i:The magically preserved eye of an extremely rare and fantastical creature.
+i:A bandoleer for crossbow bolts.
+i:A hand-broom enchanted to constantly sweep up whatever room it’s placed in.
+i:A scroll containing an elvish epic poem recounting a war few remember anymore.
+i:A crystal that speaks directions (in elvish) to the nearest elven city, when held aloft.
+i:A plaque commemorating the death of an elven hero.
+i:An elven-made leather saddle, designed to accommodate the back spikes of a giant lizard mount of some kind.
+i:A pair of strung together monocles.  One is tinted red, the other green.
+i:A golden bracelet, engraved with elvish words commemorating the unity of two great elven houses.
+i:A small glass bottle that purifies water, making it safer to drink.
+i:A convincing replica of a large ruby, made entirely of crystallized sugar.
+i:A rod of rune-etched copper which glows green in the presence of powerful necromantic magic.
+i:A slender wine glass made of stained bone, rimmed with gold{.wines}.
+i:A black wooden scepter that curls into a spiral at the end{.potions}.
+i:A potion that induces vomiting.
+i:A stone bearing the names and symbols of the most powerful elven houses in the land.
+i:A bronze coin used as a good luck charm in elven lands.
+i:A wooden trap for catching rabbits.
+i:A fist-sized lump of moss that seems to be breathing.
+i:A gold plated wrench
+i:Shipman's whistle
+i:Happy Frog scald salve
+i:Instant-light charcoal, it begins to smolder with the slightest pressure and friction.
+i:An ancient, coral-encrusted canteen filled with fresh water
+i:A fancy man's deck cleats
+i:A replica flag from a famous shipwreck
+i:Goggles bearing the mark of the Blue Circle Traders Guild
+i:Feather of Passage from Sardoas
+i:Illegal one act play
+i:Tattoo needles made from elderfish bone
+i:An incomplete cheat deck of marked playing cards
+i:Elaborate face jewelry
+i:Precentury skull
+i:Sealed can of skeleton juice, expired, rusted
+i:A complete map of an island, unlabeled. Not a treasure map per-se just a detailed, thorough map of an unidentified island.
+i:Broken binoculars 
+i:Season ticket to the Whiteshrike Arena (not yours)
+i:Roughly used paperback novel
+i:Dead man's unfinished diary
+i:Sealed tin of Good Gob's Eyebrow Wax
+i:Goblin cheese{.goblins,.goblin gangs}
+i:A series of runes used for casting fortunes. They're not magic, they're like a mundane tarot deck.
+i:Deed to an underdark property you have never seen.
+i:Tooth from an ancient sea beast
+i:Scale from a modern sea beast, discolored, misshapen, horrible
+i:A vial with three pinches of Godspice left in it
+i:A sacred jar of honey, a religious symbol is painted on the side.
+i:Blueprints for an island-hopper waveskimmer, partial
+i:The skin of a doll, missing its stuffing and eyes
+i:A sprite-sized copper tea set
+i:Femur cipher from the Skeleton Kingdom
+i:A naturalist's drawing journal, featuring mostly lizards
+i:A letter trusted to you by a fallen stranger, bound for a distant land
+i:A medal for cowardice
+i:The combination to a lock, it consists of 5 numbers scrawled on a scrap of paper.
+i:A small wooden box sealed with a paper ribbon, and a label that says "A piece of the fallen gods."
+i:Robe of the Vestalk Clergy
+i:Etching of a dwarven funeral poem
+i:A metronome
+i:Kerchak cigarettes
+i:A grease smeared folio of hand-drawn pornography
+i:A 6' piece of metal pipe with protrusions that kind of looks like a key
+i:A masterwork quality floral print umbrella
+i:Silver flecked cigarette case
+i:A bag of psychedelic mushrooms
+i:A bottle of Century Wine{.wines}
+i:A pair of ladies' sunglasses
+i:A snuff box which crawls around its possessor like a beetle
+i:A sling stone with the name of the name Callahard scratched onto it
+i:Contract of ownership to a slave you've never met
+i:A smooth green stone that seems to have a fingerprint etched into it.
+i:A perfectly cubes blue-and-black-marbled gem{gemstones}
+i:A blocky red crystal
+i:6 chicken eggs nestled among straw in a wooden box.
+i:A squat jar labeled "doppelganger cream"
+i:Half-empty can of industrial grease
+i:A prosthetic arm.
+i:A pouch of rainbow sand
+i:A belt which always fits
+i:A small gaming set from a culture whose language you don't understand
+i:Signet ring.  Everyone who sees it think it's theirs.
+i:Broken manacles, tufts of blue fur are lodged in the mechanism.
+i:Little wooden water strider toy that animates and walks when placed on top of liquid
+i:A sack of pony teeth
+i:A headless chicken
+i:A scented and stained kerchief from your 'favorite'
+i:Bill of claim of indenture
+i:Marque of passage from the fallen kingdom, Karaiso
+i:Leopard-print loincloth
+i:A pearl resembling 1/2 a human eye
+i:Water testing kit
+i:Firefly glass pendant. At night it seems to be filled with minuscule live fireflies bouncing against its exterior surface.
+i:Prayer idol from a plundered Karaiso tomb{.tombs}
+i:Courtly face paints
+i:A map of the world that does not at all match any other map you've seen.
+i:Tin marionette dragon{.dragons}
+i:Super violent propaganda comic book
+i:Heirloom rings for beards
+i:A brightly colored carnival mask.  Its pattern changes every time it's put on.
+i:Manual of childhood diseases{.diseases}
+i:Token of payment belonging to Tuuata the Sea Serpent
+i:Tea bags from the Apelands, with the mark of a great Kerchak house
+i:Seal of the Buelan Drash Council Enormous
+i:Bottle of Murder Bear olive oil
+i:A bolt of waterproof fabric
+i:A confession signed by a murderous halfling
+i:Bounty handbill for a criminal witch, the image of the accused seems to move as if alive{.witches}.
+i:Book of spider anatomy{.spiders}
+i:Book of dirty limericks
+i:Book of troll jokes
+i:Necklace of gnome eyes{.gnomes}
+i:30' of golden-colored curtain cord. Purely ornamental, can't support weight like a rope.
+i:A scalp, the skin is slightly green.
+i:A miniaturized poppy garden that fits in your pocket
+i:A monocle, tinted purple
+i:A book where each page is a different creature's skin, and the only text is devoted to identifying each skin
+i:A holy book devoted to a god you've never heard of.
+i:A divining rod that wiggles when near graves
+i:A blue lantern, international sign of distress among sailors{.sailors}
+i:Talisman of animal teeth that rattle at night.
+i:Map fragment with a splattered bloodstain.
+i:Scented candle that smells of lavender one day, and then brimstone the next.
+i:Worn boots that automatically lace and tie themselves.
+i:Engraved helmet made of bronze.  A single small sapphire is set into the forehead.
+i:Wooden figurine of a 5 legged beast with no head and one arm.
+i:Lucky dice.  Weighted to have a low chance to roll 1s
+i:Worn pack of cards, it shuffles itself automatically when placed into its box.
+i:A ceramic mug with a jovial man's face sculpted intot he side.  It dribbles its contents down your front if used after noon.
+i:Lucky ancient coin made of tin.
+i:A pale gray, amorphous sculpture. While nothing about the piece gives the impression of movement, you get the vague impression that it has shifted every time you look away.
+i:A small blue glass butterfly attached to a barrette. When the clip is opened, the butterfly stirs and gently flaps its wings.
+i:A plain iron goblet with a cracked rim. It is filled to the brim with a frothy, clear amber substance that resembles a freshly poured lager frozen in place.
+i:A pair of excruciatingly detailed false glass eyes, in grey and green. While held or placed on a solid surface, they gradually turn to face each other.
+i:An elaborately carved velvet-lined small oaken case. Within rest some delicate silver shears, suitable for use by a noble ladies’ servant{.nobles,.noble houses}.
+i:Some garish crushed velvet pantaloons, monogrammed with the initials "AJW." So obviously out of fashion that they can only be antique.
+i:A small sterling box engraved with the image of a small bunch of fruit with leaves and vines. Resting inside is a sealed paper packet which rattles when shaken.
+i:An intricately detailed figurine posed as though singing to an audience on a balcony above her. Her eyes sparkle with tiny jewels to make it appear that she is crying.
+i:An inky black square housed within an ornate golden frame. On closer inspection, faint shapes and motion are visible in the painting, as though it shows an active scene in an unlit room or perhaps underground.
+i:Some dark green fur-covered slippers shaped to resemble monsters. As each slipper moves, it emits a tiny but ferocious roar.
+i:A tiny gold filigree birdcage suspended from a single strand of golden thread. Something within the cage emits a brilliant ruby red light.
+i: A large brass hook that vaguely reminds you of a boating implement. Sharpened to a wicked point at one end and threaded for mounting on the other, the metal is polished to a mirror sheen.
+i:An intricate clockwork crow that stands frozen in a quizzical pose, as though gazing at something interesting just above your head.
+i:A small glass cube filled with a faintly luminescent blue fluid, with a small latch on one side securing the top. Something about the liquid suggests a degree of consciousness to its movements.
+i:A leather drawstring pouch filled with a dozen perfectly spherical polished stones. The stones stick together as though magnetic, but come apart again with almost no effort.
+i:A hard black leather case containing an excellently crafted set of well-used professional kitchen knives, one nearly as long as your arm.
+i:An odd red badge in the shape of a hunting bird’s head. The maker’s mark on the reverse appears strikingly similar to the local duke’s seal{.wines}.
+i:A set of fancifully etched translucent yellow wine glasses that flash brilliant fluorescent green when they catch the sun{.wines}.
+i:A fist-sized spool of fine silvery wire, thinner and stronger than anything you've encountered before. You get the feeling that it would be more likely to cut you than to break if you put your weight on it.
+i:A truly ancient clay jug, stoppered with cork and wax. The lower half is caked with dried mud and the upper half is covered in salt and barnacles.
+i:Warped quarterstaff, not suitable for combat.  When used to draw a line in the dirt, the trench immediately fills with ink.
+i:Rusty manacles, they emit a woman's scream when opened.
+i:Brass tongs whose end glow as if freshly pulled from the forge, but are cool to the touch.
+i:Eagle-shaped electrum letter opener.  A mechanism causes the beak to open and close when the wings are made to flap.
+i:Night-blue silk robe with tiny sparkles that seem to shimmer like stars.
+i:A wedge of paper-wrapped cheese with a label that says "Emergency Use Only."
+i:Bouquet of pewter roses
+i:Mithril key inlaid with a small blue gem{gemstones} that pulses regularly with a faint glow.
+i:A tiny vial of gold dust the size of a fingernail.
+i:Zinc rod with a flawed ruby set in one end and a piece of amber in the other.
+i:Box of Volcanic Ash
+i:Dozen silver spoons, all with the same design but each bearing a different set of initials on the handle.
+i:Beaver-skin boots.  It leaves frosty footsteps on the ground.
+i:Belt of Shriveled Halfling Hands
+i:Velvet pouch with a set of playing cards, each loyalty card has an illustration of a different variety of fiend{.fiends}.
+i:A jar of oil with a troll finger floating inside.
+i:Elk thighbone with notches carved out a random intervals along its length, each painted with black ink.
+i:Solid gold idol of a dretch
+i:Dire bear pelt.  The interior of the hide is covered in an intricate pattern of curves drawn in blood.
+i:Brass Peacock with Ruby Eyes.
+i:Miniature Clockwork Dog
+i:Pair of blue drakeskin gloves
+i:Cobra-Shaped Earrings
+i:Plush Orcus Toy
+i:Jar of dried seeds.  Each is green with a red spot on one side.
+i:Vial of Orc Sweat{.orcs,.orc warlords,.orkish clans}
+i:War Drums made of Bamboo and Dragon-Skin{.dragons}
+i:Stone Tablet etched with the True Name of a Demon
+i:Severed mummified finger with a jade ring that cannot be pulled from its appendage.
+i:Plague Doctor's Mask
+i:Portrait of a naked elven maiden with a tattoo of a couatl curving down her side.
+i:Book with lumberjack poems, some with a distinctly homoerotic slant.
+i:Dented tin crown emblazoned with cut glass "gemstones"{gemstones}
+i:Tome of goblin art bound in skin of an unknown origin{.goblins,.goblin gangs}.
+i:Wax Sealed Jewelry Box
+i:Small Wooden Mermaid Statue
+i:Ivory finger with a realistically painted, long, jagged fingernail.
+i:A gold hexagonal prism filled with dead but moving ants.
+i:A brass coin with a skull scratched into the tails side.
+i:Fist-sized bright silver scorpion.
+i:A set of small jars of animal scat: dog, ferret, horse.
+i:Totem carved from cooled lava pulled from the Great Burning Sea
+i:The dried foot of a quasit on a braided cord for wearing about the neck.
+i:Arrowhead that has a strange sigil worn into one side
+i:A shard of glass that was said to come from the Abyss
+i:A Flower, in a glass vial that heats up when a certain word is spoken
+i:Map of the constellations of Krynn, that changes depending on the light level shining down
+i:A number of large speckled seeds nibbled by a funno
+i:Vial of gelatinous ooze leavings{.oozes}
+i:Bark from a Black Willow
+i:Spool of silk from a whisper spider{.spiders}
+i:Glass sphere containing a shimmerweed flower
+i:An hourglass with blue and orange sand; it seem to have been frozen in time
+i:A brass nose ring from a minotaur that has been deformed and beaten back into shape many times
+i:A kami doll that has been painted all black
+i:A white stag carving that has been half burned
+i:Candle in the shape of a kobold with one foot missing{.kobolds}
+i:Mirror made of black obsidian that shows those who glance into it in monochrome
+i:Shed feathers from an aarakocra that have been threaded to make a charm
+i:Wooden Spoon used in Gully Dwarf cooking, it's large enough to be used as a club{.dwarves}.
+i:Chain taken from a gnomish grape presser
+i:A carving of a Draconian that was made from a branch of a tree from Solace
+i:Part of a helmet of a draconian that has been cut into the shape of a face
+i:Copper bracelet that has turned green and has been damaged by acid
+i:Mask from a dance troupe.  Its exaggerated expression changes when you flick it.
+i:A corked empty vial that is constantly frosted with ice on the outside.
+i:A Thri Kreen stone axe that emits a ringing sound when hit
+i:Beard Comb made in Gauntlgrym
+i:Pearl that has a shadowy silhouette dancing inside it.
+i:Pumice piece that is always moist
+i:Crest from the helmet of a draconian
+i:Tooth from a Unicorn, that has been drilled and threaded onto a bright braided string
+i:A cornerstone of the pavement from Gracklstugh bearing a dwarven crest{.magic wands}.
+i:A wand that animates sufficiently putrid goo, refuse, or moldy food into an appropriately sized ooze{.oozes}.  It is hostile to all non-oozes.
+i:Fang from a Spider Dragon{.dragons}
+i:Statue of a hydra with all the heads broken off
+i:A tailbone from a Bronze Dragon, that starts to sparkle when held in the left hand{.dragons}.
+i:Page from the manual of a gnome device.  Numerous footnotes and references make it nearly impossible to decipher{.gnomes}.
+i:Claw from a white dragon with three marks carved on its surface{.dragons}
+i:Two gears from a crashed gnome spelljammer{.gnomes}
+i:Selachian harpoon head with leather strap
+i:Seashell with an inscription in runes that has faded over time
+i:Skull of a hamster with a chain threaded through it.
+i:Clay figurine that seems to change shape when not observed
+i:A polished orb of amber with a small lizard trapped inside
+i:Lump of coal with runes carved into it
+i:Torn piece of metal from a minotaur frigate ship{.ships}
+i:Bandana that has a strange symbol in the fabric
+i:A glass sphere with a piece of the Icewall inside it, on a chain
+i:Badge of rank that fell from the Flying Citadel
+i:Beermat from the High Hand Inn, Waterdeep
+i:A furry, feathery pouch made from the hide of a owlbear
+i:Piece of cloak from the tower of high sorcery
+i:Metal bracelet with the carving “Est Sularus oth Mithas”
+i:leather codpiece that bears an inscription in a strange language
+i:wooden and cloth doll, small gems for eyes{gemstones}
+i:Silver ceremonial knife, dull edged.  The metal is entirely green in color.
+i:A small silver metal box, the lids shows ornate designs of the sun, moon, and stars.  Each dawn shows a different arrangement.
+i:pair of bone knitting needles, they clack against each other when left on a surface.
+i:rolled up painting, depicts woman walking in a field, artist initialed as ~GH~ 
+i:steel tankard engraved with warhammer and mine entrance{.mines}
+i:oversized gold coin from ancient civilization, depicts large, pillared structure on one side, long haired, bearded man on the other 
+i:Three six-sided dice, carved from stone and polished 
+i:flask with gold embossing, initials SK engraved on one side 
+i:belt buckle, with gold, roped trim, center carved in form of elk head 
+i:bracelet, appears as if two snakes are entwined, one red, one blue{.forest,.forest enchanted,.forest haunted}
+i:small book, 100+ pages in length, fictional tale of a girl lost in the wild, author – Sakmir Arlondo 
+i:pen with ink vial, pen is carved of a rare wood with intricate carvings 
+i:Staff of the forests:  When within 5 feet of a tree or shrub, this staff has a 5% chance of animating it.  The plant acts according to its nature -- generally seeking out water.
+i:gold rimmed monocle causes everything to look 100 feet more distant, but hostile creatures are highlighted as if due to faerie fire.
+i:baby rattle, made of hollowed bone, textured pattern 
+i:vial of deep red ink, hint of glittery material in the ink 
+i:gold hooped earring with small silver chain with red ruby clutched in a claw 
+i:spice shaker, thick glass with silver top, contains salt now 
+i:silk scarf, embroidered in a silver thread 
+i:Wooden Spoon. Carved with rune for "food". When tapped on an inert organic or semi-organic material (wood, dirt) it turns that stuff into edible foodstuffs, although it will be mushy and unpalatable.
+i:Amulet of Hope. Shines as bright as a candle, but only when there are no other light sources. Light points back towards dungeon entrance, vaguely, if one exists. Hums reassuringly when clutched, and warms your hand{basic dungeons,castle dungeons,dungeon dressing}.
+i:Orphan's Top. Cannot be spun if there are any invisible undead nearby.
+i:Dust of De-Appearance. Can make things invisible, but wears off if the object moves, is moved, or even wiggles a bit. Best used on inanimate objects or people who can hold really, really, still.
+i:Paired Scrolls. Whatever is written on one appears on the other. Give players a 3"x5" card to write on, to limit how much they can write.
+i:Statuette of Baal, 3" tall. A slot in the base can be "fed" gold, growing larger, becoming more complex adding features and companions.
+i:Book of Epic Boredom. When reading, save vs sleep.
+i:Black Cigarette. When smoked, it creates a huge cloud of smoke and allows the smoker to see through smoke and fog. Can be smoked for 5 minutes (or 5 one-minute segments).
+i:Sleeping Draught. Sleep TWICE AS HARD for four hours. You get a full night's rest, but cannot be woken up. Unwilling targets are immune.
+i:Vial labeled "Love Potion."{.potions}
+i:Exploserous Carnelian. When activated, begins to glow hotter and hotter. Explodes like a stick of dynamite after =1d2+2 rounds.
+i:Mighty Acorn. When thrown on the ground, it grows into a 20' oak over the course of 5 minutes.
+i:Mechanical Torchbearer. This small mechanical spider follows the associated amulet, or whoever is wearing it. Can hold 6 torches, and relight a new one as the old one burns out{.spiders}.
+i:Deer tokens (=1d6). Each summons a 40lb. deer that responds to your verbal commands as best as it can, before crumbling to dust after =3d4 minutes.
+i:Saint's Bones. About the size of a cigar box. Contains mandible and some carpals. Will rattle ominously when a lie is uttered nearby.
+i:Amber Comb. Any lightning attack within 10' is diverted to the comb instead. If the comb takes 6 or more damage (it is not immune to lightning), it shatters.
+i:Chewed Bone. When chewed, it fills the air with the smell of delicious fresh meat. This is strong enough to mask other odors.
+i:Flask of Light. When swung overhead on the attached twine, the bottle absorbs ambient light reducing the light level in 30 feet. Uncork the bottle to use it as a bullseye lantern for as long as it was previously swung around.
+i:Silver silk handkerchief. 3' on a side. On the command word, it becomes as hard as thick steel. A second command word reverts.
+i:Silver silk rope.  25'.  On the command word, it becomes as hard as steel. A second command word reverts.
+i:Vial of Nightshade. When drunk, it puts the body into a deep coma and ejects the spirit into the ethereal plane for =1d3 days.
+i:Grinning Amulet. Anyone who laughs--even a snicker--near this amulet must make a save or laugh uncontrollably for the next minute. Careful, it's contagious--if a player laughs during this, so does their character.
+i:Trollwax. Tacky and unpalatable. Anything that tastes it must succeed on a check, or be so disgusted that it cannot taste it again. (Takes a week to fully leave the tongue.)
+i:Cheater's Coin. When flipped, it will give whatever result the owner mentally wishes. This is not limited to heads/tails--it can generate any picture suitable for the face of a coin.
+i:Boots of Independence. When you remove these boots and fail to restrain them, these boots will wander aimlessly with a speed of 10 (1 mph).
+i:Tiny tree. Produces three fat apples every day (enough to feed 1 person). Must be watered with 1 cup of blood each day, or it will die. If dead, can be revived with water. Probably found dead/in a chest.
+i:Skeleton gourd. This gourd has a peephole. Anyone who looks into the peephole will be paralyzed for =1d4 minutes while their brain is filled with visions of dancing skeletons.
+i:Ring of Petrification. Putting this ring on will turn a person to stone, except for the ring. Someone else can remove the ring, and thereby return them to flesh.
+i:Party Book. Open this book to create audible illusions imitating a party. The apparent raucousness of the party is proportional to the user's CHA score.
+i:Quiet Bell. This silver hand bell prevents all sound within 1 foot.
+i:Window Paint:  =1d4 portions worth in a small bottle -- paint a portion on a wall to make a 1 foot square one-way viewing window through the wall.  Does not work on walls thicker than 5 feet.
+i:Slimming Cone. When stabbed into a creature (deals 1 damage), it instantly and harmlessly sucks out all the excess fat from them, ejecting it onto the floor in a big mass.
+i:Belt of Cat Imprisonment. When laid on the ground, felines are compelled to sit in the center of it. As charm{.cats}.
+i:Endless Boots. Cannot stop walking. Will never tire from walking. Cannot run. Walk walk walk.
+i:Spike of Woodland Suicides. Sort of like a hunter's trap. When left in the woods, wild animals will come and impale themselves on it. A verdant forest yield =1d10 rations worth per day, but must be moved daily. Fey will hate you, though{.beasts fey,.forest,.forest enchanted,.forest haunted}.
+i:Salt Block. Any food you carry will never spoil. Doesn't have to be on your person. Applies to a captain and his ship's cargo, for example{.ships}.
+i:Log of Alarm. This 300 lb log protects those who sleep with their heads against it. If they would be attacked in their sleep, the log wakes them up with bird song.
+i:Bag of Infinite Manure.
+i:Ring that makes the wearer appear to be dead and rotten.
+i:An icecube that never melts.
+i:Feather of Bravado. When placed in a hat, it points in the direction of the nearest foe that would be deadly for the party.
+i:A small silver figurine that, when given away, will return to your pocket after =1d6 minutes.
+i:A rock that, when thrown, always hits its target. Always. Cannot do anything that you couldn't conceivably do with a really lucky throw.
+i:A saddle that turns any beast into a horse when it is strapped on. The horse cannot remove the saddle on its own.
+i:A key that can unlock any single unwarded lock, but cannot be removed from the lock until the mechanism is relocked.
+i:A mug that points the way to the nearest tavern when it is balanced on its edge{.tavern goings-on}.
+i:An egg cup that can hatch any egg that is placed atop it.
+i:Locket. Woman's face inside the amulet always looks towards Waterdeep.
+i:Box of paired snails. When one snail dies, so does its mate. Normally used to send very crude, binary messages. There are =1d6 pairs of snails. Feed them leaves.
+i:Perpetual motion machine. Utterly unremarkable in a world filled with magic, but still cool.
+i:A red envelope that, when opened, loudly shouts that the character has been lying about who they are the whole time.
+i:A note scrawled in blood.  The symbols and shapes are indecipherable.
+i:The upper portion of the skull of a creature.  It appears to be threaded as if it was once screwed into place.
+i:A pack of chewing gum that casts the light spell upon the user's tongue, no save.
+i:A writ of induction into a secret society, bound in gold thread.
+i:A charm bracelet that allows the wearer to speak with domestic fowl, but they tend to lie to them.
+i:A red globe that can be shattered to summon a demon, CR = 2 x summoner level (Demons notoriously hate anyone who summons them).
+i:A receipt confirming payment for a resurrection spell at a large temple{.temples}.
+i:A pair of spectacles with attached rubber ears that can allow the wearer to be proficient in the next language they interact with, but they forget how to comprehend all other languages for 24 hours.
+i:A tiny key made of worn brass. It hangs upon a similarly worn neck chain. Several faint runes decorate the key’s bow but they are now (sadly) unreadable.
+i:A two-inch long iron key slips into a hidden compartment in the pommel of an otherwise innocuous dagger. The dagger’s pommel must be unscrewed to extract the key. Only perceptive PCs will likely notice the hidden key.
+i:A key whose barrel is pitted and scarred as if it had been splattered with acid. It is exceedingly delicate because of this damage; if used roughly, if will likely snap off in the lock.
+i:A large and ornate, black, cast iron key is almost a foot long and weighs 4 lbs.
+i:A large iron key that holds a clever secret–a smaller key hidden in its stem. It is accessed by unscrewing the larger key’s bow. Typically, the larger key does not fit any lock in the dungeon{basic dungeons,castle dungeons,dungeon dressing}.
+i:A bit of this barrel’s key is worn as if by much use. The lock it fits is similarly ancient.
+i:The bow of this cast iron six-inch long key has been forged to look like a skull complete with eyes sockets and teeth. The stem of the key looks disturbingly like a spinal column…
+i:A brass keythat is still shiny and new; it has practically no signs of use upon its teeth, but someone has scratched “TC 1” into its bow.
+i:A key that is so large—almost two-foot long—surely it is only ceremonial in nature; the lock required to fit this monstrous key would be huge in the extreme. It weighs almost 10 lbs. and could be used as a bludgeoning weapon in a pinch.
+i:A Key crafted of multi-faceted, magically hardened glass.  It reflects light in strange many-hued patterns. Crafted to bypass a magical ward of fiendish resilience and complexity it opens the warded area by casting its shadow on the door in a certain location{.fiends}.
+i:A mace with a haft of stout oak, the shaped head is worn smooth on one side.
+i:A mace with an iron pear-shaped head that glistens as if it were wet. A leather loop is threaded through the weapon’s haft to make it harder to drop.
+i:Small holes are bored through the mace’s spherical head. When the mace is swung vigourously, the holes create a high-pitched whistling sound.
+i:A mace with a haft of iron and a small square pommel.
+i:A mace with a haft of dull iron worn smooth through countless hours of use. Similarly the head is dented and chipped suggesting it has seen much combat.
+i:A mace whose head was forged to depicts a snarling demon’s head. Dried blood covers the demon’s face and one of the demon’s horns has snapped off.
+i:A mace whose haft is engraved with lurid scenes of battle and death. Some of the carvings have been damaged—probably in combat.
+i:Atop this stout haft sits a grinning iron skull. The skull has been painted white to appear more “real” but the paint is faded and chipped. Thus, the skull has a mottled—almost diseased—look{.diseases}.
+i:A mace whose circular head gleams like the sun when caught in bright light.
+i:A mace covered with mystical symbols—worn smooth by use and age—that adorn the head and haft. The mace has four flanges—on each the mystical symbol for one of the elements appears prominently.
+i:A longsword whose plain, unadorned and of solid, functional design holds a wickedly sharp edge. A maker’s mark—a hammer set under a soaring raven—adorns the hilt.
+i:A shortsword that is polished to a mirror-like sheen, this is a noble’s weapon. Its hilt is of smoothed ivory and the crossguard is wrapped with silver and gold wire{.nobles,.noble houses}.
+i:A dagger that is chipped and battered, this blade seems old and dangerously weak. The pommel and hilt are of much newer and solid design; they are clearly not original.
+i:A broadsword with a hilt engraved with several esoteric sigils denoting victory and glory. The weapon’s haft is well worn imply it has seen much action; however the blade itself is in excellent condition.
+i:A longsword with an ornate basket hilt, which is chipped and dented. The blade itself is highly polished and glimmers in the light.
+i:A tarnished rapier, the pommel of this serviceable weapon is shaped like a clenched, gauntleted fist.
+i:A longsword with a hilt that is of horn wrapped with worn leather for better grip. It has a simple crossguard inscribed with the sword’s name, "Gutripper."
+i:A crude shortsword whose pommel and crossguard are stamped with Goblin runes. They speak of glory, death and battle. It is sized to be a shortsword for a hobgoblin, or a broadsword for a goblin{.goblins,.goblin gangs}.
+i:A swordwith a pommel that is carved from a large shard of onyx to represent a grinning skull. Additionally, ash has been worked into the blade and haft to give it a dull, dark grey appearance that seems to drink in the surrounding light.
+i:A silvered steel sword that glitters and glimmers in the light like ice. Runes speaking of goodness, light and glory are engraved into the blade itself while the pommel is decorated with the holy sigil of a good-aligned martial deity.
+i:A ring of burnished silver has patches of obvious wear and a few nicks and scrapes mar its surface.
+i:A ring with intricate etchings of wind-blown leaves that cover this golden band. Worn runes—possibly of Elvish origin—decorate the ring’s inner surface, but what they say is impossible to determine.
+i:A gold finger band that has three small glimmering stones set within; two glow with a faint reddish light while the third glows with a pale white luminosity.
+i:A golden ring forged in the shape of a serpent eating its own tail. The serpent is so finely detailed it eyes and fangs are visible as are the tiny scales covering its body.
+i:A small rent in the side of an iron ring almost split the band in twain. The repair—while not crude—is clearly visible.
+i:A plain looking, but finely forged ring with a single setting holding an overly large crystal . The crystal glows with faint red, blue and yellow hues.
+i:A thick, smooth platinum ring that seem like it would be heavy but for the ten or so holes punched through its band. These holes—of many different sizes—are of various geometric shapes. There doesn’t seem to be a recognisable pattern to the holes’ placement.
+i:A ring that seems to have been carved from a lump of white-flecked granite. The outer edge is jagged and uneven while the inner band is worn smooth through use. It always feels cool to the touch.
+i:A silvery ring in perfect condition. Its highly polished band glimmers in the light and astute PCs may realise it is crafted from pure mithral! Tiny esoteric symbols etched into the inner band speak of the union of magic and the natural world.
+i:A signet ring emblazoned with the image of a shooting star hurtling downwards. The ring itself is of beaten gold, and the shooting star etching is picked out with silver.
+i:A long scroll case of bleached bone, that was once the leg bone of some tall creature. Stoppered at one end with a bone plug a leather cap fits over the other.
+i:A long narrow box of stretched and hardened leather, this scroll case is surprisingly rigid. Investigation reveals, the leather is stretched over a framework of thin, but strong, copper wire.
+i:A scroll box decorated with various sigils of esoteric power, this leather case is soft and malleable. The sigils look freshly painted and a faint, undefinable smells hangs over the case.
+i:A small chest plated in silver is decorated with etchings of interwoven geometric shapes and is a work of art. Careful examination reveals it to actually be worth more than it may seem at first glance.
+i:A two-section scroll case with the ends connected by a three-foot long length of rope. The two ends are pull away from each other to reach the scroll within. One end of the case is painted blue, while the other is painted red.
+i:A carved stick, it's a two-foot long length of scorched oak is burnt almost to charcoal at its tip. It yet feels warm to the touch.
+i:Af plain, unadorned iron rod has a large violet crystal set at its tip. Strange shadows move sluggishly within the crystal.
+i:A seemingly mundane but Intricately carved wand with geometric shapes and esoteric glyphs decorating its long, willow shaft. Picked out with pigments of many hues the glyphs and shapes stand in stark relief to the plain white wood{.magic wands}.
+i:A stick that appears to be a wand crafted from a magically preserved icicle about the length of a man’s forearm.  It does not melt no matter how hot the surroundings become. Cold radiates from it and it shimmers and gleams in the light.
+i:A tube carved of cedar wood, when you speak through it, the volume of your voice is amplidied.
+i:A lock that opens when blood is dripped in the keyhole
+i:A top with four sides each with a carved face depicting happy, sad, wrathful, and dead.
+i:A necklace of a sibling who died the day you were born.
+i:A wig from someone who was beheaded.
+i:A pocket watch that runs backward for an hour every midnight.
+i:A winter coat stolen from a dying soldier{.soldiers}.
+i:A bottle of invisible ink that can only be read at sunset.
+i:A bottle of invisible ink that can only be read under a full moon.
+i:A wineskin that refills when interred with a dead person for a night{.wines}.
+i:A set of silverware that was used by a king for his last meal.
+i:A live tarantula trapped inside a glass sphere
+i:A fist-sized ball of wax
+i:A paintbrush that paints rainbows.  Everywhere rainbows.  No matter the paint on the brush, rainbows, rainbows, rainbows.
+i:A small brass fly, the size of a grape, that tries to fly up your nose.
+i:A wooden chest, with a latch but no lock, that changes sizes between 2-inch cube to a 1-foot cobe when you lick it.
+i:A sphere with a perfectly mirrorlike surphase that you would think would be polished silver exept it's as light as a feather.
+i:An extremely tiny lute, the size suitable for a mouse... if you know a lute-playing mouse...
+i:A pair of finely embroidered silk shoes that make you want to dance -- and apparently dance much better than you usually do.
+}

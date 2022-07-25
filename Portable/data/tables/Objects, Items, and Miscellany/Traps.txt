@@ -1,0 +1,105 @@
+{
+d:d10 Roll Mechanical Source
+i:Trip wire
+i:Pressure plate
+i:Opening a door
+i:Lifting the lid on a chest
+i:Grabbing a certain rung of a ladder
+i:Removing an object from it’s resting place
+i:Touching anything in the room, including the floor
+i:Breaking the beam of a light source
+i:Disturbing a source of water in the room
+i:Pulling on a suspicious looking rope hanging from the ceiling
+}
+{
+d:d10 Roll Mechanical Triggered
+i:Gears can be heard grinding from inside the walls
+i:A low boom is heard that echoes out through the dungeon{basic dungeons,castle dungeons,dungeon dressing}
+i:A high pitched whirring can be heard
+i:Various ticking sounds are heard
+i:A quick release of steam followed by a bang
+i:A low rumbling that shakes the room for a moment
+i:A single click
+i:The sound of chains sliding across stone
+i:A thumping sound that starts slow and begins picking up speed
+i:Nothing. Silence
+}
+{
+d:d10 Roll Mechanical Trap
+i:The floor opens downward into a 40 foot pit
+i:From unseen slits in the wall, poisoned needles fly out
+i:A wall opens revealing a golem to ambush the party{.golems}
+i:A large log swings down from the ceiling
+i:The parts of the dungeon begin collapsing, blocking off areas{basic dungeons,castle dungeons,dungeon dressing}
+i:Vents on the ceiling begin emptying noxious fumes into the room
+i:A large blade swings horizontally across the room attempting to decapitate
+i:The room begins filling with water after the doors slam shut
+i:The walls slowly begin closing inwards
+i:A large rolling boulder drops from the ceiling towards the party
+}
+{
+d:d10 Roll Arcane Source
+i:An arcane rune on the floor
+i:Arcane markings around a door frame
+i:A pillar that has a low hum to it
+i:A jeweled eye that scans the room
+i:Stone statue that has glowing red eyes
+i:A mysterious green fog that rolls around the base of the room
+i:A very dimly lit candle that could be extinguished with the faintest breath
+i:A phrase scrawled on the wall that activates when said out loud
+i:Failing to cast any spell on a dull crystal floating in the center of the room
+i:Lighting a rather inviting looking torch in the center of the room
+}
+{
+d:d10 Roll Arcane Triggered
+i:A low hum is heard
+i:A very unnatural light begins glowing brightly from an unknown source
+i:Any runes in the room begin glowing a bright red
+i:The room suddenly drops drastically in temperature
+i:The room gets uncomfortably hot
+i:A soft hiss is heard
+i:A fizzling sound is heard
+i:A high pitched hum rings out
+i:A crackling of energy is heard through the room
+i:Silence
+}
+{
+d:d10 Roll Arcane Trap
+i:Sleep is cast on the room
+i:Victim must resist being petrified
+i:A fireball explodes throughout the room
+i:All surfaces of the room begin to become too hot to touch (Effectively heat metal)
+i:Fumes begin materializing as if stinking cloud was cast
+i:A wall of lightning races towards the victim and any others in its way
+i:All people in the room have blindness cast on them
+i:The victim is sent to the astral plane for one minute
+i:Everything in the room begins to levitate, no save
+i:The spell Confusion is cast on everyone
+}
+{
+d:d10 Roll Indirect Trap
+i:A torch is lit in another room, alerting enemies
+i:A door in another room closes, hiding a secret passage
+i:Chests in the dungeon lock up{basic dungeons,castle dungeons,dungeon dressing}
+i:A dangerous enemy is freed that could normally be avoided
+i:All other traps that have already been triggered get reset
+i:All lights are extinguished
+i:Golems begin patrolling the dungeon{.golems,basic dungeons,castle dungeons,dungeon dressing}
+i:All doors in the dungeon lock themselves{basic dungeons,castle dungeons,dungeon dressing}
+i:An alarm bell begins ringing alerting all enemies of the party
+i:Another more sinister trap is set in another room
+}
+{
+n:trapsoptionalfun
+d:d10 Roll Optional Fun
+i:Trap was never reset. Nothing dangerous happens
+i:Enemies in the room knowingly trigger the trap and then run from it
+i:Enemies can be overheard talking about how useless the trap is
+i:An enemy has a list of traps and how to avoid them
+i:There is a dummy trigger, drawing attention away from the real trigger
+i:Illusion magic is used to disguise all of the triggers
+i:Enemies are foolish enough to be lured into their own traps
+i:The trap fails, but not before scaring the pants off the party
+i:Delay of ten seconds. Count out loud
+i:The trap does multiple things: @trapsoptionalfun!9 and @trapsoptionalfun!9
+}

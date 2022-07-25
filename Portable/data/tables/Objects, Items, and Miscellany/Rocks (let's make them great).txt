@@ -1,0 +1,41 @@
+{
+d:d6 You stumble upon a rock. It's ...
+i:Tiny, the size of a pinkie nail
+i:Small, the size of a finger
+i:Average, the size of a fist
+i:large-ish, the size of a foot
+i:Big, the size of a dog
+i:Huge, a boulder
+}
+{
+d:d6 But what you really notice about it [re-investigate/perceive] is that it is ...
+i:It's giving off a faint sound, almost like a chime or bell
+i:It's glowing, you think. It's hard to tell.
+i:It has a large chunk of it missing, almost like it was bitten or chopped into
+i:The rock moved. You swear it moved. Seriously.
+i:The rock is polished and stands out compared to all the other rocks around.
+i:It's completely average in every way. Almost too average.
+}
+{
+d:d20 the Rock is hiding a secret. The rock ...
+i:Is sentient and evil/wants to attack party; skin with appropriate CR for single-enemy encounter, flavoring with resistances to slashing, piercing, and fire damage
+i:Is sentient and indifferent/friendly to the party as long as not attacked; skin as NPC, can speak only primordial but understands common.
+i:Is undergoing some sort of necrotic magic-infused half-life situation; deals 1d4 necrotic damage on touched directly, but otherwise has no ill effects
+i:Is part of a rock collection lost by a traveling museum/collection; reward available for its safe return
+i:Is a plaything for an elf child in the area; after 10 minutes, the child returns (with its bow wielding parents) looking for it, but won't track the party if it takes it and moves on
+i:Was a component for an ancient long-forgotten ritual; clues to the ritual can be found from a close-by forest-dwelling hermit, but the full ritual can only be recovered from an overgrown wizard tower far to the east
+i:Is an illusion; players can't pick it up
+i:Is a Sending Stone; the other end rests with a slightly paranoid but otherwise harmless forest druid who is basically a doomsday planner
+i:Is covering a treasure or magical item; the adventuring owner has long passed, but the stuff buried under the rock is free for the taking
+i:Is the last cornerstone left of a city that was destroyed long ago by [fit relevant monster type here]; local elders might remember the tale if asked
+i:Is abnormally heavy; can be used as a thrown improvised weapon with an additional 1d4 (total 2d4, PHB 147)
+i:has strange gravitational effects; it glide/floats after being tossed, and drops three times as slowly as a regular rock
+i:Is incredibly hot to the touch; ignites wood and other flammable material (including cloth)
+i:disintegrates when touched; an immediate DC 10 constitution check determines whether the touching PC breathes in the dust, which will begin a slow-acting petrification (local woodland fey or rangers in the area will know an antidote)
+i:cannot be moved through physical, magical, or any other means; efforts to attack the rock miss wildly
+i:is a “rock of returning”; returns all impacts on it twice as powerfully – sound, light, force, magic, etc
+i:can be ground into a powder to form a powerful healing salve; when mixed with water it provides 1d12 health to the drinker (locals know the concoction, and rock size determines the amount available)
+i:inspires all those who see it to song and dance; bards/minstrels/other creatives feel greatly moved to sing of its praises (dc20 Charisma/Wisdom save or start “rocking out”)
+i:Is incredibly slowly growing in size; after 1d4 days, it will become the next biggest size available (up to the size of a building, after which it begins to shrink)
+i:... nevermind, it was just a rock.
+}

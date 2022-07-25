@@ -1,0 +1,81 @@
+{
+d:d6 Type: This instrument is a/an…
+i:Cittern.
+i:Fiddle.
+i:Harp.
+i:Lute.
+i:Lyre.
+i:Mandolin.
+}
+{
+d:d6 Material: The back or frame of this instrument is made of...
+i:Ash.
+i:Cherry.
+i:Ebony.
+i:Mahogany.
+i:Maple.
+i:Rosewood.
+}
+{
+d:d6 Strings: The strings of this instrument are made of…
+i:Sheep gut.
+i:Goat gut.
+i:Cow gut.
+i:Ox gut.
+i:Horse gut.
+i:Steel wire.
+}
+{
+d:d6 Decorative image: The instrument is adorned with painted or carved image of a/an…
+i:Angel.
+i:Beast (d6): 1. bat; 2. dragon; 3. eagle; 4. lion; 5. nightingale; 6. wolf.
+i:Demon.
+i:Devil.
+i:Female figure (d6): 1. elf-maid; 2. mermaid; 3. nymph; 4. princess; 5. siren; 6. sorceress.
+i:Skull.
+}
+{
+d:d6 Magical music: When properly activated, the instruments provides an extra boost to a bard’s...
+i:Eclectic magical or historical knowledge.
+i:Enchantments.
+i:Illusions.
+i:Inspirational music.
+i:Psychic damage.
+i:Thunder damage.
+}
+{
+d:d6 Special property: The musical instrument...
+i:Causes those who hear it to feel disoriented.
+i:Causes those who hear it to feel an uncontrollable urge to dance.
+i:Fills those who hear it with a feeling of deep sorrow.
+i:Allows the player to grant resistance to damage an ally.
+i:Allows the player to summon minor devils or angels.
+i:Allows the player to communicate with beasts.
+}
+{
+d:d6 Activation: The musical instrument’s magical music or special property activates or amplifies when played…
+i:In the presence of a specific type of enemy (d6): 1. dragons; 2. giants; 3. fiends; 4. aberrations; 5. fey; 6. celestials.
+i:By a member of a specific race (d6): 1. elf; 2. gnome; 3. half-elf; 4. human; 5. merfolk; 6. satyr.
+i:On a plane outside the mortal realm (d6): 1. Abyss; 2. Feywild; 3. Nine Hells; 4. Plane of Air; 5. Plane of Water; 6. Shadowfell.
+i:Under starlight.
+i:Under moonlight.
+i:Underground.
+}
+{
+d:d6 Creator: The instrument was made by a/an…
+i:Elvish master.
+i:Infamous outlaw.
+i:Simple farm boy.
+i:Old woodworker.
+i:Guardian angel.
+i:Tricky devil.
+}
+{
+d:d6 Past owner: The instrument’s most famous owner was a/an…
+i:Elvish battlelord.
+i:Legendary singer.
+i:Celebrated dragonslayer.
+i:Treacherous young lord or lady.
+i:Notorious cult leader.
+i:Handsome rogue.
+}

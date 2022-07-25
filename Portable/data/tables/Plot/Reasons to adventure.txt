@@ -1,0 +1,103 @@
+{
+d:d100 Reasons to adventure
+i:I want to get rich!
+i:I want to get laid!
+i:I want to prove myself!
+i:I want to adventure!
+i:I want to meet exotic people!
+i:I want to go to exotic places!
+i:I want the freedom to be myself!
+i:I want to enforce the rule of law!
+i:I want to spread the reach of civilization!
+i:I want to spread anarchy!
+i:I want to kill things!
+i:I want to spread the word of my deity!
+i:I need to pay off a terrible debt!
+i:I am rebelling against my parents!
+i:I seek vengeance!
+i:I want spread charity!
+i:I want to apply what my master taught me!
+i:I was shanghaied while drunk!
+i:I'm escaping my past!
+i:I'm escaping the law!
+i:I'm escaping my religion!
+i:I want my deeds immortalized in song!
+i:I seek actual immortality!
+i:I seek to enter the service of a powerful patron!
+i:I want to experience strange and exotic pleasures!
+i:I'm the Chosen One! 
+i:I must stop the Chosen One!
+i:I'm looking for material for my book!
+i:I'm on a mission to fill in the missing parts of the map!
+i:I am a Knight-Errant! Adventure is what we do!
+i:I was defeated at the bridge I once guarded and seek to restore my honor!
+i:I was the last survivor of a terrible battle and I fear being discovered.
+i:I was a leper now made whole and I seek the one who healed me.
+i:My parents were adventurers and I want to be like them!
+i:My parents are adventurers who orphaned me, I want to give them a piece of my mind!
+i:I was run out of my village for the Mark I carry!
+i:A wizard turned my loved one into a newt and I seek to restore them!
+i:I was a newt and a wizard turned me into a human, I am so confused!
+i:I'm running away from newts and people who were newts!
+i:The Glass Man who lives in my brain stem told me to!
+i:I dug my way out of a shallow grave and I don't know who I am!
+i:I've come from the future to stop a terrible event!
+i:I come from the past and all of these modern things scare me!
+i:I was once a great Dark Lord but I've been stripped of all my power and I need to eat.
+i:I was a big fish in a little pond, now I see I'm in an ocean with sharks.
+i:I'm escaping a pre-arranged marriage!
+i:I need to provide for my family the only way I know how!
+i:I am under Geas to perform 99 heroic deeds!
+i:I just really really hate goblins!
+i:I'm seeking to break an Infernal Contract with Buer before I die!
+i:I'm seeking a cure to a terrible disease! 
+i:I seek to be knighted!
+i:I'm seeking the Truth!
+i:I am compelled by a terrible hunger!
+i:I am cursed to eternally wander!
+i:I was sent out to sell my cow and got caught up in this madness!
+i:I was just born from an alchemist's lab and I don't know any better!
+i:I was kicked out by the high priest!
+i:I only have 1d6 years left to live and a big bucket list to complete!
+i:I'm a hopeless adrenaline junkie! 
+i:I'm looking for my lost sibling, parent, or loved one!
+i:I'm on pilgrimage!
+i:I want to summon a plague of 1. Rats 2. Snakes 3. Locusts 4. Crabs 5. Frogs 6. Bagpipers 
+i:I hate my home town!
+i:I was just cosplaying and someone thought I was a real wizard!
+i:I want to discover the magic of friendship!
+i:I told a really bad joke at the pub, the pitchforks and torches came out quick!
+i:I want to discover the perfect moment!
+i:A professor handed me this small monster and told me to go find 149 more! 
+i:I am a fictional character acting out the whims of an unknowable puppeteer.
+i:I'm seeking a cure to my baldness!
+i:I was dropped here from another world and I seek a way home!
+i:I have to get in my steps! 
+i:I traded my life savings for this map!
+i:I've been tasked with 3 Impossible Quests!
+i:I just wanna find out what makes me me, man!
+i:I'm on a gap year before going to Wizard College!
+i:I need to find a way to pay off my Wizard College loans!
+i:I'm a deserter from the army!
+i:DRUGS DRUGS DRUGS!
+i:I lost a bet!
+i:I'm an aristocrat slumming it among the serfs! 
+i:I'm looking for love in all the wrong places!
+i:I'm really lost! Like so lost, please help!
+i:I'm a courier with an important message to deliver! 
+i:I escaped from 1. Prison 2. Asylum 3. A murderer's basement 4. A zoo 5. An awkward party 6. A cult
+i:I was "rescued" from a tower and I want to get back!
+i:I heard it in the wind, I felt it in my bones, I started walking ten days ago and I've not stopped. 
+i:I'm promoting my brand!
+i:I'm writing an encyclopedia! 
+i:I want to slay a dragon! 
+i:I want to marry a dragon!
+i:I was going to be a virgin sacrifice! 
+i:I want to make use of my goblin language credits I took in Wizard College!
+i:I'm an intern! 
+i:I'm old and I need to get into Valhalla somehow!
+i:Bees?
+i:I was bored!
+i:I literally have no other choice. 
+i:Roll twice, shake well, and come up with something yourself
+}

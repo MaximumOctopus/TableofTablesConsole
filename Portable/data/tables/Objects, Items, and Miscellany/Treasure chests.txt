@@ -1,0 +1,93 @@
+{
+d:d12 The chest’s style is
+i:Crude
+i:Standard
+i:Fancy
+i:Elven
+i:Bejeweled
+i:Draconic
+i:Dwarven
+i:Pretty Princess
+i:Pirate{.pirates}
+i:Woven
+i:Creepy
+i:Heavy Duty
+}
+{
+d:d12 It's construction material is
+i:Old, rotting wood
+i:Sturdy oak
+i:Diamondwood
+i:Iron
+i:Steel
+i:Bone
+i:Obsidian
+i:Glass
+i:Ice
+i:Silver
+i:Gold
+i:Ebony
+}
+{
+d:d12 It has hinges and trim made from
+i:Iron
+i:Steel
+i:Brass
+i:Silver
+i:Gold
+i:Bronze
+i:Ebony
+i:Leather
+i:Wood
+i:Mithril
+i:Adamantite
+i:Dragon Leather{.dragons}
+}
+{
+d:d12 The chest's definitive marking is
+i:Artistic Scrollwork
+i:Tree Pattern
+i:Dwarven Runes
+i:Elvish Script
+i:Lion emblem
+i:Carving of a Dragon{.dragons}
+i:Decorative skull
+i:Glowing Crystals
+i:Mystic Sigils
+i:Staring Eyes
+i:Claw-like feet
+i:Bas-relief of a battle
+}
+{
+d:d12 Trap Used
+i:Poison Dart
+i:Arrow
+i:Small explosion
+i:Alarm
+i:Pit trap
+i:Boulder Trap
+i:Heavy Blade
+i:Spears
+i:Water fills room
+i:Sand fills room
+i:Poison gas
+i:Random Spell
+}
+{
+d:d6 Lock type
+i:Padlock
+i:Internal mechanism
+i:Combination
+i:Puzzle Lock
+i:Password
+i:Hidden lock mechanism
+}
+{
+d:d6 Key Location
+i:Hidden in same room
+i:Plain sight
+i:On guardian
+i:Another room
+i:Held by owner
+i:Lost
+}

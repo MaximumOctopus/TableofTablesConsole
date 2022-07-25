@@ -1,0 +1,72 @@
+{
+d:d6 Blade shape: The dagger’s blade is...
+i:Broad.
+i:Curved.
+i:Jagged.
+i:Narrow.
+i:Serpentine.
+i:Triangular.
+}
+{
+d:d6 Blade finish: The dagger’s blade is…
+i:Dull.
+i:Gilded.
+i:Black steel.
+i:Polished.
+i:Shiny.
+i:Silvered.
+}
+{
+d:d6 Hilt feature: The dagger’s hilt features…
+i:Arcane runes.
+i:Beast shapes.
+i:Cross-hatched grip.
+i:Embedded gems.
+i:Leather wrappings.
+i:Religious symbols.
+}
+{
+d:d6 Special damage: When properly activated, the dagger can wound foes with…
+i:Cold damage.
+i:Force damage.
+i:Necrotic damage.
+i:Poison damage.
+i:Psychic damage.
+i:Radiant damage.
+}
+{
+d:d6 Special property: The dagger…
+i:Erupts with a burst of flame on a hit.
+i:Erupts with a burst of lightning on a hit.
+i:Stuns the wielder on a critical miss.
+i:Poisons the wielder on a miss.
+i:Returns to the wielder’s hand when thrown.
+i:Never dulls.
+}
+{
+d:d6 Activation: The dagger’s special damage or special property activates or amplifies…
+i:Against a specific type of enemy (d6): 1. dragons; 2. elves; 3. fiends; 4. goblinoids; 5. shapeshifters; 6. undead.
+i:When wielded by a member of a specific race (d6): 1. dark elf; 2. dwarf; 3. kobold; 4. orc; 5. shadowfolk; 6. wood elf.
+i:In sunlight.
+i:In moonlight.
+i:Underground.
+i:Under starlight.
+}
+{
+d:d6 Creator: The dagger was made by a/an…
+i:Elvish blademaker.
+i:Dwarvish armorer.
+i:Young blacksmith.
+i:Old weaponsmith.
+i:Strange witch.
+i:Savage hunter.
+}
+{
+d:d6 Past wielder: The dagger’s most infamous wielder was a/an…
+i:Daring thief.
+i:Untraceable assassin.
+i:Terrifying sorceress.
+i:Powerful warlock.
+i:Celebrated warrior.
+i:Brutal warlord.
+}

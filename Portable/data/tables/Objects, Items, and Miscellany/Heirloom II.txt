@@ -1,0 +1,53 @@
+{
+d:d8 The heirloom is a ...
+i:Weapon
+i:Armour Set or Attire
+i:Shield or Helm
+i:Art Object
+i:Gemstone or Mineral
+i:Mundane Equipment
+i:Trinket
+i:Trophy taken from a kill
+}
+{
+d:d6 The heirloom was used ...
+i:In a famous battle
+i:In a long, war/military campaign
+i:In peacetime / In politics
+i:As a symbol/resource to raise the power of a house
+i:As a symbol/resource to destroy a rival house
+i:As a luck charm
+}
+{
+d:d12 The heirloom represents...
+i:Justice
+i:Empathy
+i:Apathy
+i:Honour
+i:Vengeance
+i:Fate
+i:Virtue
+i:Friends
+i:Trust
+i:Blood
+i:Riches/ an offering
+i:An ill omen
+}
+{
+d:d6 The heirloom was lost...
+i:Stolen by a rival house
+i:Lost in the ravages of time
+i:Hidden / stashed by the owner, then forgotten
+i:Sold, or used as a form of payment / tribute
+i:Given away as a gift
+i:Was last seen in possession by a member of the house, who is now missing and presumed dead
+}
+{
+d:d6 The heirloom must be found, as it ...
+i:Is connected to a murder / other crime
+i:Is a required tool for a villain’s plot / scheme
+i:Is needed to bring peace to the people (or spirits) of the house
+i:Will determine who the rightful heir to the throne is
+i:Will protect the house against the impending danger
+i:Is worth a ridiculous amount of money
+}

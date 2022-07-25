@@ -1,0 +1,187 @@
+{
+d:d50 The shop sells...
+i:Weapons{.legendary weapons}
+i:Armor
+i:Magical items
+i:Fresh food{.food}
+i:Cured food{.food}
+i:Livestock
+i:Slaves
+i:Services
+i:Mostly junk
+i:Artwork
+i:Jewellery
+i:Gems and Ores{gemstones}
+i:Mining tools
+i:Household goods
+i:Farming tools
+i:Animal feed
+i:Crafting tools
+i:Ales and Liqueur
+i:Items of interest from a previous generation
+i:Items of interest from a far-away land
+i:Clothing
+i:Gnomish Gadgets
+i:Potions{.potions}
+i:Poisons
+i:Alchemical Supplies
+i:Magical Supplies
+i:Musical instruments
+i:Fabrics
+i:A little bit of everything
+i:Spices
+i:Hunting Tools
+i:Herbs{.herbalism}
+i:Remedies and tonics
+i:Books
+i:Dolls
+i:Toys
+i:Exotic Animals
+i:Furs and Pelts
+i:Illicit Goods
+i:Cheeses
+i:Meats
+i:Pack animals
+i:Building supplies
+i:Fruits and vegetables
+i:Supplies for a local guild
+i:Leather goods
+i:Good crafted from rare metals
+i:Beauty and hygiene supplies
+i:Magical creatures
+i:Wagon wheels
+}
+{
+d:d10 The shop's type is...
+i:A building in a merchant district{.merchant caravans,.merchant guilds}
+i:Attached to the merchant's home{.merchant caravans,.merchant guilds}
+i:A wagon pulled by a horse or ox team{.horses}
+i:Under a tent
+i:In an open bazaar on a rug
+i:In a stall in a bazaar
+i:In the back room of another shop
+i:A merchant caravan{.merchant caravans,.merchant guilds}
+i:In a place only accessibly by magic
+i:A franchise. The shop can be found in multiple places
+}
+{
+d:d12 The shop is owned by...
+i:A beady-eyed accountant
+i:A guild leader
+i:A noble{.nobles,.noble houses}
+i:An obsessive-compulsive gnome{.gnomes}
+i:A greedy dwarf{.dwarves}
+i:A former soldier{.soldiers}
+i:A farmer's wife
+i:A snobby high-elf{.elves dark,.elves high,.elves wood}
+i:A forgetful halfling
+i:An oppressive brute
+i:An old crone
+i:A lazy half-orc{.orcs,.orc warlords,.orkish clans}
+}
+{
+d:d6 The shop's condition is...
+i:Brand new. Everything has a place, and is in its place
+i:Well maintained. It is cleaned regularly
+i:Average. A little dusty
+i:Unkempt. Bugs and rodents scurry away from your footsteps
+i:Dark. There is no natural light. Only a candle or two light the shop
+i:Decrepit. The building should be condemned
+}
+{
+d:d6 The condition of the merchandise is...
+i:Pristine. Kept in the best possible condition
+i:Cleaned regularly
+i:Mixed. Some items look new, while some look like they have been there a long time
+i:Dusty and dirty
+i:Falling apart
+i:Ancient
+}
+{
+d:d6 The shop gets its supplies from...
+i:They are crafted or attained by the merchant himself{.merchant caravans,.merchant guilds}
+i:They are crafted or attained by the merchant's apprentices{.merchant caravans,.merchant guilds}
+i:The merchant's business partner{.merchant caravans,.merchant guilds}
+i:They are crafted elsewhere in bulk, and sold in the shop
+i:They are purchased from other people in town and resold
+i:No one knows, and no one asks
+}
+{
+d:d8 The items are priced...
+i:Fairly
+i:Below value
+i:Above value
+i:Exorbitantly
+i:Everything is for barter
+i:"Other" means of payment are encouraged
+i:Based on the merchant's mood{.merchant caravans,.merchant guilds}
+i:Based on how much the merchant thinks the customer needs it{.merchant caravans,.merchant guilds}.
+}
+{
+d:d5 The shop's size is...
+i:Giant. Multiple rooms
+i:Large. One big room
+i:Average. One room big enough to hold what is needed
+i:Small. The room feels cluttered
+i:Tiny. The merchant practically operates out of a pack
+}
+{
+d:d4 How busy is the shop...
+i:It's one of the most popular places to visit
+i:A few people mill in and out of the shop
+i:Not very busy. You are the only people there
+i:It rarely sees a customer
+}
+{
+d:d50 Something interesting you find...
+i:The shopkeeper lives in a room attached to the shop
+i:There is a secret room in the back to sell illicit wares
+i:The shopkeeper does not seem to belong there
+i:One of the items does not seem to belong there
+i:A bell rings every time someone enters the shop
+i:The shopkeeper is unusually friendly
+i:The shopkeeper does not seem to want any business
+i:Some items are oddly magical (or non-magical)
+i:You feel an unseen presence watching you
+i:Magical barriers prevent people from handling the merchandise
+i:A goblin is handling some of the wares{.goblins,.goblin gangs}
+i:A ogre is leashed to one of the walls
+i:A couple dogs keep an eye on you, while chewing on a bone
+i:A cat follows you around the shop{.cats}
+i:A goat seems to be keeping guard outside the shop
+i:A rats nest is forming in a secluded corner{.rats}
+i:A talking bird insists on yelling obscenities at you
+i:Many items are being packed for sale
+i:A new shipment has just arrived, and is being stocked
+i:You hear noises from the roof or room above the shop
+i:The floor is cracked
+i:The merchant is cleaning up an item that was ruined on the shop floor{.merchant caravans,.merchant guilds}
+i:The shopkeeper is arguing with an employee
+i:A monkey follows you and tries to hand merchandise to you{.monkeys}
+i:Footprints lead directly into a wall
+i:A raven tries to steal items from your bag
+i:The merchant's young children are trying unsuccessfully at a hard sale{.merchant caravans,.merchant guilds}
+i:The merchant does not speak common{.merchant caravans,.merchant guilds}
+i:Items change when you're not looking
+i:Music is playing throughout the shop
+i:The merchant can tell a story behind everything he sells{.merchant caravans,.merchant guilds}
+i:Some of the items appear stolen
+i:The shop is only open at night
+i:The shop is closed for the day
+i:An unusual item is for sale with a dark backstory
+i:A couple of thugs are holding up the merchant{.merchant caravans,.merchant guilds}
+i:One of the customers is trying to shoplift
+i:The shop has a strong odor of mildew
+i:The shop is owned by a friend or former party member
+i:A ghost is browsing the merchandise
+i:The shopkeeper is fast asleep
+i:The shopkeeper has a pungent and offensive smell
+i:The shopkeeper is a forceful salesman
+i:A legendary weapon is on display, but not for sale{.legendary weapons}
+i:Murals line the walls
+i:The merchant insists he is from an ancient line of powerful merchants{.merchant caravans,.merchant guilds}
+i:The merchant dresses much better than expected{.merchant caravans,.merchant guilds}
+i:The merchant looks like a beggar{.merchant caravans,.merchant guilds}
+i:Constables or the local guard are interviewing everyone in the shop
+i:The shopkeeper just died
+}

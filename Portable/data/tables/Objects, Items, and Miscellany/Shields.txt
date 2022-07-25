@@ -1,0 +1,99 @@
+{
+d:d6 Shield shape: The shield is...
+i:Rectangular.
+i:Circular.
+i:Elliptical.
+i:Escutcheon.
+i:Square.
+i:Triangular.
+}
+{
+d:d6 Shield material: The shield is made of…
+i:Animal hide stretched over a frame.
+i:Ash.
+i:Hickory.
+i:Oak.
+i:Bronze.
+i:Steel.
+}
+{
+d:d6 Shield feature: The shield has…
+i:Reinforcing steel bands.
+i:Fur-lined leather straps.
+i:Sharp edges.
+i:Spikes.
+i:Gilding.
+i:Visible steel rivets.
+}
+{
+d:d6 Pattern: The shield is adorned with…
+i:Horizontal stripes.
+i:Vertical stripes.
+i:Checker pattern.
+i:Two vertically divided fields.
+i:Two horizontally divided fields.
+i:Counterchanging quadrants.
+}
+{
+d:d6 Image: The shield is adorned with an image of a/an…
+i:Heavenly phenomenon (d6): 1. sun; 2. moon; 3. stars; 4. comet; 5. lightning; 6. rain clouds.
+i:Great beast (d6): 1. kraken; 2. dragon; 3. lion; 4. wolf; 5. boar; 6. stag.
+i:Diminutive beast (d6): 1. badger; 2. snake; 3. bat; 4. rabbit; 5. fox; 6. frog.
+i:Bird (d6): 1. eagle; 2. owl; 3. vulture; 4. swan; 5. rooster; 6. sparrow.
+i:Symbol of war (d6): 1. broadsword; 2. crossed swords; 3. crossed spears; 4. flames; 5. skull; 6. crow.
+i:Plant (d6): 1. oak tree; 2. fir tree; 3. rose; 4. clover; 5. sunflower; 6. briar.
+}
+{
+d:d6 Paint color: The shield is painted…
+i:Black.
+i:White.
+i:Red.
+i:Gold.
+i:Blue.
+i:Green.
+}
+{
+d:d6 Special protection: When properly activated, the shield provides extra protection against...
+i:Acid damage.
+i:Cold damage.
+i:Fire damage.
+i:Necrotic damage.
+i:Lightning damage.
+i:Radiant damage.
+}
+{
+d:d6 Special property: The shield...
+i:Stuns attackers who score a critical hit.
+i:Erupts with a burst of flame when hit.
+i:Creates magical camouflage.
+i:Doubles as a flotation device.
+i:Returns to the wielder’s arm when thrown.
+i:Never breaks.
+}
+{
+d:d6 Activation: The shield’s special protection or special property activates or amplifies…
+i:Against a specific type of enemy (d6): 1. dragons; 2. giants; 3. fiends; 4. aberrations; 5. elementals; 6. undead.
+i:When wielded by a member of a specific race (d6): 1. high elf; 2. dwarf; 3. 4. goblinoid; 5. lizardfolk; 6. wood elf.
+i:In sunlight.
+i:In moonlight.
+i:In places touched by death.
+i:In places touched by faerie magic.
+}
+{
+d:d6 Creator: The shield was made by a/an…
+i:Elvish mastercrafter.
+i:Dwarvish armorer.
+i:Young blacksmith.
+i:One-armed armorer.
+i:Devoted priest.
+i:Reclusive craftsman.
+}
+{
+d:d6 Past wielder: The shield’s most famous wielder was a/an…
+i:Dwarvish battlelord.
+i:Legendary elvish hero.
+i:Brutal outlaw.
+i:Zealous knight.
+i:Celebrated warpriest.
+i:Fearsome warlord.
+}

@@ -1,0 +1,108 @@
+[
+d:This guard is a
+]
+{
+d:d6 Authority
+i:Recent conscript or volunteer
+i:A seasoned conscript or volunteer
+i:A career soldier, watchman, or officer{.Soldiers, .Guards}
+i:A mundane specialist, like a special detective, criminal profiler, or spy
+i:A magical specialist, such as a ghost buster, mage hunter, or demon slayer
+i:Mercenary, unique specialist, or special consultant{.Mercenaries}
+}
+[
+d:This guard is
+]
+{
+d:d6 Competency
+i:Incompetent
+i:Needs improvement
+i:Average
+i:Moderately competent
+i:Expert
+i:An auxiliary to the law (national guard, etc)
+}
+[
+d:The guard looks like
+]
+{
+d:d6 Appearance
+i:Never been dirty; uniform is too polished
+i:Disheveled; barely fits the dress code and standards
+i:Nondescript
+i:Proud
+i:Scarred (physically and/or mentally)
+i:Outdated; uniform matches the old standard, clothes need some TLC, weapons are wrong
+}
+[
+d:This guard fights with
+]
+{
+d:d6 Weapon
+i:Spear, polearm, or long axe
+i:Long sword, arming sword, axe
+i:Sword, axe, or mace with a shield
+i:Bludgeon
+i:Crossbow or short bow
+i:Magic
+}
+[
+d:This guard enjoys
+]
+{
+d:d6 Vice
+i:1	Power
+i:2	Wealth
+i:3	Respect
+i:4	Civil Service
+i:5	Snazzy uniform
+i:6	Esprit du Corps
+}
+[
+d:This guard's commitment is
+]
+{
+d:d6 Commitment
+i:To the highest bidder
+i:Not willing to die
+i:Serve and protect to the death
+i:Never abandon a comrade
+i:Never abandon a citizen
+i:Never risk losing respect/authority/image/status
+}
+[
+d:This guards reputation is
+]
+{
+d:d6 Reputation
+i:Spotless
+i:Uneventful
+i:Commendable
+i:Dishonorable
+i:Questionable
+i:Undeserved
+}
+[
+d:This guards convictions are
+]
+{
+d:d6 Conviction
+i:Unshakable; the guard refuses to follow anything but the letter of the law
+i:Reasonable; the guard is willing to look the other way for the "greater good"
+i:Nonexistent; the guard does not believe in the law the guard "enforces"
+i:Changing; the guard is questioning values, and could be swayed to the party's side (or against it!)
+i:For sale; a bribe or favor makes great blinders
+i:Hypocritical; the guard enforces a double standard
+}
+[
+d:Talking to the guard is like...
+]
+{
+d:d6 Personality
+i:Friendly. The guard assumes "innocent until proven guilty"
+i:Hostile. The guard assumes "guilty until proven innocent"
+i:Amiable. If the party is respectful, they're more likely to have an easy going
+i:Matter-of-fact. The guard has no interest for idle chatter and is impatient when waiting for explanations/documents
+i:Unprofessional. The guard makes inappropriate jokes/gestures, is rude/offensive, or otherwise muddies the organization
+i:Righteous. The guard believes the organization is the thin line between peace and utter chaos
+}

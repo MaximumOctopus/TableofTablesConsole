@@ -1,0 +1,103 @@
+{
+d:d100 Mostly useless junk: The crate contains...
+i:Rusty knives.
+i:Dull knives.
+i:Mismatched armor.
+i:Shattered shields.
+i:Tattered leather armor.
+i:Wooden practice swords.
+i:Broken swords.
+i:Axe handles.
+i:Arrowheads.
+i:Goose feathers.
+i:Turkey feathers.
+i:Dulled spear points.
+i:Worn-out hammers.
+i:Steel nails.
+i:Rusted hinges.
+i:Broken doorknobs.
+i:Assorted keys.
+i:Empty glass bottles.
+i:Broken glass.
+i:Empty cans.
+i:Blank parchment.
+i:Lists and inventories.
+i:Legal case files.
+i:Decaying books.
+i:Extra copies of a useless book.
+i:Dried-up ink wells.
+i:Used quills.
+i:Empty glass vials.
+i:Cork vial stoppers.
+i:Discarded alchemical laboratory equipment.
+i:Incomprehensible notes on alchemy.
+i:Grocery lists and recipes.
+i:Hand-written memoir of an ineffective bureaucrat.
+i:Collection of of sappy love letters.
+i:Crumbling sheet music.
+i:Broken musical instruments.
+i:Spare brass parts.
+i:Scrap copper.
+i:Old dried fish.
+i:Human bones.
+i:Some unidentifiable bones.
+i:Teeth.
+i:Blood-soaked rags.
+i:Oily rags.
+i:Tattered banners.
+i:Tattered sails.
+i:Winches and pulleys.
+i:Some frayed rope.
+i:A length of chain in an impossible knot.
+i:Dented helms.
+i:Assorted strips of leather.
+i:Wood chips.
+i:Iron filings.
+i:Steel slag.
+i:Ant-ridden flour.
+i:Maggot-ridden meat.
+i:Mold-covered cheese.
+i:Bottles of over-ripe wine{.wines}.
+i:Ceramic mugs.
+i:Glass mugs.
+i:Plates and bowls.
+i:Low-end steel cutlery.
+i:Some old children's clothes.
+i:Worn-out children's shoes.
+i:Boots with holes.
+i:Well-worn men's clothes.
+i:Moth-eaten dresses.
+i:Broken jars of pickled foodstuffs.
+i:Empty gunnysacks.
+i:Cured meat that is hard as a rock.
+i:Bits of broken furniture.
+i:Some tattered blankets.
+i:Leaky oil lanterns.
+i:Worms.
+i:Mice.
+i:Roaches.
+i:Beetles.
+i:A mysterious powder.
+i:A mysterious crystalline substance.
+i:A mysterious viscous liquid.
+i:Cat toys{.cats}.
+i:Leashes, collars, and whips.
+i:Horseshoes.
+i:A heavy apron.
+i:Rag dolls.
+i:Wicker dolls.
+i:Ripped and broken baskets.
+i:Undyed wool.
+i:Thin cotton cloth.
+i:Needles, threads, and spare bits of cloth.
+i:Vials of brightly colored powders.
+i:Vials of brightly colored liquids.
+i:Paintings of poor quality.
+i:Sculptures and figurines of middling quality.
+i:Incomplete chess sets.
+i:Playing cards and betting chips.
+i:Bent and broken wands.
+i:Cracked and broken orbs.
+i:Saintly relics and pungent incense.
+i:Brushes of various sorts.
+}

@@ -1,0 +1,167 @@
+{
+d:d10 This tale is often told in the form of ...
+i:A fairy tale.
+i:A tragic play.
+i:A comedic play.
+i:A campfire story.
+i:A sappy love song.
+i:A heroic ballad.
+i:A romantic serenade.
+i:A bawdy drinking song.
+i:An epic poem.
+i:An erotic poem.
+}
+{
+d:d20 The tale begins when a/an ...
+i:Brilliant
+i:Brash
+i:Dashing
+i:Dim-witted
+i:Drunken
+i:Fearless
+i:Handsome
+i:Heartsick
+i:Long-haired
+i:Mighty
+i:Mischievous
+i:Mustachioed
+i:Old
+i:Pious
+i:Poor
+i:Quick-witted
+i:Self-righteous
+i:Ugly
+i:Wealthy
+i:Young
+}
+{
+d:d20 ...
+i:Duke
+i:Dwarf
+i:Farmer
+i:Fisherman
+i:King
+i:Knight
+i:Lord
+i:Merchant...
+i:Miner
+i:Ogre
+i:Priest
+i:Prince
+i:Sailor
+i:Sheepherder
+i:Singer
+i:Soldier
+i:Thief
+i:Warrior
+i:Wizard
+i:Woodsman
+}
+{
+d:d20 ...meets a/an ...
+i:Aging
+i:Beautiful
+i:Bellicose
+i:Eager
+i:Fair
+i:Fat
+i:Fierce
+i:Free-spirited
+i:Friendly
+i:Kind-hearted
+i:Mysterious
+i:Naive
+i:Prim and proper
+i:Selfish…
+i:Shy
+i:Sultry
+i:Sweet
+i:Tall
+i:Virtuous
+i:Voluptuous
+}
+{
+d:d20 ...
+i:Barmaid
+i:Dancer
+i:Debutante
+i:Duchess
+i:Dryad
+i:Dwarf-maid 
+i:Elf-maid
+i:Farmwife
+i:Fisherman's wife
+i:Fortune teller
+i:Noblewoman
+i:Pixie
+i:Peasant girl
+i:Priestess
+i:Princess
+i:Queen
+i:Seamstress
+i:Shieldmaiden
+i:Sorceress
+i:Witch
+}
+{
+d:d10 ... and ...
+i:They fall in love in a dream.
+i:They fall in love at first sight.
+i:He plays it cool.
+i:She is coy.
+i:He makes a move.
+i:She seduces him.
+i:He is very shy.
+i:He and she argue.
+i:He is intimidated by her.
+i:She is frightened of him.
+}
+{
+d:d10 Then, one impresses the other with ...
+i:An alchemical fire.
+i:A display of archery.
+i:A sparkly gemstone.
+i:An act of kindness.
+i:Passionate kisses.
+i:A display of knowledge.
+i:A display of swordplay.
+i:A display of freakish strength.
+i:A shiny trinket.
+i:A witty remark.
+}
+{
+d:d10 Despite the attraction they cannot be together because…
+i:She's been cursed.
+i:She's been kidnapped by a dragon.
+i:Her family does not approve of him.
+i:She's actually a ghost.
+i:She's caught the plague.
+i:Of religious custom.
+i:Of societal norms.
+i:He's actually a vampire.
+i:He's actually a werewolf.
+i:She's being held captive by a hag.
+}
+{
+d:d20 However, they have a chance to live happily ever after with the help of ...
+i:a Guardian angel.
+i:a Case of mistaken identities.
+i:a Book of secret lore.
+i:an Ancient prophecy.
+i:a Deal with a devil.
+i:a Courageous dog.
+i:a Powerful genie.
+i:a Retired hero.
+i:an Unstoppable horse.
+i:a Faerie's spell.
+i:a Catastrophic flood.
+i:a Talking pig.
+i:a Smelly pirate.
+i:a Magical potion.
+i:a Ring of invisibility.
+i:a Lovable rogue.
+i:a Fun-loving satyr.
+i:a Show-stopping song.
+i:a Legendary sword.
+i:a Eccentric wizard.
+}

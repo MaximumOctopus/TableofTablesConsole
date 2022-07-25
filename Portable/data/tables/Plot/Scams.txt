@@ -1,0 +1,32 @@
+{
+d:d10 Scam
+i:People call it "The Faceless King". Nobody's knows what it is, but it'll protect you from wandering monsters if you leave a trail of [product].
+i:The birds in this area circle over travelers, and they'll give your location away to bandits. They'll leave you alone if you cover your head with [product].
+i:There's a band of fairies in the area. If you've got [product], they'll know you're friendly.
+i:There's a band of fairies in the area. If you don't have [product], they'll think you're an enemy.
+i:Make a circle of [product] around your camp. It'll keep the nightmares away. You'll thank me later.
+i:The foxes out here love to steal food, but they love to steal [product] more.
+i:You'll have good luck in your travels if you find a tree with a face and rub some [product] on its lips.
+i:There's a landshark that terrorizes this area. Nobody's seen it in years, since travelers carry [product] with them.
+i:The goblins outside of town just love [product]. They'll trade for supplies, and it'll be cheaper than buying in town.
+i:If you see a statue along the road, leave some [product]. It's a shapeshifting monster, and it'll attack if it's displeased.
+}
+{
+d:d6 Product
+i:Specially prepared crackers. They give humanoids indigestion.
+i:Incense sticks. They burn blue, and they taste great.
+i:Cheap purple trinkets. They've gotta be purple.
+i:Strings of monster teeth.
+i:Preserved eggs. It's the smell, I think.
+i:Star-shaped copper beads.
+}
+[
+d:When locals are asked about the scam, they react according to the following table.
+]
+{
+d:d4 Townfolk Reaction
+i:I've never heard of it. I wouldn't trust that guy.
+i:I've never heard of it, but I'd trust with my life!
+i:I've heard of it, but it's total nonsense. There's no way that's real.
+i:It's real! Ask anyone, they'll tell you! You should buy [product] for protection!
+}

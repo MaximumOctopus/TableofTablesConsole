@@ -1,0 +1,104 @@
+{
+n:trinkets
+d:d100 Trinkets
+i:A small magical candle that burns without being consumed.
+i:A spool that causes the thread wound on it to match the color of any fabric that it is touched to.
+i:A small gold ring set with a magical stone that dimly glows any color the wearer desires.
+i:A leaf from a Silveroak Tree that never wilts. While you hold the leaf you can speak Sylvan.
+i:A heart shaped locket that allows you to mentally send up to thirteen words once per day to the person whose name is engraved in the locket. They can immediately respond back with thirteen words.
+i:A hat that keeps you magically dry in the rain.
+i:A tent big enough for two people that folds, with its poles, into a 4 inch cube.
+i:A pair of shoes or boots that never get dirty.
+i:An egg sized stone that grows wet, cold, hot, or dry depending on the weather in 24 hours. If hung from a string the rock swings or hangs depending on the wind in 24 hours.
+i:A small herb pot that can be used to cast prestidigitation on up to 1lb of food 3/day to flavor the food{.herbalism}.
+i:A vase that keeps any flowers placed in it from wilting.
+i:A silver broach that can change into the shape of any flower the wearer is familiar with.
+i:A pea sized crystal and a compass that always points toward the crystal.
+i:A small copper feather that negates the first 20 feet of falling damage.
+i:A fishing hook that wriggles like a worm negating the need for bait.
+i:A magical stone hawk that can be set to attack any tiny or small beasts that approach within 300 feet.
+i:A small box that opens on the top and bottom. Each side of the box opens into a separate extradimensional space the size of the box.
+i:A stone mug carved with images of feasting dwarves. Any water put in the mug turns into dwarven ale. If you drink the ale you must make a constitution save DC 13 or become drunk for the next =1d4 hours. While drunk you are poisoned and can speak Dwarven.
+i:A rose from the Shrine of Roses that never wilts. Once per day the rose can cause a flowering plant to sprout flowers and bloom.
+i:A Sun Sphere from the Empire of the Sun. When activated the Sun Sphere looks like a miniature sun six inches across and provides light equal to a light spell.
+i:A gemstone with a bloodshot and constantly roving beholder eye visible deep inside it. Once per day the owner can gain =1d4 to a saving throw against a spell{gemstones}.
+i:A flat iron rod with a button on one end. When the button is pressed the rod becomes magically fixed in place until the button is pressed again. The rod can hold up to 80 lbs of weight. A DC 8 strength check allows the rod to be moved up to 10 feet.
+i:A horn that when blown can clearly be heard by everyone within 300 feet. After blowing the horn the users’ words are amplified for the next minute and can also be heard by everyone within 300 feet.
+i:An ancient and unbreakable ring.
+i:A necklace or circlet woven of meadow flowers that never wilt.
+i:A key that opens any lock you locked.
+i:A water skin that can hold a barrels worth of water (59 gallons)
+i:A bell that awakens anyone within 30 feet when rung.
+i:A torc engraved with horses that allows you to march an extra hour a day without having to make an exhaustion check.
+i:A pair of glasses that gives you 10’ darkvision.
+i:A sewing needle that will finish sewing any seam you started on its own.
+i:A wood cutters axe or adze (treat as a hand axe) that deals double damage to wooden objects.
+i:A small raven carved out of stone or wood. When activated the raven will count any humanoids it sees other than your allies. The raven can tell you if it has seen one, two, three, or many humanoids since it was activated.
+i:A dragonfly carved out of jade that, when active, flies around you killing mosquitos and flies.
+i:A tiny platinum figurine of Bahatmut that gives the bearer advantage on diplomacy checks with good dragons.
+i:A preserved and shrunken eye set in a ring. While worn the bearer has advantage on deception checks to mimic animal sounds.
+i:A pound of troll flesh that constantly regenerates providing enough meat every day for two humans. The flavor is disgusting.
+i:An outfit of clothing that never gets dirty and magically mends any rips or tears.
+i:A chamber pot that disintegrates any excrement put in it.
+i:A comb made of bone that causes your hair to grow 1 inch for every minute you brush it. Your hair stops growing when it is as long as you are tall.
+i:A pin with clear glass beads that keeps natural smoke at least 1 foot away from you.
+i:A glowing rod that drives away dampness and moisture in a 10 foot radius.
+i:A set of seven glowing magical gems that can be set swirling around you{gemstones}.
+i:A two inch tall animal spirit that is friendly and always remains within 5 feet of you.
+i:A small blank book. As an action you can copy another book or other document into your book. The copy remains until you will it to be erased or copy another document.
+i:A staff that can be turned into a tree or back into a staff.
+i:A fish mask that lets you hold your breath twice as long as normal.
+i:A petrified rat brain that lets you cast dominate monster once per long rest on a small o tiny rat or mouse{.rats}.
+i:A gold coin that you can summon back to your hand as long as it’s within 20 feet.
+i:A small red gem that is warm to the touch. When the gem is placed on inanimate flammable material the material catches on fire in =1d4 rounds{gemstones}.
+i:A small magical snake that can take the form of a tattoo on one of your arms. Once per day while the snake is a tattoo you may add =1d4 to a diplomacy check. You also have advantage on diplomacy checks with Lamia.
+i:A holy symbol of Sawan that you can activate once per day to weed, water, and care for a field of crops no larger than half an acre.
+i:A holy symbol of Gewin that you can activate once per day to gain =1d4 to an initiative roll.
+i:A holy symbol of Fian that gives you =1d4 on checks to run a business.
+i:A holy symbol of Scaedwain once per day you can use it to animate a tiny beast. The tiny skeleton or zombie remains under your control until it is destroyed or you animate a new undead. (AC 10, 1hp and unable to deal damage)
+i:A holy symbol of Yeenoghu that once per day as a bonus action you can use the Incite Rampage ability as a Gnoll Pack Lord.
+i:A holy symbol of Evegren that makes you immune to the exhaustion effects from hot weather.
+i:A holy symbol of Beorg that makes you immune to the poisoning effects of alcohol.
+i:A holy symbol of Wurdan that allows you to sing beautifully.
+i:A holy symbol of Skilja that allows you to reroll 1s on skill checks to craft items.
+i:A jar containing an aboleth mucus gland. If you breathe in the mucus you are able to breathe through your skin underwater for thirty minutes. The gland refills the jar with mucus in 24 hours.
+i:A whistle that can only be heard by your allies.
+i:A cup or plate that changes color when it comes in contact with poison.
+i:A brass pitcher and a silver fly. As long as the fly is within 15 feet of the pitcher it whispers anything the pitcher hears.
+i:A musical instrument that magically plays simple tunes and songs.
+i:A small doll that mimics your movements.
+i:A halter that when placed on a cow, donkey, mule, horse, or camel gives you advantage on animal handling checks for that beast{.horses}.
+i:A pack saddle that doubles the weight the beast wearing it can carry.
+i:A necklace of animal teeth. Once per long rest as a bonus action you can cause the necklace to bite you dealing 2 points of piercing damage.
+i:A pair of silver bars twisted together. Once per day when you use Bardic Inspiration you may designate two individuals. Either can use the Bardic Inspiration die but once it has been used it’s gone.
+i:A set of sheep’s knucklebones that allow you to cast the ritual Augury in 1 minute if you can normally cast it as a ritual.
+i:A fetish made of bone and feathers that lets you cast the ritual Speak With Animals in 1 minute if you can normally cast it as a ritual.
+i:A gem that adheres to your forehead like a third eye. If you spend a Ki point your speed increases by 5 feet for that round{gemstones}.
+i:A vial of holy water (fiends) or glowing crystal (undead) that focuses your divine senses. When you use Divine Sense you can choose to only detect fiends or undead, depending on your trinket, and the range of your senses extends to 90 feet{.fiends}.
+i:A mummified body part of a creature. If this creature’s type is your favored enemy selection than once per day you can reroll a 1 on a Survival or Intelligence check related to the creature type.
+i:An elemental gem (pick cold, fire, thunder, electricity) that once per day can act as a focus for a metamagic spell. The gem changes half the spells damage type to match the gem{gemstones}.
+i:A token of a fey (electricity), far realm (psychic), or fiendish (fire) power. Once per day if you cast eldritch blast the token changes the damage type of the blast{.beasts fey}.
+i:A ritual book that lets you cast arcane rituals half the normal time{.fiends}.
+i:An obsidian ring that allows one individual you can see who can’t speak in Thieves’ Cant to understand you when you speak in Thieves’ Cant{.thieves}.
+i:A steel torc engraved with the image of boars. If you roll a 1 to recover hit points when you use your second wind you may reroll the die. You must use the results of the second roll.
+i:A mirror that can grow and shrink from hand sized to full length.
+i:A ring that turns a willing wearer to stone until the ring is removed.
+i:A nightcap that, when worn, gives you pleasant dreams.
+i:A small fan with a humming bird painted on it that will hover near you and fan you.
+i:A glass orb filled with smoke. If you concentrate on it an image of the person you are thinking about appears.
+i:A stone orb that half lit and half dark. The dark and light halves rotate around the orb once per day.
+i:A 6 inch long crystal coffin. When empty if touched to a dead body the body is shrunken and placed inside the coffin. The body can be released from the coffin by opening it. While in the coffin the body is under the effects of a gentle repose spell.
+i:A brass key that burns you when you hold it (1pt per round), if you aren’t resistant to fire, and allows you to speak Ignan.
+i:An iron pot or pan who’s handle never gets hot.
+i:The feather of a Solar that is always immaculate. While holding it you can speak Celestial.
+i:A horn from a Devil or Demon that allows you to speak Infernal or Abyssal respectively.
+i:A spirit in the shape of a gear. The spirit can instantly count anything you can see or let you know when a specific amount of time has passed.
+i:A dowsing rod that points to any water within 20 feet.
+i:A wooden wand that lets you magically move unattended objects weight less than a pound that are within 15 feet{.magic wands}.
+i:A statue of a cricket that chirps softly in the dark. The cricket stops chirping if an invisible or incorporeal creature comes within 10 feet.
+i:A collar that lets a dog or cat speak in common. It doesn’t change the animal’s intelligence.
+i:An acorn that prevents you from being hit by natural lightning.
+i:A finger bone from an executed man in a small wooden box. You have +1 on death saving throws while it’s in your possession.
+i:A book of very short stories. Reading a story from the book (an action) acts like using a healer’s kit{.healers}.
+i:The trinket shifts between the two forms; at dawn: @trinkets!99; and dusk: @trinkets!99
+}

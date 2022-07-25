@@ -1,0 +1,23 @@
+{
+d:d20 Spooky occurrences
+i:A party member encounters a strange cold spot.
+i:Strange whispering is heard from just over the should of a party member.
+i:The sound of footsteps is heard coming from another part of the house.
+i:Evil (perhaps demonic?) laughter booms throughout the house!
+i:A strange smell is detected, which appears to have no source.
+i:A ghostly figure is spotted out of the corner of someone's eye.
+i:The party returns to a previously explored room to find that something has changed during their absence (move furniture, something has made a mess, etc).
+i:Voice(s) can be heard coming from another part of the house.
+i:An omnipresent sound or other sensation suddenly stops (like the drip of water from somewhere in the room).
+i:The party or one its members gains the feeling that they are being followed/watched.
+i:One of the party gets feels like they have been scratched - they have the marks to prove it.
+i:A door slams shut or open somewhere in the house, perhaps near enough for the party to see it happen.
+i:A party member or members experience a sudden and inexplicable strong emotion when entering an new area.
+i:The party experiences sudden and violent poltergeist activity.
+i:The sounds of everyday life fill the room the party is in, despite there being no way for them to do so. (sounds of a meal in progress in a dining room, snoring in a bedroom, children playing in a nursery)
+i:A piece of furniture or other item moves without any apparent cause (a chair pulling out, a portrait falling off the wall, etc.).
+i:The spirit(s) attempt to leave some sort of message for the party (a word scrawled on a chalkboard, or written in condensation on a window, items placed to create a symbol, etc.).
+i:Banging and thumping can be heard coming from another room.
+i:A scene from the house's past re-enacts itself in front of the party. The ghosts do not detect or react to the party in any way.
+i:The party's light source(s) goes out.
+}

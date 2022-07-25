@@ -1,0 +1,161 @@
+{
+d:d10 Geography: The city grew up around...
+i:A coastal harbor.
+i:A calm, coastal bay.
+i:A large freshwater lake.
+i:A wide, navigable river.
+i:A river navigable by small craft.
+i:The mouth of a river or a river delta.
+i:The confluence of two rivers.
+i:A series of natural springs.
+i:A well-traveled crossroads.
+i:A water source and a well-traveled road.
+}
+{
+d:d20 Resources: The city is near a region ideal for mining, growing, or grazing...
+i:Iron ore.
+i:Copper ore.
+i:Gold or silver deposits.
+i:Clay or granite deposits.
+i:Quartz or salt deposits.
+i:Peat or coal deposits.
+i:Hardwood lumber.
+i:Barley and oats.
+i:Beans and corn.
+i:Nuts and olives.
+i:Rice or wheat.
+i:Potatoes and leeks.
+i:Sugar cane.
+i:Tobacco.
+i:Cotton.
+i:Fruit trees.
+i:Cabbages and beets.
+i:Cattle.
+i:Dairy cows.
+i:Sheep.
+}
+{
+d:d20 Culture: The city is known for its...
+i:Architectural style.
+i:Architectural feats.
+i:Artists and poets.
+i:Inventive cuisine.
+i:Traditional cuisine.
+i:Suggestive dancing.
+i:Gladiatorial games{.gladiators}.
+i:Horse races{.horses}.
+i:Scholars and sages.
+i:Music and/or dance.
+i:Romance.
+i:Jousting games.
+i:Superior soldiers{.soldiers}.
+i:Street festivals.
+i:Religious feasts.
+i:Religious fervor.
+i:Traditional dress.
+i:Unusual dress.
+i:Theater scene.
+i:Wine and/or ale{.wines}.
+}
+{
+d:d10 Government: The city is ruled by...
+i:The head of a noble family{.nobles,.noble houses}.
+i:A council of distinguished nobles{.nobles,.noble houses}.
+i:A council of wealthy merchants{.merchant caravans,.merchant guilds}.
+i:A council of elected officials.
+i:An elected mayor.
+i:A benevolent sovereign.
+i:A wicked tyrant.
+i:A brutal warlord.
+i:A cabal of witches and wizards{.witches}.
+i:The leaders of a religious order.
+}
+{
+d:d20 Historical Event: The city experienced...
+i:Mass conversions.
+i:An earthquake.
+i:An age of exploration.
+i:A terrible famine.
+i:A disastrous flood.
+i:A legendary storm.
+i:An assassination{.assassins' guilds}.
+i:A series of riots.
+i:A great discovery.
+i:A vermin infestation.
+i:A destructive fire.
+i:A deadly plague.
+i:A bloody rebellion.
+i:A lengthy siege.
+i:Religious wars.
+i:Territorial wars.
+i:A foreign occupation.
+i:An economic boom.
+i:A great depression.
+i:A dragon attack{.dragons}.
+}
+{
+d:d12 Threats: The people of the city are fearful of (leaders and commonfolk may fear different things)...
+i:Bandits and outlaws{.outlaw bands}.
+i:Barbarian invasions{.barbarians}.
+i:Disease outbreaks{.diseases}.
+i:A dragon or legendary beast{.dragons}.
+i:Destructive flooding.
+i:Food shortages.
+i:Occupation by a foreign empire.
+i:The wrath of a vengeful god.
+i:Magic and new inventions.
+i:Pirates, smugglers, and bands of thieves{.pirates,.thieves}.
+i:A recently established religion.
+i:A rival city.
+}
+{
+d:d10 Defenses: The city is defended by...
+i:A disciplined military guard.
+i:A standing army of devoted soldiers{.soldiers}.
+i:A company of sellswords and knaves{.sellswords}.
+i:An order of holy knights{.knights}.
+i:Little; the city’s been sacked many times.
+i:A huge, fortress or citadel within the city.
+i:A series of watchtowers and forts spread throughout the region.
+i:Thick stone walls and impenetrable gates.
+i:High stone walls, catapults, and scorpions.
+i:A powerful magical ward or gigantic golem{.golems}.
+}
+{
+d:d12 Law Enforcement: The laws are...
+i:Enforced by a strict, orderly city watch.
+i:Enforced by a corrupt, roguish city watch.
+i:Not enforced among the wealthy elite.
+i:Enforced in a haphazard fashion, incomprehensible to visitors.
+i:Not enforced for those who pay bribes.
+i:More like guidelines.
+i:Enforced by a secret society of assassins, mages, or priests{.assassins' guilds}.
+i:Enforced by a company of mercenaries.
+i:Simple, easy to learn and to follow.
+i:Extensive and complicated, nonsensical.
+i:Enforced by a cheerful drunken sheriff.
+i:Enforced by a rigid soldier-turned-sheriff{.soldiers}.
+}
+{
+d:d20 Power Players: Within or outside the government, power is held by...
+i:A ruthless assassins’ guild{.assassins' guilds}.
+i:A populist demagogue.
+i:The captain of a mercenary company.
+i:A champion knight or arena fighter{.knights}.
+i:One or more crafting guilds.
+i:A dangerous crime boss.
+i:One or more criminal gangs.
+i:A charismatic cult leader.
+i:One or more merchant guilds{.merchant caravans,.merchant guilds}.
+i:A scheming noble lord or lady{.nobles,.noble houses}.
+i:An outspoken philosopher or scholar.
+i:A celebrated poet and playwright.
+i:A popular priest or priestess.
+i:A secret society of lorekeepers.
+i:Smugglers and black market dealers.
+i:The son or daughter of a deposed ruler.
+i:A wealthy trader of exotic goods.
+i:A conniving vampire or fiend{.vampires,.fiends}.
+i:A bold war hero.
+i:A clever witch or wizard{.witches}.
+}

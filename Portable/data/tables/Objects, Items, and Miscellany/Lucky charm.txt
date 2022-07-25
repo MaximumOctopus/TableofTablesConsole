@@ -1,0 +1,87 @@
+{
+d:d20 The charm is a...
+i:Necklace {gemstones}
+i:Broach {gemstones}
+i:Ring {gemstones}
+i:Old piece of cloth
+i:Statuette
+i:Stick
+i:Smooth stone
+i:Piece of clothing (d12): 1. Shirt; 2. Socks; 4. Hat; 5. Pair of pants; 6. Underwear; 7. Gloves; 8. Mask; 9. Shoe; 10. Belt; 11. Glasses; 12. Skirt
+i:Part of a slain beast (d12): 1. Tooth; 2. Claw; 3. Skull; 4. Preserved head; 5. Heart, 6. Eye; 7. Liver; 8. Hand; 9. Tongue; 10. Bone; 11. Vial of blood; 12. Shrunken skull
+i:Coin
+i:Gem {gemstones}
+i:Piece of twine
+i:Book
+i:Trinket of unknown origin, and alien design
+i:Children's toy {softtoy}
+i:Letter from a loved one
+i:Instrument (d6): 1. Lute; 2. Flute; 3. Horn; 4. Hand drums; 5. Harp; 6. Tongue harp
+i:Vial of holy water
+i:Living animal (d8): 1. Dog; 2. Cat; 3. Wolf; 4. Chicken; 5. Bird; 6. Squirrel; 7. Fish in a bowl; 8. Ferret
+i:Unreasonably large item (d4): 1. Piece of furniture; 2. Large stone; 3. Wagon cart; 4. Cow
+}
+{
+d:d12 The charm has a unique feature...
+i:It is smaller than normal
+i:It has a horrible smell
+i:It is an odd color {colours}
+i:It is an odd shape
+i:It is made of odd materials
+i:It is oversized
+i:It is extremely normal, and plain
+i:It has an affinity for evil
+i:It has an affinity for good
+i:It is easily lost, and turns up at odd times, or in strange places
+i:It is difficult to look at
+i:It is hard to not look at it
+}
+{
+d:d8 The charm is lucky when...
+i:It is worn, or held
+i:It can not be seen
+i:It can be seen
+i:During the day
+i:At night
+i:Only the owner knows of its existence
+i:Everyone believes it's lucky
+i:The owner's eyes are closed
+}
+{
+d:d20 How is the charm lucky? It is believed that...
+i:The owner will win at physical games
+i:The owner will win at mental games
+i:The owner will encounter love
+i:The owner will encounter money
+i:The owner will be a better negotiator
+i:The owner will encounter good weather
+i:The owner will get what he wants
+i:The owner will always be better than average at everything
+i:The owner will always make the right decision
+i:The owner will learn faster
+i:The owner will be stronger
+i:The owner will be faster
+i:The owner will be better looking
+i:The owner will be wiser
+i:The owner will be smarter
+i:The owner will be healthier
+i:The owner can read other people better
+i:The owner will be happier
+i:The owner see through deception
+i:It's just lucky.
+}
+{
+d:d12 The charm was obtained...
+i:It was brought to him by a favorite pet
+i:It fell from the sky
+i:It was passed down from a family member
+i:It was removed from the corpse of a "lucky" person
+i:It was hand crafted by the owner
+i:It was a gift from a loved one
+i:It was found deep in a dungeon
+i:It was stolen from an enemy
+i:It was won at a raffle
+i:It was one of a hundred gifts given to the townsfolk
+i:It was purchased from a shady vendor
+i:It was purchased at a bazaar
+}

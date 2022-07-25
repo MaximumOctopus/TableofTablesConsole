@@ -1,0 +1,68 @@
+{
+d:d8 The arena is...
+i:An ancient stone structure used for centuries.
+i:An old stone structure used for generations.
+i:A wondrous construction with grand stands, trap doors, and elevators.
+i:A sturdy wooden structure, recently built.
+i:A crisp stone structure, recently built.
+i:A set of rickety wooden stands around a dirt ring.
+i:A circle of rope surrounded by spectators and a few cages.
+i:An underground pit with spectators leaning over a railing above.
+}
+{
+d:d8 The games are being held...
+i:In honor of the sovereign’s birthday.
+i:In honor of a historical anniversary.
+i:In honor of a recent military victory.
+i:To turn a legitimate profit for the organizers.
+i:To turn a gambling profit for the organizers.
+i:To dispose of prisoners.
+i:Strictly to entertain the masses.
+i:To determine a champion for a dangerous quest or traditional ceremony.
+}
+{
+d:d8 The main event is...
+i:A battle royale or grand melee.
+i:A reenactment of a historical battle.
+i:A duel between two arena champions.
+i:A duel between a champion and a severe underdog.
+i:Feeding prisoners to beasts.
+i:A battle of man versus beast (d8): 1. bears; 2. chimeras; 3. dragons; 4. giant spiders{.spiders}; 5. lions; 6. owlbears; 7. tigers; 8. wolves.
+i:A chariot race or foot race.
+i:Feats of strength.
+}
+{
+d:d12 The day’s champion wins...
+i:A heavy purse of silver.
+i:A sizable purse of gold.
+i:An expensive and ornate weapon{.legendary weapons}.
+i:An expensive and ornate piece of armor.
+i:A floral crown and a fine silver chain.
+i:A floral crown and a bejeweled gold belt.
+i:A fine silk cloak and a bejeweled silver chain.
+i:A petition of the sovereign.
+i:A position of honor in the army and a purse of silver.
+i:A position of honor in the sovereign’s guard.
+i:A week of pampering and pleasure and a purse of silver.
+i:A night with one of the nobles’ wives and a purse of gold{.nobles,.noble houses}.
+}
+{
+d:d6 The crowd’s attitude is...
+i:Rowdy and festive.
+i:Eager and excited.
+i:Relaxed and easy-going.
+i:Hostile and tense.
+i:Disappointed and angry.
+i:Rowdy and rebellious.
+}
+{
+d:d8 The crowd is made up of mostly...
+i:Merchants, nobles, and the well-to-do{.merchant caravans,.merchant guilds,.nobles,.noble houses}.
+i:Soldiers, officers, and camp-followers{.soldiers}.
+i:Local artisans and shopkeepers{.artisans}.
+i:Local peasants and unskilled workers.
+i:Foreigners and travelers.
+i:Slaves, servants, and laborers.
+i:Sailors, pirates, and knaves{.sailors,.pirates}.
+i:People of all social strata.
+}

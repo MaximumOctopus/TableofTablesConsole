@@ -1,0 +1,109 @@
+{
+d:d20 The song is about ...
+i:A young common woman (d8): 1. barmaid; 2. blacksmith's daughter; 3. farmer's daughter; 4. miner's daughter{.mines}; 5. Innkeeper's daughter; 6. harlot{.harlots}; 7. lady's maid; 8. scullery maid.
+i:A common woman (d8): 1. barmaid; 2. captain's wife; 3. farmwife; 4. fisherman's wife; 5. housemaid; 6. madame; 7. merchant's wife{.merchant caravans,.merchant guilds}; 8. seamstress.
+i:A noblewoman {.nobles,.noble houses} (d8): 1. beautiful maiden; 2. young princess; 3. ugly princess; 4. young queen; 5. old queen; 6. wicked queen; 7. faerie queen; 8. old widow.
+i:A priestess (d8): 1. young novice; 2. innocent virgin; 3. high priestess; 4. sister of mercy; 5. old prude; 6. oracle; 7. temptress; 8. zealot.
+i:A witch {.witches} (d8): 1. crone; 2. enchantress; 3. gypsy woman; 4. fortune teller; 5. potion-maker{.potions}; 6. seer{.seers}; 7. dark sorceress; 8. wicked witch.
+i:A wizard (d8): 1. alchemist{.alchemists}; 2. conjurer; 3. illusionist; 4. magician; 5. necromancer; 6. pyromancer; 7. old wizard; 8. apprentice mage.
+i:A warrior (d8): 1. barbarian{.barbarians}; 2. gladiator{.gladiators}; 3. guard captain; 4. young knight{.knights}; 5. proud knight{.knights}; 6. old knight{.knights}; 7. mystery knight{.knights}; 8. sellsword{.sellswords}.
+i:A rogue {.rogue missions} (d8): 1. bandit; 2. gambler; 3. jester; 4. outlaw{.outlaw bands}; 5. pirate{.pirates}; 6. singer; 7. smuggler; 8. thief{.thieves}.
+i:A priest (d8): 1. young acolyte; 2. exorcist; 3. healer{.healers}; 4. stoic monk; 5. preacher; 6. old priest; 7. young scholar; 8. wise master.
+i:A common man (d8): 1. blacksmith; 2. farmer; 3. fisherman; 4. herder; 5. innkeeper; 6. miner{.mines}; 7. sailor{.sailors}; 8. tailor.
+i:A nobleman {.nobles,.noble houses} (d8): 1. foolish king; 2. tyrant king; 3. wise king; 4. old lord; 5. young lord; 6. cruel prince; 7. handsome prince; 8. wealthy merchant{.merchant caravans,.merchant guilds}
+i:A great beast (d8): 1. bear; 2. boar; 3. bull; 4. dragon{.dragons}; 5. lion; 6. ox; 7. stag; 8. wolf.
+i:A diminutive beast (d8): 1. badger; 2. cat{.cats}; 3. dog; 4. fox; 5. hedgehog; 6. rat{.rats}; 7. snake; 8. spider{.spiders}.
+i:An aquatic creature (d8): 1. crocodile; 2. frog; 3. fish; 4. mermaid; 5. octopus; 6. shark; 7. swan; 8. whale.
+i:A bird (d8): 1. dove; 2. eagle; 3. mockingbird; 4. owl; 5. raven; 6. rooster; 7. sparrow; 8. vulture.
+i:A monster (d8): 1. devil; 2. demon; 3; giant; 4. ghost; 5. goblin{.goblins,.goblin gangs}; 6. griffon; 7. hag; 8. ogre.
+i:An event (d8): 1. battle; 2. captivity; 3. death; 4. feast or fair; 5. illness; 6. storm; 7. tournament; 8. wedding.
+i:A wilderness location (d8): 1. cave; 2. desert{.desert,.desert flame-scorched,.desert shadowy}; 3. forest{.forest,.forest enchanted,.forest haunted}; 4. lake; 5. mountain{.mountains}; 6. river; 7. sea; 8. swamp{.swamp}.
+i:A settlement location (d8): 1. castle; 2. garden; 3. fountain; 4. inn; 5. market; 6. tavern; 7. temple{.temples}; 8. tomb{.tombs}.
+i:An item or object (d8): 1. coin; 2. book; 3. goblet; 4. map; 5. shield; 6. ship{.ships}; 7. sword; 8. wagon.
+}
+{
+d:d20 The song is about ...
+i:A young common woman (d8): 1. barmaid; 2. blacksmith's daughter; 3. farmer's daughter; 4. miner's daughter{.mines}; 5. Innkeeper's daughter; 6. harlot{.harlots}; 7. lady's maid; 8. scullery maid.
+i:A common woman (d8): 1. barmaid; 2. captain's wife; 3. farmwife; 4. fisherman's wife; 5. housemaid; 6. madame; 7. merchant's wife{.merchant caravans,.merchant guilds}; 8. seamstress.
+i:A noblewoman {.nobles,.noble houses} (d8): 1. beautiful maiden; 2. young princess; 3. ugly princess; 4. young queen; 5. old queen; 6. wicked queen; 7. faerie queen; 8. old widow.
+i:A priestess (d8): 1. young novice; 2. innocent virgin; 3. high priestess; 4. sister of mercy; 5. old prude; 6. oracle; 7. temptress; 8. zealot.
+i:A witch {.witches} (d8): 1. crone; 2. enchantress; 3. gypsy woman; 4. fortune teller; 5. potion-maker{.potions}; 6. seer{.seers}; 7. dark sorceress; 8. wicked witch.
+i:A wizard (d8): 1. alchemist{.alchemists}; 2. conjurer; 3. illusionist; 4. magician; 5. necromancer; 6. pyromancer; 7. old wizard; 8. apprentice mage.
+i:A warrior (d8): 1. barbarian{.barbarians}; 2. gladiator{.gladiators}; 3. guard captain; 4. young knight{.knights}; 5. proud knight{.knights}; 6. old knight{.knights}; 7. mystery knight{.knights}; 8. sellsword{.sellswords}.
+i:A rogue {.rogue missions} (d8): 1. bandit; 2. gambler; 3. jester; 4. outlaw{.outlaw bands}; 5. pirate{.pirates}; 6. singer; 7. smuggler; 8. thief{.thieves}.
+i:A priest (d8): 1. young acolyte; 2. exorcist; 3. healer{.healers}; 4. stoic monk; 5. preacher; 6. old priest; 7. young scholar; 8. wise master.
+i:A common man (d8): 1. blacksmith; 2. farmer; 3. fisherman; 4. herder; 5. innkeeper; 6. miner{.mines}; 7. sailor{.sailors}; 8. tailor.
+i:A nobleman {.nobles,.noble houses} (d8): 1. foolish king; 2. tyrant king; 3. wise king; 4. old lord; 5. young lord; 6. cruel prince; 7. handsome prince; 8. wealthy merchant{.merchant caravans,.merchant guilds}
+i:A great beast (d8): 1. bear; 2. boar; 3. bull; 4. dragon{.dragons}; 5. lion; 6. ox; 7. stag; 8. wolf.
+i:A diminutive beast (d8): 1. badger; 2. cat{.cats}; 3. dog; 4. fox; 5. hedgehog; 6. rat{.rats}; 7. snake; 8. spider{.spiders}.
+i:An aquatic creature (d8): 1. crocodile; 2. frog; 3. fish; 4. mermaid; 5. octopus; 6. shark; 7. swan; 8. whale.
+i:A bird (d8): 1. dove; 2. eagle; 3. mockingbird; 4. owl; 5. raven; 6. rooster; 7. sparrow; 8. vulture.
+i:A monster (d8): 1. devil; 2. demon; 3; giant; 4. ghost; 5. goblin{.goblins,.goblin gangs}; 6. griffon; 7. hag; 8. ogre.
+i:An event (d8): 1. battle; 2. captivity; 3. death; 4. feast or fair; 5. illness; 6. storm; 7. tournament; 8. wedding.
+i:A wilderness location (d8): 1. cave; 2. desert{.desert,.desert flame-scorched,.desert shadowy}; 3. forest{.forest,.forest enchanted,.forest haunted}; 4. lake; 5. mountain{.mountains}; 6. river; 7. sea; 8. swamp{.swamp}.
+i:A settlement location (d8): 1. castle; 2. garden; 3. fountain; 4. inn; 5. market; 6. tavern; 7. temple{.temples}; 8. tomb{.tombs}.
+i:An item or object (d8): 1. coin; 2. book; 3. goblet; 4. map; 5. shield; 6. ship{.ships}; 7. sword; 8. wagon.
+}
+{
+d:d10 The song is popular because...
+i:It was written by a legendary bard{.bards}.
+i:It has a subversive double meaning.
+i:It was banned by a tyrannical ruler.
+i:It was banned by a priest or priestess.
+i:It has a humorous, bawdy style.
+i:It was a popular sovereign’s favorite.
+i:It was sung at a local hero’s funeral.
+i:It was sung at a magnificent wedding feast.
+i:Its lyrics are completely outrageous.
+i:No good reason; it’s just a catchy tune.
+}
+{
+d:d12 The song is common sung at...
+i:Children’s birthdays.
+i:Pubs and civic festivals.
+i:Pubs and scholarly ceremonies.
+i:Pubs and military camps.
+i:Religious ceremonies and festivals.
+i:Royal courts and tournaments..
+i:Taverns and aboard ships{.tavern goings-on}.
+i:Taverns and low brothels{.brothels,.tavern goings-on}.
+i:Taverns and mining camps{.tavern goings-on}.
+i:Tournaments.
+i:Wakes and funerals.
+i:Weddings.
+}
+{
+d:d12 The song is often sung as...
+i:A solo without accompaniment.
+i:A solo with a single percussion instrument accompanying.
+i:A solo with a single stringed instrument accompanying.
+i:A solo with a variety of instruments accompanying.
+i:A duet with two male voices.
+i:A duet with a male and a female part.
+i:A duet with two female voices.
+i:A quartet of male voices without accompaniment.
+i:A chorus of singers with little to no instrumental accompaniment.
+i:A chorus of singers with a variety of instruments accompanying.
+i:A solo for the verses with everyone joining in for the chorus.
+i:It's rarely sung; few people know the words, but everyone knows the melody.
+}
+{
+d:d8 The song's tempo is...
+i:Ponderous.
+i:Slow and steady.
+i:Andante.
+i:Allegro.
+i:Lively.
+i:Lilting.
+i:Fast-paced.
+i:Frenetic.
+}
+{
+d:d6 The song's melody is...
+i:Dominated by punctuating rhythm.
+i:Not so memorable as its harmonies.
+i:Hauntingly beautiful.
+i:Simple and easy to pick up.
+i:Incredibly catchy.
+i:Variable, depending on who's singing.
+}

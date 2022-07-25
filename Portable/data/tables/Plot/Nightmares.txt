@@ -1,0 +1,60 @@
+{
+d:d12Setting
+i:At Sea
+i:At Home
+i:Surrounded by darkness
+i:Surrounded by light
+i:World full of gnashing teeth and grasping hands
+i:Strange Aeons
+i:Arena
+i:Tomb{.tombs}
+i:Temple{.temples}
+i:Torture Chamber
+i:City
+i:Unknown country
+}
+{
+d:d12Action you are engaged in:
+i:Knitting a hat for an enemy
+i:Enjoying a tasty beverage made of the tears of unwashed children
+i:Writing a letter to an archfiend{.fiends}
+i:Jousting a friend
+i:Constructing a golem by removing parts of yourself{.golems}
+i:Building an altar to an unknown god{.altars (holy),.altars (unholy)}
+i:Making candles out of bones
+i:Ripping holes in reality with a strange knife
+i:Fighting a mirror (and losing)
+i:Eating the flesh of your loved ones
+i:Slowly morphing into another lifeform
+i:Your face is melting and you are trying to hold it together with hands that are also melting
+}
+{
+d:d12Outside forces influencing your actions:
+i:Disembodied voices of children
+i:A demonic hand is castrating you
+i:The air is turning into acid
+i:You keep seeing the faces of everyone you love laughing at you
+i:A sword keeps piercing your lungs, over and over
+i:A feeling of being watched by a being beyond time
+i:A vampire is chasing you{.vampires}
+i:You are being eaten alive by thousands of tiny bugs
+i:The room you are in is getting smaller
+i:Gravity keeps increasing
+i:A king keeps giving you orders
+i:An ancient dragon repeatedly breaks your teeth{.dragons}
+}
+{
+d:d12Cause of nightmare:
+i:Bad Food{.food}
+i:Anxiety
+i:Unresolved Grief
+i:Apprentice Magician
+i:Angered fiend{.fiends}
+i:Mischievous god
+i:Extra-planar entity trying to communicate
+i:Illness
+i:You fell asleep in a place sacred to the Fey{.beasts fey}
+i:Hungry Mindflayer
+i:Incubus/Succubus
+i:Abeloth
+}

@@ -1,0 +1,199 @@
+{
+d:d20 VICTIMTYPE
+i:a group of travelers lead by a
+i:a caravan lead by a
+i:an adventuring party lead by a
+i:a group of pilgrims following a
+i:a young
+i:an old
+i:a down on his luck
+i:a common
+i:a few
+i:a hated
+i:another
+i:a middleaged
+i:the family of a
+i:the friend of a
+i:a strange
+i:a famous
+i:a well-liked
+i:a simple dressed
+i:an extravagantly dressed
+i:a commonly dressed
+}
+{
+d:d4 ORIGIN
+i:local
+i:foreign
+i:exotic looking
+i:unknown
+}
+{
+d:d20 VICTIM
+i:man
+i:woman
+i:craftsman
+i:guard
+i:noble{.nobles,.noble houses}
+i:slave
+i:servant
+i:child
+i:lord
+i:mage
+i:priest
+i:merchant{.merchant caravans,.merchant guilds}
+i:thief{.thieves}
+i:assassin{.assassins' guilds}
+i:officer
+i:hobo
+i:prostitute
+i:criminal
+i:art collector
+i:archivist
+}
+{
+d:d20 CRIME Is believed to have been...
+i:killed
+i:robbed
+i:kidnapped
+i:extorted
+i:blackmailed
+i:attacked
+i:eaten
+i:decapitated
+i:mutilated
+i:assaulted
+i:taken hostage
+i:banished to another plane
+i:blown up
+i:set on fire
+i:polimorphed into an ottoman
+i:fed to wild animals
+i:thrown into a pit
+i:tricked
+i:cloned
+i:shrinked
+}
+{
+d:d36 LOCATION
+i:at home
+i:in the street in broad daylight
+i:in a dark alley
+i:in a tavern{.tavern goings-on}
+i:at a brothel{.brothels}
+i:on the outskirts of town
+i:in the park
+i:in someone’s garden
+i:in a temple{.temples}
+i:on the town square
+i:out in the woods
+i:down by the lake
+i:in the swamp{.swamp}
+i:in the nearby ruin
+i:in a nearby cave
+i:by the sewer exit
+i:in a guard tower
+i:in an abandoned house
+i:in an abandoned warehouse
+i:in an old mansion
+i:in the stable of an old estate
+i:in the greenhouse of an old mansion
+i:in a crypt
+i:in a library
+i:at the victims own place of work
+i:in the victims own bedroom
+i:in a hidden room in the victims own house
+i:in the common room of a local guild
+i:on a boat on the lake
+i:on a quiet mountain road{.mountains}
+i:on a track in the woods
+i:out by the waterfall
+i:in the cathedral
+i:in the old church
+i:in the catacombs
+i:at an undisclosed location
+}
+{
+d:d10 CIRCUMSTANCES
+i:to no real surprise to the local population.
+i:under obviously mysterious circumstances.
+i:causing great unrest among the local population.
+i:like several similar victims before.
+i:without getting any real attention from the local population.
+i:and the remnants of dark magic is still draining all light from the spot.
+i:and the local population hasn’t spoken a word since.
+i:and the town is now under curfew.
+i:and people believe it to be politically motivated.
+i:as it happens every month.
+}
+{
+d:d8 INVESTIGATORS The case is being handled by...
+i:the city guard
+i:royal guard
+i:a fearsome crew with obvious scars of battle
+i:a strange and quiet group, not known by any of the locals
+i:men of the church
+i:an old man in a robe and his dog
+i:a middleaged woman in a simple uniform with her young male assistant
+i:a young man, who won’t disclose his relationship to the victim assisted by his mute brother
+}
+{
+d:d6 INTEREST who are... solving it
+i:keen on
+i:not very interested in
+i:doing all they can in
+i:letting no one stand in their way of
+i:not doing so much for
+i:clearly making sure nothing is done in
+}
+{
+d:d12 WILLINGNESS and ... share details.
+i:are hostile when asked to
+i:are in no way willing to
+i:are very skeptical to
+i:are scared to
+i:are clearly not allowed to
+i:are, when completely hammered, somewhat willing to
+i:skeptical, but somewhat willing to
+i:somewhat willing to
+i:willing to
+i:very willing to
+i:way to willing to
+i:yelling to everyone trying to
+}
+{
+d:d10 SOURCE
+i:According to your sources on the local tavern, there’s
+i:A less-reputable local paper writes about
+i:A scrawny town crier tell passers-by of
+i:A group of craftsmen walking by talks about
+i:According to the flyers distributed in quite overwhelming numbers around town, there is definitely
+i:A man without teeth comes up and whispers to a PC
+i:By the gate, A hideously deformed man passes you a note mentioning
+i:At the scene of the crime is a verse from a poem, written with intestines laid out in beautiful cursive - it has
+i:A note on a players bed speaks of
+i:The players heard the victim scream something, when the crime took place, that hinted at
+}
+{
+d:d20 CLUE a connection to...
+i:a local cult with rather extreme beliefs
+i:a lock of strange fur
+i:a rumoured jealous lover
+i:a hot tempered spouse
+i:the local child, the one with the strangest eyes
+i:markings of something having entered from beyond
+i:remnants of the darkest magic
+i:revenge
+i:lust
+i:greed
+i:a murky acquaintance from the victim’s past
+i:that old tablet covered in obscure symbols
+i:the terrible story no one wants to remember
+i:an old friend of the PCs
+i:a beautiful young woman, who only came to town recently
+i:another horrid crime committed not long ago
+i:the escaped criminal, rumored to be in hiding nearby
+i:markings of a wild animal
+i:that deep rumble, that you might hear coming from below the surface of the paved roads from time to time.
+i:the nightly activities of one of the PCs, but it’s all so hazy…
+}

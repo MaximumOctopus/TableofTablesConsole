@@ -1,0 +1,221 @@
+{
+d:d10 The castle sits...
+i:Atop a mountain{.mountains}.
+i:On a hill overlooking a wide plain{.plains}.
+i:At the fork of a river.
+i:On a narrow, rocky peninsula.
+i:Above a seaside cliff.
+i:On a hill overlooking a river valley.
+i:On a hill rising out of a swamp{.swamp}.
+i:On a hill overlooking a forest{.forest,.forest enchanted,.forest haunted}.
+i:Astride a desert oasis or natural spring{.desert,.desert flame-scorched,.desert shadowy}.
+i:On a ridge overlooking a frozen plain{.plains}.
+}
+{
+d:d12 The castle was built by...
+i:A wise king or queen.
+i:An ambitious lord or lady.
+i:An evil tyrant.
+i:A mighty warrior or warlord.
+i:A retired adventurer.
+i:A celebrated war hero.
+i:An unscrupulous king or queen.
+i:A vain lord or lady.
+i:A powerful witch or wizard{.witches}.
+i:A beloved sovereign.
+i:A prosperous merchant{.merchant caravans,.merchant guilds}.
+i:A member of an ancient noble house{.nobles,.noble houses}.
+}
+{
+d:d4 The castle was built...
+i:In a past age.
+i:Hundreds of years ago.
+i:A few decades ago.
+i:Within the past decade.
+}
+{
+d:d6 Currently, the castle’s condition is...
+i:Perfect; upkeep has been fastidious.
+i:Good; it been well-maintained.
+i:Decent; there are only a few cracks in the walls, but the place can withstand a siege.
+i:Fair; the castle has seen better days.
+i:Poor; the walls and towers are in dire need of repairs.
+i:Decrepit; the place is practically a ruin.
+}
+{
+d:d12 Presently, the castle is occupied by...
+i:A member of the royal family.
+i:An ambitious lord or lady.
+i:An evil tyrant.
+i:An elderly lord or lady.
+i:A brash, young lord or lady.
+i:A mercenary company.
+i:A fearsome warlord or retired sellsword{.sellswords}.
+i:A wealthy merchant{.merchant caravans,.merchant guilds}.
+i:A retired pirate or thief{.pirates,.thieves}.
+i:A former adventurer.
+i:An absentee noble lord{.nobles,.noble houses}.
+i:The crown, but the king or queen rarely stays here.
+}
+{
+d:d12 The position or territory is worth defending because...
+i:Grains grow well on the surrounding land.
+i:The nearby mines are rich in ores or gems{.mines,gemstones}.
+i:The surrounding land is excellent for grazing livestock.
+i:Fruit trees grow on the surrounding land.
+i:The nearby pass is the easiest way to cross the mountains{.mountains}.
+i:The nearby harbor is important for trade.
+i:The nearby river is important for trade.
+i:The nearby source of freshwater is precious is in this region.
+i:The wild lands beyond are full of threats.
+i:The surrounding lands are part of a long-standing territorial dispute.
+i:The surrounding land is held sacred.
+i:The nearby lands are home to a rare herb, tree, or creature that has magical uses{.herbalism}.
+}
+{
+d:d10 The castle’s outer defenses include...
+i:Very high stone walls.
+i:Incredibly thick stone walls.
+i:A series of curtain walls and gatehouses.
+i:A treacherous climb to reach the castle walls.
+i:A moat filled with putrescent water.
+i:A moat filled with thick, boot-sucking mud.
+i:A moat filled with sharp spikes.
+i:A moat that is home to one or more dangerous aquatic beasts.
+i:An immense barbican.
+i:A narrow footbridge to reach the postern.
+}
+{
+d:d6 The inner keep’s defenses include...
+i:Hundreds of arrow slits.
+i:One of the world's largest dual-portcullis gates.
+i:A winding climb to reach the entrance.
+i:Several covered parapets with murder holes under which intruders must pass.
+i:A wide courtyard surrounded by flanking towers in the curtain wall.
+i:An unusual or hidden means of entry.
+}
+{
+d:d8 The castle can be held effectively by as few as...
+i:5 soldiers and 20 archers{.soldiers}.
+i:20 soldiers, 5 knights, and 20 archers{.knights,.soldiers}.
+i:50 soldiers, 10 knights, and 40 archers{.knights,.soldiers}.
+i:20 knights, 20 archers, and 5 warmages{.knights,.soldiers}/
+i:100 soldiers, 50 archers, and 5 warmages{.soldiers}.
+i:100 soldiers, 20 knights, and 50 archers{.knights,.soldiers}.
+i:200 soldiers, 50 knights, and 100 archers{.knights,.soldiers}.
+i:200 soldiers, 100 knights, and 200 archers{.knights,.soldiers}.
+}
+{
+d:d6 In addition to its garrison, the castle can hold foodstores to withstand a three-month siege for up to...
+i:50 people.
+i:100 people.
+i:200 people.
+i:500 people.
+i:1,000 people.
+i:2,000 people.
+}
+{
+d:d12 The castle is known for...
+i:Withstanding a grueling, lengthy siege.
+i:Suffering an immense conflagration.
+i:Changing hands several times over the course of the same war.
+i:Bringing ill-fortune to those who hold it.
+i:Being haunted by a former occupant.
+i:Never falling in a siege.
+i:Welcoming travelers seeking refuge.
+i:Turning away travelers seeking refuge.
+i:Its unusual architectural style.
+i:Its beautiful, historic tapestries.
+i:Its breathtakingly beautiful chapel.
+i:The quality of its meals.
+}
+{
+d:d12 What is rumored to be hidden in the castle?
+i:An underground tunnel that can serve as a last-gasp escape route.
+i:The weapon of a long-dead hero.
+i:The preserved head of an ancient villain{.villains}.
+i:A long-lost religious artifact.
+i:A missing lord or lady.
+i:A book of vile curses{cursessimple}.
+i:A book of dark and ancient secrets.
+i:A cursed treasure hoard{cursessimple}.
+i:The last bottle of famous vintage of wine{.wines}.
+i:A lost work of a celebrated artist.
+i:The crypt of an ancient sovereign.
+i:An unhatched dragon egg{.dragons}.
+}
+{
+d:d20 Rooms: This chamber is...
+i:An antechamber or waiting room.
+i:An armory.
+i:An aviary, dovecote, owlery, or rookery.
+i:A banquet hall.
+i:The barracks.
+i:A bath or privy.
+i:A bedroom (d3): 1. simple; 2. comfortable; 3. luxurious.
+i:A chapel or shrine.
+i:A crypt.
+i:An intimate or informal dining room.
+i:A dressing room.
+i:A gallery (d6): 1. armor and weaponry; 2. paintings; 3. sculptures; 4. tapestries; 5. hunting trophies; 6. trophies of war.
+i:A guardroom.
+i:A kennel, menagerie, or stable.
+i:The kitchen.
+i:A library or study.
+i:A pantry.
+i:Store room for mundane supplies or a cistern for drinking water.
+i:The throne room.
+i:A treasure vault (likely hidden and/or protected by traps).
+}
+{
+d:d20 Features: You notice...
+i:An armchair flanked by two sconces.
+i:A large armoire or buffet cabinet.
+i:A bench with a cusion.
+i:A brazier.
+i:A candelabrum on a large table.
+i:A plain chair beside a window.
+i:A heavy wooden chest.
+i:A chest of drawers with a blanket on top.
+i:A desk with some quills and parchment.
+i:A fireplace with a mantle.
+i:A fireplace with a small pile of wood.
+i:A fresco with a padded chair beneath it.
+i:Portrait of a noble{.nobles,.noble houses}.
+i:A painting of a landscape or seascape.
+i:A bust on a pedestal.
+i:A shelf containing books or knick knacks.
+i:A low table in front of a small sofa.
+i:A large table beneath a chandelier.
+i:An ornate tapestry.
+i:A small wall basin and font.
+}
+[
+d:ENCOUNTERS
+]
+{
+d:d10 Under siege: You come upon...
+i:A squad of archers hustling up a stair.
+i:A patrol of guards brandishing weapons.
+i:A guard shouting instructions.
+i:A knight hurrying to the stables.
+i:A servant cowering in a hiding place.
+i:A curious child peaking out a window.
+i:A servant kneeling in prayer.
+i:A noble hastily penning a letter{.nobles,.noble houses}.
+i:A squire aiding a knight with his armor.
+i:A healer checking over his potions{.healers,.potions}.
+}
+{
+d:d10 In peace: You come upon...
+i:The huntsman cleaning a recent kill.
+i:The kennelmaster leading a leashed dog.
+i:The horsemaster instructing a young rider.
+i:The armorer scolding an apprentice.
+i:A maid fussing over her lady’s dress.
+i:The tutor or sage lost in a book.
+i:The chaplain whispering with a maid.
+i:A maid polishing an ornamental shield.
+i:A servant carrying a tray of food.
+i:Several archers practicing in the yard.
+}

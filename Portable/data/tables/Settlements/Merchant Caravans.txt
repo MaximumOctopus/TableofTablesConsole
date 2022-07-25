@@ -1,0 +1,254 @@
+{
+d:d6 The caravan is...
+i:A wagon train.
+i:A long wagon train.
+i:A small train of pack animals.
+i:A long train of pack animals.
+i:A train of pack animals with livestock.
+i:Traveling on foot with a few animals.
+}
+{
+d:d8 The caravan’s pack animals are...
+i:One-humped camels.
+i:Two-humped camels.
+i:Large draft horses.
+i:Reliable garrons.
+i:Sure-footed ponies.
+i:Mules.
+i:Oxen.
+i:Exotic beasts (d6): 1. bison; 2. drakes; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
+}
+{
+d:d6 The caravan is transporting...
+i:Cloth (d4): 1. cotton, 2. linen; 3. silk, 4. wool.
+i:Drugs or contraband.
+i:Gemstones {gemstones} (d6): 1. diamond; 2. emerald; 3. jade; 5. obsidian; 5. opal; 6. pearl; 7. ruby; 8. sapphire; 9. topaz; 10. turquoise.
+i:Metals (d6): 1. arsenic; 2. copper; 3. gold; 4. lead; 5. silver; 6. tin.
+i:Spices and teas.
+i:Wine and spirits{.wines}.
+}
+{
+d:d4 The caravan’s general mood is...
+i:Desperate; a calamity has befallen them.
+i:Foul; morale is bad, and provisions are low.
+i:Tired; the journey is long and longer yet.
+i:Eager; great riches await at journey’s end.
+}
+[
+d:CARAVAN MASTER
+]
+{
+d:d8 The caravan master is...
+i:A mysterious foreigner.
+i:A career soldier{.soldiers}.
+i:An outcast from a prominent family.
+i:A celebrated explorer.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A dashing swashbuckler.
+i:A brutish thug.
+}
+{
+d:d8 The caravan master is looking for...
+i:Information regarding the route ahead.
+i:The location of an ancient ruin.
+i:Extra muscle for the journey.
+i:News from the origin or destination.
+i:Revenge against a bitter rival.
+i:Ways to cheat the caravan’s owner.
+i:Ways to speed up the caravan’s pace.
+i:Drinking companions and storytellers.
+}
+{
+d:d6 The caravan master is taking special care to avoid...
+i:Ancient ruins and cursed places{cursessimple}.
+i:Barbarians{.barbarians}.
+i:Bandits.
+i:Other caravans.
+i:Thieves{.thieves}.
+i:Wild beasts.
+}
+{
+d:d8 The caravan master carries...
+i:A superbly crafted sword.
+i:Several daggers and a purse of gold.
+i:A trusted blade and a map.
+i:A lucky charm (rabbit’s foot, old coin).
+i:The token of a faraway love.
+i:Extravagant jewels and silks.
+i:Keys of many shapes and sizes.
+i:A little jar of mustache wax.
+}
+[
+d:ANIMAL HANDLER/PORTER
+]
+{
+d:d6 The animal handler has...
+i:An awkward gait.
+i:Incredibly large hands.
+i:Holes in the breeches.
+i:Quite an odor.
+i:A threadbare shirt.
+i:A ragged beard.
+}
+{
+d:d4 The animal handler wants to...
+i:Earn a little silver.
+i:Go back home.
+i:Survive the journey.
+i:Have a drink and a rest.
+}
+{
+d:d6 The animal handler carries...
+i:A memento from a loved one.
+i:Several morsels of animal feed.
+i:Several morsels of food.
+i:A few copper pieces.
+i:A waterskin.
+i:A wineskin{.wines}.
+}
+[
+d:COOK
+]
+{
+d:d4 The cook greets you with...
+i:A goblet of warm wine{.wines}.
+i:A glass of water.
+i:A cup of cold porridge.
+i:A hearty handshake.
+}
+{
+d:d4 The cook is looking for...
+i:Someone more important to talk to.
+i:Some better ingredients.
+i:A good joke or story.
+i:The bottom of a bottle.
+}
+{
+d:d6 The cook carries...
+i:A filthy rag.
+i:A large wooden spoon.
+i:A grease-smeared apron.
+i:An unusual belt purse.
+i:A pouch full of spices.
+i:A bottle of whisky.
+}
+[
+d:GUARD
+]
+{
+d:d6 The guard is...
+i:The son of a miner or fisherman{.mines,.fishermen}.
+i:A veteran of warfare.
+i:The son of a poor man.
+i:A drunk.
+i:A thug.
+i:A favorite among the ladies.
+}
+{
+d:d4 The guard works for...
+i:The steady pay.
+i:A chance to dole out pain.
+i:Gold to repay debts.
+i:Gold to aid a family member.
+}
+{
+d:d10 The guard has...
+i:An unsightly scar.
+i:A foolish grin.
+i:A stupid stare.
+i:A blade with an inscription.
+i:A highly polished blade.
+i:A token from a favorite harlot{.harlots}.
+i:A silk handkerchief.
+i:A flask of wine{.wines}.
+i:A pair of dice or a deck of cards.
+i:A beautiful, waxed mustache.
+}
+[
+d:GUIDE
+]
+{
+d:d4 The guide is...
+i:A nomadic herder.
+i:A strange hermit.
+i:A skilled hunter.
+i:A savage warrior.
+}
+{
+d:d4 The guide is looking to...
+i:Help the caravan in any way.
+i:Lead the caravan astray.
+i:Fill his purse with gold.
+i:Eat, drink, and be merry.
+}
+{
+d:d4 The guide carries...
+i:An unusual map.
+i:A unique trinket or piece of jewelry.
+i:A spear or walking staff.
+i:A large knife and some rope.
+}
+[
+d:CARAVAN OWNER
+]
+{
+d:d6 The merchant is...
+i:A member of a trading clan.
+i:A minor lord or lady.
+i:An enterprising trader.
+i:A member of a prominent family.
+i:Of common birth.
+i:The real owner’s representative.
+}
+{
+d:d6 The merchant seeks someone to...
+i:Obtain a mysterious artifact.
+i:Negotiate a trade contract.
+i:Purchase goods.
+i:Sabotage a rival merchant{.merchant caravans,.merchant guilds}.
+i:Secure a marriage.
+i:Have a good time with.
+}
+{
+d:d4 The merchant carries...
+i:A family heirloom.
+i:Several inventories and invoices.
+i:Some very valuable jewels.
+i:A compromising love letter.
+}
+{
+d:d4 Currency: The merchant will trade in...
+i:Coins and gems{gemstones}.
+i:Gold and silver bullion.
+i:Water, provisions, and other goods.
+i:Shells, beads, and trinkets.
+}
+[
+d:TRAVELER
+]
+{
+d:d6 The traveler is...
+i:An exile.
+i:A minstrel.
+i:A pilgrim.
+i:A sellsword{.sellswords}.
+i:A storyteller.
+i:A treasure hunter.
+}
+{
+d:d6 The traveler is searching for...
+i:The answer to a riddle
+i:A long lost friend.
+i:The return of something stolen.
+i:Revenge against a bitter rival.
+i:New adventures.
+i:Steady work.
+}
+{
+d:d4 Tonight, the traveler is looking for...
+i:Accomplices on a quest.
+i:An audience to entertain.
+i:Someone to hear a sad tale.
+i:Drinking companions.
+}

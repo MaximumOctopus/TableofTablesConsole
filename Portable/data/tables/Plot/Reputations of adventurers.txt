@@ -1,0 +1,156 @@
+{
+d:d10 Barbarian
+i:He was the muscle in a crack commando unit.
+i:He's waging a one man war against the evil hill giants plaguing his tribes lands.
+i:His rough exterior hides a jolly friendly soul.
+i:He wears the skulls of his fallen enemies as adornments on his armor.
+i:His tribe pillaged a frontier fort recently. They left no survivors.
+i:He was surrounded by six of the kings best soldiers. He killed them, then ate their hearts and drank their blood{.soldiers}.
+i:He's actually an animal, chief of a tribe of lycanthropes{.lycanthropes}.
+i:His endurance is legendary. He wrestled a dragon for two nights and two days straight{.dragons}.
+i:His endurance is legendary. He wrestled his way through the entire red light district in two days and two nights.
+i:He's a ferocious berserker who loses all control in combat.
+}
+{
+d:d10 Bard
+i:He and his troop were sent up river for a crime they didn't commit.
+i:He moonlights as a thief. Everyone knows, but so far no one has been able to catch him in the act{.thieves}.
+i:He's on the run after using his honeyed words to cause a schism in the next kingdom.
+i:He moonlights as a vigilante do-gooder.
+i:He's a master of the old lore and spends his time spreading his knowledge among the villages.
+i:He's a dashing knave the tyrannical king has not been able to catch yet, and his poetic broadsheets periodically appear in public places mocking the government.
+i:He has a voice that could entrance even the most shrewish of the king's daughters.
+i:He's a washed up has been and hasn't been held in high esteem for many years.
+i:His music is the latest fashion and his name is on everyone's lips.
+i:He mostly just moonlights, wink wink nudge nudge.
+}
+{
+d:d10 Cleric
+i:His church is one of the few safe places in the region.
+i:He's a kind-hearted man who helps all in need.
+i:He moved heaven and earth to revive fallen heroes in his city's time of need.
+i:He's a member of a fearsome cult that holds the entire countryside in terror.
+i:He hunts members of other faiths with a dark devotion, then sacrifices them to his dark god.
+i:He's a fearsome necromancer who has bound all the dead in the region to his will.
+i:He is the the high priest of his god in the region. To his followers his word is law.
+i:He's a scholar first and a priest second.
+i:He's more politically motivated than faith driven.
+i:He's a promising young convert to his religion full of fervor.
+}
+{
+d:d10 Druid
+i:He's a wise leader of a small sect of like minded druids{.druids}.
+i:He's a legendary protector of a secluded community.
+i:He's an emissary who acts as a go-between for the men and elves of the kingdom, solving disputes and keeping the peace{.elves dark,.elves high,.elves wood}.
+i:He's a hermit, maddened by isolation, who murders travelers.
+i:He's a dark druid who kills townfolk and uses their bodies to fertilize his grove{.druids}.
+i:He's a good druid driven to dark deeds by men who hold his forest home hostage{.druids,.forest,.forest enchanted,.forest haunted}.
+i:He's a noted shapeshifter who prefers his beast forms to his human form.
+i:He's claims a body that heals itself is stronger than one magically healed.
+i:His accustomed home is the harshest land in the region.
+i:He occasionally turns up in town to barter rare medicinal plants for trade goods.
+}
+{
+d:d10 Fighter
+i:He was drummed out of the king's legion and was sent to prison by a military court.
+i:His skills are rumored to be a fraud, but no one has come forward with proof.
+i:He's a dangerous hired killer. For the right price he'll take any dirty job.
+i:He's a mercenary giant killer. His prices are exorbitant, but he's worth the money. The common folk consider him a hero.
+i:He's an up-and-coming dragon slaying folk hero. He's in it for personal reasons. The king fears he'll draw negative attention{.dragons}.
+i:He's a wandering troubleshooter. He's got a good heart, but even good folks have to have money to eat.
+i:He's a slow witted thug. Only the simple things in life, money, fighting, wenching, interest him.
+i:He's the best swordsman in the land and the right arm of the king.
+i:He's a hard bitten mercenary with a keen mind for stacking the odds.
+i:His weapon is a legendary artifact recovered during a dangerous quest{.legendary weapons}.
+}
+{
+d:d10 Monk
+i:He's a member of an order sworn to poverty.
+i:He's a member of an order rumored to be sitting on a great treasure despite appearances of poverty.
+i:He's traveling the roads searching for an experience that will grant him enlightenment.
+i:He's a famous master of hand to hand combat. A drunken master.
+i:He's a wandering neophyte on a quest to prove himself to the monastery by doing good for others{.monasteries}.
+i:His wisdom is legendary and people travel far and wide to seek his advice.
+i:His monastery is a safe home for the lost, the weary, and those orphaned by war or tragedy{.monasteries}.
+i:He's a sworn killer serving a death cult.
+i:He's a mage killer sworn to the service of a dark master.
+i:He's a master of an evil and forbidden technique.
+}
+{
+d:d10 Paladin
+i:He's the one you can turn to if you have a problem, if no one else can help.
+i:He's a traditionalist armed with gleaming sword and polished shield.
+i:His weapon is a legendary artifact of good{.legendary weapons}.
+i:He's a grey guard who cares more about the ends than the means.
+i:He's the champion of a dark, forgotten god.
+i:He's a champion of a dark god feared through the entire realm.
+i:He's a knight errant on a quest for his liege{.knights}.
+i:He's a hard bitten monster hunter who only shows up when times are desperate.
+i:He's a famous dragon slayer{.dragons}.
+i:He never accepts payment for his aid.
+}
+{
+d:d10 Ranger
+i:His men are often willing to help if your cause is just and if you can find them.
+i:He's famous for slaying a dangerous beast that was preying on travelers along the roads.
+i:To the local orc tribes he's a boogeyman.
+i:He's a brutal bandit who strikes from hiding and never leaves survivors.
+i:He's a deceitful wanderer who hires himself as a caravan guide and leads innocents into ambushes of men and beasts.
+i:He hunts men and elves to harvest their organs, which he sells to mages for use in the most vile of spells{.elves dark,.elves high,.elves wood}.
+i:He's a sought after guide to the local wilderness.
+i:He is a legendary tamer of beasts. His animal companion is a legend in its own right.
+i:He's a well known army scout who retired a few years ago.
+i:The common folk pay him to protect their village from marauding humanoids.
+}
+{
+d:d10 Rogue
+i:Shortly after being imprisoned, he promptly escaped from a maximum security stockade.
+i:He has more treasure than the king stashed away in a dozen murky hiding places.
+i:He's due to be hanged in a few days. It seems he has escaped.
+i:He's a kleptomaniac, often weighted down with hot goods he needs to sell to anyone, at any price.
+i:He's well known to the locals as a knave who cons newcomers.
+i:The common folk are facing reprisals from the king as a result of his predations.
+i:He's a dangerous assassin who keeps grudges{.assassins' guilds}.
+i:He stole a legendary artifact from the lair of an evil death cult.
+i:He's a rebel do-gooder in a tyrannical kingdom and wooed the Baron's daughter to the rebel cause.
+i:The common folk overlook his more petty crimes because he tricked a group of bandits threatening the town into leaving.
+}
+{
+d:d10 Sorcerer
+i:Because no wizard academy will take him, he and his apprentices survive as soldiers of fortune{.soldiers}.
+i:He's the heir of a powerful dragon{.dragons}.
+i:He has a strong preference for certain types of elemental attacks.
+i:His back is rumored to be covered in tattoos that move on their own.
+i:His wild an impulsive nature make him a dangerous agent for the side of good. There have been accidents.
+i:Although a practitioner of wild magic, he's actually a consummate scholar and researcher.
+i:He used his magic to help save the city from a besieging army of humanoids.
+i:He's a legendary monster. He used his magic to tear down the walls of a city and let an army of humanoids inside.
+i:He's part of a dark cult, raised from birth to take advantage of the magic in his blood.
+i:He lives for the thrill of combat.
+}
+{
+d:d10 Warlock
+i:For his crimes, he is still wanted by the government.
+i:He's the right hand of his evil patron in this world.
+i:No one knows how he got his powers, but the rumors are grisly.
+i:They say he's managed to subvert his patron and is now in control, using his powers for good. For now.
+i:He's turned his dark powers toward destroying even more frightening things than himself. The common folk fear its not for their benefit.
+i:He's not a full cleric, but his patron is a celestial{.beasts celestial}.
+i:At night his patron takes control of his body.
+i:His eyes are empty of all humanity, and he makes choices with alien logic.
+i:Something even more powerful killed his patron and now he's unsure of his place in the world.
+i:He built a legendary temple to his patron in the wilds, protected by strange magics{.temples}.
+}
+{
+d:d10 Wizard
+i:He used his magic to fend off an attack on the city by dark forces.
+i:He is the right hand of the king, a beloved ruler.
+i:He is the beloved head of the University and a master of it's library.
+i:He's hated necromancer, wanted for grave robbing{.graverobbers}.
+i:He's a con-man using magic to fleece the unwary.
+i:He's a legendary terror who nearly brought the kingdom to its knees not long ago.
+i:He's a noted traveler of the outer planes and has published several books on the subject.
+i:He's a collector of ancient lore, happy to accompany adventurers into a dungeon, or pay them for information they have recovered{basic dungeons,castle dungeons,dungeon dressing}.
+i:He's a famous war mage with a quick temper. His familiar is a holy terror.
+i:He's a drunk with dangerous knowledge.
+}

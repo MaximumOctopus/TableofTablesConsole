@@ -1,0 +1,52 @@
+{
+d:d10 My cousin told me about...
+i:A child.
+i:A fat merchant{.merchant caravans,.merchant guilds}.
+i:A temple priest{.temples}.
+i:A sailor{.sailors}.
+i:A soldier{.soldiers}.
+i:A magician.
+i:A noble{.nobles,.noble houses}.
+i:A rogue{.rogue missions}.
+i:A crazy monk.
+i:A drunken farmer.
+}
+{
+d:d10 ...and they...
+i:Got drunk.
+i:Got washed out to sea.
+i:Got stuck on a runaway horse{.horses}.
+i:Found an old well.
+i:Disappeared for 3 days.
+i:Found an old tomb{.tombs}.
+i:Met a weird stranger.
+i:Found a magic item.
+i:Were sleepwalking.
+i:Walked off into the forest{.forest,.forest enchanted,.forest haunted}.
+}
+{
+d:d10 ...and discovered...
+i:A new disease{.diseases}.
+i:A powerful artefact.
+i:A cursed item{cursessimple}.
+i:A sleeping monster.
+i:A treasure map.
+i:A hero/villain thought dead, returned to life{.villains}.
+i:A book of secrets.
+i:A key to a vast fortune.
+i:A suppressed truth about the ruling kingdom.
+i:A door to another plane.
+}
+{
+d:d10 ...and now...
+i:People are disappearing!
+i:People are sick!
+i:The king has decreed strange new laws!
+i:The temple has issued strange new tenets!{.temples}
+i:The sun might not come back up!
+i:The moon might fracture!
+i:The world might be invaded!
+i:People are having bad dreams every night!
+i:People are unable to sleep!
+i:People are afraid to come outside!
+}

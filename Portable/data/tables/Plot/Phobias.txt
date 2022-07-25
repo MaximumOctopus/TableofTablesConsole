@@ -1,0 +1,103 @@
+{
+d:d100 Phobias
+i:Sticky Fingers
+i:Long nails
+i:Clacking teeth
+i:Water
+i:Large spaces
+i:Small Spaces
+i:Being crowded
+i:Being alone
+i:Being a tulpa
+i:Clowns, but specifically ones not currently dressed as clowns
+i:Being followed by, but not attacked by, polar bears
+i:Being hated for reasons you were once loved
+i:Falling into a crevasse
+i:Human-like figures
+i:Puppies
+i:Those fish in Korean foot spas
+i:Quilts with mismatching squares
+i:Cat bean toes
+i:Holes
+i:Piles of leaves
+i:People crunching ice cubes
+i:Tadpoles
+i:Human-like animals
+i:Animal-like Humans
+i:C# note
+i:Matryoshka Dolls
+i:Anything spherical 
+i:Religious iconography
+i:The fact so many things taste like chicken
+i:Maths (Common among druids)
+i:Horses (and anything close to them)
+i:Impossible Colors ( Stygian Blue for example) 
+i:The consistency of cottage cheese
+i:Doppelgangers
+i:Fire
+i:Alliteration 
+i:Tiny people living in the walls
+i:Being found dead in an embarrassing position
+i:Dim light, not darkness, just dim
+i:Of being a matryoshka doll
+i:Grease
+i:Spirals
+i:Finding a hole perfect for you
+i:Fish rising from the sea and taking over
+i:Mosquitos 
+i:Things living inside furniture
+i:Skeletons, but only the ones still inside people
+i:Holidays without an apparently religious purpose
+i:Your own reflection
+i:Being selected for an epic quest
+i:Never being selected for an epic quest
+i:Tests of any kind
+i:Eggs
+i:Buer
+i:Attractive doctors
+i:Voiding yourself in public
+i:Any music more energetic than smooth jazz
+i:Aging
+i:Disease
+i:Getting caught in your own web of lies
+i:MEAT
+i:The Unknown
+i:Being controlled
+i:Unpredictable violence
+i:Predictable violence
+i:Descending into madness and not knowing it
+i:Descending into madness and very much knowing it
+i:Death
+i:Perverse jokes
+i:The Dark
+i:Bright Light
+i:Magic (the sleight of hand kind)
+i:Magic (the real kind)
+i:Long words
+i:Short words
+i:Opposable thumbs
+i:The word “It”
+i:Forgetting anything
+i:Losing any part of yourself (skin flakes and snot included)
+i:Not being able to go back to your old career
+i:Having to go back to your old career
+i:Being recognized in a crowd
+i:All of the supposedly good bacteria
+i:The inevitable progression of entropy
+i:The possibility that there is no intrinsic meaning in the world
+i:The possibility there is intrinsic meaning in the world, and you’re wrong about it
+i:The possibility there is intrinsic meaning in the world, and you’re right about it.
+i:Being attacked while bathing
+i:Topiary
+i:Artificial light sources
+i:The eyes on goats, sheep, and octopuses 
+i:The sounds hear in perfect silence
+i:Waking up in an ice bath with missing organs
+i:Waking up in a cornfield with extra organs
+i:Contracts (and probably Lawyers)
+i:Patterns, especially on undergarments 
+i:The sound of bells
+i:Fungi, moulds, and any related by-products
+i:Realizing that you are in a dream but being unable to wake up
+i:Your whole life actually being a game.
+}

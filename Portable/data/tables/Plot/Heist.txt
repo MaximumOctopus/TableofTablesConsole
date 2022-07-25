@@ -1,0 +1,132 @@
+[
+d:The Target is
+]
+{
+d:d6 Target
+i:A magic item
+i:A person (rescue or capture)
+i:Weapon
+i:Piece of art
+i:Reverse-heist; the party has to plant an object
+i:Doesn't matter; the goal is to diminish someone's prestige, so just steal a lot
+}
+[
+d:But here's the sitch: It's guarded by
+]
+{
+d:d6 Guard
+i:Magic
+i:Riddle
+i:Masterwork Lock
+i:Traps
+i:Monster
+i:A rival adventuring party
+}
+[
+d:We're going to do this because
+]
+{
+d:d6 Motivation
+i:Wealth
+i:Thwart evil
+i:Revenge
+i:Prestige/fame
+i:Powerful item
+i:Impress a benefactor
+}
+[
+d:We're being hired because
+]
+{
+d:d6 Benefactor's Motivation
+i:Evil; the party is unwittingly furthering the cause of evil
+i:Red herring; the heist is a distraction from another plot
+i:Betray party; it's a set up!
+i:Test; benefactor wants to test the party before giving them a more important mission
+i:Test; benefactor is sending the party to steal from himself to test his own defenses
+i:Discredit a rival
+}
+[
+d:Unfortunately, there's a wrinkle in the plan
+]
+{
+d:d6 Wrinkle
+i:Time constraint; heist needs to be done too soon for proper planning/prep
+i:Too many innocents; the target is surrounded by bystanders and innocents
+i:The target knows the party's face/names/exploits
+i:If the party is detected, there's a limited amount of time to complete the heist
+i:The target is protected by some kind of shadowy contractor
+i:The target is inherently dangerous to handle
+}
+[
+d:*It will be like a vacation! We get to visit somewhere...
+]
+{
+d:d6 Location
+i:Public; the target is on display, out in the open, like in a museum
+i:Secret; the target is being kept somewhere well hidden
+i:Magical; the target is in a pocket dimension, another plane, or in a dragon's dream
+i:Religious; the target is in a church, cultist hangout, or some other location of religious significance
+i:Inhospitable; the target is on a dangerous plane, in blizzard-wracked mountains, the underdark, or somewhere else where no one wants to go
+i:Important; the target is in a government building, dragon's hoard, or somewhere else that is doubly protected because the location itself is important
+}
+[
+d:You should know this about the target's current owner...
+]
+{
+d:d6 Owner is
+i:Evil
+i:Good
+i:Naive; doesn't know what the object is or if it's dangerous
+i:A thief/adventurer/pirate
+i:An outsider (fiend, celestial, aberration, etc)
+i:A friend from the party's past
+}
+[
+d:We will succeed where others have failed because we've beeen given a...
+]
+{
+d:d6 Advantage
+i:Secret passcode to circumvent some challenges
+i:A magic item to help overcome defenses/obstacles
+i:An infiltration device, like a Ring of Waterbreathing
+i:A mole working from inside the defenses
+i:A distraction to draw defenders/resources away
+i:Surprise; no else is dumb enough to attempt this heist
+}
+[
+d:If we're caught, the defenders will attempt to...
+]
+{
+d:d6 Defender's Method
+i:Kill
+i:Arrest
+i:Add party to the exhibits
+i:Kick party out
+i:Try to buy out the party's loyalty
+i:Destroy the exhibit before it can be stolen
+}
+[
+d:But the party doesn't know something about the target.
+]
+{
+d:d6 Unknown
+i:Trick; the target isn't what the owner or the party thinks it is
+i:Desired by a powerful enemy; the heist upsets something much worse than the previous owner
+i:Fake; the target is a dud
+i:The target wanted to be put on display/captured/heisted
+i:The target is extremely dangerous
+i:The target can't be taken by itself; the party will need to steal more than they bargained for
+}
+[
+d:The target would be impossible to steal, if it wasn't for one weakness...
+]
+{
+d:d6 Weakness
+i:Aquatic; the target's location can be infiltrated by swimming or diving
+i:Arial; the target's location can be infiltration by flying or dropping in
+i:Magical; the target isn't protected against teleportation, or the defendors can be defeated with illusions
+i:Low quality guards; intimidation, bribes, or deception can defeat most of the defendors
+i:A party/event; an invitation or costume can get the party close
+i:The target location shares a wall/compound with a less well defended location (an office attached to a bank, a museum over a tunnel/cave system
+}

@@ -1,0 +1,88 @@
+{
+d:d10 The name of the shop is:
+i:Old Grindylocks
+i:Enchantments and Curses
+i:Fidgety sams Fidgets
+i:Banshees, Bassilisks, and Beholders
+i:Hextech and other magical things
+i:The Crawling Claw
+i:The Fizzling Fireball
+i:The Wild Magic Surge
+i:Feathers of the Phoenix
+i:Michales Magical Accessories
+}
+{
+d:d20 The Shop Is Located:
+i:Underground
+i:In the Slums
+i:In the market
+i:In the tavern cellar{.tavern goings-on}
+i:In the home of a spellcaster
+i:at the docks
+i:on a ship{.ships}
+i:Same building as the sorcerers tavern{.tavern goings-on}
+i:In the arcane district
+i:In the town square
+i:In an alley inhabited mostly by elves{.elves dark,.elves high,.elves wood}
+i:in an alley inhabited mostly by Dwarves
+i:in an alley inhabited mostly by Gnomes{.gnomes}
+i:in an alley inhabited mostly by Tieflings
+i:in an alley inhabited mostly by Goblins{.goblins,.goblin gangs}
+i:In the noble district{.nobles,.noble houses}
+i:At the entrance of the Colloseum
+i:The shop is the wagon of a traveling merchant{.merchant caravans,.merchant guilds,.shops}
+i:On top of a mountain{.mountains}
+i:at the bottom of a river
+}
+{
+d:d10 The shop sells:
+i:Trinkets and Accessories nothing of great power
+i:Potions and poisons{.potions}
+i:Lovepotions, Viagra, and other such things{.potions}
+i:Divinations
+i:Material components for various spells
+i:Spellbooks and Magical Ink
+i:Magical Weapons{.legendary weapons}
+i:Magical Armour
+i:Scrolls
+i:Enchanted animals
+}
+{
+d:d10 The Shop Is Owned By:
+i:And incredibly old Human
+i:A Squirrely Gnome{.gnomes}
+i:A Forgetsome Halfling
+i:A Greedy and Malicious Goblin{.goblins,.goblin gangs}
+i:A Rogue wizard{.rogue missions}
+i:A Fairy
+i:A snobby High Elf{.elves dark,.elves high,.elves wood}
+i:A Wizard who is constantly experinmenting
+i:An efreeti Trying to make a bargain with your soul
+i:A Warrior who knows nothing of magic, but is selling the goods he has acquired over the years
+}
+{
+d:d10 The place looks:
+i:Suspicious
+i:Pristine
+i:Natural
+i:Worn down
+i:Alive
+i:Incredibly small on the inside compared to how it looks on the outside
+i:Incredibly large on the insdide compared to how it looks on the outside
+i:Charred
+i:Frozen
+i:Gleaming
+}
+{
+d:d10 A characteristic of the items sold here is:
+i:They are all in poor shape
+i:They have unknown effects
+i:They are unstable, and might release magical surges on use
+i:They are expired (for example an expired spell)
+i:They are cursed{cursessimple}
+i:They are blessed
+i:The items are all stolen
+i:The items have great histories
+i:The items former owner is still looking for them
+i:The items are ancient
+}

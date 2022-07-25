@@ -1,0 +1,68 @@
+{
+d:d8 You've gotta help me - you see, this Cow, from
+i:My Farm
+i:My Neighbours Farm
+i:The Wilderness
+i:Town
+i:The Next Village
+i:Hell
+i:The Abyss
+i:My Brother's Farm
+}
+{
+d:d10 is undertaking acts of
+i:Arson
+i:Torture
+i:Kidnapping
+i:Corruption in Politics
+i:Treason
+i:Evil Rituals
+i:Thievery
+i:Scheming
+i:Raiding and Pillaging
+i:Murder
+}
+{
+d:d8 at
+i:My Place
+i:The Centre Of Town
+i:The Local Tavern
+i:The Local Church
+i:The Neighbour's Place
+i:The Edge of the Forest
+i:The Cemetary/Graveyard
+i:A nearby village
+}
+{
+d:d8 We tried stopping this cow, but
+i:They outsmart us at every turn
+i:Whenever we think we've cornered it, it escapes
+i:It won the court case, and has legal immunity
+i:It kills anyone who question it
+i:It's protected by an impressive amount of allies
+i:Anyone who stands up to it has a terrible curse bestowed upon them
+i:It just keeps coming back
+i:All of the suspects we capture are just regular cows
+}
+{
+d:d6 Please, you must help us! I'm afraid it might
+i:Breed, and over time generate a race of super cows
+i:Scheme with the other cows in the world and incite a rebellion
+i:Claim a right to the throne
+i:Run in the next election
+i:Eat me
+i:Create a cow mafia that will revolutionise the world
+}
+{
+d:d10 (The Cow is actually a)
+i:Messiah Cow, whos existance is the omen of the end times
+i:Druid, with their own selfish agenda
+i:Commoner from the town who was cursed to be a cow by a Hag
+i:New, dangerous breed of Lycanthrope - A Werecow
+i:An ancient dragon who has been true-polymorphed by a rival
+i:Two Goblins in a "cow" costume
+i:An illusionary cow created by an Aboleth or similar evil creature
+i:An angel, sent to perform a God's deed in secret.
+i:An alien lifeform from a plane far, far away, who is just trying to fit in
+i:A regular, up-to-no-good cow
+}

@@ -1,0 +1,57 @@
+{
+d:d10 The heirloom once belonged to...
+i:The owner's mother
+i:The owner's father
+i:The owner's grandmother
+i:The owner's grandfather
+i:A long lost relative
+i:No one really knows. It has just be passed down
+i:A noble{.Noble}
+i:A foreigner
+i:A god or godess
+i:The family's patron
+}
+{
+d:d12 The heirloom is made of...
+i:Wood
+i:Gold
+i:Silver
+i:Bronze
+i:Copper
+i:Steel
+i:Iron
+i:Mithril
+i:Tin
+i:Adamantine
+i:An unknown material
+i:Brass
+}
+{
+d:d6 ...and is adorned with...
+i:Rubies
+i:Diamonds
+i:Pearls
+i:Gold Filigree
+i:Silver Filigree
+i:Nothing
+}
+{
+d:d6 ...The heirloom's value is...
+i:None. It only has value to its family
+i:None. It doesn't even have value to its family
+i:Only the value of its base components
+i:Moderately valuable
+i:Very valuable
+i:Its value is legendary
+}
+{
+d:d8 The heirloom is special because...
+i:It is magical
+i:It was crafted by a member of the family
+i:It is said to be lucky
+i:It signifies a special event in the family
+i:It signifies a special event in the region
+i:Many rumors surrounds it, none are actually true
+i:No reason, it is just tradition to hand it down
+i:It was blessed by a god
+}

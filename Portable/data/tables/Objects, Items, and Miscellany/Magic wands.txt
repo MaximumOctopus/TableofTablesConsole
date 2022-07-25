@@ -1,0 +1,53 @@
+{
+d:d8 The wand's tip is...
+i:An orb of lightning.
+i:A shard of crystal.
+i:A burning flame.
+i:An orb of obsidian.
+i:A jagged flint tip.
+i:An orb of glass and wind.
+i:Not there, this item is a rod with no tip.
+i:A metal cap (d4): 1. brass; 2. copper; 3. gold; 4. iron; 5. platinum; 6. silver.
+}
+{
+d:d8 The wand's shaft is...
+i:Elm, grown in moonlight.
+i:The horn of a unicorn.
+i:An iron bar.
+i:Oak, strong and firm.
+i:Stone, cool beneath your fingers.
+i:Silver, glinting.
+i:Adamantium.
+i:Not there, this is an orb not a wand{.magic wands}.
+}
+{
+d:d8. The wand is also decorated with...
+i:Mystic runes, that cause pain to look upon.
+i:Small, shining gemstones{gemstones}.
+i:Intricate metal work.
+i:A carved stone eye.
+i:A swirling of wind that surronds the object.
+i:An always glowing light.
+i:Large rough-cut gemstones{gemstones}.
+i:Runes that are warm to the touch.
+}
+{
+d:d6 The creator of this object was...
+i:A god.
+i:An elf{.elves dark,.elves high,.elves wood}.
+i:A dwarf{.dwarves}.
+i:A human.
+i:A half-elf{.elves dark,.elves high,.elves wood}.
+i:A tiefling.
+}
+{
+d:d8 Who...
+i:Was banished for the object's creation.
+i:Was revered for the object's creation.
+i:Was killed for the object's creation.
+i:Was insane.
+i:Went insane.
+i:Was a beacon of goodness.
+i:Was a force of evil.
+i:Had no magical talent.
+}

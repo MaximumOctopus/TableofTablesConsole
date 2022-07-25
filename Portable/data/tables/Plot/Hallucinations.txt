@@ -1,0 +1,103 @@
+{
+d:d100 Hallucination
+i:You are falling
+i:Sugar Plum Fairy
+i:Giant mushrooms
+i:Being chased
+i:Family
+i:Lover
+i:Deepest fear
+i:Talking heads
+i:Dragon
+i:Tall forest
+i:Beach
+i:Fire everywhere
+i:Underwater
+i:Goblin
+i:Woodland creatures
+i:A person in a bunny suit
+i:Band playing music
+i:Powerful magical staff
+i:Crowds of people
+i:Oasis
+i:Pirates in a flying ship
+i:Tea Party
+i:Dog
+i:Giant Gingerbread house
+i:Raining Colors
+i:Butler
+i:Devil
+i:Demon
+i:Flying snakes
+i:Massive flowers
+i:Pixie with heart arrows
+i:Poet
+i:You're made of fluff
+i:Storm
+i:Talking bird
+i:Singing baked goods
+i:Creepy Mansion
+i:Sleigh with reindeer
+i:Pumpkins with faces
+i:Sky is made of vanilla
+i:You're king
+i:Strange obelisk
+i:Talking lion in the sky
+i:Castle made of ice
+i:Mermaid
+i:Swarm of rats
+i:Golden goose
+i:Penguin Armada
+i:Woman with long hair
+i:Frog wearing a crown
+i:Angry Goose
+i:Three piglets
+i:Cat wearing boots
+i:Little girl wearing red
+i:Flying woman with an umbrella
+i:Glowing stag
+i:School of wizardry
+i:Two halflings with a ring
+i:Giant turtle carrying a disk
+i:Wise man in a wide-brimmed hat
+i:Self-playing harp
+i:Young lord fighting a cyclops
+i:Dwarf who's mad at you
+i:Lost famous adventurer
+i:Imaginary friend
+i:Woman with fire for hair
+i:Witty Witch
+i:Cleric asking for donations
+i:Roads bend 90* upwards
+i:Herds of sheep
+i:You're flying
+i:Four humans rolling dice
+i:Floating eyes everywhere
+i:Striped talking cat
+i:Giant magic egg
+i:Furniture going out for a walk
+i:Strawberry field
+i:Inside of a church
+i:Shadowfell
+i:Ghosts
+i:Astral Plane
+i:Childhood memory
+i:Tavern
+i:Crows everywhere
+i:All animals you meet talk
+i:All plants you meet talk
+i:Thousands of soap bubbles
+i:Dining table with a feast
+i:Duplicates of a comrade
+i:Clones of yourself everywhere
+i:Colorful clouds on the ground
+i:Raining meatballs
+i:Army marching
+i:You're wearing a fine suit
+i:Jousting match
+i:Water is floating into the sky
+i:Angel
+i:Evil chicken
+i:Beautiful singing from afar
+i:Neon Elephant Parade
+}

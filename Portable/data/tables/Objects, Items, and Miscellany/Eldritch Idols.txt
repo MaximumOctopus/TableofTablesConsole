@@ -1,0 +1,116 @@
+{
+d:D20 This Idol Resembles:
+i:A piece of cud halfway done being chewed by a cow.
+i:A shard of some great machine’s wreckage.
+i:A squid stuck in a bag made from its own skin.
+i:A set of weaponised genitalia.
+i:A fist sculpted by someone in the middle of having a stroke.
+i:A brain that’s been unfurled along all its folds.
+i:Something like a serpent, or maybe a worm, with eleven necks bearing heads that open like flowers.
+i:A person who’s been turned inside out, curled into a fetal position.
+i:A skull that matches no earthly anatomy or symmetry.
+i:A squat, reptilian grub portrayed in regal repose.
+i:A cylinder marked with cubist, dismembered-and-reassembled facial features, only a few of which are fully human.
+i:An ornamental chalice containing a turbulent ocean frozen mid-wave.
+i:A triple-helix base terminating in an irregular ovoid.
+i:A ziggurat reflected along its base.
+i:A pyramidal volcano mid-eruption.
+i:A sharp-edged, fractal tree.
+i:A centipede with legs that are yet more centipedes, all coiled around and devouring each other.
+i:A half-solved hyper-dimensional puzzle box.
+i:A blankly staring compound eye.
+i:A cluster of tentacles caressing a disembodied hand.
+}
+{
+d:D20	This Idol Is Shaped From:
+i:Petrified meat.
+i:Unmelting ice.
+i:Congealed shadows.
+i:The densely-pressed husks of countless insects.
+i:Hair stiffened by a resinous lacquer.
+i:Yellowed bone and sinews.
+i:A single enormous pearl.
+i:The scab of a creature with black blood.
+i:A greasy, stinking rock.
+i:The pit of a monstrous peach.
+i:Glass that cracks but never shatters.
+i:A lump of hardened mold.
+i:A substance like solid smoke.
+i:A lithopedion.
+i:Fused, half-molten teeth.
+i:A foundation-stone torn up from a lost city.
+i:A grossly thick callous.
+i:Salt-crusted obsidian.
+i:Gold impossibly rusted to a sunset-glow orange.
+i:A pitted, greyish metal that shimmers in light like an oil slick.
+}
+{
+d:D20 This Idol's Power Is:
+i:Corpses in its vicinity spontaneously generate eggs that hatch into monsters that vaguely resemble living versions of the idol.
+i:Anyone who sleeps near it gains no rest, and instead is puppeted through their dreams to build a temple from nearby materials to house the idol. If one is already complete they instead participate in unsettling rites within.
+i:Anyone who spills at least 1 HD of blood (it doesn’t matter who from) on the idol can re-roll a failure that day which involves (1d6): 1, betrayal; 2, darkness; 3, suffocation or swallowing; 4, hunting; 5, secrets; 6, magic.
+i:A random animal species near the idol will gradually grow in intelligence and have their anatomy twisted into a vaguely humanoid posture. Animals so affected become convinced of their divine right to usurp humanity.
+i:Anyone who looks directly at it must save vs. poison or be disabled for a round vomiting (1d4): 1, alien ichor; 2, dust; 3, iridescent fumes; 4, light which illuminates nothing but itself.
+i:Anyone who casts a spell involving (1d6): 1, parasites; 2, cold; 3, souls; 4, decay; 5, enslavement; 6, warping space and time, near the idol has their caster level count as 2 levels higher for that spell.
+i:It is but one part of a great and terrible panoply. Anyone who holds the idol gains a sense for the location of the other objects of this panoply, which are all potent artefacts in their own right.
+i:It subtly increases entropy in its surroundings. People and things fall apart just a little faster, and complex organizations like governments dissolve into chaos.
+i:When the heart of a magic-user (or similarly magical being) is sacrificed to the idol, it summons a guardian which vaguely shares its own aesthetic. This guardian has the same HD and spells as the possessor of the heart that was sacrificed to it, and knows no loyalty save to the idol. Another heart of at least the same HD must be fed to the guardian each month to prevent it from dissolving into protoplasm.
+i:It calls swarms of poisonous and diseased vermin to worship at its base.
+i:The longer it remains motionless, the more it distorts time in the area around itself. Each day (relative to the time outside its influence) that it’s kept still, time moves twice as fast as the outside world, maxing out at 100x the rate 
+i:the passage of time.
+i:Everything within 1 meter of the idol is covered in a fungoid sludge that ruins rations and slowly ruins other supplies. This area of effect doubles every day that it is not moved beyond the area, to a maximum of 1 kilometre.
+i:That spending longer than 1d6 hours within arm’s length of it fucks your afterlife up irrevocably. You’re going to one of those weird alien para-dimensions when you die, no matter what you do.
+i:It’s a bomb. When it’s set off by (1d4): 1, complete immersion in fluid; 2, placement on holy ground; 3, struck by lightning; 4, exposed to dragon-flame, it bursts into reality-distorting static for 6d6 damage (exploding) to everything in a 100 meter radius.
+i:If used to bludgeon someone to death, the bludgeoner swap any one of their attributes for one of the bludgeoned person or creature’s. The exchange lasts one day, and also you will see the being you bludgeoned to death staring accusingly at you when you dream for the rest of your life.
+i:It trembles in the presence of other magic objects. If it touches one, that object is disenchanted as its power is drained to feed the idol. After 2d6 items are drained, an indiscriminately large disaster befalls an enemy (or at least annoying acquaintance) of the person who fed the latest magic item to it. Disasters could include everything from floods to demonic incursions.
+i:Anyone who dies near the idol is preserved eternally in its collective dreamscape. Anyone who sleeps near the idol can access this dreamscape and meet anyone who’s died near it.
+i:The first living thing to touch it in a day must save vs. magic or have their soul torn out of their body to feed the idol.
+i:Once a day at midnight, the idol can be used to open a portal to another world for five minutes.
+i:It is indestructible by mortal means, and anyone who tries to harm it or disrespect it must save vs. magic or be transmuted into a pillar of similar substance to the idol.
+}
+{
+d:D20	This Idol Is Held By:
+i:The cult that shaped it, and worships it as the prison that holds their god and keeps it from feasting on their flesh.
+i:A tomb-raiding archaeologist who was captivated by the idol and tried to keep it secret all these years.
+i:A secret society originally founded to seal it away, but has gradually fallen to veneration of it.
+i:A witch who treasures it above all else in their hoard of foul artefacts.
+i:A decorated war hero who keeps it on their mantle as a trophy.
+i:A street corner preacher wearing it like a phylactery.
+i:A feral child locked in an outwardly pleasant-seeming family’s basement.
+i:An oneiromancer who plucked it from the memory of a dream.
+i:A guildmaster who uses it as a paperweight.
+i:An outlaw gang who semi-ironically use it as a mascot.
+i:A clan of mutants who live in the sewers.
+i:Some corpse-eating ghouls squatting in an ancient prince’s barrow-mound, who found the idol as a grave good.
+i:A temple which mistakenly believes it to depict an aspect of their god.
+i:The hosts of a multi-national martial arts tournament using it as the first-place award.
+i:An idiotic behemoth, who swallowed it thinking it was food. It has been lodged in their intestines for quite some time now, causing them no end of distress.
+i:A gallery which believes the thing to be a work of abstract art.
+i:The vaults of a monastic order, forgotten to all but the lowliest crypt-sweeping acolyte.
+i:A bank, in an anonymous deposit box.
+i:An old hermit who blames it for the deaths of everyone they ever loved.
+i:A farmer who found it buried while ploughing their field, and believes it to be a gift from god.
+}
+{
+d:D20	This Idol Is Sought By:
+i:An obsessive collector of rare antiquities who has driven themself deep into debt in their pursuit.
+i:An amorphous scion of a distant star who believes the idol to be its own rightful property.
+i:A sorcerer who wishes to use it as the centrepiece of a fell ritual.
+i:A shambling revenant stirred from its grave by the idol’s whispers.
+i:An inquisitor who wishes to see it destroyed.
+i:A master thief who wishes to steal it to cultivate their own legend.
+i:Criminally-implicated debt collectors who were promised the idol as collateral in an esoteric deal.
+i:A fairy-lord who appreciates the relative mundanity of its aesthetic.
+i:The intelligent machine which was built to require the idol as the source of its power, and is slowly winding down without it.
+i:A squadron of inhuman golems built of the same material, sent by an unknown party to retrieve it.
+i:A loose-cannon sheriff whose investigations have placed the idol at the scene of many hideous crimes.
+i:Pilgrims of an obscure faith, not to take it, but merely to pay their respects.
+i:Faceless things that disguise themselves as masked carnival-goers to go about humanity.
+i:Stringless puppets that loathe and envy real people.
+i:Creatures spawned from the mind of a psychic locked in an endless nightmare by the idol’s influence.
+i:Millenarian zealots who see it as the key to kicking off the apocalypse.
+i:A tongue-less woman and her erudite ogrish butler.
+i:No one living, though a string of journals have been left behind by failed seekers.
+i:A diabolist who believes they can use it as a negotiating chip with the arch-demon they’re sworn to for more favourable terms of service.
+i:An inbred aristocrat who mistakenly believes it to be a family heirloom.
+}

@@ -1,0 +1,69 @@
+{
+d:d6 Magical Device Mishaps
+i:Nothing happens. You're not sure why. Any further attempts to use the device for the next 24 hours automatically fail, and you trigger a device mishap. (Reroll on this table if you roll a 1 again on subsequent attempts.)
+i:@StoredSpellMishaps
+i:@AlchemicalMishaps
+i:@MechanicalMishaps
+i:(@StoredSpellMishaps) and (@MechanicalMishaps)
+i:(@AlchemicalMishaps) and (@MechanicalMishaps)
+}
+{
+n:StoredSpellMishaps
+d:d20 Stored Spell Mishaps
+i:Befuddled. Your head spins, and you have trouble making sense of your surroundings. You take =1d6 psychic damage, and you have disadvantage on all Intelligence ability checks until you complete a long rest.
+i:Clouded Mind. You have trouble thinking clearly. You have disadvantage on Intelligence and Wisdom saving throws until you complete a long rest.
+i:Explosive boom. The stored spell explodes with a loud bang. You take =1d6 thunder damage, and you are deafened for 1 hour.
+i:Explosive flash. The stored spell explodes in a bright flash. You take =1d6 radiant damage, and you are blinded for 1 hour.
+i:Fiery burst. The stored spell explodes in a fiery burst. You take =2d6 fire damage.
+i:Forceful burst. The stored spell explodes in a burst of force. You take =2d6 force damage.
+i:Icy burst. The stored spell explodes in a burst of frost. You take =2d6 cold damage.
+i:Life drain. The stored spell sizzles with necrotic energy. You take =1d6 necrotic damage, and you cannot regain hit points until you complete a long rest.
+i:Mad twitching. You twitch erratically. You have disadvantage on Dexterity and Charisma saving throws until you complete a long rest.
+i:Magical illness. You feel sick to your stomach. You are poisoned for 1 hour, and you have disadvantage on Constitution and Strength saving throws until you complete a long rest.
+i:Operator spell hazard. The stored spell targets you.
+i:Bystander spell hazard. The stored spell targets a random creature within 30 ft. of you, other than yourself.
+i:Spell burst hazard. The stored spell targets the you and =2d4 creatures within 30 ft. of you.
+i:Empowered spell hazard. The stored spell targets targets a random creature within 30 ft. of you. Any damage the stored spell deals is doubled.
+i:Extended spell hazard. The stored spell targets a random creature within 30 ft. of you. The duration of the spell's effect is doubled.
+i:Operator surge hazard. The stored spell targets you. @StoredSpellMishaps!10
+i:Bystander surge hazard. The stored spell targets a random creature within 30 ft. of you, other than yourself. Apply this effect the creature targeted by the spell: @StoredSpellMishaps!10
+i:Spell burst surge hazard. The stored spell targets you and =2d4 creatures within 30 ft. of you. Apply this effect to each creature targeted by the spell: @StoredSpellMishaps!10
+i:Double trouble operator hazard. Roll =2d4 times on this table using a d10. Apply each effect to yourself.
+i:Double trouble bystander hazard. Roll =2d4 times on this table using a d10. Apply each effect to a random creature within 30 ft. of you, other than yourself.
+}
+{
+n:AlchemicalMishaps
+d:d20 Alchemical Mishaps
+i:Befuddled. Your head spins, and you have trouble making sense of your surroundings. You take =1d6 psychic damage, and you have disadvantage on all Intelligence ability checks until you finish a long rest.
+i:Deathly ill. You take ill, teetering uncomfortably close to death. You take =1d6 necrotic damage, and you cannot regain hit points until you finish a long rest.
+i:Disoriented. You have trouble thinking clearly. You have disadvantage on Intelligence and Wisdom saving throws until you finish a long rest.
+i:Nausea. You feel sick to your stomach. You have disadvantage on Constitution and Strength saving throws until you finish a long rest.
+i:Dizziness. You feel light-headed and unsteady on your feet. You have disadvantage on all Dexterity ability checks until you finish a long rest.
+i:Upset Stomach. You feel very queasy. You have disadvantage on all Strength ability checks until you finish a long rest.
+i:Poison exposure. You are exposed to toxins. You take =1d6 poison damage, and you are poisoned for 1 hour.
+i:Headache. You develop a splitting headache. You have disadvantage on all Intelligence ability checks until you finish a long rest.
+i:Skin irritation. Your skin breaks out in an unsightly rash. You have disadvantage on all Charisma ability checks until you finish a long rest.
+i:Coughing fits. You suffer fits of violent coughing. You have disadvantage on Dexterity and Charisma saving throws until you finish a long rest.
+i:Euphoria. You feel giddy and content. You have disadvantage on all Wisdom ability checks until you finish a long rest.
+i:Extreme Nausea. You feel so sick you can barely stay on your feet. You take =1d6 poison damage. You have disadvantage on all Strength ability checks until you finish a long rest.
+i:Chills. You catch chills and shake uncontrollable. You take =1d6 cold damage. You have disadvantage on all Dexterity ability checks until you finish a long rest.
+i:Accidental fire. You are burned as your reagents catch fire. You take =2d6 fire damage.
+i:Uncontrollable fire. Your reagents catch fire and begin to spread to the vicinity. You take =3d6 acid damage, and each creature within 10 feet of you takes =1d6 fire damage. Flammable objects within 10 feet of you catch fire.
+i:Acid spill. You are splashed with a caustic substance. You take =2d6 acid damage.
+i:Large acid spill. A vat of acid bubbles over violently, corroding everything in the vicinity. You take =3d6 acid damage, and each creature within 10 feet of you takes =1d6 acid damage. Objects within 10 feet of you that cannot withstand corrosion take =1d6 acid damage.
+i:Explosive boom. Your reagents explode with a loud bang. You take =1d6 thunder damage, and you are deafened for 1 hour.
+i:Explosive flash. Your reagents explode in a bright flash. You take =1d6 radiant damage, and you are blinded for 1 hour.
+i:Massive explosion. Your reagents explode in spectacular fashion. You take =2d6 thunder damage, =2d6 radiant damage, and you are blinded and deafened for 1 hour. Additionally, each creature within 15 feet of you takes =1d6 thunder damage and =1d6 radiant damage. Flammable objects within 15 feet of you catch fire.
+}
+{
+n:MechanicalMishaps
+d:d8 Mechanical Mishaps
+i:Jammed gears. A bit of debris has lodged itself between two gears.
+i:Broken gear teeth. One or more teeth have broken off a gear. The gear must be mended or replaced.
+i:Broken belt. A serpentine belt linking several shafts has broken and must be mended or replaced.
+i:Rust. Several moving parts have rusted and must be cleaned and oiled.
+i:Small fire. The oil that lubricates several parts has caught fire.
+i:Broken shaft. A shaft has snapped in two and must be mended or replaced.
+i:Slipped spring. A spring pops free of its proper location in the device. The spring must be replaced.
+i:Loose screw. A screw or bolt has come off, causing two parts that were firmly attached to come apart. The screw or bolt must be replaced.
+}

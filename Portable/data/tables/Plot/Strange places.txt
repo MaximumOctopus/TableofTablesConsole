@@ -1,0 +1,230 @@
+{
+d:d10 - SOURCE
+i:Rumors speak of a
+i:When wanting to scare the children, locals tell an old tale of a
+i:In the corner of the taverns sits a group of pale figures, with low voices they’re talking about a{.tavern goings-on}
+i:Legend speak of a
+i:An old man walking around town speaks of a
+i:Etched into a stone is the warning of a
+i:In the hand of the corpse of a woman along the road is a map with a drawing of a
+i:Nailed to a tree is a small note with a warning to all about a
+i:Underneath a large stone is an weather-worn diary. The last page is about a
+i:Passers-by talk about the disappearance of someone. They mention a
+}
+{
+d:d20 - DESCRIPTOR 1
+i:haunted
+i:cursed{cursessimple}
+i:dark
+i:musty old
+i:ruined
+i:unfinished
+i:hidden
+i:foul smelling
+i:strange
+i:living
+i:shapeshifting
+i:overgrown
+i:ordinary looking
+i:enchanted
+i:strangely alluring
+i:growling
+i:singing
+i:ever burning
+i:hovering
+i:damp
+}
+{
+d:d100 - PLACE
+i:house
+i:villa
+i:small community of houses
+i:estate
+i:castle
+i:fort
+i:fortress
+i:underground complex
+i:temple
+i:monestary
+i:graveyard{.graverobbers}
+i:monument
+i:statue
+i:tree
+i:basement
+i:mausoleum
+i:giant nest
+i:water-mill
+i:granary
+i:workshop
+i:barrack
+i:mansion
+i:warehouse
+i:stable
+i:kennel
+i:sign post
+i:deep hole in the ground
+i:shop{.shops}
+i:marketsplace
+i:ship{.ships}
+i:gate
+i:tower
+i:wall
+i:inn
+i:tavern{.tavern goings-on}
+i:hotel
+i:quarry
+i:mine{.mines}
+i:gate
+i:shrine
+i:door
+i:hatch
+i:ladder
+i:bridge
+i:bedroll
+i:tent
+i:tree house
+i:log cabin
+i:hut
+i:shed
+i:obelisk
+i:monolith
+i:column
+i:city block
+i:guard house
+i:hospital
+i:townhouse
+i:hamlet
+i:community
+i:township
+i:dwelling
+i:park
+i:field
+i:property
+i:area
+i:row of townhouses
+i:lodge
+i:lumber camp
+i:fisherman’s hut
+i:sanctuary
+i:chapel
+i:holy site
+i:crossroads
+i:small sized town
+i:medium sized town
+i:large sized town
+i:small sized settlement
+i:medium sized settlement
+i:large sized settlement
+i:small sized village
+i:medium sized village
+i:large sized village
+i:compound
+i:construction site
+i:gravestone{.graverobbers}
+i:tomb{.tombs}
+i:cairn
+i:mural
+i:garden
+i:greenhouse
+i:observatory
+i:museum
+i:manor
+i:château
+i:palace
+i:citadel
+i:keep
+i:stronghold
+i:den
+i:lair
+}
+{
+i:D20 - DESCRIPTOR 2
+i:long forgotten
+i:long abandoned
+i:with the markings of a terrible beast
+i:with the markings of a group terrible beasts
+i:covered in etchings of dark teachings
+i:with a glowing aura of a silvery light
+i:said to be owned by an old man or woman
+i:said to be the site of a terrible crime
+i:said to be the site of a spell going terribly wrong
+i:letting off the feeling of a strange presence
+i:with the etchings of a dark ritual
+i:said to be home to evil spirits
+i:said to be corrupted by dark forces
+i:said to house something truly abnormal
+i:said to hold a cursed item{cursessimple}
+i:said to be the location of a decadent monthly feast with masked guests
+i:said to be a fantastic place to visit
+i:said to be a place of madness
+i:covered in eldritch symbols
+i:said to be place from where no one ever returns
+}
+{
+d:d20 - AREA - somewhere
+i:within the city wall
+i:not far from town
+i:near the outpost
+i:in the wilderness
+i:in the mountains{.mountains}
+i:in the forest{.forest,.forest enchanted,.forest haunted}
+i:in the ocean
+i:in the swamp{.swamp}
+i:in the desert{.desert,.desert flame-scorched,.desert shadowy}
+i:on the great plains{.plains}
+i:along the coast
+i:along the road
+i:on a magical plane
+i:in a nearby cave
+i:by the lake
+i:below the city
+i:below the mountain{.mountains}
+i:in the neighboring nation
+i:far away
+i:unknown
+}
+{
+d:d10 - SITUATION - If asked further, people will tell you, that
+i:it’s definitely just a myth and you shouldn't worry.
+i:people who’ve seen it are not the same.
+i:it's makes people mad.
+i:it turns people homicidal.
+i:it is also said to hold great treasure.
+i:people who’ve seen it starts rambling in a strange language.
+i:it should be avoided at all cost.
+i:a(nother) strange fellow also asked everyone about it not too long ago. Might have a relation as to why
+i:a group of adventurers went there a few days ago and haven’t been seen since.
+i:the town idiot returned from there and said it’s really isn’t as bad as people say it is. For some reason however,
+}
+{
+d:d6 PERSON
+i:$fantasy, (d6): 1. the captain of the guard; 2. an interested archivist; 3. a visiting noble{.nobles,.noble houses}; 4. a worried local craftsman; 5. the parent of a missing girl; 6. a traveling merchant{.merchant caravans,.merchant guilds}
+i:$fantasy, (d6): 1. the local ruler; 2. a priest at a local temple; 3. a strange man at the inn; 4. a collector of sorts; 5. the child; 6. the blacksmith
+i:$fantasy, (d6): 1. a local noble{.nobles,.noble houses}; 2. a man at the court of the local lord; 3. the gravedigger{.graverobbers}; 4. a local shopkeeper; 5. a local beggar; 6. a random hobo
+i:$fantasy, (d6): 1. another adventurer; 2. a farm boy at a nearby estate; 3. the sheepherder; 4. the librarian; 5. the biologist; 6. a passing traveler
+i:$fantasy, (d6): 1. a breeder of rare birds; 2. a local mason; 3. a famous artist; 4. a failed local artist; 5. an old tinkerer; 6. a hooded stranger
+i:(d6): 1. a stranger whose name is always forgotten; 2. a stranger without a name; 3. a stranger who only communicates in writing; 4. a stranger who just leaves a letter on a PC’s pillow; 5. an old friend of a PC; 6. an eerie faceless person
+}
+{
+d:d20 ACTION
+i:starts crying when asked about the place.
+i:asks of the players to travel there with him.
+i:asks the players to go explore.
+i:asks the players to destroy it.
+i:asks the players to collect something from there.
+i:asks for a souvenir from there.
+i:invites the players to a party, when asked about the place.
+i:faints, when asked about the place.
+i:suddenly disappears, when asked about the place.
+i:starts growling, when asked about the place.
+i:calls the guard, when asked about the place.
+i:hushes on the players and leads them to his/her home, when asked about the place.
+i:tries to kill the players in their sleep.
+i:is seen with a map leading there.
+i:tries to rally people on the street to go there together for some reason.
+i:has covered all the walls of his house with drawings of the place.
+i:starts drooling when asked about the place.
+i:freezes for a second before completely ignoring the players and walking away, when asked about the place.
+i:starts singing and dancing, when asked about the place.
+i:says it’s already too late.
+}

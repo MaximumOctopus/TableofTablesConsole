@@ -1,0 +1,9 @@
+{
+d:d6 Naming Formula:
+i:The @pubnameadjectives @pubnamenoun1
+i:The @pubnamenoun1 and @pubnamenoun1
+i:The @pubnamenoun1 and the @pubnamenoun1
+i:The @pubnamenoun1's @pubnamenoun2
+i:The @pubnamenoun1 and the @pubnamenoun2
+i:The @pubnameverbs @pubnamenoun1
+}

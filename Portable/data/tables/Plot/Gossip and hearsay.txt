@@ -1,0 +1,161 @@
+{
+d:d20 I heard that, [when], ...
+i:a year ago from tonight
+i:one night last month
+i:twice last month
+i:twice last week
+i:one day last week
+i:one night last week
+i:three nights ago
+i:the day before yesterday
+i:the night before last
+i:yesterday morning
+i:yesterday afternoon
+i:just before sunset
+i:after sunset
+i:after nightfall
+i:before midnight
+i:past midnight
+i:in the wee hours
+i:just before dawn
+i:at daybreak
+i:earlier today
+}
+{
+d:d20 [who] ...
+i:the king/queen
+i:a farmer
+i:a merchant{.merchant caravans,.merchant guilds}
+i:a wizard
+i:a soldier{.soldiers}
+i:a cleric
+i:a druid{.druids}
+i:an orphan
+i:a sailor{.sailors}
+i:a thief{.thieves}
+i:a miner{.mines}
+i:a lord
+i:a knight{.knights}
+i:the mayor
+i:an innkeeper
+i:a dwarf{.dwarves}
+i:an elf{.elves dark,.elves high,.elves wood}
+i:a singer
+i:a pirate{.pirates}
+i:a witch{.witches}
+}
+{
+d:d20 ...was seen with [who or what]...
+i:a prostitute
+i:a drunk
+i:an artefact
+i:a talking sword
+i:a Drow
+i:an escaped convict
+i:a vial of poison
+i:a book of spells
+i:a talking animal
+i:a sack of coins
+i:the prince/princess
+i:a fortune teller
+i:an alchemist{.alchemists}
+i:an assassin{.assassins' guilds}
+i:a barmaid
+i:a beggar
+i:a saddled horse{.horses}
+i:a hunting hound
+i:a mule and cart
+i:a fake mustache
+}
+{
+d:d20 ...down near [where]...
+i:the docks
+i:the palace
+i:the crafts guild
+i:the mages guild
+i:the brothel{.brothels}
+i:the merchant quarter{.merchant caravans,.merchant guilds}
+i:the tavern{.tavern goings-on}
+i:the prison{.prisons}
+i:the museum
+i:the asylum
+i:the library
+i:the barracks
+i:the gatehouse
+i:the bridge
+i:the temple{.temples}
+i:the market square
+i:the warehouse district
+i:the garden district
+i:the lighthouse
+i:the riverfront
+}
+{
+d:d20 ...and nearby there was [who or what]...
+i:a dead commoner
+i:a dead monster
+i:an explosion
+i:a bloody weapon{.legendary weapons}
+i:a planar gate
+i:a demon
+i:a vampire{.vampires}
+i:an angry mob
+i:a dead noble{.nobles,.noble houses}
+i:an arcane sigil
+i:a frightened crowd
+i:an angel
+i:a devil
+i:a series of claw marks
+i:a series of scorch marks
+i:an empty vial
+i:a burned book
+i:a werewolf
+i:a ghost
+i:a horde of zombies
+}
+{
+d:d20 I heard it from [whom]...
+i:a shopkeeper
+i:a basketweaver
+i:a grocer
+i:a peddler
+i:a beggar
+i:an urchin
+i:a barkeep
+i:a serving girl
+i:a squire
+i:a musician
+i:a madame
+i:a watchman
+i:a ship's captain{.ships}
+i:a peasant woman
+i:a fisherman's wife
+i:a monk
+i:a sellsword{.sellswords}
+i:a gambler
+i:some guy in a pub
+i:a little bird
+}
+{
+d:d20 ..., so it [veracity].
+i:might be true
+i:must be true
+i:has to be true
+i:can't be true
+i:could be true
+i:is definitely true
+i:may be true
+i:is likely true
+i:is possibly true
+i:is certainly true
+i:is absolutely true
+i:is probably true
+i:is likely partially true
+i:is definitely not true
+i:can't be entirely false
+i:isn't likely false
+i:isn't likely entirely false
+i:might not be true
+i:isn't likely the whole story
+i:is probably just idle gossip
+}

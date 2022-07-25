@@ -1,0 +1,99 @@
+{
+d:d41 You...
+i:abyss-spawned
+i:bent-fingered
+i:cantrip-flinging
+i:dragon-breath{.dragons}
+i:drow-fondling
+i:eye-averting
+i:ghoul-skinned
+i:gnoll-punching
+i:goblin-fiddling{.goblins,.goblin gangs}
+i:knife-eared
+i:hissy fitting
+i:hog-rubbing
+i:hussy up
+i:jaded
+i:lemon-smelling
+i:lentil weaving
+i:limp wrist
+i:moss-growing
+i:Netherese
+i:noggin-filching
+i:numbskulled
+i:otyugh-attracting
+i:pantaloon-gathering
+i:pie-eating
+i:pit-yacking
+i:plonker-waddling
+i:quipper-seething
+i:rubber-faced
+i:slack-jawed
+i:slant-legged
+i:snot-eating
+i:sobbing
+i:spider-licking{.spiders}
+i:bed-staining
+i:stirge-infested
+i:tattling
+i:troll-smelling
+i:turnip-swindling
+i:Weave-breaking
+i:wizened
+i:woggish
+}
+{
+d:d35 ---
+i:black pudding
+i:bugbear
+i:churl
+i:crone
+i:cur
+i:country bumpkin
+i:fomorian
+i:goon
+i:hobgoblin
+i:lob
+i:marmozet
+i:milksop
+i:pillock
+i:pissant
+i:plum
+i:quim
+i:quisling
+i:rapscallion
+i:rascal
+i:scag
+i:scalawag
+i:scamp
+i:schmuck
+i:scoundrel
+i:serf
+i:shrew
+i:simpleton
+i:slag
+i:slubberdegullion
+i:snake-flipper
+i:sonnova yea-sayin' cheapskirt
+i:toe rag
+i:wazzock
+i:wildcat
+i:yokel
+}
+{
+d:d14 ---
+i:who ate all the pies!
+i:with no friends!
+i:who even magic missiles avoid!
+i:that makes trolls seem endearing!
+i:with breath like the south end of a north bound ogre.
+i:who's so filthy even an otyugh would spit you out.
+i:who's so shabbily dressed you look like an orphaned kobold{.kobolds}.
+i:with all the personality of a gelatinous cube.
+i:who's so ugly it looks like you're half way through a polymorph.
+i:that smells like a duergar's beard.
+i:with the conversational skills of an owlbear.
+i:who's as graceful as a one-legged zombie.
+i:with an intellect that couldn't light a candle with a struck match.
+i:who's as useful as a mirror to a vampire{.vampires}.
+}

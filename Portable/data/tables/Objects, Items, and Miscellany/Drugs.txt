@@ -1,0 +1,73 @@
+{
+d:d10 The drug takes the form of
+i:Powder
+i:Crystals
+i:Ointment
+i:Tablets
+i:Leaves
+i:A liquid drink
+i:An injection
+i:available as 2 of the above
+i:Available as 3 of the above
+i:An Inhalant
+}
+{
+d:D10 It is a
+i:Stimulant
+i:Depressant
+i:Hallucinogen
+i:Steroid
+i:Painkiller
+i:Hyper sensitizer
+i:Ability adding (temporary)
+i:Ability removing (temporary)
+i:Sympathetic enhancer (enhances current context of your frame and mood)
+i:Inoculation
+}
+{
+d:d5 It is
+i:Very addictive
+i:Quite addictive
+i:Mildly addictive
+i:Not addictive
+i:Repulsive on dosage
+}
+{
+d:d10 It is popular among the
+i:Nobility/politicians
+i:Homeless
+i:Criminal elements
+i:Youth
+i:Armed forces
+i:Academics
+i:work force/blue collar
+i:Two of the above.
+i:Three of the above.
+i:Psychotics
+}
+{
+d:D10 The side effects are
+i:Often deadly
+i:Somewhat harmful
+i:Mostly harmless
+i:Often beneficial
+i:Somewhat beneficial
+i:Barely beneficial
+i:Reroll per dosage
+i:1 and 4
+i:2 and 5
+i:3 and 6
+}
+{
+d:d10 It is produced using
+i:Common plants
+i:Rare plants
+i:Complex alchemy
+i:Dark magic
+i:Naturally found.
+i:Creature extractions (dead)
+i:Mass manufactured readily available
+i:creature secretions (live)
+i:only available by otherworldly trade
+i:Any two of the above.
+}

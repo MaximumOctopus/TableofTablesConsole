@@ -1,0 +1,125 @@
+{
+d:d20 Find the...
+i:Big cracked boulder.
+i:Lightning-blasted oak tree.
+i:Rock shaped like a horse.
+i:Stone wall with a piece of volcanic glass .
+i:Exact center of the village/town/city.
+i:Statue of a famous person.
+i:Shipwreck of an infamous pirate{.pirates} ship{.ships}.
+i:Bones of the black dragon{.dragons}.
+i:Cavern near the waterfall{.caverns}.
+i:Top of the volcano.
+i:Exact center of the lake.
+i:Abandoned Temple.
+i:Old Fort.
+i:Old Standing Circle.
+i:Road marker leading south.
+i:Exact center of the longest bridge.
+i:Hangman's scaffold.
+i:King's/Queens throne room.
+i:Crossroads.
+i:Largest tomb in the cemetery{.tombs}.
+}
+{
+d:d8 Then...
+i:Go North for 1-4 miles.
+i:Go South for 1-4 miles.
+i:Go East for 1-4 miles.
+i:Go West for 1-4 miles.
+i:Go Northeast for 1-4 miles.
+i:Go Northwest for 1-4 miles.
+i:Go Southeast for 1-4 miles.
+i:Go Southwest for 1-4 miles.
+}
+{
+d:d20 Until you find the...
+i:Mountain shaped like a tooth{.mountains}.
+i:Hill shaped like a saddle.
+i:Cliffs of red stone.
+i:Tiny caves in a white hill.
+i:Old fortress ruins.
+i:Dried up creekbed.
+i:Swift-running river.
+i:Waterfall.
+i:Abandoned village.
+i:Tree with a large hole in it.
+i:Toppled statue of a deity.
+i:Landslide of shale and gravel.
+i:Steep-sided valley with blue flowers.
+i:Beach strewn with black seashells.
+i:Broken remains of a watchtower.
+i:Road marker pointing east.
+i:Dilapidated hunter's shack.
+i:Crossroads.
+i:Hand-cut stairway into the hillside.
+i:The canyon with natural stairs leading down.
+}
+{
+d:d8 Then...
+i:Go North for 1-4 miles.
+i:Go South for 1-4 miles.
+i:Go East for 1-4 miles.
+i:Go West for 1-4 miles.
+i:Go Northeast for 1-4 miles.
+i:Go Northwest for 1-4 miles.
+i:Go Southeast for 1-4 miles.
+i:Go Southwest for 1-4 miles.
+}
+{
+d:d20 Until you find the...
+i:Rock shaped like a heart.
+i:Mountain shaped like a bird's head{.mountains}.
+i:Petrified forest{.forest,.forest enchanted,.forest haunted}.
+i:Salt lake.
+i:Dried up swampland{.swamp}.
+i:Broken bridge.
+i:Old abandoned mill.
+i:The ruined tower of a famous mage.
+i:The ancient cemetery.
+i:The mossy limestone cliffs.
+i:The old granite quarry.
+i:The abandoned campgrounds.
+i:The vandalized statue of a former ruler.
+i:The crossroads.
+i:The road marker pointing West.
+i:Shipwreck of a well-known war ship{.ships}.
+i:Minaret.
+i:Quicksand.
+i:Hills honeycombed with caves.
+i:Old King's Forest{.forest,.forest enchanted,.forest haunted}.
+}
+{
+d:d8 Then...
+i:Go North for 1-4 miles.
+i:Go South for 1-4 miles.
+i:Go East for 1-4 miles.
+i:Go West for 1-4 miles.
+i:Go Northeast for 1-4 miles.
+i:Go Northwest for 1-4 miles.
+i:Go Southeast for 1-4 miles.
+i:Go Southwest for 1-4 miles.
+}
+{
+d:d20 You'll find the treasure...
+i:Buried at the foot of a cliff.
+i:Buried under a mighty oak tree.
+i:Buried under some tower ruins.
+i:Buried under a pile of skulls.
+i:Buried in the grave of a famous person.
+i:Hidden at the top of an old tower.
+i:Hidden behind an old painting.
+i:Hidden at the bottom of an old rabbit's warren.
+i:Hidden in the bole of an ancient elm tree.
+i:Hidden in a shipwreck's hold.
+i:Guarded by assassins{.assassins' guilds}.
+i:Guarded by monsters.
+i:Guarded by soldiers{.soldiers}.
+i:Guarded by spirits.
+i:Guarded by a big monster.
+i:Protected by magical wards.
+i:Protected by astral locks.
+i:Protected by physical traps.
+i:Protected by necromantic curses{cursessimple}.
+i:Protected by spiritual prayers.
+}

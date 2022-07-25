@@ -1,0 +1,98 @@
+{
+d:d2 The noble’s gender is
+i:male
+i:female
+}
+{
+d:d10 The party
+i:finds a hastily scrawled note that used finger tips as the pen and blood as the ink
+i:experiences a vision of the keep and noble has been reoccurring in your dreams{.nobles,.noble houses}
+i:is shown a missing person notice posted by the noble’s family{.nobles,.noble houses}
+i:stumbles upon the keep by chance while out adventuring
+i:overhears a pair of knights recounting their failure in retreat{.knights}
+i:is asked to investigate the keep(er) due to suspicious activity
+i:is stopped by woodland creatures who all begin chattering frantically about the situation
+i:hears gossip in the tavern about the noble’s whereabouts{.nobles,.noble houses,.tavern goings-on}
+i:is told about the scenario by a traveling oracle
+i:is captured and taken by the keeper’s henchmen
+}
+{
+n:damsellocation
+d:d10 The noble is being kept in{.nobles,.noble houses}
+i:a large magnificent castle on the mountainside{.mountains}
+i:a cave burrowed into the side of a hill
+i:a pocket dimension that opens only on the full moon
+i:a sunken castle with an enchantment that permits water breathing inside of it
+i:the brig of a ship anchored just off the coast{.ships}
+i:an abandoned, overgrown temple in the woods
+i:a travelling caravan that is difficult to track down
+i:a crypt hidden beneath a graveyard{.graverobbers}
+i:a magical prison inside an amulet worn by the keeper{.prisons}
+i:a hidden kingdom under the ground
+}
+{
+d:d10 The noble is being held by
+i:an old witch with imps for henchmen{.witches}
+i:a vampire lord with thrall for henchmen{.vampires}
+i:a beholder with nothic henchmen
+i:a bandit lord with bandit henchmen
+i:a green dragon with half-dragon henchmen{.dragons}
+i:a powerful wizard with golem henchmen{.golems}
+i:a medusa with living statues as henchmen
+i:a lich and his skeleton henchmen
+i:a satyr prince and his satyr henchmen
+i:an orc warchief and his orc henchmen{.orcs,.orc warlords,.orkish clans}
+}
+{
+d:d10 The keeper wants
+i:gold in exchange
+i:the noble as a slave{.nobles,.noble houses}
+i:to make a blood sacrifice to their god
+i:to use the noble as bait to lure in more prey{.nobles,.noble houses}
+i:to sell them to the highest bidder overseas
+i:to spark war between nations
+i:the noble as a suitor for their son/daughter{.nobles,.noble houses}
+i:to fill the void in their life that was caused by a loved one dying
+i:to keep the noble even though taking them happened by accident{.nobles,.noble houses}
+i:to fulfill tradition, it’s nothing personal
+}
+{
+n:damselnobel
+d:d10 The noble in question is
+i:beautiful/handsome beyond expression
+i:ugly as sin
+i:quite overweight
+i:much taller than you expected
+i:much shorted than you expected
+i:very thin and looking under-fed
+i:unusually muscular
+i:missing all of their hair
+i:much older compared to their description
+i:completely naked and @damselnobel!9
+}
+{
+d:d10 The real problem is
+i:the noble wants to stay{.nobles,.noble houses}
+i:the noble insists their family doesn’t really want them to come back{.nobles,.noble houses}
+i:the noble has been placed into a catatonic dream state{.nobles,.noble houses}
+i:the noble dies on the way back home{.nobles,.noble houses}
+i:the noble falls in love with a party member and doesn’t want to leave them{.nobles,.noble houses}
+i:the noble is an illusion and is being kept somewhere else: @damsellocation{.nobles,.noble houses}.
+i:there are six nobles who all look similar to the description{.nobles,.noble houses}
+i:the noble is the opposite gender than what you were told{.nobles,.noble houses}
+i:the noble attacks the party in a frenzy and won’t stop until calmed down or knocked unconscious{.nobles,.noble houses}
+i:the noble gets captured again by someone else on the way back [Start over at The damsel is being kept in]{.nobles,.noble houses}
+}
+{
+d:d10 Not until much later the party discovers that
+i:it was the wrong noble. Oops{.nobles,.noble houses}
+i:the noble is a doppleganger looking to infiltrate the family{.nobles,.noble houses}
+i:the family did it as a publicity stunt to gain attention and sympathy
+i:the noble has been getting captured on purpose to escape their family{.nobles,.noble houses}
+i:the family isn’t offering any payment for the noble’s return{.nobles,.noble houses}
+i:someone else is offering more gold for the noble than the family{.nobles,.noble houses}
+i:all members that family the noble belongs to have since died{.nobles,.noble houses}
+i:the noble was likely happier with the keeper{.nobles,.noble houses}
+i:the noble wants to be freed to go where they choose rather than back home{.nobles,.noble houses}
+i:the noble is actually a powerful wizard who invented the whole scenario to see if there is anyone of valor still left in the world{.nobles,.noble houses}
+}

@@ -1,0 +1,275 @@
+{
+d:d20 The item appears to be made of...
+i:rough leather
+i:fine leather
+i:hemp or linen
+i:heavy paper
+i:silk
+i:burlap
+i:a preserved organ
+i:spider silk{.spiders}
+i:mithril chain
+i:human hair
+i:canvas
+i:dragon scales{.dragons}
+i:woven vines
+i:pressed leaves
+i:an old set of bagpipes
+i:a human (or other pc race) skull and/or rib cage{races_core,races_all}
+i:living flesh
+i:cloth of gold
+i:cloth of silver
+i:velvet
+}
+{
+d:d10 The item is of ___ origin...
+i:infernal
+i:celestial{.beasts celestial}
+i:arcane
+i:divine
+i:planar
+i:interdimensional
+i:natural
+i:mundane
+i:miraculous
+i:unknown
+}
+{
+d:d10 The item...
+i:smells strange
+i:is covered in postage stamps/seals
+i:is embossed or embroidered with an ornate design
+i:glows in the dark
+i:has an obvious repair
+i:is made of two different materials (roll twice on the 'appears to be made of...' table)
+i:has more than one compartment (roll internal dimensions for the main pouch twice, but otherwise treat as one item)
+i:requires attunement to use
+i:deals one d-eight bludgeoning damage
+i:is always open
+}
+{
+d:d20 Things that are placed into the item...
+i:grow in size over time
+i:shrink in size over time
+i:are cleaned over time
+i:are dirtied over time
+i:rust over time
+i:age unnaturally quickly
+i:age unnaturally slowly
+i:rot
+i:are preserved
+i:are hot to the touch
+i:are cool to the touch
+i:slowly gain sentience
+i:slowly lose intelligence
+i:change color
+i:lose color
+i:are blessed
+i:are cursed
+i:shine in darkness
+i:absorb light
+i:roll Twice
+}
+{
+d:d10 The item's previous owner...
+i:the bag had no previous owner
+i:threw it away
+i:sold it
+i:lost it gambling
+i:had it stolen
+i:gave it to a friend
+i:died suddenly
+i:is looking for it
+i:knows where it is
+i:is the Big Bad
+}
+[
+d:BAG OF HOLDING DIMENSIONS
+]
+{
+d:d6 On the outside, the bag is roughly ___ feet in diameter at the mouth...
+i:1
+i:1 1/2
+i:2
+i:2 1/2
+i:3
+i:3/12
+}
+{
+d:d6 and ___ feet deep...
+i:2 1/2
+i:3
+i:3 1/2
+i:4
+i:4 1/2
+i:5
+}
+{
+d:d6 It can hold up to ___ pounds...
+i:200
+i:350
+i:500
+i:650
+i:800
+i:1000
+}
+{
+d:d4 Not exceeding a volume of ___ cubic feet...
+i:32
+i:48
+i:64
+i:80
+}
+{
+d:d4 The bag always weighs ___ pounds regardless of its contents
+i:10
+i:15
+i:20
+i:25
+}
+[
+d:HEWARD'S HANDY HAVERSACK DIMENSIONS
+]
+{
+d:d4 Each side pouch can hold ___ pounds of material...
+i:10
+i:15
+i:20
+i:25
+}
+{
+d:d4 not exceeding a volume of ___ cubic feet...
+i:1
+i:1/2
+i:2
+i:2 1/2
+}
+{
+d:d6 The large central pouch can hold up to ___ pounds of material...
+i:50
+i:60
+i:70
+i:80
+i:90
+i:100
+}
+{
+d:d6 or ___ cubic feet...
+i:6 1/2
+i:7
+i:7 1/2
+i:8
+i:8 1/2
+i:9
+}
+{
+d:d4 The haversack always weighs ___ pound regardless of its contents...
+i:2 1/2
+i:5
+i:7 1/2
+i:10
+}
+[
+d:ADVENTURE SEEDS
+]
+{
+d:d20 Congratulations! You found an [insert extradimensional item here]! It contains...
+i:nothing
+i:60ft of rope
+i:a wheel of cheese
+i:a bundle of dried leaves
+i:a mummified bird
+i:a signet ring
+i:thirteen random playing cards
+i:a broken tin whistle
+i:a pair of false teeth
+i:an I.O.U.
+i:a dried-up self-inking quill
+i:a packet of seeds
+i:a brochure from a bank
+i:a knit hat
+i:a handful of diamonds
+i:a single children's shoe
+i:a set of thieves' tools{.thieves}
+i:a half-full thermos of warm tea
+i:the remains of the item's previous owner
+i:another [insert extradimensional item here]
+}
+{
+d:d20 You love your [generic extradimensional doodad]! It's great! But suddenly...
+i:the item begins to emit smoke when open
+i:you have a 25% chance to pull a living fish out of the item instead of whatever you were looking for
+i:any gold stored in the item instantly becomes lead
+i:any gold stored in the item is instantly doubled
+i:a contract appears in the item, claiming that your lease is up, and that all contents of the item will be repossessed as soon as you finish reading this sentence
+i:rations appear in the item every sunrise, and if unconsumed, disappear every sunset
+i:the item begins to emit bright light from the opening when open
+i:a black-hilted dagger and a list of names appear in the item
+i:a love letter from an NPC you've encountered in the past appears in the item
+i:a bejeweled mechanical bird appears in the item. If wound, it casts sleep (as a first level spell) once per day, but affects creatures of the DM's choosing
+i:a cool breeze begins to flow through the item, and creatures left in the item do not suffocate
+i:if thrown or dropped, the item begins to fall so that it points toward something specific
+i:a crystal ball appears in the item, and if touched, is filled with the image of a searching eye
+i:a long, thin needle appears in the item that can be used to expand or alter the item's outside dimensions
+i:a book appears in the item that contains a first level spell you do not know. This spell can be cast once a day.
+i:a set of two six sided dice appear in the item. Once per day, as an action they can be rolled, and if their value equals nine or more, you may immediately take an extra turn
+i:the item begins to make an unignorable high-pitched squeal any time it is open
+i:the inside dimensions of your item have changed, and you must reroll them
+i:the contents of your item have been swapped with those of another pocket dimension
+i:you hear voices from inside you item, and you are surprised to find two halflings rummaging through the contents of your item
+}
+{
+d:d20 You're walking down a forest/desert/city road when out of nowhere!...
+i:a bag of holding appears in your hand
+i:a heward's handy haversack appears on your back
+i:a portable hole appears on the ground
+i:you come across a bag of holding the size of a horse{.horses}
+i:you come across a bag of holding the size of a horsefly
+i:you hear a voice say 'you wanna buy a bag of holding?'
+i:you hear a voice say 'if you've got a bag of holding to sell, I'll make it worth your while..."
+i:a desperate individual asks you if you've seen their bag of holding
+i:a fleeing individual thrusts a bag of holding into your hands
+i:a small creature makes eye contact with you, then disappears into a bag of holding
+i:a distraught individual threatens to throw (what they say is) a bag of holding into (what they claim is) a portable hole
+i:a well meaning individual doesn't understand why they can't put their portable hole into a bag of holding
+i:an emaciated individual appears out of nowhere, and claims a member of your party trapped them in a portable hole
+i:a member of your party appears out of nowhere, and claims that a doppelganger trapped them in a portable hole
+i:a merchant tries to sell you the schematics for an 'arrowhead of total destruction'{.merchant caravans,.merchant guilds}
+i:you come across a plaque commemorating the detonation of an 'arrowhead of total destruction'
+i:you come across a worn blue-painted wooden cabinet with a portable hole on one of the inside walls
+i:an individual who claims to be Heward wants you to fill out a questionnaire about haversacks and their relative handiness
+i:an individual who claims to be Heward asks you to test a new invention he calls Heward's Handsome Hat
+i:you come across what you believe to be bag of holding, but is actually a mimic. Oh no!
+}
+{
+d:d6 You come across a bag of holding the size of a house. The opening is...
+i:open, and you can see inside
+i:open, but dark
+i:open, but barred by a large gate or door
+i:open, but sealed by a wall or rocks
+i:closed, but easily opened
+i:closed, and not easily opened
+}
+{
+d:d20 the inside of the bag is...
+i:a house, complete with chimney, porch and cellar. It is very slightly larger on the inside than is on the outside
+i:full of rations, coins and other mundane items, but much larger than you're used to seeing
+i:full of rations, coins and common magical items, but much larger than you're used to seeing
+i:the entrance to a series of caves and caverns that would otherwise be impossible in the area you're in{.caverns}
+i:a facility for the care and maintenance of pocket dimensions. The interior is seemingly infinite, but the opening is always a few steps away
+i:a small kingdom. The entrance is guarded by individuals in heavy armor
+i:a large shop{.shops}
+i:seemingly empty
+i:seemingly full, but everything is actually an illusion
+i:smaller on the inside than it is on the outside
+i:another universe, seemingly of equal size and complexity as the one you came from
+i:another universe, but everything is slightly smaller than it is in the one you came from
+i:another universe, but everything is slightly larger than is is in the one you came from
+i:another universe, but everything is wildly disproportionate
+i:full of dinosaurs, swamps, and palm trees{.swamp}
+i:an arid vacuum. In the distance you can see stars, planets and endless darkness
+i:an academy
+i:a desert island in a vast sea
+i:an ornately decorated bedroom
+i:a fully stocked torture chamber
+}

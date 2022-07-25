@@ -1,0 +1,45 @@
+{
+d:d8 Category. What’s growing inside?
+i:Reptilian (d6): 1. Basilisk; 2. Naga; 3. Hydra; 4. Wyvern; 5. Giant Lizard; 6. Giant Snapping Turtle.
+i:Snake (d8): 1. Amphisbaena; 2. Behir; 3. Flying Snake; 4. Giant Constrictor Snake; 5. Giant Poisonous Snake; 6. Jaculi; 7. Couatl; 8. Giant Coral Snake.
+i:Mammalian (d4): 1. Pegasus; 2. Peryton; 3. Owlbear; 4. Manticore.
+i:Water (d6): 1. Kraken; 2. Dragon Turtle; 3. Giant Crab; 4. Hulking Crab; 5. Giant Sea Eel; 6. Giant Electric Eel.
+i:Avian (d12): 1. Giant Owl; 2. Giant Eagle; 3. Roc; 4. Cockatrice; 5. Harpy; 6. Griffon; 7. Hippogriff; 8. Axe Beak; 9. Blood Hawk; 10. Hook Horror; 11. Eblis; 12. Quetzalcoatlus.
+i:Dinosaur (d12): 1. Allosaurus; 2. Ankylosaurus; 3. Brontosaurus; 4. Deinonychus; 5. Dimetrodon; 6. Hadrosaurus; 7. Plesiosaurus; 8. Pteranodon; 9. Stegosaurus; 10. Triceratops; 11. Tyrannosaurus Rex; 12. Velociraptor.
+i:Dragon (d12): 1. Black; 2. Blue; 3. Brass; 4. Bronze; 5. Copper; 6. Faerie; 7. Gold; 8. Green; 9. Pseudodragon; 10. Red; 11. Silver; 12. White.
+i:Insectoid (d8): 1. Ankheg; 2. Carrion Crawler; 3. Giant Scorpion; 4. Purple Worm; 5. Remorhaz; 6. Umber Hulk; 7. Giant Spider; 8. Ettercap.
+}
+{
+d:d6 Coordinates. Where must this egg be brought to hatch?
+i:Underground/Underwater.
+i:A mountain aerie.
+i:A specific geographic location (d6): 1. The equator; 2. The meridian; 3. The north pole; 4. The south pole; 5. The world’s highest point; 6. The world’s lowest point.
+i:A sacred ___________ (d6): 1. Grove; 2. Island; 3. Oasis; 4. Temple; 5. Cave; 6. Pool.
+i:A volcano.
+i:Anywhere. No special location is required.
+}
+{
+d:d4 Company. Who or What must be present for the egg to hatch?
+i:Its mother.
+i:Its preferred food or prey.
+i:At least one cultist or worshipper.
+i:No one. It must be alone.
+}
+{
+d:d6 Circumstance. What must happen to trigger the hatching?
+i:A ritual.
+i:An astrological event (d4): 1. a shooting star; 2. a new moon; 3. a planetary alignment; 4. an eclipse.
+i:A natural phenomena (d6): 1. a thunderstorm; 2. an earthquake; 3. a volcanic eruption; 4. high tide; 5. a blizzard; 6. a tornado.
+i:It must be incubated for 1d6 weeks.
+i:It must be dropped from a great height.
+i:Nothing in particular.
+}
+{
+d:d6 Consequence. What happens upon its hatching?
+i:It explodes in a fireball, which is centred on itself.
+i:The hatchling imprints on the first creature it sees, and believes that creature to be its primary caretaker.
+i:The hatchling attempts to kill and eat the first creature it sees.
+i:It bursts into flame momentarily, burning off the albumen.
+i:A magical effect: anyone nearby must succeed on a DC10 Wisdom Save against being _________ (d4): 1. Charmed; 2. Frightened; 3. Blinded/Deafened; 4. Stunned.
+i:It flees.
+}

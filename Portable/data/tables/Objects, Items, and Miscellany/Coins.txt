@@ -1,0 +1,91 @@
+{
+d:d10 Material
+i:Gold
+i:Silver
+i:Copper
+i:Brass
+i:Obsidian
+i:Wood
+i:Ivory
+i:Ceramic
+i:Bone
+i:Carved clam/oyster shells
+}
+{
+d:d10 Size and Shape
+i:Thin coins 1 inch across
+i:Fat Coins almost 2 inches across
+i:Tiny Coins less than 1/2 inch across
+i:Square Coins that don't fit a common measure
+i:Rectangular chits 2 inches long
+i:Fat Coins about 1 inch across
+i:Eight sided coins 1 inch across
+i:Round coins with a 1/2 inch hole in the center
+i:Crescent shaped coins with dull points
+i:Tiny coins with irregular edges
+}
+{
+d:d10 Markings
+i:A face
+i:A flag
+i:A geometric pattern
+i:A slogan
+i:A numerical value
+i:A line for splitting
+i:A crown
+i:A city
+i:A ship{.ships}
+i:A crest
+}
+{
+d:d10 The coins value is defined as...
+i:It's weight of metal
+i:A barrel of water
+i:One mile of tolls on the king's road
+i:One deer hide
+i:It's weight in gold
+i:Two of a smaller coin
+i:A day's wages for a soldier{.soldiers}
+i:A bushel of wheat
+i:An hour of air in an underwater kingdom
+i:A yard of common cloth
+}
+{
+d:d10 Age
+i:Newly minted
+i:Current
+i:Current, but out of circulation
+i:Old
+i:Old and corroded
+i:Ancient
+i:Ancient, and concreted together with other coins
+i:Current, but from another plane
+i:Old, and from a distant land
+i:Ancient, and from a long forgotten empire
+}
+{
+d:d10 The coin is valuable for other reasons because...
+i:it is highly valued by collectors.
+i:it was only minted during a short time frame.
+i:it depicts a famous symbol.
+i:it isn't.
+i:it is from the reign of the last king.
+i:it was minted by a long dead people.
+i:it is common in the realm.
+i:it is the only remaining trace of a lost empire.
+i:it was minted in a distant land.
+i:it is made from a material rare in this area.
+}
+{
+d:d10 A mixed hoard of coins contains...
+i:Identical copies of the same coin, all minted in the same place.
+i:Coins of various sizes, made of the same metal, and with similar markings, likely minted in the same place.
+i:Coins of various shapes, made of different metals, and with similar markings, likely minted in the same place.
+i:Mostly identical copies of the same coin with a handful of others mixed in.
+i:Mostly coins with similar markings, with a few foreign coins mixed in.
+i:A mixed bag of coins from all over the world.
+i:A box of rare coins from far away along with many common coins of the realm.
+i:A set of chits with a value in coins redeemable on their face mixed among the coins.
+i:A pile of coins corroded over time into one large mass.
+i:A charred bag of soot stained coins.
+}

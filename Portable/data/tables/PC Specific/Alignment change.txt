@@ -1,0 +1,16 @@
+[
+d:As a result of a forced alignment change against a character’s will, they must adopt one of the following affectations as a means of coping. The effects of the table must be roleplayed faithfully, and last indefinitely (at the DM’s discretion). Alternatively, you (the player) may propose an affectation that is suitably penalizing, but more appropriate to your character’s personality, if you wish. Roll 1d10 and adopt the affectation that corresponds below.
+]
+{
+d:d10 Coping Mechanism after Alignment change
+i:Trauma - You are thoroughly unable to cope. You suffer a mental breakdown. Remove 1 point from your choice of INT, WIS or CHA and suffer incurable Exhaustion for =1d4 days.
+i:Alcoholism - You cope by drowning your qualms in the bottle. In addition to your daily ration, you must consume at least 4oz of spirits or 24oz of any other alcoholic beverage. Both doing so and failing to do so incur penalties at the DM’s discretion.
+i:Insomnia - Your attempts to cope take a toll on the solace of your sleeping hours. Add 1 hour to the time it takes you to complete a long rest, and roll 1d20 at the beginning of each day. On a 1, you become Exhausted for the entirety of the day.
+i:Rage - You stoke your affectation with bitterness. You are easily angered, and whenever a creature deals at least 1 point of damage to you, you may only take actions that work toward the goal of dealing at least 1 point of damage to it.
+i:Nihilism - You abandon your preconceptions of good and evil to seek peace. You can neither give nor receive Inspiration Dice of any value.
+i:Mania - You cope by compartmentalization. Your inner dialogue is at times...distracting. You become antiproficient in the Persuasion, Deception, and Intimidation skills (if you were proficient, you only lose this proficiency).
+i:Penance - The blood of the body shallt purify the soul. At the beginning of each day, roll 1d6. On an odd roll, you use the weapon of your choice to make an attack against yourself, which always hits. You emphatically refuse any attempts to heal this damage, until you take at least 1 point of damage from a different source.
+i:Narcissism - Your choices begin to make sense through rationalization. You act selfishly, and refuse to move first in combat. Subtract 1d8 from every Roll for Initiative you make. If you would still act before any ally, you skip your first turn.
+i:Despondence - Unable to cope, you wallow in the weight of your actions. You receive up to two despair dice each day, to be given at your DM’s behest, and applied immediately.
+i:Resolution - You can learn from this. You can be a better person. Add 1 point to your choice of INT, WIS or CHA. If you do anything your character would consider sinful (drink, drug, carousel, etc.) you suffer 1d8 despair dice, at the discretion of your DM
+}

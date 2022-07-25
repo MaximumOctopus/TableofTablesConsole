@@ -1,0 +1,96 @@
+{
+d:d10 Heroes are required! You must stop the
+i:Monster
+i:King
+i:Thief
+i:Villain
+i:Peasant
+i:Cow
+i:Wizard
+i:Cultists
+i:Pixies
+i:Dragon
+}
+{
+d:d10 from
+i:Destroying the town
+i:Torturing someone
+i:Holding someone prisoner
+i:Gaining an unlikely ally
+i:Having a falling out with an old friend
+i:Betraying his superiors
+i:Stealing
+i:Hatching a crazy plan
+i:Search for a certain someone
+i:Bestowing a curse
+}
+{
+d:d8 before they
+i:Discover the location of the dungeon
+i:Find the artifact
+i:Realise it's all an illusion
+i:Discover how easy being evil is
+i:Become addicted to causing pain
+i:Lose their temper
+i:Learn that they had been lied to
+i:Know that I am the one they want
+}
+{
+d:d12 or else
+i:they will destroy the world
+i:we all will die
+i:we're all doomed
+i:There'll be no more vegetable contests
+i:I wont have any money to pay you
+i:The entire town will starve
+i:War will break out
+i:Alliances will fall
+i:A civil war will erupt
+i:We will see a string of murders
+i:Our gods will no longer protect us
+i:A new power will rise
+}
+{
+d:d6 But if you
+i:Travel to
+i:Avoid
+i:Seek
+i:Make an ally in
+i:Meet the stranger in
+i:Retrieve the magic item from
+}
+{
+d:d8 the
+i:Meddling Kids
+i:Town Watch
+i:forest
+i:river
+i:fortress
+i:king
+i:volcano
+i:villain's lair
+}
+{
+d:d8 you will find
+i:a way to increase your power
+i:knowledge
+i:valuable insight
+i:a way to steel your defences
+i:that you can increase your travelling speed
+i:a shortcut
+i:out the foe's weakness
+i:out who the foe's allies are
+}
+{
+d:d10 which will
+i:Help you save the day
+i:Prepare you for the pain
+i:Make you immune to the magic
+i:Give you a plan B
+i:Consolidate any losses
+i:Reward you greatly should you succeed
+i:Etch your name in history
+i:Give you an edge
+i:Give you some time to spare
+i:Allow you to plan your arrival
+}

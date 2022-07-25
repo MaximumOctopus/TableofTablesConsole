@@ -1,0 +1,103 @@
+{
+d:d100 This vendor is selling…
+i:Ale by the pint.
+i:Amulets and totems.
+i:Apples.
+i:Attractive young slaves (bedmates).
+i:Axes and hammers.
+i:Bearskin rugs and capes.
+i:Beer by the barrel.
+i:Biscuits and rolls.
+i:Blankets and pillows.
+i:Blessings.
+i:Bouquets of flowers.
+i:Bows and arrows.
+i:Brass candlesticks, plates, and lamps.
+i:Brass horns and flutes.
+i:Cabbages.
+i:Candles and candlesticks.
+i:Carrots.
+i:Carved stone figures.
+i:Carved wooden figures.
+i:Ceramic vases and cups.
+i:Cheap jewelry and trinkets.
+i:Cherries.
+i:Clay pots, bowls, cups, and vases.
+i:Coal.
+i:Copper bowls, spoons, kettles, cups.
+i:Corn on the cob.
+i:Cotton shirts and pants.
+i:Dogs and cats.
+i:Domestic slaves (maidservants).
+i:Dried fish.
+i:Dried herbs.
+i:Dried venison.
+i:Dried whole grain.
+i:Drums and bells.
+i:Exotic spices.
+i:Exotic teas.
+i:Firewood.
+i:Flower seeds.
+i:Foreign books.
+i:Foreign coins.
+i:Fresh bread.
+i:Fresh fish.
+i:Fruit pies.
+i:Glass bottles, jars, vials, and cups.
+i:Hardy slaves (laborers).
+i:Hot soup.
+i:Iron candlesticks and tools.
+i:Iron pots and pans.
+i:Knives, forks, spoons and cooking utensils.
+i:Lamps, lanterns, and oil.
+i:Leather boots and caps.
+i:Live poultry.
+i:Lutes and fiddles.
+i:Manure.
+i:Meat pies.
+i:Medicinal teas.
+i:Onions.
+i:Pears and plums.
+i:Perfumes and scented oils.
+i:Piglets.
+i:Poisons and remedies.
+i:Polished stones and crystals.
+i:Potatoes.
+i:Potions.
+i:Potted herbs.
+i:Quarrels and crossbows.
+i:Rats and pigeons.
+i:Rope.
+i:Rough-cut gems.
+i:Saddles and bridles.
+i:Salted pork.
+i:Saplings.
+i:Scented candles.
+i:Seasonal berries.
+i:Shields and helms.
+i:Shiny leather shoes.
+i:Silk shirts and scarves.
+i:Snakeskin boots.
+i:Soap.
+i:Stone-ground flour.
+i:Sturdy leather shoes.
+i:Swords and spears.
+i:Tables and chairs.
+i:Tankards and mugs.
+i:Tarot readings.
+i:Torches and rations.
+i:Traditional spices.
+i:Turnips.
+i:Used books.
+i:Used horses and ponies.
+i:Wagons and carts.
+i:Waterskins and wineskins.
+i:Whale oil.
+i:Wine by the barrel.
+i:Wine by the bottle.
+i:Wolfskin rugs and capes.
+i:Wooden-soled shoes.
+i:Wool shirts and caps.
+i:Woven baskets.
+i:Young horses and ponies.
+}

@@ -1,0 +1,96 @@
+{
+d:d20 The poison will cause or induce...
+i:Wounds to bleed more profusely.
+i:A splitting headache.
+i:Aches all over the body.
+i:Infection in and near open wounds.
+i:Fever and chills.
+i:Airway constriction and/or shortness of breath.
+i:Excess mucus production, making breathing difficult.
+i:Blurry vision and/or blindness.
+i:A painful rash.
+i:Itchy hives.
+i:Loss of coordination and/or impaired walking.
+i:Weakness in limbs and/or exhaustion.
+i:Nausea and/or indigestion.
+i:Vomiting and/or diarrhea.
+i:Drowsiness and/or loss of consciousness.
+i:Memory loss.
+i:Inability to focus and/or to think clearly.
+i:Nightmares and/or hallucinations{.nightmnres}.
+i:Paranoia and/or insomnia.
+i:Impotence, infertility, and/or miscarriage.
+}
+{
+d:d12 The poison is...
+i:A thick paste.
+i:A thin paste.
+i:A flaky powder.
+i:A fluffy powder.
+i:Made of fine crystals.
+i:Made of coarse crystals.
+i:A pungent potion{.potions}.
+i:A fragrant potion{.potions}.
+i:An odorless potion{.potions}.
+i:A foul-smelling potion{.potions}.
+i:An oily liquid.
+i:A thick, gloopy liquid.
+}
+{
+d:d12 The poison's color is...
+i:Pale green.
+i:Dark green.
+i:Blue green.
+i:Olive green.
+i:Yellow.
+i:Red.
+i:White.
+i:Grey.
+i:Brown.
+i:Black.
+i:Blue.
+i:Violet.
+}
+{
+d:d20 The main ingredient is harvested from...
+i:A basilisk or cockatrice.
+i:A centipede.
+i:A demon.
+i:A devil.
+i:A dragon or wyvern{.dragons}.
+i:A drider or ettercap.
+i:A flower or fruit.
+i:A fungus or ooze{.oozes}.
+i:A jellyfish or coral.
+i:A leaf or grass.
+i:A medusa or naga.
+i:A metal or salt.
+i:A mushroom or mold.
+i:A myconid or shrieker.
+i:An otyugh or carrion crawler.
+i:A scorpion.
+i:A nut or seed.
+i:A root or tree bark.
+i:A snake.
+i:A spider{.spiders}.
+}
+{
+d:d8 The poison is prepared by...
+i:Boiling slowly.
+i:Boiling rapidly.
+i:Brining.
+i:Burning
+i:Desiccating.
+i:Fermenting.
+i:Roasting.
+i:Smoking.
+}
+{
+d:d6 The poison is most effective when...
+i:Ingested with food{.food}.
+i:Ingested with alcohol.
+i:Inhaled deeply.
+i:Spread over a large area of the skin.
+i:Applied to a weapon that pierces the flesh{.legendary weapons}.
+i:Applied to a weapon that slashes the flesh{.legendary weapons}.
+}

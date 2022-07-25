@@ -1,0 +1,49 @@
+{
+d:d10 On a successful pickpocket check, the thief finds...
+i:A scrap of paper or parchment with an unintelligible note scribbled on it.
+i:A scrap of paper or parchment with a list of mundane items or tasks written on it.
+i:Some lint or a bit of thread.
+i:An errant button or broken piece of something.
+i:An old or well-worn key: @keys
+i:An new or little-used key: @keys
+i:A clean handkerchief: @handkerchiefs
+i:A soiled handkerchief: @handkerchiefs
+i:A score @scoretable
+i:A score @scoretable and @scoretable
+}
+{
+n:keys
+d:d6 The key is...
+i:A small brass key.
+i:A large brass key.
+i:A thin brass key.
+i:A heavy iron key.
+i:A spindly iron key.
+i:Made of an unusual material (d6): 1. bone; 2. bronze; 3. gold; 4. oak; 5. silver; 6. stone.
+}
+{
+n:handkerchiefs
+d:d6 The handkerchief is...
+i:A fine silk handkerchief.
+i:A simple cotton handkerchief.
+i:A lacy handkerchief.
+i:A threadbare handkerchief.
+i:A striped handkerchief.
+i:A spotted handkerchief.
+}
+{
+n:scoretable
+d:d12 The thief scores...
+i:=2d4 cp.
+i:=3d6 cp.
+i:=1d6 sp.
+i:=1d6 sp plus =1d10 cp.
+i:=2d6 sp.
+i:=2d6 sp plus =1d10 cp.
+i:=1d4 gp.
+i:=1d4 gp plus =1d10 sp.
+i:=2d4 gp plus =1d10 sp.
+i:A gem{gemstones} or small piece of jewelery worth =5d10 gp.
+i:A gem{gemstones} or small piece of jewelery worth =10d10 gp.
+i:=1d6 gp and @scoretable
+}

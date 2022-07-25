@@ -1,0 +1,216 @@
+{
+d:d12 This game is played with...
+i:A deck of over 100 cards.
+i:A deck of 53 cards.
+i:A deck of 52 cards.
+i:A deck of 24 cards.
+i:A deck of 22 cards.
+i:A deck with a variable number of cards.
+i:A pair of dice.
+i:Several dice.
+i:Several dice, pencils, and paper.
+i:One or two dice and a board with pieces.
+i:A board with sets of matching pieces.
+i:A board with sets of individual pieces.
+}
+{
+d:d12 In this game...
+i:Players have the opportunity to bet once on each player's turn.
+i:Players have several opportunities to bet on each player's turn.
+i:Players have several opportunities to bet each round.
+i:Players must bet before the round is played.
+i:Players must bet before the game begins.
+i:Spectators bet as often as players do.
+i:Spectators typically place bets before the game begins.
+i:Spectators often place bets while the game is in progress.
+i:Cheating is extremely rare or impossible.
+i:Cheating is difficult, and often occurs with the help of someone else in the room.
+i:Cheating is common.
+i:Cheating is encouraged.
+}
+{
+d:d12 This game is known for...
+i:High stakes gambling.
+i:Low stakes, social gambling.
+i:Its simple set of rules.
+i:Its complicated set of rules.
+i:The ease with which anyone can learn to play.
+i:Its class of expert players and their elaborate strategies.
+i:A celebrated instance of cheating that launched a war.
+i:A celebrated instance of cheating that prevented a war.
+i:A legendary match involving a king or queen.
+i:A legendary match involving a witch or wizard{.witches}.
+i:A storied bet where the loser faced a monster (d8): 1. aberration with many eyes; 2. dragon{.dragons}; 3. demon; 4. devil; 5. elemental; 6. kraken; 7. lich; 8. vampire{.vampires}.
+i:A storied bet in which the winner took something from the loser (d8): 1. airship; 2. ancient text; 3. castle; 4. keys to the city; 5. magic sword; 6. magic wand{.magic wands}; 7. princess; 8. treasure hoard.
+}
+{
+d:d12 The game is popular among...
+i:Sailors and pirates{.pirates}.
+i:Fishermen and dockworkers.
+i:Thieves and knaves{.thieves}.
+i:Knights and lords{.knights}.
+i:Peasants.
+i:Dwarves{.dwarves}.
+i:Miners and smiths{.mines}.
+i:Goblins and hobgoblins{.goblins,.goblin gangs}.
+i:Elves{.elves dark,.elves high,.elves wood}.
+i:Noblewomen{.nobles,.noble houses}.
+i:Masons and stonecutters.
+i:Mages and priests.
+}
+{
+d:d12 The game originated...
+i:Long ago in this region.
+i:Long ago in a foreign land.
+i:Long ago in an unknown location.
+i:In the recent past in this region.
+i:In the recent past in this very room.
+i:In the recent past in a foreign land.
+i:Down along the docks of a bustling port city.
+i:In a quaint country inn.
+i:In rough-and-tumble urban tavern{.tavern goings-on}.
+i:Along a trade route to an exotic land.
+i:In the court of a mighty king or queen.
+i:In the mind of a half-mad wizard.
+}
+[
+d:CARD GAMES
+]
+{
+d:d8 On each turn, the player...
+i:Plays a card from his or her hand face up or face down on the table.
+i:Draws one or more cards from a personal deck.
+i:Draws one card from a community deck.
+i:Draws a card from a community deck if he or she has no other plays.
+i:Places a card from his or her hand into the discard pile.
+i:Lays down a pair, a three or four of a kind, or a straight on the table.
+i:Lays down a card to build threes and fours of a kind or straights on the table.
+i:Draws one or more cards from a personal deck.
+}
+{
+d:d8 To win the game, a player must...
+i:Play all the cards in his or her hand.
+i:Be holding the highest score at the end of the hand.
+i:Be holding the score closest to a target score.
+i:Hold all the cards in the deck.
+i:Win the most tricks over the course of a round.
+i:Be holding the lowest score at the end of the hand.
+i:Bluff and bet their way to having the lowest scoring hand.
+i:Bluff and bet there way to being the highest scoring hand.
+}
+{
+d:d8 The highest card or hand is called...
+i:The dragon{.dragons}.
+i:The lord.
+i:The crown.
+i:The queen.
+i:The alchemist{.alchemists}.
+i:The knight{.knights}.
+i:The champion.
+i:The eagle.
+}
+{
+d:d8 The lowest card or hand is called...
+i:The worm.
+i:The beggar.
+i:The rat{.rats}.
+i:The fool.
+i:The crone.
+i:The devil.
+i:The villain{.villains}.
+i:The pigeon.
+}
+[
+d:DICE GAMES
+]
+{
+d:d8 On each turn, the player...
+i:Rolls once.
+i:Rolls twice, keeping the better results.
+i:Rolls once or twice, keeping the second result on a reroll.
+i:Rolls at the same time as other players.
+i:Rolls and hides the results from other players.
+i:Rolls and hides the results from him- or herself and from other players.
+i:Rolls and hides the results from him- or herself but not from the other players.
+i:Rolls and waits for an arbiter to make a ruling.
+}
+{
+d:d8 To win the game, a player must...
+i:Have rolled the highest score in play.
+i:Roll the highest possible score.
+i:Roll the lowest possible score.
+i:Have rolled the lowest score in play.
+i:Achieve a target score over the succession of many rolls.
+i:Outscore his or her opponents over the succession of many rolls.
+i:Bluff and bet their way to having the lowest remaining score.
+i:Bluff and bet there way to being the highest remaining score.
+}
+{
+d:d8 The highest roll is called...
+i:The dragon{.dragons}.
+i:The keep.
+i:The warship.
+i:The maiden.
+i:The thunder.
+i:The shark.
+i:The tower.
+i:The sorcerer.
+}
+{
+d:d8 The lowest roll is called...
+i:The snake.
+i:The thief{.thieves}.
+i:The dinghy.
+i:The hag.
+i:The ghost ship{.ships}.
+i:The tuna.
+i:The pits.
+i:The demon.
+}
+[
+d:BOARD GAMES
+]
+{
+d:d8 On a typical turn, the player...
+i:Moves one of his or her pieces on the board.
+i:Places a piece on the board.
+i:Moves two or more of his or her pieces on the board.
+i:Places two or more pieces on the board.
+i:Removes one or more of his or her opponent's pieces by encircling it or flanking it.
+i:Halts his or her opponent's progress by encircling or flanking one or more of the opponent's pieces.
+i:Converts one or more of his or her opponent's pieces by encircling it or flanking it.
+i:Moves his or her piece closer to a destination space on the board.
+}
+{
+d:d8 To win the game, a player must...
+i:Capture all of his or her opponents pieces.
+i:Kill all of his or her opponents pieces.
+i:Race his or her opponent's pieces through a labyrinth of obstacles.
+i:Maneuver pieces to the far side of his or her opponent's territory.
+i:Capture his or her opponent's headquarters.
+i:Kill his or her opponent's commanding piece.
+i:Score points while navigating pieces through a labyrinth.
+i:Claim territorial positions with pieces before his or her opponent does.
+}
+{
+d:d8 The most powerful piece or winning maneuver is called...
+i:The dragon{.dragons}.
+i:The warhorse.
+i:The warlord.
+i:The mastermind.
+i:The queen.
+i:The dark lord.
+i:The treasure chest.
+i:The sword.
+}
+{
+d:d8 The weakest piece or biggest blunder is called...
+i:The minion.
+i:The foot soldier{.soldiers}.
+i:The goblin{.goblins,.goblin gangs}.
+i:The goon.
+i:The guard.
+i:The skeleton.
+i:The trap.
+i:The club.
+}

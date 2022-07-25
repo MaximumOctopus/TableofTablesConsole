@@ -1,0 +1,96 @@
+{
+d:d6 At the center of it all is...
+i:A mayor's
+i:A king's / queen's
+i:A prince's / princess's
+i:A noble's{.nobles,.noble houses}
+i:A citizen's
+i:A guild leader's
+}
+{
+d:d20 ...relation...
+i:Self
+i:Parent
+i:Grandparent
+i:Sibling
+i:Best friend
+i:Trusted adviser
+i:Child
+i:Cousin
+i:Aunt / Uncle
+i:Spouse
+i:Courtesan
+i:Personal guard
+i:Nephew / Niece
+i:Mistress / Lover
+i:Rival
+i:Handmaiden / Servant
+i:Secret lover
+i:Jester
+i:Doctor
+i:Cook
+}
+{
+d:d20 Who is trying to...
+i:Start a coup
+i:Corrupt the leader
+i:Frame the leader for (d4): 1. corruption; 2. inappropriate relations; 3. murder; 4. embezzlement
+i:Control the leader from the behind the scenes
+i:Gain more power
+i:Gain more influence
+i:Defect
+i:Assassinate the leader{.assassins' guilds}
+i:Assassinate a rival{.assassins' guilds}
+i:Discredit the leader
+i:Discredit a rival
+i:Force a war to start
+i:Commit genocide
+i:Usurp the throne
+i:Steal money from the people
+i:Steal money from the kingdom
+i:Collect personal favors
+i:Find a position of power for all of their friends and family
+i:Play a massive joke on the people
+i:Ingratiate themselves with a group of powerful people
+}
+{
+d:d10 ...who will...
+i:Trade favors for sex
+i:Trade favors for money
+i:Trade favors for information
+i:Trade favors for favors
+i:Trade favors for drugs
+i:Trade favors for influence
+i:Only assist family
+i:Only assist friends
+i:Only lookout for themselves
+i:Do anything to achieve their goal
+}
+{
+d:d10 ...and is motivated because...
+i:A family member was killed
+i:A friend was killed
+i:They are compelled by greed
+i:They are compelled by power
+i:They are being manipulated / threatened by (d6): 1. A secret society; 2. A relation (Roll again on the relation table); 3. A personal rival; 4. The leader's rival; 5. A foreign nation; 6. A fiend{.fiends}
+i:A warped sense of patriotism (It's for your own good!)
+i:They wish to regain a lost station
+i:It's necessary for the good of the nation
+i:They are simply bored
+i:It is their god's will
+}
+{
+d:d12 Your heard about this from...
+i:A member of a secret society
+i:Someone close to the leader
+i:Someone close to the leader's relation
+i:A secretive observer
+i:It's common knowledge
+i:Rumors in a tavern
+i:A note left in the night
+i:From the person themselves
+i:From the victim of the plot
+i:From whispers from the grave
+i:From a foreign national with their own interests
+i:From someone who's own plot is being hampered by this plot.
+}
