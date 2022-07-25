@@ -1,0 +1,411 @@
+//(
+//t:The Five-Minute Pantheon
+//n:Suggested Method I:
+//n:1) Roll 1d12 to determine the number of deities in the pantheon.
+//n:2) Roll 1d12 for each deity to determine the deity’s type. If the same number comes up twice, keep it, but choose different aspects.
+//n:3) Roll for features for each deity in the pantheon and give him/her a name.
+//n:4) Establish a few relationships among the deities: love, hatred, rivalry, friendship, parentage, etc.
+//n:
+//n:Suggested Method II:
+//n:1) Choose the deities and features you like from the lists.
+//n:2) Add some deities or features of your own.
+//n:3) Name the deities.
+//n:4) Establish a few relationships among the deities: love, hatred, rivalry, friendship, parentage, etc.
+)
+[
+d:Deity 1: GOD OF THE SUN/SKY
+]
+{
+d:d6 This god of the sun and/or sky is often called...
+i:The Father of the Heavens.
+i:The Master of the Skies.
+i:The King of the Wind and Sky.
+i:The Keeper of the Sun's Flame.
+i:The Lord of Light.
+i:The Burning Man.
+}
+{
+d:d6 He holds dominion over...
+i:The sun and light.
+i:The sun and stars.
+i:The winds and clouds.
+i:Light and fire.
+i:Fire and power.
+i:The air elementals and fire elementals.
+}
+{
+d:d6 His followers must...
+i:Always keep a lamp burning.
+i:Ritualistically burn or brand themselves.
+i:Pray at sunrise and sunset.
+i:Read his sacred texts in the daylight hours daily.
+i:Keep a sundial at their homes as part of a shrine.
+i:Humbly cover themselves from ever allowing direct sunlight to reach their skin.
+}
+[
+d:Deity 2: EARTH/MOTHER GODDESS
+]
+{
+d:d6 This earth and/or mother goddess is often called...
+i:The Mother of All Things.
+i:The Keeper of Life and Death.
+i:The Earth-Mother.
+i:The Protector of Life.
+i:The Defender of her Children.
+i:The Queen of the Earth.
+}
+{
+d:d6 She holds dominion over...
+i:The earth and harvest.
+i:The earth and trees.
+i:Maidens and healers{.healers}.
+i:Family and childbirth.
+i:The hearth and home.
+i:Wives and mothers.
+}
+{
+d:d6 Her followers must...
+i:Have a shrine dedicated to her at home.
+i:Ritualistically bury their dead in the earth.
+i:Pray prostrate on the ground daily.
+i:Always use salt to season their food.
+i:Grow something in or at their home.
+i:Take care of their own mothers as they age.
+}
+[
+d:Deity 3: GOD OF CRAFT/KNOWLEDGE
+]
+{
+d:d6 This god of crafting and/or knowledge is often called...
+i:The Forger of Mountains{.mountains}.
+i:The Lord of Craft.
+i:The Maker of Metal.
+i:The Master of Wisdom.
+i:The Keeper of Knowledge.
+i:The Great Smith.
+}
+{
+d:d6 He holds dominion over...
+i:Forges and fire.
+i:Artisans and craftsmen{.artisans}.
+i:Knowledge and skill.
+i:Knowledge and wisdom.
+i:Armorers and blacksmiths.
+i:Metal and flame.
+}
+{
+d:d6 His followers must...
+i:Build or craft something with their hands.
+i:Ritualistically burn their dead.
+i:Engage in vigorous scholarly debates.
+i:Read something new every day.
+i:Collect, melt-down, and re-forge any discarded metal objects.
+i:Maintain a shrine with candles and a small stone or metal figurine dedicated to the god in their home.
+}
+[
+d:Deity 4: GOD OF DARKNESS/SECRETS
+]
+{
+d:d6 This god of darkness and/or secrets is often called...
+i:The Lord of Darkness.
+i:The Serpent in the Shadows.
+i:The Finder of Secrets.
+i:The Watchful Eye.
+i:The Spider in the Gloom{.spiders}.
+i:The Keeper of Mysteries.
+}
+{
+d:d6 He holds dominion over...
+i:Darkness and poison.
+i:Shadows and spies.
+i:Secrets and treachery.
+i:Ancient lore and mysteries.
+i:Assassins and thieves{.assassins' guilds,.thieves}.
+i:Spiders and snakes{.spiders}.
+}
+{
+d:d6 His followers must...
+i:Never speak of their true devotion to nonbelievers.
+i:Ritualistically cut out their tongues if they betray a secret.
+i:Pray every night while in utter darkness.
+i:Keep a journal of secrets in a hidden location.
+i:Learn a set of secret gestures to recognize a fellow believer.
+i:Avoid direct sunlight.
+}
+[
+d:Deity 5: GOD OF DEATH/EVIL
+]
+{
+d:d6 This god of death and/or evil is often called...
+i:The Harbinger of Death.
+i:Death's Companion.
+i:The Lord of Torment.
+i:The Bringer of Pain.
+i:The King of Cruelty.
+i:The Collector of Souls.
+}
+{
+d:d6 He holds dominion over...
+i:Necromancers and assassins{.assassins' guilds}.
+i:Death and pain.
+i:Cruelty and torture.
+i:Death and cruelty.
+i:Ghosts and graveyards{.graverobbers}.
+i:Torment and discord.
+}
+{
+d:d6 His followers must...
+i:Commit murder at least once in their lives.
+i:Ritualistically eat their dead.
+i:Participate in painful rituals of human sacrifice.
+i:Pray in a cemetery, tomb, or place touched by death weekly.
+i:Read his sacred texts in a crypt or place touched by death.
+i:Keep a shrine in their home that contains the bones of someone they knew.
+}
+[
+d:Deity 6: GODDESS OF THE HARVEST/SEASONS
+]
+{
+d:d6 This goddess the harvest and/or seasons is often called...
+i:The Giver of Fruit.
+i:The Grower of Crops.
+i:The Maiden of Spring.
+i:The Mistress of Summer.
+i:The Singer of Autumn's Song
+i:The Lady of Winter.
+}
+{
+d:d6 She holds dominion over...
+i:Farmers and gardeners.
+i:Harvests and crops.
+i:Time and seasons.
+i:Feasts and famines.
+i:Harvest and plenty.
+i:Joyfulness and sorrow.
+}
+{
+d:d6 Her followers must...
+i:Prepare burnt offerings of fruits and vegetables.
+i:Ritualistically bury their dead in the earth.
+i:Read from her sacred texts daily.
+i:Grow something in the ground or in a pot at home.
+i:Keep a journal of crop production and harvests across seasons.
+i:Water their garden during times of drought.
+}
+[
+d:Deity 7: GODDESS OF LOVE/FERTILITY...
+]
+{
+d:d6 This goddess of love and/or fertility is often called...
+i:The Bearer of Children.
+i:The Fair Maiden.
+i:The Mistress of Seduction.
+i:The Giver of Love.
+i:The Queen of Beauty.
+i:The Bearer of Fruit.
+}
+{
+d:d6 She holds dominion over...
+i:Marriage and children.
+i:Love and music.
+i:Love and beauty.
+i:Seduction and manipulation.
+i:Music and dance.
+i:Lovers and poets.
+}
+{
+d:d6 Her followers must...
+i:Participate in ritualistic sexual orgies.
+i:Procreate to the fullest extent they can.
+i:Publicly display their affections for loved ones.
+i:Keep a secret journal of romantic exploits.
+i:Eat sacred fruits on specified feast days.
+i:Be subject of a ceremony that welcomes them into adulthood.
+}
+[
+d:Deity 8: GODDESS OF MOON/MAGIC
+]
+{
+d:d6 This goddess of the moon and/or magic is often called...
+i:The Lady of the Moon.
+i:The Moon-Witch{.witches}.
+i:The Mistress of Starlight.
+i:The Maiden of Magic.
+i:The Lady of Light and Shadow.
+i:The Queen of Night.
+}
+{
+d:d6 She holds dominion over...
+i:The moon and the stars.
+i:The moon and the night.
+i:Magic and light.
+i:Witches and wizards{.witches}.
+i:Magic and the night.
+i:Astrologers and seers{.seers}.
+}
+{
+d:d6 Her followers must...
+i:Hold an all-night prayer vigil when the moon is full.
+i:Read her sacred texts by moonlight once a month.
+i:Engage in vigorous debates of mysticism and magic.
+i:Keep a journal of magical secrets and lore.
+i:Learn to read ancient runes.
+i:Never take a meal during daylight hours.
+}
+[
+d:Deity 9: GODDESS OF THE HUNT/WOODLANDS
+]
+{
+d:d6 This goddess the hunt and/or woodlands is often called...
+i:The Great Huntress.
+i:The Lady of the Hunt.
+i:The Maiden of the Woods.
+i:The Keeper of the Ancient Grove.
+i:The Spirit of the Forest{.forest,.forest enchanted,.forest haunted}.
+i:The Princess of Predators.
+}
+{
+d:d6 She holds dominion over...
+i:Hunters and woodsmen{.woodsmen}.
+i:Beasts and the wilderness.
+i:Forests and trees{.forest,.forest enchanted,.forest haunted}.
+i:Forests and woodland creatures{.forest,.forest enchanted,.forest haunted}.
+i:Druids and rangers{.druids}.
+i:Elves and the fey{.beasts fey,.elves dark,.elves high,.elves wood}.
+}
+{
+d:d6 Her followers must...
+i:Pray beneath a tree every day.
+i:Read her sacred texts in a grove of trees once a week.
+i:Participate in an annual hunting festival.
+i:Prepare burnt offerings of beasts slain on a hunt.
+i:Never harm a living tree.
+i:Plant a new tree wherever another has fallen.
+}
+[
+d:Deity 10: THE GOD OF STORMS/SEAS
+]
+{
+d:d6 This god is of storms and/or seas often called...
+i:The Lord of Thunder and Lightning.
+i:The Storm-Bringer.
+i:The Master of the Seas.
+i:The Taker of Ships.
+i:The Prince of Wind and Water.
+i:The King Beneath the Waves.
+}
+{
+d:d6 He holds dominion over...
+i:The sea and storms.
+i:The sea and ships.
+i:Sailors and pirates{.sailors,.pirates}.
+i:Storms and strength.
+i:Merchants and traders{.merchant caravans,.merchant guilds}.
+i:Fish and fowl.
+}
+{
+d:d6 His followers must...
+i:Splash saltwater on themselves when praying daily.
+i:Give their dead a burial at sea.
+i:Kneel outside to offer a short prayer whenever it rains.
+i:Keep a journal of storms and strange meteorological phenomena.
+i:Collect rainwater to use in sacred rituals.
+i:Always offer shelter from storms to anyone who needs it.
+}
+[
+d:Deity 11: THE TRICKSTER/MESSENGER GOD
+]
+{
+d:d8 This trickster and/or messenger god is often called...
+i:The Maker of Mischief.
+i:The Knife-Sharp Wit.
+i:The Messenger of the Gods.
+i:The Swift Strider.
+i:The Lucky Traveler.
+i:The Wandering Rogue{.rogue missions}.
+i:The Giver of Wine{.wines}.
+i:The Wild Wanderer.
+}
+{
+d:d6 He holds dominion over...
+i:Mischief and pranks.
+i:Trickery and cruel jokes.
+i:Rogues and thieves{.rogue missions,.thieves}.
+i:Travelers and wanderers.
+i:Wine and festivals{.wines}.
+i:Roads and winds.
+}
+{
+d:d6 His followers must...
+i:Drink enormous amounts of wine at festivals{.wines}.
+i:Participate in pranks and subversive activities.
+i:Pray at the beginning and end of any journey.
+i:Make a pilgrimage to a holy place at least once.
+i:Always offer food and drink to travelers.
+i:Reserve one day of the week for merriment and leisure.
+}
+[
+d:Deity 12: THE WAR/TYRANT GOD
+]
+{
+d:d6 This war/tyrant god is often called...
+i:The Lord of Battle.
+i:The Bringer of Blood.
+i:The Unyielding Tyrant.
+i:The Harbinger of Doom.
+i:The War-Maker.
+i:The Prince of Sword and Spear.
+}
+{
+d:d6 He holds dominion over...
+i:Soldiers and gladiators{.gladiators,.soldiers}.
+i:Violence and slaughter.
+i:Tyranny and domination.
+i:Strength and glory.
+i:Barbarians and mercenaries{.barbarians}.
+i:Battle and victory.
+}
+{
+d:d6 His followers must...
+i:Ritualistically scar themselves.
+i:Fight with a military company or war clan at least once.
+i:Read his sacred texts and train with weapons daily{.legendary weapons}.
+i:Spend the night in prayer on the eve of battle.
+i:Anoint their weapons and armor with sacred oil{.legendary weapons}.
+i:Say a prayer when washing blood from their weapons{.legendary weapons}.
+}
+[
+d:RELATIONSHIPS
+n:Roll these tables as often as you like to build a webs of relationships among the deities and with their followers.
+]
+{
+d:d10 Intrapantheon relationships: [This deity] is the _____ of [that deity].
+i:father/mother
+i:sister/brother
+i:son/daughter
+i:husband/wife
+i:spurned lover
+i:close ally
+i:sometimes ally
+i:false ally
+i:oft-times rival
+i:bitter enemy
+}
+{
+d:d6 The gods are...
+i:Gods, you heretic half-wit.
+i:Mortals who aquired great power.
+i:Children of a now dead Pantheon.
+i:Devils who staged a sucessful coup.
+i:Fake, and their priests are frauds or misguided.
+i:Creatures from a distant plane never heard of.
+}
+{
+d:d6 The gods relationship with their followers...
+i:Is good. The god attempts to protect and provide for them.
+i:Is harsh. The god demands great sacrifices from their people.
+i:Is parasitic. The god feeds on worship and/or sacrifices.
+i:Is benevolent, but distant. The god provides his clerics power but provides little direction.
+i:Is strained. The followers have done something to offend their god recently.
+i:Must be Crazy. The god has done something recently that befuddles his/her followers.
+}

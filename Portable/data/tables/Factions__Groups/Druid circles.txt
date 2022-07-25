@@ -1,0 +1,234 @@
+{
+d:d6 Category: Members of this druid circle revere...
+i:The earth.
+i:Weather cycles.
+i:Natural disasters.
+i:Trees.
+i:Beasts.
+i:Bodies of water.
+}
+{
+d:d6 Philosophical focus: Members of this druid circle champion the ideal of...
+i:Balance in all things.
+i:Change as an inevitability.
+i:Endurance in the face of storms.
+i:Harmony with the natural world.
+i:Protecting the weak.
+i:Strength against foes.
+}
+{
+d:d6 Sacred site: The druid circle’s most sacred site is a/an...
+i:Cavern of geological wonders.
+i:Dank, root-filled cave.
+i:Cave behind a beautiful waterfall.
+i:Enormous hollow tree.
+i:Sacred grove of trees.
+i:Ring of ancient monoliths.
+}
+{
+d:d6 Sacred site feature: At the druid circle’s most sacred site you will find...
+i:Ancient paintings.
+i:Twisted vines.
+i:Fragrant flowers.
+i:Unusual mushrooms.
+i:Stunning mineral patterns.
+i:Ripe, delicious fruit.
+}
+{
+d:d6 Druidic focus: Members of this druid circle often carry or wear a/an...
+i:Wand made of blessed wood.
+i:Staff made of ancient wood.
+i:Staff topped with a rare stone.
+i:String of stone beads or shells.
+i:Many tattoos of primal symbols.
+i:Trophy taken from a beast (d6): 1. claws; 2. fangs; 3. feathers; 4. fur; 5. scales; 6. skull.
+}
+{
+d:d6 Mission: This druid circle's goal is to...
+i:Salvage the natural beauty in a place despite civilization's incursions.
+i:Sabotage attempts to tame wild lands.
+i:Free all captive (read: domesticated) plants and animals.
+i:Protect the land from an ancient evil.
+i:Destroy any undead or evil creatures who threaten a region's natural inhabitants.
+i:Prepare a new breeding ground for powerful beasts of ancient lineage (read: dragons).
+}
+[
+d:EARTH CIRCLES
+]
+{
+d:d6 Natural focus (earth circle): Members of this druid circle pay particular respect to...
+i:Burrows.
+i:Canyons.
+i:Caves.
+i:Dust storms.
+i:Mountains.
+i:Sand dunes.
+}
+{
+d:d6 Favored beast (earth circle): Members of this druid circle are often accompanied by a/an...
+i:Badger or fox.
+i:Bear.
+i:Eagle or vulture.
+i:Mouse or rat.
+i:Ooze or earth elemental.
+i:Spider.
+}
+{
+d:d6 Habits and rituals (earth circle): Members of this druid circle...
+i:Never wipe the dirt from their feet.
+i:Paint their faces with mud or dust.
+i:Always sleep on bare earth.
+i:Kiss the ground whenever they awake.
+i:Only wear shoes when they go indoors.
+i:Refuse to board any watercraft.
+}
+[
+d:WEATHER CIRCLES
+]
+{
+d:d6 Natural focus (weather circle): Members of this druid circle pay particular respect to...
+i:Sunlight.
+i:Thunderstorms.
+i:Wind.
+i:Rain.
+i:Fog.
+i:Snowstorms.
+}
+{
+d:d6 Favored beast (weather circle): Members of this druid circle are often accompanied by a/an...
+i:Swarm of songbirds or flies.
+i:Lizard or toad.
+i:Eagle or owl.
+i:Elemental creature.
+i:Lion or panther.
+i:Wolf.
+}
+{
+d:d6 Habits and rituals (weather circle): Members of this druid circle...
+i:Always sleep outdoors.
+i:Never dry their belongings when they get wet.
+i:Spend time every morning praying for good weather.
+i:Always know when it’s going to rain.
+i:Sow grain seeds wherever they go.
+i:Attack anyone who attempts to manipulate the weather.
+}
+[
+d:NATURAL DISASTER CIRCLES
+]
+{
+d:d6 Natural focus (natural disaster circle): Members of this druid circle pay particular respect to...
+i:Blizzards.
+i:Earthquakes.
+i:Floods.
+i:Tornadoes.
+i:Tsunamis.
+i:Volcanoes.
+}
+{
+d:d6 Favored beast (natural disaster circle): Members of this druid circle are often accompanied by a/an...
+i:Bear.
+i:Elemental creature.
+i:Eagle.
+i:Rat.
+i:Swarm of flies, songbirds, or fish.
+i:Wolf or seal.
+}
+{
+d:d6 Habits and rituals (natural disaster circle): Members of this druid circle...
+i:Never speak louder than a whisper.
+i:Ritualistically tattoo themselves whenever they endure a natural disaster.
+i:Practice an extreme form of fasting.
+i:Meditate for days on end.
+i:Never possess more than they can carry on their backs.
+i:Never waste food.
+}
+[
+d:TREE CIRCLES
+]
+{
+d:d6 Natural focus (tree circle): Members of this druid circle pay particular respect to...
+i:Oak or maple trees.
+i:Apple or cherry trees.
+i:Pine or cedar trees.
+i:Fir or juniper trees.
+i:Beech or palm trees.
+i:Walnut or olive trees.
+}
+{
+d:d6 Favored beast (tree circle): Members of this druid circle are often accompanied by a/an...
+i:Bat or spider.
+i:Hawk or owl.
+i:Raccoon or possum.
+i:Songbird.
+i:Snake.
+i:Squirrel or monkey.
+}
+{
+d:d6 Habits and rituals (tree circle): Members of this druid circle...
+i:Only sleep up in trees.
+i:Only use wood products where the wood fell from the tree naturally.
+i:Never start campfires.
+i:Sleep standing up.
+i:Put out any open flame they can reach.
+i:Brew a special hallucinogenic tree bark tea.
+}
+[
+d:BEAST CIRCLES
+]
+{
+d:d6 Natural focus (beast circle): Members of this druid circle pay particular respect to...
+i:Predatory beasts.
+i:Scavenging beasts.
+i:Herd beasts.
+i:Nocturnal beasts.
+i:Aquatic beasts.
+i:Scaly beasts.
+}
+{
+d:d6 Favored beast (beast circle): Members of this druid circle are often accompanied by a/an...
+i:Swarm of diminutive beasts.
+i:Coterie of various beasts.
+i:Mated pair of beasts.
+i:Paragon beast.
+i:Extremely intelligent beast.
+i:Pack or herd of beasts.
+}
+{
+d:d6 Habits and rituals (beast circle): Members of this druid circle...
+i:Never sleep indoors.
+i:Never bathe.
+i:Only eat raw food.
+i:Groom each other with licking and picking.
+i:Communicate with each other in growls and grunts.
+i:Know a secret language of coded bird calls.
+}
+[
+d:WATER CIRCLES
+]
+{
+d:d6 Natural focus (water circle): Members of this druid circle pay particular respect to...
+i:Warm oceans.
+i:Cold oceans.
+i:Rivers.
+i:Lakes.
+i:Underground lakes.
+i:Swamps.
+}
+{
+d:d6 Favored beast (water circle): Members of this druid circle are often accompanied by a/an...
+i:Swarm of frogs, dragonflies, or fish.
+i:Giant crab or crayfish.
+i:Turtle.
+i:Seal or otter.
+i:Orca or hippopotamus.
+i:Shark or giant catfish.
+}
+{
+d:d6 Habits and rituals (water circle): Members of this druid circle...
+i:Fear being dry and constantly drip water on themselves.
+i:Eat only food that has been boiled, brined, or soaked.
+i:Carry vials of water from several places for rituals.
+i:Never write anything on paper because paper dissolves in water.
+i:Refuse to eat any meat derived from aquatic creatures.
+i:Have been ritualistically drowned and revived.
+}

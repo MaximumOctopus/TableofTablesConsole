@@ -1,0 +1,130 @@
+{
+d:d12 The mercenary troop’s colors are...
+i:Black.
+i:Red / scarlet.
+i:Gold.
+i:Forest green.
+i:Royal blue.
+i:Brown / beaver.
+i:Dark grey / gunmetal.
+i:Maroon.
+i:Navy blue.
+i:Dark brown / chocolate.
+i:Steel / blue grey.
+i:Olive green.
+}
+{
+d:d20 The mercenary troop’s banner features...
+i:A skull.
+i:A ghost.
+i:A clenched fist.
+i:A flame.
+i:An arrow.
+i:A dagger.
+i:A sword.
+i:A hammer.
+i:The sun.
+i:The moon.
+i:A bat{.bats}.
+i:A bull.
+i:A dragon{.dragons}.
+i:A falcon.
+i:A lion.
+i:A raven.
+i:A scorpion.
+i:A snake.
+i:A vulture.
+i:A wolf.
+}
+{
+d:d10 The mercenary troop’s commander is...
+i:A brazen outlaw{.outlaw bands}.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:An outcast from a prominent family.
+i:A ruthless killer.
+i:A dashing swashbuckler.
+i:A brutish thug.
+i:A celebrated war hero.
+i:A disgraced knight{.knights}.
+i:A former arena champion.
+}
+{
+d:d6 The mercenary troop’s attitude toward their commander is...
+i:Friendly and loyal.
+i:Respectful and business-like.
+i:Cautious and uncertain.
+i:Terrified and tight-lipped.
+i:Disappointed and rude.
+i:Angry and rebellious.
+}
+{
+d:d6 The mercenary troop is currently...
+i:Gainfully employed as guards.
+i:Gainfully employed in war.
+i:Under contract with some criminals.
+i:Under contract with some merchants{.merchant caravans,.merchant guilds}.
+i:Under contract with some nobles{.nobles,.noble houses}.
+i:Looking for work.
+}
+{
+d:d10 The mercenary troop specializes in...
+i:Siege-breaking.
+i:Holding a redoubt or fort.
+i:Frontal assault.
+i:Infiltration tactics.
+i:Skirmishes.
+i:Laying ambushes.
+i:Patrolling.
+i:Flanking maneuvers.
+i:Guerilla tactics.
+i:Raiding and pillaging.
+}
+{
+d:d8 The mercenary troop is notorious for...
+i:Taking no prisoners.
+i:Leaving the dead to be eaten by beasts.
+i:Tattooing or branding prisoners.
+i:Scalping or flaying prisoners.
+i:Burning villages and fields.
+i:Betraying their employers.
+i:Singing bawdy songs.
+i:Drinking too much ale and wine{.wines}.
+}
+{
+d:d8 The mercenary troop fights with...
+i:Hit-and-run tactics.
+i:Making a direct assault.
+i:Fancy footwork.
+i:Unpredictable lurches.
+i:Masterful combat maneuvers.
+i:No mercy.
+i:Lots of taunts and jeers.
+i:Dirty tactics.
+}
+{
+d:d8 Many of the mercenaries in the troop are armored in...
+i:Exotic robes.
+i:Leather armor.
+i:Studded leather armor.
+i:Hide armor
+i:Ringmail.
+i:Chainmail.
+i:Scale armor.
+i:Plate armor.
+}
+{
+d:d12 Many of the mercenaries in the troop are wielding...
+i:Longswords.
+i:Longswords and shields.
+i:Shortswords and spears.
+i:Shortswords and shields.
+i:Longswords and crossbows.
+i:Greatswords.
+i:Spears and shields.
+i:Battleaxes.
+i:Battleaxes and shields.
+i:Warhammers.
+i:Scimitars.
+i:Scimitars and a shields.
+}

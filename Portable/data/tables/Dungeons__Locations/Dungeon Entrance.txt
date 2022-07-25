@@ -1,0 +1,23 @@
+{
+d:D20 Dungeon Entrances
+i:By sleeping in a certain bed, at midnight, on a full moon.
+i:Drinking an entire keg of “Sleeper’s Delight” and climbing in the barrel.
+i:Being in front of a building when it snows, while shaking a snow globe of that building.
+i:Through orgasm with a nymph that is attached to the dungeon.
+i:Light every other lantern in the village center while having a cleric baptize you in the well.
+i:Jumping down the abyss that is in your reoccurring nightmare.
+i:Being buried in the coffin of the dungeon’s creator.
+i:Being struck by lightning while in the armor of an ancient warrior.
+i:Playing/singing ring-around-the-rosie in reverse with a group of virgins/kids.
+i:Crossing your eyes while looking at the painting that hangs behind the mayor’s desk.
+i:Being chased by a dog through the cursed woods.
+i:Being married to your true love by a necromancer in the church of Suffering.
+i:Choking down the terrible soup the old hermit in the forest gave you, then vomiting it up on the floor of the town’s trial room while there’s a death-sentence trial in session.
+i:Clinking goblets with the king after you slept with his daughter. You must be in good favor with him and he musn’t know the fornication has occurred. You must also have a piece of her jewelry in your stomach.
+i:Riding a unicorn through a raincloud.
+i:Climbing down the outhouse shit-hole.
+i:Going between two trees after being cursed by that druid circle.
+i:Placing a voodoo doll of yourself in the shoddy, wood-crafted recreation of the dungeon, right at the entrance, without damaging the model.
+i:Asking that pretty girl in the tavern if she wants to go back to your room. Then, when you ask the inn-keep for a room, she’ll hand you a key to room 13. Turn the lock in room 13 and the dungeon will be on the other side.
+i:In the eyes of a beautiful stranger.
+}

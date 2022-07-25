@@ -1,0 +1,93 @@
+{
+d:d8 Tonight, in an elvish dwelling, we dine on...
+i:Stewed.
+i:Roasted.
+i:Boiled.
+i:Simmered.
+i:Smoked.
+i:Baked.
+i:Marinated.
+i:Peppered.
+}
+{
+d:d12 ...
+i:Boar.
+i:Rabbit.
+i:Pheasant.
+i:Goose.
+i:Trout.
+i:Pike.
+i:Clams.
+i:Chestnuts.
+i:Wild rice.
+i:Leafy greens.
+i:White beans.
+i:Red beans.
+}
+{
+d:d12 ...with...
+i:Green cabbage.
+i:Sweet cabbage.
+i:Wild arugula.
+i:Wild rhubarb.
+i:Sugarsnap peas.
+i:Wild carrots.
+i:Wild parsnips.
+i:String beans.
+i:Green onions.
+i:Sweet onions.
+i:Wild mushrooms.
+i:Cave mushrooms.
+}
+{
+d:d12 ...and...
+i:Apples.
+i:Pears.
+i:Lemons.
+i:Rose petals.
+i:Dandelions.
+i:Flower petals.
+i:Elder petals.
+i:Red berries.
+i:Black berries.
+i:Blueberries.
+i:Grapes.
+i:Plums.
+}
+{
+d:d8 On the side, there is some...
+i:Crispy bread.
+i:Fluffy bread.
+i:Oat cake.
+i:Honey cake.
+i:Acorn bread.
+i:Flatbread.
+i:Assorted fruit.
+i:Assorted cheese.
+}
+{
+d:d12 To wash it down, we have some...
+i:Spring water.
+i:Sweet water.
+i:Floral tea.
+i:Strong tea.
+i:Sweet wine{.wines}.
+i:Honey wine{.wines}.
+i:White wine{.wines}.
+i:Rosé{.wines}.
+i:Red wine{.wines}.
+i:Dark wine{.wines}.
+i:Ancient wine{.wines}.
+i:Young wine{.wines}.
+}
+{
+d:d8 ...that leaves you feeling...
+i:Refreshed.
+i:Peaceful.
+i:Content.
+i:Carefree.
+i:A little sleepy.
+i:A little light-headed.
+i:Rather nostalgic.
+i:Rather melancholy.
+}

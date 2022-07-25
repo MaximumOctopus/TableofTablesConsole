@@ -1,0 +1,108 @@
+{
+d:d6 Age and condition: These tunnels are...
+i:Ancient and built to last; the tunnels have been here for ages and will last for many years.
+i:Ancient and deteriorating; the tunnels are crumbling.
+i:Old and solid; the tunnels the material used to line the tunnels has only minor cracks.
+i:Old and decaying; the material used to line the tunnels has many wide cracks.
+i:Recent and solid; the tunnels were well-engineered and well-built.
+i:Recent and shoddy; the tunnels were hastily built and lined with cheap materials.
+}
+{
+d:d6 Material: The tunnels are built of or lined with...
+i:Wooden planks sealed with pitch.
+i:Baked clay tiles.
+i:Sandstone blocks
+i:Rough concrete.
+i:Granite.
+i:Marble.
+}
+{
+d:d6 Water level: The tunnels in this place...
+i:Are only filled with ankle-deep muck.
+i:Are always flooded up to the ceiling.
+i:Are always flooded in the lower levels.
+i:Are always flooded up to the waist.
+i:Flood at high tide.
+i:Flood when it rains heavily.
+}
+{
+d:d6 Drain: These tunnels drain off into...
+i:The city harbour.
+i:An underground lake.
+i:A canal that leads to the sea.
+i:A nearby swamp.
+i:A wide river.
+i:An unknown deep place.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Ladder or narrow stair going up.
+i:Giant grate or net.
+i:Handful of wooden crates.
+i:Large pipe or drain leading downward.
+i:Skeleton or decaying corpse.
+i:Filthy nest.
+}
+{
+d:d6 Minor feature: You see a/an/some...
+i:Bubbles rising to the surface of some mucky water.
+i:Empty glass bottle.
+i:Filthy rag floating in some mucky water.
+i:Jagged crack in the tunnel wall.
+i:Constant drip from the ceiling.
+i:Pocket of warm mucky water.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Harlot's ghost.
+i:Curious child.
+i:Lost circus performer.
+i:Drunken smuggler.
+i:Frightened merfolk.
+i:Shifty evil cultist.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Rat.
+i:Centipede.
+i:Spider.
+i:Monstrous catfish.
+i:Giant turtle.
+i:Crocodile.
+}
+{
+d:d6 Secondary monster: You come upon a/an…
+i:Aberrant beast (roll on beast table).
+i:Swarm of rats or carnivorous fish.
+i:Kobold.
+i:Wererat.
+i:Ghoul.
+i:Water or mud elemental.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a/an…
+i:Aboleth or gibbering mouther.
+i:Shambling mound.
+i:Hydra.
+i:Filth demon or conniving devil.
+i:Decrepit vampire.
+i:Bog hag.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Green slime.
+i:Boot-sucking sludge.
+i:Poisonous fungus.
+i:Flooding chamber.
+i:Swirling currents.
+i:Curse of rotting death.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find the...
+i:Hidden treasure cache of a band of criminals.
+i:Lost book of dark rituals.
+i:Ancestral weapon of a noble house.
+i:Storied gemstone stolen years ago.
+i:Key to opening an old city gate.
+i:Captive heiress.
+}

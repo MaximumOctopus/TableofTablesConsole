@@ -1,0 +1,170 @@
+{
+d:d12 The orcs are...
+i:Nomadic hunters, following game.
+i:Raiders displaced from their native lands.
+i:In exile from their native lands.
+i:In the service of a sovereign warlord.
+i:A loose confederacy of tribes and families related by blood.
+i:Degenerate survivors from a broken army.
+i:Disorganizes; a clan of competing warriors.
+i:A tight-knit war band.
+i:Bent on sowing chaos and mayhem.
+i:Raiders after supplies and slaves.
+i:Marching to war under the leadership of a great chief.
+i:On an errand for an evil wizard or other powerful being.
+}
+{
+d:d12 The orcs value...
+i:Bravery.
+i:Strength.
+i:Wisdom.
+i:Virility.
+i:Honoring the gods.
+i:Honoring their ancestors.
+i:Battle-scars.
+i:Survival.
+i:Kill counts.
+i:Scalps.
+i:Steel.
+i:Meat.
+}
+{
+d:d4 The orcs’ iconography features...
+i:Symbols of death and destruction (d10): 1. bats{.bats}; 2. blood; 3. bones; 4. corpses; 5. crows; 6. flames; 7. ghosts; 8. scorpions; 9. skulls; 10. vultures.
+i:Symbols of the heavens (d6): 1. clouds; 2. lightning; 3. moon; 4. snow; 5. stars; 6. sun.
+i:Symbols of strength and weaponry (d6): 1. arrows; 2. axes; 3. fists; 4. spears; 5. stones; 6. swords.
+i:A great beast (d8): 1. bears; 2. boars; 3. eagles; 4. horses; 5. lions; 6. owls; 7. snakes; 8. wolves.
+}
+{
+d:d10 The orcs’ chief is...
+i:A well-respected chief.
+i:A charismatic warlord.
+i:A mysterious shaman.
+i:A descendent of an honored hero.
+i:A ruthless killer.
+i:A brutish thug.
+i:An impatient young warrior.
+i:A wise old chief.
+i:A celebrated war hero.
+i:A prolific lover.
+}
+{
+d:d12 The orcs’ favorite meat comes from...
+i:Dwarves and halflings{.dwarves}.
+i:Beggars and thieves{.thieves}.
+i:Merchants and caravan guards{.merchant caravans,.merchant guilds}.
+i:Noblemen{.nobles,.noble houses}.
+i:Noblewomen{.nobles,.noble houses}.
+i:Priests and priestesses.
+i:Slaves.
+i:Circusfolk and minstrels.
+i:Foreign travelers.
+i:Peasant women.
+i:Young children.
+i:Elves and pixies{.elves dark,.elves high,.elves wood}.
+}
+{
+d:d8 The orcs fear...
+i:Men armored in steel.
+i:Human women.
+i:Spellcasters.
+i:Members of a particular race (d4): 1. dwarves{.dwarves}; 2. elves{.elves dark,.elves high,.elves wood}; 3. goblinoids; 4. reptilian humanoids.
+i:A particular natural phenomenon (d6): 1. blizzards; 2. earthquakes; 3. floods; 4. thunderstorms; 5. volcanoes; 6. typhoons.
+i:The gods.
+i:Aberrant evils.
+i:Dragons.
+}
+{
+d:d10 The orcs are notorious for...
+i:Never leaving survivors.
+i:Feeding prisoners to wild beasts.
+i:Tattooing or branding prisoners.
+i:Scalping enemies.
+i:Flaying enemies.
+i:Raiding and burning villages.
+i:Plundering merchant caravans{.merchant caravans,.merchant guilds}.
+i:Eating prisoners raw.
+i:Claiming prisoners as slaves.
+i:Taking prisoners as wives, concubines, or catamites.
+}
+{
+d:d12 The orcs are known for...
+i:Screaming and shouting during battle.
+i:Convening with ghosts and spirits.
+i:Ritual animal sacrifice under the new moon.
+i:Ritual humanoid sacrifice deep within the earth.
+i:Ritualistic blood-letting.
+i:Ritualistic sexual acts under the full moon.
+i:Eating unusually-prepared meats.
+i:Prolific amounts of drinking.
+i:Never cutting their hair.
+i:Shaving their heads and bodies.
+i:Wearing long top-knots or braids.
+i:Bathing and perfuming their bodies.
+}
+{
+d:d6 The orcs’ attitude is...
+i:Rowdy and festive.
+i:Joyful and eager to fight.
+i:Relaxed and carefree.
+i:Frightened and suspicious.
+i:Hostile and suspicious.
+i:Hostile and eager to fight.
+}
+{
+d:d6 The orcs’ goals include (chief and lower-ranking members could have different goals)...
+i:Upheaval of the region’s politics.
+i:Disruption of the region’s trade.
+i:Revenge against another civilization.
+i:Revenge against a rival orkish clan.
+i:Spreading chaos and destruction.
+i:Possession of a powerful artifact.
+}
+{
+d:d8 The orcs typically fight with...
+i:Hit-and-run tactics.
+i:Ambush tactics.
+i:Unpredictable maneuvers.
+i:Lots of screaming and shouting.
+i:Kicking and stomping.
+i:Lots of head-butting.
+i:Lots of biting and scratching.
+i:Frequent breaks for (d4): 1. eating; 2. looting corpses; 3. re-forming ranks; 4. arguing among themselves.
+}
+{
+d:d6 As guardians or pets, the orcs sometimes keep...
+i:Boars.
+i:Dire rats{.rats}.
+i:Giant lizards.
+i:Ogres.
+i:Wargs.
+i:Wolves.
+}
+{
+d:d10 As slaves, the orcs keep...
+i:Dwarves{.dwarves}.
+i:Gnomes{.gnomes}.
+i:Goblins{.goblins,.goblin gangs}.
+i:Halflings.
+i:Humans.
+i:Kobolds{.kobolds}.
+i:Undead servitors.
+i:Nothing; the orcs eat any captives they take.
+i:Nothing; the orcs leave no survivors.
+i:Nothing; the orcs believe in freedom for all beings.
+}
+{
+d:d12 Most of the orcs are wielding...
+i:Spears and large hunting knives.
+i:Spears and javelins.
+i:Exotic, curved blades and several bolas.
+i:Huge, curved blades.
+i:Exotic, curved blades and blowguns.
+i:Pikes and shortswords.
+i:Pikes and short bows.
+i:Battleaxes and throwing axes.
+i:Battleaxes and longbows.
+i:Longswords and longbows.
+i:Jagged greatswords and shortbows.
+i:Greataxes and javelins.
+}

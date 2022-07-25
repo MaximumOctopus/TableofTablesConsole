@@ -1,0 +1,112 @@
+{
+d:d12 The cultists revere...
+i:A dragon{.dragons}.
+i:A demon lord.
+i:An archdevil.
+i:A long-dead ancient hero.
+i:A long-dead ancient villain{.villains}.
+i:A dead god.
+i:An aberrant creature.
+i:An elemental creature.
+i:A primordial.
+i:Primal spirits.
+i:An exarch of a god.
+i:The cult’s own leader.
+}
+{
+d:d10 The cultists meet in...
+i:A secret chamber in a well-known temple{.temples}.
+i:The cellar of a popular tavern{.tavern goings-on}.
+i:A secret chamber in a well-known guildhall.
+i:The cellar of a wealthy merchant's house{.merchant caravans,.merchant guilds}.
+i:The city sewers.
+i:Ancient catacombs beneath the city.
+i:A cabin in the countryside.
+i:A creepy, dark cave.
+i:A heavily guarded chamber within a castle.
+i:The stacks of a well-stocked library.
+}
+{
+d:d20 The cult’s leader is...
+i:A devoted acolyte.
+i:A dogmatic teacher.
+i:An adept healer{.healers}.
+i:A charismatic preacher.
+i:An eccentric scholar.
+i:An outspoken zealot.
+i:A dangerous megalomaniac.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:A well-known public figure.
+i:A ruthless killer.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A powerful noble{.nobles,.noble houses}.
+i:A talented artist.
+i:A religious fanatic.
+i:A veteran soldier{.soldiers}.
+i:A humble artisan.
+i:An ancient hero reborn.
+i:The second coming of a god.
+}
+{
+d:d6 The cult's membership is primarily made up of...
+i:The poor and downtrodden (d4): 1. beggars; 2. laborers; 3. servants; 4. slaves.
+i:The wealthy elite (d4): 1. guildmasters; 2. merchants{.merchant caravans,.merchant guilds}; 3. nobles{.nobles,.noble houses}; 4. royalty.
+i:A segment of another religion's population (d8): 1. sun god; 2. earth mother; 3. death god; 4. huntress; 5. goddess of love; 6. storm god; 7. trickster god; 8. war god.
+i:Members of a particular trade (d8): 1. blacksmiths; 2. carpenters; 3. farmers; 4. fishermen; 5. miners{.mines}; 6. soldiers{.soldiers}; 7. stonemasons; 8. weavers.
+i:Members of a particular race (d8): 1. dwarves{.dwarves}; 2. elves; 3. gnomes{.gnomes}; 4. goblins; 5. half-breeds; 5. halflings; 6. humans; 7. orcs{.orcs,.orc warlords,.orkish clans}; 8. reptilians.
+i:Members of all social strata.
+}
+{
+d:d8 The cult's practices involve (leadership and believers could adhere to different practices)...
+i:Animal sacrifice (d10): 1. bulls; 2. calves; 3. cats; 4. chickens; 5. dogs; 6. goats; 7. pigeons; 8. rabbits; 9. rams; 10. songbirds.
+i:Human sacrifice (d6): 1. children; 2. elderly; 3. harlots{.harlots}; 4. nonbelievers; 5. priests and priestesses; 6. virgins.
+i:Self-mutilation (d10): 1. arm; 2. back; 3. cheek; 4. chest; 5. ear; 6. eye.; 7. feet; 8. finger; 9. genitalia; 10. nose.
+i:Burnt offerings (d6): 1. corpses; 2. rare herbs{.herbalism}; 3. sacred incense; 4. high-quality meat; 5. nonbeliever; 6. prisoners.
+i:Offerings of gold, gems, and valuables{gemstones}.
+i:Strange incantations.
+i:Public acts of violence (d4): 1. beatings; 2. looting; 3. murders; 4. riots.
+i:Ritualistic sexual acts (d4): 1. bestiality; 2. breedings; 3. deflowerings; 4. orgies.
+}
+{
+d:d8 The cult's goals (leadership and believers could have different goals)...
+i:Domination of the city or region.
+i:Destruction of the city or region.
+i:Reincarnation of a long-dead entity.
+i:Declaration of war against a rival city or nation.
+i:Rebellion against the city or nation's elite.
+i:Death to non-believers.
+i:Opening a portal to another plane.
+i:Release of a powerful captive entity.
+}
+{
+d:d12 The cult’s members must follow a strict rule regarding...
+i:Wearing a flower in the hair or on the lapel (d4): 1. lily; 2. orchid; 3. rose; 4. tulip.
+i:Fashion trends.
+i:Maintaining their personal weapon (d4): 1. club; 2. dagger; 3. handaxe; 4. staff.
+i:Treatment of pets.
+i:Mounting a horse{.horses}.
+i:Dressing one’s self for worship.
+i:Dressing one’s self for day-to-day activities.
+i:Diet.
+i:Exercise routines.
+i:Bathing.
+i:Styling one’s hair.
+i:Brushing one’s teeth.
+}
+{
+d:d12 The cult’s members are particularly afraid of or takes special care to avoid...
+i:Hallowed places.
+i:Moonlight.
+i:Sunlight.
+i:Crossing running water.
+i:Sharp wooden objects.
+i:Garlic.
+i:Silver objects.
+i:Relics of the gods.
+i:Sleeping outdoors.
+i:Milk and cheese.
+i:Eating meat.
+i:Sobriety.
+}

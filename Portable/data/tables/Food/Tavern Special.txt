@@ -1,0 +1,113 @@
+{
+d:d6 The tavern special tonight is
+i:1. boiled
+i:2. broiled
+i:3. grilled
+i:4. roasted
+i:5. fried
+i:6. stewed
+}
+{
+d:d50
+i:1. Alligator
+i:2. Alpaca
+i:3. Bear
+i:4. Beaver
+i:5. Beef
+i:6. Bison
+i:7. Buffalo
+i:8. Camel
+i:9. Cat
+i:10. Chicken
+i:11. Cougar
+i:12. Crayfish
+i:13. Crocodile
+i:14. Deer
+i:15. Dog
+i:16. Donkey
+i:17. Duck
+i:18. Elk
+i:19. Fish
+i:20. Goose
+i:21. Horse
+i:22. Lamb
+i:23. Llama
+i:24. Lobster
+i:25. Moose
+i:26. Mussels
+i:27. Mutton
+i:28. Oysters
+i:29. Partridge
+i:30. Pheasant
+i:31. Pork
+i:32. Possum
+i:33. Prawn
+i:34. Quail
+i:35. Rabbit
+i:36. Rat
+i:37. Red fox
+i:38. Reindeer
+i:39. Shrimp
+i:40. Snake
+i:41. Sweetbreads
+i:42. Tripe
+i:43. Turkey
+i:44. Turtle
+i:45. Veal
+i:46. Venison
+i:47. Wild bull
+i:48. Wild goat
+i:49. Wild pig
+i:50. Mystery meat
+}
+{
+d:d8 served with
+i:1. vegetables
+i:2. a salad
+i:3. bread
+i:4. beer
+i:5. fruit
+i:6. nuts
+i:7. cheese
+i:8. eggs
+}
+{
+d:d8 The portions are
+i:1. miniscule
+i:2. tiny
+i:3. small
+i:4. normal
+i:5. big
+i:6. large
+i:7. huge
+i:8. enormous
+}
+{
+d:d8 The ingredients are obviously
+i:1. horrible
+i:2. pitiful
+i:3. poor
+i:4. sub-standard
+i:5. standard
+i:6. good
+i:7. quality
+i:8. excellent
+}
+{
+d:d8 and overall the meal is
+i:1. undercooked
+i:2. overcooked
+i:3. burnt
+i:4. too salty
+i:5. too bland
+i:6. too dry
+i:7. too moist
+i:8. just right
+}
+{
+d:d4 The price of the meal is
+i:1. cheap
+i:2. what you'd expect
+i:3. a little pricey
+i:4. very expensive
+}

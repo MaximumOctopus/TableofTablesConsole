@@ -1,0 +1,90 @@
+{
+d:d6 This place is a...
+i:Sea cave.
+i:Series of flooded tunnels deep underground.
+i:Stronghold built by aquatic beings.
+i:Temple dedicated to a watery god.
+i:Palace built by a water elemental lord.
+i:Sewer gone wrong.
+}
+{
+d:d6 Water level: The chambers in this place...
+i:Are always flooded up to the ceiling.
+i:Are always flooded in the lower levels.
+i:Are always flooded up to the waist.
+i:Fill with water at high tide.
+i:Fill with water seasonally.
+i:Fill with water at the whim of an elemental lord.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Air pocket.
+i:Altar to a watery god.
+i:Heavy chest.
+i:Rack of harpoons and/or spears.
+i:Skeleton of a drowned mortal.
+i:Teeming reef.
+}
+{
+d:d6 Minor feature: You see a...
+i:Little stream of bubbles.
+i:Icon of a watery god.
+i:Debris from a broken boat.
+i:School of fish.
+i:Ragged piece of cloth.
+i:Pocket of cool water.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Smuggler’s ghost.
+i:Curious mermaid.
+i:Suspicious sea elf.
+i:Eccentric treasure hunter.
+i:Half-mad elemental cultist.
+i:Reclusive beastshifter (roll on beast table).
+}
+{
+d:d6 Beast: You meet a/an…
+i:Dolphin.
+i:Giant clam.
+i:Lobster.
+i:Octopus.
+i:Seal.
+i:Shark.
+}
+{
+d:d6 Secondary monster: You come upon a/an…
+i:Aberrant sea beast (roll on beast table).
+i:Swarm of crabs or carnivorous fish.
+i:Kuo-toa.
+i:Sahuagin.
+i:Sea hag.
+i:Water elemental.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a…
+i:Aboleth.
+i:Blue dragon.
+i:Kraken.
+i:Maridan prince.
+i:Storm giant.
+i:Storm sorcerer.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Electric eels.
+i:Poisonous jellyfish.
+i:Poisoned dart trap.
+i:Flooding airlock trap.
+i:Swirling currents.
+i:Curse of rotting death.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find...
+i:Pirate captain’s hoard.
+i:Staff of elemental power.
+i:Ancient weapon forged of coral.
+i:Legendary gemstone lost at sea.
+i:Key to opening a portal to another realm.
+i:Captive mermaid princess.
+}

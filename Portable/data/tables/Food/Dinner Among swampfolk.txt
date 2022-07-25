@@ -1,0 +1,94 @@
+{
+d:d12 Tonight, among swampfolk, we dine on...
+i:Stewed.
+i:Roasted.
+i:Skewered.
+i:Charred.
+i:Smoked.
+i:Grilled.
+i:Sauteed.
+i:Battered.
+i:Salted.
+i:Peppered.
+i:Pickled.
+i:Fried.
+}
+{
+d:d20 ...
+i:Bass.
+i:Catfish.
+i:Crayfish.
+i:Crocodile.
+i:Eel.
+i:Prawns.
+i:Snake.
+i:Swamp rat{.rats}.
+i:Frog.
+i:Gar.
+i:Duck.
+i:Pelican.
+i:Sunfish.
+i:Baby eel.
+i:Lizard.
+i:Boar.
+i:Turtle.
+i:Clams.
+i:Oysters.
+i:Carp.
+}
+{
+d:d12 ...with...
+i:Potatoes.
+i:Red cabbage.
+i:Leeks.
+i:Chickpeas.
+i:Corn.
+i:String beans.
+i:Red beans.
+i:White beans.
+i:Black beans.
+i:Leafy greens.
+i:Bitter greens.
+i:Chopped tomatoes.
+}
+{
+d:d10 ...and...
+i:Sweet onions.
+i:Green onions.
+i:Mushrooms.
+i:Sweet peppers.
+i:Hot peppers.
+i:Fire peppers.
+i:Lemon.
+i:Tomato sauce.
+i:Pecans.
+i:Mixed berries.
+}
+{
+d:d12 On the side, there is some...
+i:Crusty bread.
+i:Honey cake.
+i:Corn bread.
+i:Oat cake.
+i:Rum cake.
+i:Fluffy biscuit.
+i:Hard biscuit.
+i:Crocodile sausage.
+i:Dried fish.
+i:Bacon.
+i:Fried egg.
+i:Turtle soup.
+}
+{
+d:d10 To wash it down, we have some...
+i:Black tea.
+i:Sweet tea.
+i:Pale ale.
+i:Skunky ale.
+i:Strong wine{.wines}.
+i:Sweet wine{.wines}.
+i:Absinthe.
+i:Spiced rum.
+i:Rum punch.
+i:Whisky.
+}

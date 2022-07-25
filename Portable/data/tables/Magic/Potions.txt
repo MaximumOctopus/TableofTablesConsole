@@ -1,0 +1,623 @@
+{
+d:d10 Title. This is a...
+i:Potion.
+i:Elixir
+i:Draught
+i:Vial
+i:Philter
+i:Tonic
+i:Brew
+i:Ichor
+i:Juice
+i:Concoction
+}
+{
+d:d100 Effect. The potions main effect is...
+i:Healing. It instantly regenerates some health when drank.
+i:Vigor. Gives temporary health when drank.
+i:Vitality. It slowly regenerates health over a period of some hours.
+i:Might. It gives a bonus to attack rolls after drinking.
+i:Courage. Gives immunity to fear and some temporary inspiration.
+i:Giant Strength. It gives the user much more strength.
+i:Flame Resistance. It gives resistance to fire damage.
+i:Cold Resistance. It gives resistance to cold damage.
+i:Necro Resistance. Gives resistance to necrotic damage.
+i:Radiant Resistance. Gives resistance to radiant damage.
+i:Stoneskin. Gives resistance to martial damage.
+i:Acid Resistance. Gives resistance to acid.
+i:Lightning Resistance. Gives resistance to lightning damage.
+i:Succubus Charm. Makes the drinker irresistible to nearby people.
+i:Shielding. Gives the user a magical shield of energy.
+i:Flame Breath. Gives the user fire breath for a short time.
+i:Growth. Makes the user double in size.
+i:Shrinking. Makes the user half in size.
+i:Comprehension. Lets the user understand all languages.
+i:Fertility. Makes the user very fertile, almost certain to make a baby under its effects!
+i:Intimidation. Gives the user a huge booming voice that terrifies those around.
+i:Luck. It gives the user a temporary boost to luck.
+i:Mana. Gives the user more magical power to cast with.
+i:Arcane. Gives the user more powerful spells.
+i:Animal form. Makes the user turn into a random animal.
+i:Dreams. Makes the user get lost in a hallucinary dream world of their perfect dream.
+i:Nightmares. Makes the user get lost in a hallucinary dream world of their worst nightmares{.nightmnres}.
+i:Stamina. Gives the user more stamina and constitution.
+i:Fleet foot. Makes the user have more speed.
+i:Knowledge. Increases the users intelligence temporarily.
+i:The Bard. Increases the users charisma and charm temporarily{.bards}.
+i:Disguise. Changes the users form to a disguised form of any race{races_core,races_all} and appeance.
+i:Feast. Removes all hunger and thirst from the target.
+i:Youth. Makes the user grow some years younger.
+i:Age. Makes the user grow some years older.
+i:Furnace. Makes the user radiate with a damaging aura.
+i:Eagle Sight. Gives the user strong vision and a bonus to perception.
+i:Health. Cures all diseases and illnesses{.diseases}.
+i:Invulnerability. Freezes the user in stasis that makes them immune to damage but they cannot move or act.
+i:Riddle me gone. Gives the user the cure to a single riddle.
+i:Horrifying appearance. Makes the user look more ugly for a time.
+i:Beautiful appearance. Makes the user appear more attractive for a time.
+i:Swordsmanship. Makes the user more effective and versatile with a blade.
+i:Bowmanship. Makes the user more effective with a bow or ranged weapon{.legendary weapons}.
+i:Nymph Breath. Gives water breathing.
+i:Midas. Makes the user turn things to gold.
+i:Berserker. Makes the user rage with great strength.
+i:Utter Hatred. Makes the user have bonuses against a particular type of enemy.
+i:Oracle. Lets the user divinate the future.
+i:Demonic Leech. Heals a portion of all damage the user deals.
+i:Fey Nature. Lets the user become one with animals and nature around them{.beasts fey}.
+i:Tracelessness. Makes the user very hard to follow.
+i:Gracefulness. Makes the user have a better acrobatics skill.
+i:Goblin Climb. Gives the user a bonus to climbing{.goblins,.goblin gangs}.
+i:Dead Ringer. Makes the user appear completely dead to all magic.
+i:One Leafed Clover. Gives the user worst luck.
+i:Possession. Lets the user gain control of a nearby creature, their body comatosed while they do.
+i:Owls Wake. Makes the user need no sleep for a time.
+i:Hawks Flight. Lets the user fly.
+i:Peace. Makes the user very calm and unable to harm others.
+i:Rejuvenation. Heals a single scar or bad injury on the user such as a missing arm.
+i:Sphinxes Truth. Makes the user tell the truth.
+i:Serpent Tongue. Makes the user only able to lie.
+i:Navigation. Makes the user unable to get lost and find where they need.
+i:Hook Horror. The users hands become sharp weaponised blades{.legendary weapons}.
+i:Schaffensfreude. Makes the enemies take damage as they deal it to the user.
+i:Invisibility. Makes the user invisible.
+i:Wild magic. Taps into wild magic making an absolutely random thing happen.
+i:Fame. Makes the user more famous.
+i:Goats Trek. Makes the user immune to the toils of long travels and bad weather.
+i:Gargoyle Toughness. Increases the users constitution.
+i:Atomic Clock. Lets the user know the exact tme and date.
+i:Transmutation. Lets the user have the ability to change somethings properties.
+i:Iron Skin. Turns the users skin to metal giving them many resistances.
+i:Sex Change. Changes the users gender.
+i:Race Change. Changes the users race{races_core,races_all}.
+i:Musical Breath. Makes the user say everything in song, and fey music follows them in the air{.beasts fey}.
+i:Utter Understanding. Makes the user know very intimately about one exact thing. Random, or they can decide.
+i:Split Form. The user turns into two or three tiny versions of themselves and controls them all.
+i:Flavour. Makes anything and everything taste amazing!
+i:Glimmer. Makes the user and its gear instantly clean and as good looking as possible.
+i:Love. Makes the user and someone else fall in love.
+i:Poison. Poisons the user, weakening them.
+i:Rebirth. Resurrects the user if they die soon after drinking.
+i:Elemental form. Turns the user to an elemental form relevant to their personality.
+i:True form. Turns the user into a familiar like creature similar to their personality.
+i:Gods Touch. Gives the user a holy connection to their god or fiendish deity{.fiends}.
+i:Antidepressant. Does what it says on the tin.
+i:Ghostly Form. Makes the user intangible and able to phase through objects.
+i:Artisans Skill. Gives the user skill in a particular art temporarily{.artisans}.
+i:Godly form. Improves all stats.
+i:Bless Weapon. Makes the users weapons do more damage{.legendary weapons}.
+i:Euphoria. Makes the user feel amazing and trip out.
+i:Bodyguard. Creates a spectral bodyguard for a short time who obeys orders.
+i:Babelfish. Lets the user speak any language but not understand it.
+i:Preservation. Stops whatever its poured on from rotting or degrading.
+i:Fear. Makes the user terrified.
+i:Night vision. Gives the ability to see in the dark.
+i:Tracking. Lets the user track an enemy.
+i:Cure-all. Cures any status effects.
+}
+{
+d:d10 Strength. The potions strength is...
+i:Regular with a slight side effect.
+i:Regular with no side effect.
+i:Regular with a strong side effect.
+i:Minor with a strong side effect.
+i:Minor with a slight side effect.
+i:Major with a strong side effect.
+i:Major with a small side effect.
+i:A poison. Almost no positive affect all side effect.
+i:Temporary but strong and wears off quickly.
+i:Seemingly permanent.
+}
+{
+d:d100 Side Effect. The potion also causes (usually) temporary...
+i:Nothing bad at all!
+i:Puts the user to sleep.
+i:Rapid hair growth all over the body.
+i:Bleeding from the eyes.
+i:Vivid hallucinations.
+i:Flashbacks of your own eventual demise.
+i:The skin to crack and appear distorted.
+i:Spots to grow on the skin.
+i:Diarrhoea.
+i:Vomiting.
+i:Blurred Vision.
+i:Blindness.
+i:Deafness.
+i:Mutism.
+i:Health loss via rapid bleeding.
+i:A sudden horrific accent.
+i:The irresistible urge to dance.
+i:The hearing of demons.
+i:Loss of balance.
+i:Everything tasting like dirt for some time.
+i:Excessive drooling.
+i:Loss of intelligence.
+i:Loss of strength.
+i:Loss of speed.
+i:Loss of charisma.
+i:Genuine happiness.
+i:Hunger.
+i:Thirst.
+i:Trouble breathing.
+i:Sudden Moustache.
+i:Poisoning.
+i:Petrification.
+i:Stunning.
+i:Immobilisation.
+i:Increased libido.
+i:Fidgeting.
+i:Itchiness.
+i:Rashes.
+i:Attracts bears.
+i:Magically covers in dirt.
+i:Horrifying stench.
+i:Baldness.
+i:Swelling.
+i:Loss of a random item.
+i:Curses{cursessimple}.
+i:Damage.
+i:Weakness to a magical damage type.
+i:Weakness to physical damage.
+i:Feelings of Guilt
+i:Feelings of Anxiety.
+i:Feelings of Shame.
+i:Sneezing.
+i:Uncontrollable crying.
+i:Need to sing heroic music.
+i:Urge to hug.
+i:Kleptomania.
+i:Burping.
+i:Loss of smell.
+i:Insomnia.
+i:Paranoia.
+i:Bad luck.
+i:Summons imps that want to kill you.
+i:Summons angry bees.
+i:Fear of something.
+i:Temporary madness.
+i:Relaxation.
+i:Appreciation of colours and sound.
+i:Tripping the hell out.
+i:Painful lust.
+i:Light headedness.
+i:Increased confidence.
+i:Recklessness.
+i:Rage.
+i:Sadness.
+i:Dizziness.
+i:Pain.
+i:Slight possession.
+i:Allergic reaction to your favourite food.
+i:Strong believe you’re someone else.
+i:Severe debt.
+i:Grumpiness.
+i:Muscle spasms.
+i:A bloated feeling.
+i:A cold.
+i:A fever.
+i:Becoming strangely light.
+i:Weakness.
+i:The urge to fight.
+i:The need to make friends.
+i:Nausea.
+i:Mood swings.
+i:Addiction.
+i:Need for booze.
+i:Drunkeness.
+i:Coughing.
+i:Uncontrollable babbling.
+i:Slight aches.
+i:A bad taste for some time.
+i:Giddiness.
+i:Laughter.
+}
+{
+d:d20 Container. The potion is in a...
+i:A conical smooth glass bottle.
+i:A square glass bottle.
+i:A not quite watertight leather waterskin.
+i:A stone flask.
+i:A metal thermos.
+i:A glass syringe.
+i:A small medical vial.
+i:A small shot sized bottle.
+i:A large metal bottle.
+i:A capped horn.
+i:An ornate very decorated glass bottle.
+i:A geometric diamond shaped bottle.
+i:A translucent long wine bottle{.wines}.
+i:A translucent beer bottle.
+i:A leather pouch.
+i:An inhaler like spray bottle.
+i:A coloured bottle.
+i:A bone flask.
+i:A small metal vial.
+i:A large bottle that can be swigged several times.
+}
+{
+d:d20 Appearance. The potion looks...
+i:Clear.
+i:Blue.
+i:Green.
+i:Red.
+i:Pale Green.
+i:Pink.
+i:Light Blue.
+i:White.
+i:Black.
+i:Dark Grey.
+i:Light grey.
+i:Yellow.
+i:Orange.
+i:Gold.
+i:Rainbow.
+i:Bronze.
+i:Metallic.
+i:Purple.
+i:Brown.
+i:Dark Red.
+}
+{
+d:d20 Apperance 2. With...
+i:Flecks of colour.
+i:Swirls of colour.
+i:Fizzing bubbles.
+i:Bubbles suspended in it.
+i:Some kind of bone floating in it.
+i:Leaves and flowers in it.
+i:Two separating liquid.
+i:A bright glow.
+i:A soft glow.
+i:Stripes of colour.
+i:Translucency.
+i:A cloudy murkiness.
+i:Blood within it.
+i:Dirt floating in it.
+i:Chunks of metal in it.
+i:Some type of gore from a slain creature.
+i:Steam coming from it.
+i:A face in the liquid.
+i:Constantly moving and shifting liquid.
+i:A constant heat.
+}
+{
+d:d10 Texture. The potion is...
+i:Thick and sludgy.
+i:Thin and watery.
+i:Airy and bubbly.
+i:Slimey.
+i:Almost solid.
+i:Oily.
+i:Chunky.
+i:Bitty.
+i:Milky.
+i:Almost gaseous.
+}
+{
+d:d100 Smell. The Potion smells like...
+i:Nothing at all.
+i:Sulphur.
+i:Fresh air.
+i:Baking cookies.
+i:Flowers.
+i:Rotting meat.
+i:Egg.
+i:Rotten eggs.
+i:Fresh bread.
+i:Blood.
+i:Home.
+i:Vomit.
+i:Garlic.
+i:Fruit.
+i:Chocolate.
+i:Beer.
+i:Smoke.
+i:Wood.
+i:Death.
+i:Orc{.orcs,.orc warlords,.orkish clans}.
+i:Wet dog.
+i:Wet goblin{.goblins,.goblin gangs}.
+i:Perfume.
+i:Cheap perfume.
+i:Musk.
+i:Garbage.
+i:Sand.
+i:The Forest{.forest,.forest enchanted,.forest haunted}.
+i:Nuts.
+i:Acidic.
+i:Spicy.
+i:Minty.
+i:Of chemicals.
+i:Dirt.
+i:Of something bad flavoured to taste better.
+i:Alcohol.
+i:Sugar.
+i:A damp cave.
+i:Strange.
+i:Indescribable but nice.
+i:Indescribable but horrid.
+i:Rain.
+i:Medical.
+i:Bacon.
+i:Coffee.
+i:Cut grass.
+i:Vanilla.
+i:The sea.
+i:Roast meat.
+i:Festive.
+i:Lavender.
+i:Lilac and Gooseberries.
+i:A fresh baby.
+i:A new car.
+i:Cirtrus.
+i:Leather.
+i:Metal.
+i:A forge.
+i:Fresh Cake.
+i:Paint.
+i:Wine{.wines}.
+i:Polish.
+i:Cheese.
+i:Fish.
+i:Compost.
+i:The sewers.
+i:Apples.
+i:Holy oils.
+i:Massage oil.
+i:A brothel{.brothels}.
+i:Old fruit.
+i:Roses.
+i:Something that stirs memories.
+i:Gingerbread.
+i:Cinnamon.
+i:Candy.
+i:Fumes.
+i:Bark.
+i:Chicken.
+i:Beef.
+i:Human Flesh.
+i:Gunpowder.
+i:A storm.
+i:Success.
+i:Gold.
+i:Mayonnaise.
+i:Barbeque.
+i:Salt.
+i:Pepper.
+i:Aromatic spices.
+i:Fruit punch.
+i:Water.
+i:Fresh water.
+i:Stagnant water.
+i:Mud.
+i:A colour.
+i:Music.
+i:The end of the world.
+i:Magically the worst thing to you
+i:Magically the most desirable thing to you.
+}
+{
+d:d100 Taste. The potion tastes like...
+i:Nothing at all.
+i:Sulphur.
+i:Fresh air.
+i:Baking cookies.
+i:Flowers.
+i:Rotting meat.
+i:Egg.
+i:Rotten eggs.
+i:Fresh bread.
+i:Blood.
+i:Home.
+i:Vomit.
+i:Garlic.
+i:Fruit.
+i:Chocolate.
+i:Beer.
+i:Smoke.
+i:Wood.
+i:Death.
+i:Orc{.orcs,.orc warlords,.orkish clans}.
+i:Wet dog.
+i:Wet goblin{.goblins,.goblin gangs}.
+i:Perfume.
+i:Cheap perfume.
+i:Musk.
+i:Garbage.
+i:Sand.
+i:The Forest{.forest,.forest enchanted,.forest haunted}.
+i:Nuts.
+i:Acidic.
+i:Spicy.
+i:Minty.
+i:Of chemicals.
+i:Dirt.
+i:Of something bad flavoured to taste better.
+i:Alcohol.
+i:Sugar.
+i:A damp cave.
+i:Strange.
+i:Indescribable but nice.
+i:Indescribable but horrid.
+i:Rain.
+i:Medical.
+i:Bacon.
+i:Coffee.
+i:Cut grass.
+i:Vanilla.
+i:The sea.
+i:Roast meat.
+i:Festive.
+i:Lavender.
+i:Lilac and Gooseberries.
+i:A fresh baby.
+i:A new car.
+i:Cirtrus.
+i:Leather.
+i:Metal.
+i:A forge.
+i:Fresh Cake.
+i:Paint.
+i:Wine{.wines}.
+i:Polish.
+i:Cheese.
+i:Fish.
+i:Compost.
+i:The sewers.
+i:Apples.
+i:Holy oils.
+i:Massage oil.
+i:A brothel{.brothels}.
+i:Old fruit.
+i:Roses.
+i:Something that stirs memories.
+i:Gingerbread.
+i:Cinnamon.
+i:Candy.
+i:Fumes.
+i:Bark.
+i:Chicken.
+i:Beef.
+i:Human Flesh.
+i:Gunpowder.
+i:A storm.
+i:Success.
+i:Gold.
+i:Mayonnaise.
+i:Barbeque.
+i:Salt.
+i:Pepper.
+i:Aromatic spices.
+i:Fruit punch.
+i:Water.
+i:Fresh water.
+i:Stagnant water.
+i:Mud.
+i:A colour.
+i:Music.
+i:The end of the world.
+i:Magically the worst thing to you
+i:Magically the most desirable thing to you.
+}
+{
+d:d100 Label. The potion has a label showing...
+i:Its name and title in bold letters.
+i:Its description in ornate elvish.
+i:Its description in elvish with a relevant mythic story.
+i:Its description on dwarven.
+i:Dwarven runes.
+i:Its description in gnomish.
+i:Gnomish diagrams for its use.
+i:The words USE ONLY IN EMERGANCIES scrawled on iti.
+i:A mass produced label claiming the company has no fault for any side effects.
+i:A mass produced label saying it’s a new flavour.
+i:Very tiny print describing how the potion was made in great detail, around 1000 words.
+i:Its name in Bold words in Giant.
+i:Is scrawled off.
+i:Has faded beyond reading.
+i:Doesn’t seem to have one.
+i:Its description and a random fact.
+i:Its description and a small compliment to make your day better.
+i:Its description and a joke.
+i:Its description in infernal.
+i:Its description in some ancient language.
+i:All in some kind of symbols.
+i:All in some kind of raised symbols for the blind to read.
+i:Its description in elemental languages.
+i:Its name and flavour.
+i:Its name with a warning about side effects.
+i:Its name and its recommended buying price.
+i:Bloody prints all over it.
+i:Name engraved into the container.
+i:Its name glowing with minor magic.
+i:A cartoony mascot.
+i:A warning of an ancient curse{cursessimple}.
+i:Its name and description in invisible ink.
+i:Its description in draconic.
+i:Several different names and descriptions plastered over eachother.
+i:A name of a completely different potion to what it does.
+i:A title describing the exact opposite.
+i:A money back guarantee.
+i:A coupon for a free potion.
+i:A living face looking around.
+i:Its name and recipe for other alchemists{.alchemists}.
+i:A heartfelt love letter for someone.
+i:A heartfelt hate letter for someone.
+i:A persons name. The potion wont work unless asked by its name to do so.
+i:A strange prophecy.
+i:A small doodle.
+i:A note saying DO NOT DRINK.
+i:A passive aggressive note about other people drinking potions that don’t belong to them.
+i:Brightly glowing letters.
+i:That plays a very quiet sing song till the bottle is empty.
+i:Ornate and beautiful designs.
+i:Very practical designs.
+i:Holy symbols.
+i:Unholy symbols.
+i:Fey symbols and sylvan writing{.beasts fey}.
+i:A riddle, the lid not opening unless the riddle is solved.
+i:Saying its designed for babies.
+i:Saying that it shouldn’t be drank by anyone under 18.
+i:A note saying its illegal contraband being confiscated.
+i:A note saying the alchemist thinks it is its greatest work{.alchemists}.
+i:A note saying the alchemist is sorry for ever creating it{.alchemists}.
+i:A note saying that it never should have been made and copius blood stains over the bottle.
+i:It says you’re being watched. When the person checks it instead says Just Kidding.
+i:Its description in Druidic.
+i:Its description in orcish{.orcs,.orc warlords,.orkish clans}
+i:Its description in goblin{.goblins,.goblin gangs}.
+i:Its description in Halfling.
+i:Its description in Celestial.
+i:Its description in Undercommon.
+i:Its description in Deep speech.
+i:Its description in strange arcane symbols.
+i:A map of where the potion was made.
+i:A small puzzle for kids.
+i:A list of ingredients in their chemical forms.
+i:A list of possible side effects as long as the bottle is.
+i:A red X.
+i:A sad face.
+i:An angry face.
+i:A happy face.
+i:A healing symbol.
+i:A cheesy pun potion name.
+i:Growing with vines.
+i:Growing with flowers.
+i:Growing with crystals.
+i:Growing with rock.
+i:Shamanistic symbols and shavings.
+i:No words just a single colour.
+i:Water damage but a just legibale label.
+i:A label as if it was some kind of present.
+i:A label showing how many calories it is.
+i:A warning about potion abuse and to only take in moderation.
+i:A label with warnings and side effects all scribbled out.
+i:That only shows the side effects.
+i:A mysterious number.
+i:A code name.
+i:A few unrelated letters.
+i:The name of one of the party members.
+i:The name of the bad guy.
+i:Crawling with bugs.
+i:Covered in something unspeakable.
+i:Covered in glitter. It gets everywhere.
+}

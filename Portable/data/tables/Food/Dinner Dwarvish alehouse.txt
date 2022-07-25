@@ -1,0 +1,101 @@
+{
+d:d12 Tonight, in a dwarvish alehouse, we dine on...
+i:Stewed.
+i:Flame-roasted.
+i:Glazed and skewered.
+i:Braised.
+i:Smoked.
+i:Battered and fried.
+i:Glazed and seared.
+i:Flame-broiled.
+i:Salted and grilled.
+i:Peppered and grilled.
+i:Stone oven-roasted.
+i:Stone oven-baked.
+}
+{
+d:d12 ...
+i:Rabbit.
+i:Duck.
+i:Goose.
+i:Boar.
+i:Pork.
+i:Ox.
+i:Trout.
+i:Salmon.
+i:Venison.
+i:Mutton.
+i:Steak.
+i:Pheasant.
+}
+{
+d:d10 ...with...
+i:Red potatoes.
+i:Golden potatoes.
+i:Red cabbage.
+i:White cabbage.
+i:Green cabbage.
+i:Peas.
+i:Sliced turnips.
+i:Turnip mash.
+i:White onions.
+i:Red onions.
+}
+{
+d:d10 ...and...
+i:Carrots.
+i:Apples.
+i:Cherries.
+i:Cave mushrooms.
+i:Purple mushrooms.
+i:Wild mushrooms.
+i:Truffles.
+i:Thick gravy.
+i:Rich gravy.
+i:Garlic.
+}
+{
+d:d12 On the side, there is some...
+i:Rye bread.
+i:Wheat bread.
+i:Crusty bread.
+i:Honey cake.
+i:Oat cake.
+i:Poppyseed cake.
+i:Hard biscuit.
+i:Fluffy biscuit.
+i:Pork sausage.
+i:Deer sausage.
+i:Bacon.
+i:Ham.
+}
+{
+d:d12 To wash it down, we have some...
+i:Black ale.
+i:Pale ale.
+i:Brown ale.
+i:Red ale.
+i:White ale.
+i:Wheat ale.
+i:Pilsner.
+i:Lager.
+i:Chocolate stout.
+i:Coffee stout.
+i:Black porter.
+i:Brown porter.
+}
+{
+d:d12 ...that is just a bit...
+i:Too dark in color.
+i:Too light in color.
+i:Too strong in flavor.
+i:Too mild in flavor.
+i:Too foamy.
+i:Too fizzy.
+i:Too flat.
+i:Too bitter.
+i:On the nutty side.
+i:On the floral side.
+i:On the sweet side.
+i:Chewy.
+}

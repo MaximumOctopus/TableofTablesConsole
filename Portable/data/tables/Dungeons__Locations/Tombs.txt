@@ -1,0 +1,201 @@
+{
+d:d20 This tomb was built for...
+i:An ancient king.
+i:An ancient queen.
+i:An ancient high priest or priestess.
+i:An ancient sorcerer.
+i:A mighty warrior.
+i:A terrible villain{.villains}.
+i:A legendary adventurer.
+i:A celebrated war hero.
+i:An unscrupulous king or queen.
+i:A vain mayor or townmaster.
+i:A powerful military commander or warlord.
+i:A powerful witch or wizard{.witches}.
+i:A powerful priest or priestess.
+i:A beloved sovereign.
+i:A wealthy merchant{.merchant caravans,.merchant guilds}.
+i:A member of a noble house{.nobles,.noble houses}.
+i:A member of the royal family.
+i:The wife of a wealthy person or ruler.
+i:The mother of a wealthy person or ruler.
+i:The child of a wealthy person or ruler.
+}
+{
+d:d12 The tomb’s entrance is...
+i:Yawning open, letting much daylight into the entry chamber.
+i:Behind a huge pair of metal doors (d4): 1. brass; 2. bronze; 3. gold; 4. iron.
+i:Beneath a stone slab.
+i:A simple wooden door framed in stone.
+i:A heavy wooden door framed in stone.
+i:Behind a heavy stone door.
+i:Beneath a gnarled, old tree.
+i:Beneath an obelisk or similar monument.
+i:Beneath a large statue.
+i:Hidden by the terrain (d4): 1. boulders; 2. waterfall; 3. rocky overhang; 4. hillock.
+i:Hidden by vegetation (d4): 1. a briar patch; 2. a curtain of moss; 3. enormous tree roots; 4. overgrown vines.
+i:Difficult to access (d4): 1. up or down a cliff face; 2. down a deep hole; 3. in an underwater tunnel; 4. through an illusory rock or wall.
+}
+{
+d:d10 The tomb’s entrance is guarded by...
+i:A sworn order of devout warriors.
+i:Sellswords{.sellswords}.
+i:Large, frightening statues of beasts (d8): 1. bats{.bats}; 2. bears; 3. dragons; 4. eagles; 5. lions; 6. ravens; 7. snakes; 8. wolves.
+i:Impressive, colossal statues of warriors.
+i:Statues of beautiful maidens, beckoning visitors into a trap.
+i:Several crumbling statues.
+i:Skeletal warriors.
+i:An unsettling arrangement of bones.
+i:A band of outlaws who are carefully delving its secrets{.outlaw bands}.
+i:Nothing; the tomb is rather homey and welcoming{.tombs}.
+}
+{
+d:d6 The tomb’s grand crypt is located...
+i:Just beyond a heavy door in the entry chamber.
+i:Down a steep set of spiraling stairs from the entry chamber.
+i:At the end of a long passageway lined with lesser crypts.
+i:At the end of a long passage lined with statues.
+i:At the end of a long passageway lined with passageways leading to lesser crypts.
+i:Several levels below the entry chamber.
+}
+{
+d:d8 The tomb’s layout is...
+i:Simple; a large grand crypt with a handful of smaller crypts and rooms adjoining.
+i:Simple with a large entry chamber; the entry chamber leads off to smaller crypts and other rooms.
+i:Multi-layered; access to the lower layers is easy to find.
+i:Multi-layered; access to the lower layers is difficult to find.
+i:Multi-winged; access to some wings is difficult to find.
+i:A series of rooms arranged in a concentric fashion; the grand crypt is located among the inner rooms.
+i:Labyrinthine; designed to deliberately confuse intruders.
+i:Simple with an intricate complex hidden beneath the grand crypt.
+}
+{
+d:d8 Many of the tomb's interior walls are...
+i:Rough hewn stone.
+i:Smooth cut stone.
+i:Painted or lacquered wood.
+i:Unfinished hardwood.
+i:Decorated with intricate mosaics.
+i:Decorated with elaborate murals.
+i:Decorated with bones and icons of death.
+i:Decorated with sacred texts and runes.
+}
+{
+d:d6 Many of the tomb’s ceilings are...
+i:Uncomfortably close to your head.
+i:Stone, smooth as glass.
+i:Stone, rough and jagged.
+i:Connected to the floor by columns.
+i:Painted or carved with iconic scenes.
+i:Crossed by wooden beams.
+}
+{
+d:d20 Rooms: The purpose of this room is...
+i:An antechamber to a crypt or chapel.
+i:A chapel dedicated to protecting the souls of the deceased.
+i:A chapel dedicated to aiding the journey of the souls of the deceased.
+i:A grand crypt for a person of importance (d4): 1. well-known hero; 2. high priest; 3. powerful noble{.nobles,.noble houses}; 4. wealthy merchant{.merchant caravans,.merchant guilds}.
+i:A false crypt to attract and to trap graverobbers and treasure hunters{.graverobbers}.
+i:A crypt for immediate family members.
+i:A crypt for previous generations of the family.
+i:A crypt for the spouse of the deceased.
+i:A crypt of unmarked graves.
+i:A reflecting pool or fountain.
+i:A crypt for devoted servants or slaves.
+i:A room dedicated for specific rituals (d3): 1. divinations; 2. funerals; 3. necromancy.
+i:Gallery dedicated to the deceased (d3): 1. trophies; 2. statues; 3. paintings.
+i:A guardroom with guards (d6): 1. ghosts; 2. golems{.golems}; 3. knights{.knights}; 4. sellswords{.sellswords}; 5. cultists; 6. skeletons; 5. wights; 6. zombies.
+i:A priest’s robing room.
+i:Storage room for embalming tools.
+i:Storage room for tools and materials to maintain the tomb{.tombs}.
+i:Workshop for embalming the dead.
+i:A crypt hidden by a secret door where the most important person in the tomb rests{.tombs}.
+i:A priest’s quarters or robing room.
+}
+{
+d:d20 Features: You notice...
+i:A small altar set in an alcove in the wall{.altars (holy),.altars (unholy)}.
+i:A plaque listing a family lineage.
+i:A plaque noting birth and death dates.
+i:A wall sconce holding several candles.
+i:An empty wall sconce for holding a torch.
+i:A rotten, earthy stench.
+i:A musty, moldy odor.
+i:The scent of decaying flesh.
+i:A mural depicting a mythological scene.
+i:A small fountain or reflecting pool.
+i:A huge book of sacred texts or prayers.
+i:An ornate oil lamp.
+i:A mosaic set into the floor of the room.
+i:A wide fresco or mural depicting a mythological or historical scene.
+i:A gilded sarcophagus.
+i:A simple stone sarcophagus.
+i:A finely-crafted, heavy wooden coffin.
+i:A simple, sturdy wooden coffin.
+i:A stone coffin marked with dates.
+i:An empty coffin.
+}
+{
+d:d6 The tomb is rumored to...
+i:Hold tremendous treasure.
+i:Be heavily trapped to guard against intruders.
+i:Hold a legendary weapon or artifact{.legendary weapons}.
+i:Bestow a powerful curse{cursessimple} on intruders.
+i:House the remains of someone whose body is widely believed to have been lost.
+i:Have already been cleared of monsters and gold by treasure hunters.
+}
+[
+d:UNDEAD DENIZENS
+]
+{
+d:d20 What haunts this tomb?
+i:A swarm of crawling claws.
+i:A covetous wight.
+i:An ancient demilich.
+i:Malevolent ghosts.
+i:Zombie warriors.
+i:A skeletal hound.
+i:A newly-made vampire{.vampires}.
+i:An ancient vampire{.vampires}.
+i:A huge, animated pile of bones.
+i:Twisted humanoid skeletons.
+i:A zombie made from a fallen adventurer.
+i:A hateful mummy.
+i:Skeletal guardians.
+i:Phantom soldiers{.soldiers}.
+i:The ghost of a fair maiden.
+i:Hungry ghouls.
+i:A mad wraith.
+i:A playful ghost.
+i:A treacherous spellcaster-turned-lich.
+i:A vengeful death knight{.knights}.
+}
+[
+d:LIVING DENIZENS
+]
+{
+d:d12 Denizens: What lives in the tomb now?
+i:Carrion crawler.
+i:Cloaker.
+i:Darkmantle.
+i:Fungi.
+i:Mimics.
+i:Myconids.
+i:Ooze{.oozes}.
+i:Otyugh.
+i:Piercer
+i:Roper.
+i:Stirges.
+i:Umber hulk.
+}
+{
+d:d8 Visitors: Who has entered the tomb of late?
+i:A devoted old priest or priestess.
+i:A curious young priest or priestess.
+i:A traveler or scholar from afar.
+i:A member of the deceased’s family.
+i:A greedy treasure hunter.
+i:A student of necromancy.
+i:A fugitive serial killer{.serial killers}.
+i:A brave but foolish adventurer.
+}

@@ -1,0 +1,76 @@
+{
+d:d12 This morning, at a traveler's inn, we break our fast on...
+i:Scrambled eggs.
+i:Fried eggs.
+i:Boiled eggs.
+i:Poached eggs.
+i:Smoked ham.
+i:Honey ham.
+i:Hard cheese.
+i:Soft cheese.
+i:Hot porridge.
+i:Cold porridge.
+i:Thin porridge.
+i:Warm gruel.
+}
+{
+d:d10 ...with...
+i:Soggy bacon.
+i:Chewy bacon.
+i:Crispy bacon.
+i:Thick-cut bacon.
+i:Sweet sausage.
+i:Mild sausage.
+i:Spicy sausage.
+i:Hot sausage.
+i:Sour yogurt.
+i:Sweetened yogurt.
+}
+{
+d:d8 ...and...
+i:Fried potatoes.
+i:Boiled potatoes.
+i:Tomatoes.
+i:Mushrooms.
+i:Sweet peppers.
+i:Spinach.
+i:Sweet onions.
+i:Red onions.
+}
+{
+d:d12 On the side, there is some...
+i:Corn bread.
+i:Corn mash.
+i:Fresh bread.
+i:Crusty bread.
+i:Dry toast.
+i:Buttered toast.
+i:Pumpernickel bread.
+i:Pretzel bread.
+i:Fried egg.
+i:Extra bacon.
+i:Sharp cheese.
+i:Pungent cheese.
+}
+{
+d:d6 ...and there are some...
+i:Apples.
+i:Cherries.
+i:Blueberries.
+i:Strawberries.
+i:Pears.
+i:Blackberries.
+}
+{
+d:d10 To wash it down, we have some...
+i:Water.
+i:Brown ale.
+i:Red ale.
+i:Porter.
+i:Stout.
+i:Spiced wine{.wines}.
+i:Red wine{.wines}.
+i:Milk.
+i:Coffee.
+i:Tea.
+}

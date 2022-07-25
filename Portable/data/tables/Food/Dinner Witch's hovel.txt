@@ -1,0 +1,145 @@
+{
+d:d12 Tonight, in a witch's hovel, we dine on...
+i:Stewed.
+i:Roasted.
+i:Skewered.
+i:Charred.
+i:Smoked.
+i:Grilled.
+i:Sauteed.
+i:Battered.
+i:Salted.
+i:Peppered.
+i:Pickled.
+i:Fried.
+}
+{
+d:d20 ...
+i:Songbird.
+i:Catfish.
+i:Turtle.
+i:Lizard.
+i:Eel.
+i:Goat.
+i:Snake.
+i:Rat{.rats}.
+i:Frog.
+i:Bat{.bats}.
+i:Newt.
+i:Rabbit.
+i:Cat{.cats}.
+i:Dog.
+i:Knight{.knights}.
+i:Maiden.
+i:Thief{.thieves}.
+i:Peasant.
+i:Dwarf{.dwarves}.
+i:Halfling.
+}
+{
+d:d20 ...with...
+i:Dumplings.
+i:Red cabbage.
+i:Green cabbage.
+i:Chickpeas.
+i:Leeks.
+i:Lentils.
+i:Broccoli.
+i:Peas.
+i:Cauliflower.
+i:Red beans.
+i:String beans.
+i:White beans.
+i:Black beans.
+i:Turnips.
+i:Asparagus.
+i:Sprouts.
+i:Tomatoes.
+i:Asparagus.
+i:Potatoes.
+i:Yams.
+}
+{
+d:d20 ...and...
+i:Carrots.
+i:Apples.
+i:Cherries.
+i:Wild berries.
+i:Raspberries.
+i:Elder berries.
+i:Beets.
+i:Squash.
+i:Radishes.
+i:Pumpkin.
+i:Sweet onions.
+i:Red onions.
+i:Green onions
+i:Purple mushrooms.
+i:Cave mushrooms.
+i:Wild mushrooms.
+i:Toadstools.
+i:Hot peppers.
+i:Fire peppers.
+i:Garlic.
+}
+{
+d:d20 On the side, there are some...
+i:Rum cakes.
+i:Honey cakes.
+i:Oat cakes.
+i:Lemon cakes.
+i:Chocolate cakes.
+i:Pumpkin pies.
+i:Candied fruits.
+i:Chocolate candies.
+i:Mice.
+i:Leeches.
+i:Maggots.
+i:Beetles
+i:Crickets.
+i:Toads.
+i:Earthworms.
+i:Wriggling tentacles.
+i:Assorted cheeses.
+i:Little fingers and toes.
+i:Unidentifiable brains.
+i:Mysterious sausages.
+}
+{
+d:d20 To wash it down, we have some...
+i:Pumpkin juice.
+i:White tea.
+i:Green tea.
+i:Red tea.
+i:Black tea.
+i:Herbal tea{.herbalism}.
+i:Floral tea.
+i:Homebrew ale.
+i:Skunky ale.
+i:Pale ale.
+i:Dark ale.
+i:Sour wine{.wines}.
+i:Sweet wine{.wines}.
+i:White wine{.wines}.
+i:Red wine{.wines}.
+i:Blood wine{.wines}.
+i:Brandy.
+i:Whisky.
+i:Rum.
+i:Black liquid served out of a human skull.
+}
+{
+d:d12 ...that leaves you feeling...
+i:Refreshed.
+i:Peaceful.
+i:Anxious.
+i:Carefree.
+i:Very sleepy.
+i:A little light-headed.
+i:Somewhat nostalgic.
+i:Somewhat melancholy.
+i:Somewhat edgy.
+i:A little paranoid.
+i:Rather dizzy.
+i:Rather amorous.
+}

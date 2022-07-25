@@ -1,0 +1,90 @@
+{
+d:d6 This place is a/an...
+i:Mystic cave.
+i:Maze of tall hedges.
+i:Series of pitch black tunnels.
+i:Forgotten tomb.
+i:Ruin of elvish construction.
+i:Series of interconnected earthy burrows.
+}
+{
+d:d6 This place is located…
+i:Near a hobgoblin stronghold.
+i:Beneath an elvish palace.
+i:Beneath an ancient elvish ruin.
+i:Deep within a forest or swamp.
+i:Beneath a city in the mortal world.
+i:In a remote mountain valley in the mortal world.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Statue of an elvish hero.
+i:Altar dedicated to an elvish goddess.
+i:Mural depicting an ancient battlefield.
+i:Magically-crafted colonnade.
+i:Several curtains of silvery mists.
+i:Set of double doors carved with arcane symbols.
+}
+{
+d:d6 Minor feature: You see a/an...
+i:Archery target.
+i:Small statue depicting several pixies.
+i:Rack of swords and spears.
+i:Nest of beautiful, speckled eggs.
+i:Ring of brightly-colored mushrooms.
+i:Handful of floating motes of lights.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Hobgoblin soldier.
+i:Elvish ranger.
+i:Gnomish herbalist.
+i:Dancing pixie.
+i:Sorrowful dryad.
+i:Rowdy satyr.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Blink dog.
+i:Owlbear.
+i:Phase spider.
+i:Swarm of frogs or rabbits.
+i:Swarm of bats or flies.
+i:Talking beast (d6): 1. bear; 2. eagle; 3. owl; 4. snake; 5. giant toad; 6. wolf.
+}
+{
+d:d6 Secondary Monster: You come upon…
+i:Bugbear thug.
+i:Cyclops.
+i:Displacer beast.
+i:Ghostly warrior.
+i:Goblin sneak.
+i:Restless zombie.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a…
+i:Bog hag.
+i:Night hag.
+i:Baelnorn (lich).
+i:Sadistic witch.
+i:Hobgoblin commander.
+i:Charming dragon.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Curse of unstoppable dancing.
+i:Curse of dreamless sleep.
+i:Curse of nightmarish visions.
+i:Spiked pit trap.
+i:Illusory treasure hoard.
+i:Poisoned arrow traps.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find the...
+i:Crown of an ancient elvish queen.
+i:Sword of an infamous hobgoblin king.
+i:Spellbook of a dangerous necromancer.
+i:Notebooks from a brilliant alchemist’s laboratory.
+i:Crystal of a celebrated seeress.
+i:Helm of a legendary elvish hero.
+}

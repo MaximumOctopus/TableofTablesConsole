@@ -1,0 +1,235 @@
+[
+d:FISHERFOLK
+]
+{
+d:d10 The fisherman fishes in...
+i:A quiet creek.
+i:A wide river.
+i:A small pond.
+i:A large lake.
+i:A swamp{.swamp}.
+i:A marsh.
+i:A protected bay.
+i:A natural harbor.
+i:A narrow channel.
+i:The open ocean.
+}
+{
+d:d6 The fisherman typically fishes from...
+i:A sandy or rocky beach.
+i:An embankment, sandbar, or levee.
+i:A pier or bridge.
+i:His/her own boat.
+i:A boat owned by someone else.
+i:Wherever the fish can be reached.
+}
+{
+d:d8 The fisherman uses...
+i:A rod and reel with a baited hook.
+i:A rod and reel with a lure.
+i:Baited lines.
+i:Baited traps.
+i:Nets.
+i:Baited lines and nets.
+i:Baited lines and baited traps.
+i:An unusual technique (d4): 1. harpoon; 2. spear; 3. bare hands; 4. trained beast.
+}
+{
+d:d6 The fisherman prefers to fish...
+i:Alone, in silence.
+i:Alone, while whistling or humming.
+i:Alone, but within earshot of other fishermen.
+i:With a trusted partner.
+i:With an apprentice fisherman.
+i:With an experienced fisherman.
+}
+{
+d:d8 The fisherman is seeking...
+i:A new apprentice.
+i:The answer to a riddle.
+i:To tell the tale of the one that got away.
+i:Rumors of new locations to fish.
+i:Revenge against a rival.
+i:Assistance repairing a boat, net, or some other fishing gear.
+i:Fishing companions.
+i:Drinking companions.
+}
+{
+d:d8 Tattoo: The fisherman has...
+i:An anchor tattoo.
+i:A pair of crossed bones tattoo.
+i:A fish tattoo.
+i:An octopus tattoo.
+i:A whale tattoo.
+i:A lobster tattoo.
+i:A mermaid tattoo.
+i:A dragon tattoo{.dragons}.
+}
+{
+d:d10 Distinguishing feature: The fisherman has...
+i:A wooden pipe.
+i:Rotten teeth.
+i:A gold tooth.
+i:A terrible scar on the forearm.
+i:A handkerchief tied atop the head.
+i:Wild eyes.
+i:A trimmed black beard.
+i:A long, hooked nose.
+i:An open shirt and a very hairy chest.
+i:Long mutton chop sideburns.
+}
+[
+d:FISHING BOAT
+]
+{
+d:d6 The boat is...
+i:A flat raft.
+i:A pontoon raft.
+i:A canoe.
+i:A coracle.
+i:A drifter.
+i:A buss.
+}
+{
+d:d4 The boat can...
+i:Easily be operated by one person.
+i:Be operated by one person, but some flaw or damage has made handling difficult.
+i:Be operated by two people, but it can be handled by one with difficulty.
+i:Be operated by three or more people, but it can be handled by two with difficulty.
+}
+{
+d:d6 Presently, the boat is...
+i:Laden with the latest catch.
+i:Well-stocked with bait and gear and ready to go.
+i:In tip-top shape.
+i:In need of repair.
+i:Barely staying afloat.
+i:Resting beneath the waves.
+}
+{
+d:d10 The boat?s hull markings feature...
+i:A ghost.
+i:A mermaid.
+i:A shark.
+i:A pelican.
+i:A whale.
+i:An octopus.
+i:A swordfish.
+i:A crab.
+i:A sea turtle.
+i:A big tuna.
+}
+[
+d:COLD OCEAN FISHING
+]
+{
+d:d10 Near-shore catch: You haul in...
+i:A clam.
+i:A crab.
+i:A herring.
+i:A lobster.
+i:A mussel.
+i:An oyster.
+i:A prawn.
+i:A salmon.
+i:A smelt.
+i:A rare catch (see below).
+}
+{
+d:d10 Deep-sea catch: You haul in...
+i:A crab.
+i:A cod.
+i:A haddock.
+i:A halibut.
+i:A mackerel.
+i:A oyster.
+i:A shrimp.
+i:A squid.
+i:A tuna.
+i:A rare catch (see below).
+}
+{
+d:d6 Rare catch: You haul in...
+i:A piece of junk (d4): 1. tangle of seaweed; 2. torn net; 3. rotten wood; 4. old boot.
+i:An abalone.
+i:A monkfish.
+i:An octopus.
+i:A sea bass.
+i:A giant squid (fights, attacks).
+}
+[
+d:WARM OCEAN FISHING
+]
+{
+d:d8 Near-shore catch: You haul in...
+i:An anchovy.
+i:A clam.
+i:A crab.
+i:A mussel.
+i:A scallop.
+i:A sea bass.
+i:A skate.
+i:A rare catch (see below).
+}
+{
+d:d10 Deep-sea catch: You haul in...
+i:A cuttlefish.
+i:A flounder.
+i:A grouper.
+i:A marlin.
+i:A sardine.
+i:A scallop.
+i:A shrimp.
+i:A snapper.
+i:A tuna.
+i:A rare catch (see below).
+}
+{
+d:d8 Rare catch: You haul in...
+i:A piece of junk (d4): 1. tangle of seaweed; 2. torn net; 3. rotten wood; 4. old boot.
+i:An abalone.
+i:A barracuda (fights, attacks).
+i:A lobster.
+i:A monkfish.
+i:An octopus (attacks).
+i:A reef shark (fights, attacks).
+i:A swordfish (fights).
+}
+[
+d:FRESHWATER FISHING
+]
+{
+d:d10 Cold-water catch: You haul in...
+i:A bass (fights).
+i:A carp.
+i:An eel.
+i:An oyster.
+i:A perch.
+i:A salmon.
+i:A smelt.
+i:A sturgeon.
+i:A trout.
+i:A walleye
+}
+{
+d:d10 Warm-water catch: You haul in...
+i:A carp.
+i:A catfish (fights).
+i:An eel.
+i:An oyster.
+i:A perch.
+i:A prawn.
+i:A quipper (fights, attacks).
+i:A salmon.
+i:A tilapia.
+i:A trout
+}
+{
+d:d6 Swamp-water catch: You haul in...
+i:A bass (fights).
+i:A catfish (fights).
+i:A crayfish.
+i:A crocodile (fights, attacks).
+i:An eel (fights).
+i:A prawn.
+}

@@ -1,0 +1,82 @@
+{
+d:d12 This morning, at a city cafe, we break our fast on...
+i:Scrambled eggs.
+i:Fried eggs.
+i:Boiled eggs.
+i:Poached eggs.
+i:Hard cheese.
+i:Soft cheese.
+i:A cinnamon roll.
+i:A sticky bun.
+i:A sweet roll.
+i:A croissant.
+i:A chocolate croissant.
+i:An almond croissant.
+}
+{
+d:d6 ...with...
+i:Crispy bacon.
+i:Thick-cut bacon.
+i:Mild sausage.
+i:Spicy sausage.
+i:Sour yogurt.
+i:Sweetened yogurt.
+}
+{
+d:d6 ...and...
+i:Tomatoes.
+i:Mushrooms.
+i:Sweet peppers.
+i:Spinach.
+i:Green onions.
+i:Red onions.
+}
+{
+d:d6 On the side, there is some...
+i:Fresh bread.
+i:Buttered toast.
+i:Pumpernickel bread.
+i:Pretzel bread.
+i:Sharp cheese.
+i:Pungent cheese.
+}
+{
+d:d6 ...and there are some...
+i:Apples.
+i:Cherries.
+i:Blueberries.
+i:Strawberries.
+i:Pears.
+i:Blackberries.
+}
+{
+d:d8 To wash it down, we have some...
+i:Water.
+i:Brown ale.
+i:Red ale.
+i:Porter.
+i:Stout.
+i:Spiced wine{.wines}.
+i:Orange juice.
+i:Apple juice.
+}
+{
+d:d6 ...and a cup of...
+i:Green tea.
+i:Black tea.
+i:Light-roasted coffee.
+i:Dark-roasted coffee.
+i:Strong coffee.
+i:Weak coffee.
+}
+{
+d:d8 ...with...
+i:Milk.
+i:Sugar.
+i:Cream.
+i:Milk and sugar.
+i:Cream and sugar.
+i:Honey.
+i:Cinnamon.
+i:Nothing added.
+}

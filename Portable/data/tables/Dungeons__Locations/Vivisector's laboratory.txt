@@ -1,0 +1,72 @@
+{
+d:d6 You find a
+i:large
+i:long
+i:tall
+i:massive
+i:wide
+i:heavy
+}
+{
+d:d6 ...
+i:glass
+i:iron
+i:marble
+i:copper
+i:lead
+i:tin
+}
+{
+d:d6 ...
+i:cylinder
+i:tank
+i:vat
+i:chamber
+i:casket
+i:trough
+}
+{
+d:d6	filled with
+i:greenish
+i:amber
+i:white
+i:murky
+i:clear
+i:dark brown
+}
+{
+d:d6 ...
+i:quivering gelatin
+i:pungent liquor
+i:swirling mist
+i:bubbling slime
+i:fetid broth
+i:frosty vapor
+}
+{
+d:d6 in which you see
+i:a pale-skinned Morlock
+i:a dark-skinned drow
+i:a hairy white ape
+i:a hulking orc
+i:a bronze-skinned human
+i:a squat, gray dwarf
+}
+{
+d:d6 with grafted
+i:head
+i:eyes
+i:limbs
+i:lower body
+i:organs
+i:skin
+}
+{
+d:d6 of
+i:a spiny crustacean
+i:a scaly reptile
+i:a glistening fish
+i:a slimy cephalopod
+i:fine brass machinery
+i:faceted living crystal
+}

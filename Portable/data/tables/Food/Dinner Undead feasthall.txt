@@ -1,0 +1,106 @@
+{
+d:d12 Tonight, in an undead feasthall, we dine on...
+i:Stewed.
+i:Roasted.
+i:Cold.
+i:Boiled.
+i:Baked.
+i:Blackened.
+i:Aged.
+i:Worm-infested.
+i:Fly-covered.
+i:Pickled.
+i:Rotted.
+i:Decaying.
+}
+{
+d:d20 ...
+i:Rabbit.
+i:Chicken.
+i:Duck.
+i:Mutton.
+i:Pork.
+i:Beef.
+i:Pheasant.
+i:Goose.
+i:Trout.
+i:Clams.
+i:Pork sausage.
+i:Duck sausage.
+i:Knight{.knights}.
+i:Maiden.
+i:Thief{.thieves}.
+i:Priest.
+i:Mage.
+i:Peasant.
+i:Dwarf{.dwarves}.
+i:Halfling.
+}
+{
+d:d20 ...with...
+i:Mushy cabbage.
+i:Weepy cabbage.
+i:Rubbery leeks.
+i:Lentils.
+i:Peas.
+i:Red beans.
+i:Black beans.
+i:White beans.
+i:Turnip mash.
+i:Sliced turnips.
+i:Rotten potatoes.
+i:Cave mushrooms.
+i:Black mushrooms.
+i:Sweet onions.
+i:Red onions.
+i:Carrots.
+i:Parsnips.
+i:Cauliflower.
+i:Radishes.
+i:Beets.
+}
+{
+d:d12 ...and...
+i:Wormy apples.
+i:Moldy cherries.
+i:Over-ripe tomatoes.
+i:Moldy berries.
+i:Crumbling cake.
+i:Stale bread.
+i:Hard biscuits.
+i:Moldy biscuits.
+i:Bloody gravy.
+i:Thin gravy.
+i:Moldy cheese.
+i:Stinky cheese.
+}
+{
+d:d12 On the side, there are some...
+i:Mice.
+i:Leeches.
+i:Maggots.
+i:Fish bones.
+i:Finger bones.
+i:Spare ribs.
+i:Stale cakes.
+i:Moldy cakes.
+i:Rotten eggs.
+i:Pieces of brain.
+i:Whole brains.
+i:Mysterious sausages.
+}
+{
+d:d12 To wash it down, we have some...
+i:Still water.
+i:White ale.
+i:Black ale.
+i:Porter.
+i:Mead.
+i:White wine{.wines}.
+i:Red wine{.wines}.
+i:Blood wine{.wines}.
+i:Brandy.
+i:Whisky.
+i:Rum.
+i:Blood served out of a humanoid skull.
+}

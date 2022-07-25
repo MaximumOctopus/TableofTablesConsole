@@ -1,0 +1,78 @@
+{
+d:d12 Tonight, among jungle dwellers, we dine on...
+i:Stewed.
+i:Roasted.
+i:Skewered.
+i:Charred.
+i:Smoked.
+i:Grilled.
+i:Sauteed.
+i:Toasted.
+i:Salted.
+i:Peppered.
+i:Pickled.
+i:Fried.
+}
+{
+d:d12 ...
+i:Frog.
+i:Carp.
+i:Crocodile.
+i:Lizard.
+i:Goat.
+i:Songbird.
+i:Waterfowl.
+i:Turtle.
+i:Panther.
+i:Monkey{.monkeys}.
+i:Snake.
+i:Boar.
+}
+{
+d:d12 ...with...
+i:Casava.
+i:Taro.
+i:Lettuce.
+i:Avocado.
+i:Onions.
+i:White beans.
+i:Red beans.
+i:Leafy greens.
+i:Bitter greens.
+i:Hot peppers.
+i:Coconut.
+i:Yams.
+}
+{
+d:d6 ...and...
+i:Banana.
+i:Mango.
+i:Guava.
+i:Figs.
+i:Mixed nuts.
+i:Mixed berries.
+}
+{
+d:d8 On the side, there are some...
+i:Cockroaches.
+i:Beetles.
+i:Oysters.
+i:Slugs.
+i:Snails.
+i:Clams.
+i:Crayfish.
+i:Grubs.
+}
+{
+d:d10 To wash it down, we have some...
+i:Skunky beer.
+i:Golden ale.
+i:Sour wine{.wines}.
+i:Honeyed wine{.wines}.
+i:Floral tea.
+i:Red tea.
+i:Coffee.
+i:Cocoa.
+i:Water.
+i:Goat's milk.
+}

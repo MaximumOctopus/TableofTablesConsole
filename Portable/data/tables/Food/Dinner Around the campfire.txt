@@ -1,0 +1,70 @@
+{
+d:d10 Tonight, around the campfire, we dine on...
+i:Stewed.
+i:Roasted.
+i:Skewered.
+i:Boiled.
+i:Smoked.
+i:Grilled.
+i:Seared.
+i:Flame-broiled.
+i:Salted.
+i:Peppered.
+}
+{
+d:d10 ...
+i:Rabbit.
+i:Duck.
+i:Pork.
+i:Fish.
+i:Venison.
+i:Deer.
+i:Squirrel.
+i:Pheasant.
+i:Mutton.
+i:Lamb.
+}
+{
+d:d8 ...with...
+i:Potatoes.
+i:Lentils.
+i:White beans.
+i:Red beans.
+i:Black beans.
+i:Peas.
+i:Turnips.
+i:Onions.
+}
+{
+d:d12 ...and...
+i:Carrots.
+i:Raisins.
+i:Dried cherries.
+i:Wild mushrooms.
+i:Sliced mushrooms.
+i:Rosemary.
+i:Pine nuts.
+i:Cashews.
+i:Almonds.
+i:Olives.
+i:Dried berries.
+i:Sunflower seeds.
+}
+{
+d:d6 On the side, there is some...
+i:Rye bread.
+i:Hard tack.
+i:Crusty bread.
+i:Sesame bread.
+i:Hard cheese.
+i:Sharp cheese.
+}
+{
+d:d6 To wash it down, we have some...
+i:Water.
+i:Watery ale.
+i:Strong ale.
+i:White wine{.wines}
+i:Red wine{.wines}.
+i:Tea.
+}

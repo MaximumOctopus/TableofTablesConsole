@@ -1,0 +1,90 @@
+{
+d:d6 This place is a...
+i:Palace built by an air elemental lord.
+i:Series of caves in a floating earth mote.
+i:Series of deep tunnels with constant, howling wind.
+i:Stronghold built by beings of elemental air.
+i:Temple dedicated to a wind god.
+i:Maze of semi-solid clouds.
+}
+{
+d:d6 Ambient sounds: You hear a/an...
+i:Constant howl of wind.
+i:Constant rush of air.
+i:Constant monotone whistling.
+i:Eerie, shifting succession of musical chords.
+i:Intermittent clap of thunder.
+i:Flute playing somewhere.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Intersection with swiftly shifting winds.
+i:Large cloud sculpture.
+i:Shimmering, eerie fog.
+i:Barrel of feathered arrows.
+i:Altar to a wind god.
+i:Tremendous beanstalk or staircase descending far below where you stand.
+}
+{
+d:d6 Minor feature: You notice a/an...
+i:Small cloud shaped like an animal.
+i:Floating lamp.
+i:Icon of a wind god.
+i:Rush of cool air.
+i:Sudden shrill whistle in the distance.
+i:Swirl of dust.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Ghost of an unfortunate explorer.
+i:Half-mad elemental cultist.
+i:Nervous beastshifter (roll on beast table).
+i:Contemplative monk.
+i:Interplanar traveler.
+i:Inventor with a flying contraption.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Raven.
+i:Bat.
+i:Hawk.
+i:Giant bee.
+i:Pterodactyl.
+i:Swarm of moths.
+}
+{
+d:d6 Secondary Monster: You come upon a/an…
+i:Air elemental.
+i:Arrowhawk.
+i:Invisible stalker.
+i:Wyvern.
+i:Spectre.
+i:Roc.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a/an…
+i:Djinn prince.
+i:Cloud giant.
+i:Giant eagle.
+i:Evil entropomancer.
+i:Beholder.
+i:Wraith.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Trap door to a tremendous fall.
+i:Poisoned dart trap.
+i:Magic crossbow turret trap.
+i:Runes that explode in bursts of lightning.
+i:Sealing chamber that turns into a vacuum.
+i:Curse of listlessness.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find a/an...
+i:Infamous giant’s treasure hoard.
+i:Wreck of a legendary airship.
+i:Rod of elemental power.
+i:Bow that belonged to an ancient hero.
+i:Powerful wizard’s lost spellbook.
+i:Imprisoned dragon.
+}

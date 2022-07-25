@@ -1,0 +1,90 @@
+{
+d:d6 This place is a...
+i:Volcanic mountain.
+i:Series of geothermal vents deep underground.
+i:Stronghold built by beings of flame.
+i:Temple dedicated to a fiery god.
+i:Palace built by a fire elemental lord.
+i:Enormous forge or armory gone wrong.
+}
+{
+d:d6 Air quality: The air in the chambers in here is…
+i:Filled with choking ash.
+i:Filled with hot ash.
+i:Filled with choking smoke.
+i:Filled with dark smoke.
+i:Uncomfortably hot.
+i:Filled with poisonous gas.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Over-sized brazier.
+i:Large iron sculpture.
+i:Altar to a fiery god.
+i:Rack of iron spears or steel scimitars.
+i:Charred skeleton of a mortal.
+i:Fountain of smoke and flame.
+}
+{
+d:d6 Minor feature: You notice a/an...
+i:Wisp of smoke.
+i:Scent of brimstone.
+i:Icon of a fiery god.
+i:Charred wooden object.
+i:Scorch marks on the wall.
+i:Iron wall sconce with a torch.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Half-mad elemental cultist.
+i:Escaped mortal slave.
+i:Intrepid dwarvish prospector.
+i:Wayward warlock.
+i:Hermetic monk.
+i:Half-fiend scholar.
+}
+{
+d:d6 Beast: You meet a…
+i:Fire bat.
+i:Swarm of fire beetles.
+i:Flame drake.
+i:Fiendish hyena.
+i:Flame snake.
+i:Fiendish stirge.
+}
+{
+d:d6 Secondary monster: You come upon a/an…
+i:Azer.
+i:Gnoll.
+i:Fire elemental.
+i:Hell hound.
+i:Salamander.
+i:Flaming skeleton.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a/an…
+i:Scheming devil.
+i:Efreet prince.
+i:Fire demon.
+i:Fire giant.
+i:Evil pyromancer.
+i:Red dragon.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Sealing chamber that fills with poisonous gas.
+i:Sudden and sporadic walls of flame.
+i:Collapsing ceiling.
+i:Explosive bursts of fire and rock.
+i:False-floor pit trap.
+i:Whirling blades trap.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find a/an...
+i:Notorious bandit’s treasure hoard.
+i:Wand of elemental power.
+i:Ancient weapon forged of fire and steel.
+i:Crystal that offers glimpses of the future.
+i:Genie bound to a lamp.
+i:Captive phoenix.
+}

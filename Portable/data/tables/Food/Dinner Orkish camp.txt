@@ -1,0 +1,94 @@
+{
+d:d12 Tonight, in an orkish camp, we dine on...
+i:Stewed.
+i:Roasted.
+i:Skewered.
+i:Raw.
+i:Smoked.
+i:Grilled.
+i:Roasted.
+i:Flame-broiled.
+i:Charred.
+i:Blackened.
+i:Spoiled.
+i:Rotted.
+}
+{
+d:d20 ...
+i:Songbird.
+i:Mutton.
+i:Pork.
+i:Horse{.horses}.
+i:Rabbit.
+i:Wild beast.
+i:Lizard.
+i:Snake.
+i:Wolf.
+i:Bear.
+i:Cat{.cats}.
+i:Dog.
+i:Manflesh.
+i:Maiden.
+i:Soldier{.soldiers}.
+i:Nomad.
+i:Farmfolk.
+i:Bandit.
+i:Dwarf{.dwarves}.
+i:Halfling.
+}
+{
+d:d10 ...with...
+i:Soft potatoes.
+i:Hard potatoes.
+i:White beans.
+i:Red beans.
+i:Black beans.
+i:Corn mash.
+i:Bitter cabbage.
+i:Weepy cabbage.
+i:Onions.
+i:Turnips.
+}
+{
+d:d10 ...and...
+i:Stale bread.
+i:Crusty biscuits.
+i:Hard tack.
+i:Moldy bread.
+i:Moldy biscuits.
+i:Black mushrooms.
+i:Bloody gravy.
+i:Thick gravy.
+i:Thin gravy.
+i:Moldy fruit.
+}
+{
+d:d12 On the side, there are some...
+i:Roasted rats{.rats}.
+i:Raw rat tails.
+i:Maggots.
+i:Rabbit bones.
+i:Old fish.
+i:Dried fish.
+i:Bitter roots.
+i:Chewy roots.
+i:Stale cakes.
+i:Human fingers.
+i:Frogs or toads.
+i:Pig's feet.
+}
+{
+d:d12 To wash it down, we have some...
+i:Foul ale.
+i:Skunky ale.
+i:Stolen ale.
+i:Strong ale.
+i:Black ale.
+i:Rich porter.
+i:Stolen wine{.wines}.
+i:Sour wine{.wines}.
+i:Strong wine{.wines}.
+i:Pigs' blood.
+i:Man blood.
+i:Stolen whisky.
+}

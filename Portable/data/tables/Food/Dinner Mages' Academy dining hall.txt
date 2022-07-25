@@ -1,0 +1,94 @@
+{
+d:d8 Tonight, in the mages' academy dining hall, we dine on...
+i:Stewed.
+i:Roasted.
+i:Fried.
+i:Baked.
+i:Grilled.
+i:Seared.
+i:Salted.
+i:Candied.
+}
+{
+d:d12 ...
+i:Rabbit.
+i:Pheasant.
+i:Duck.
+i:Bat{.bats}.
+i:Pork.
+i:Beef.
+i:Goose.
+i:Trout.
+i:Oysters.
+i:Blood sausage.
+i:Pork sausage.
+i:Meat pie.
+}
+{
+d:d20 ...with...
+i:Dumplings.
+i:Sweet cabbage.
+i:Caramelized onions.
+i:Pumpkin.
+i:Butternut squash.
+i:Peas.
+i:Kidney beans.
+i:String beans.
+i:Pudding.
+i:Asparagus.
+i:Sprouts.
+i:Potatoes.
+i:Mushrooms.
+i:Toadstools.
+i:Squash.
+i:White beans.
+i:Red onions.
+i:Spinach.
+i:Cucumber.
+i:Pickles.
+}
+{
+d:d12 ...and...
+i:Carrots.
+i:Apples.
+i:Cherries.
+i:Tomatoes.
+i:Pears.
+i:Strawberries.
+i:Pumpkin seeds.
+i:Walnuts.
+i:Pecans.
+i:Almonds.
+i:Parsley.
+i:Turnips.
+}
+{
+d:d12 On the side, there is some...
+i:Elvish bread.
+i:Chocolate molded into the shape of frogs.
+i:Cinnamon bread.
+i:Pumpkin bread.
+i:Chocolate candy.
+i:Caramel candy.
+i:Cheese cake.
+i:Rum cake.
+i:Sugar cake.
+i:Fruit tart.
+i:Pumpkin pie.
+i:Blueberry pie.
+}
+{
+d:d12 To wash it down, we have some...
+i:Pumpkin juice.
+i:Buttery ale.
+i:Root beer.
+i:Ginger beer
+i:Fizzy ale.
+i:Chocolate stout.
+i:Coffee stout.
+i:Apple cider.
+i:Pear cider.
+i:Sweet tea.
+i:Herbal tea{.herbalism}.
+i:Hot cocoa.
+}

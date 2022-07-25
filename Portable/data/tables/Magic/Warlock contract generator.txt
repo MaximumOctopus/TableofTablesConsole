@@ -1,0 +1,112 @@
+{
+d:d8 If your Patron is an Archfey, your patron is
+i:Relkath of the Infinite Branches
+i:Lurue the Unicorn Queen
+i:Verenestra the Oak Princess
+i:Sarula Iliene the Nixie Queen
+i:Aurilandür the Frost Sprite Queen
+i:Neifion, Lord of Bats
+i:An Archfey not on this list
+i:A Fiend or Great Old One Patron, pretending to be an Archfey
+}
+{
+d:d8 If your Patron is a Fiend, your patron is
+i:Orcus
+i:Demogorgon
+i:Asmodeus
+i:Mephistopheles
+i:Glasya
+i:Malkizid
+i:Tiamat
+i:A Fiend not on this list
+}
+{
+d:d20 If your Patron is a Great Old One, your patron is
+i:Atropus
+i:Zargon the Returner
+i:Father Llymic
+i:Pandorym
+i:Shothragot
+i:Haask, voice of hargut
+i:Dendar, the night serpent
+i:Kezef, the chaos hound
+i:Ityak Ortheel, the Elf Eater
+i:Bolothamogg, Him Who Watches from Beyond the Stars,
+i:Holashner, the Hunger Below
+i:Piscaethces, the Blood Queen
+i:Y'chak, the Violet Flame
+i:The DM
+i:Matt Colville
+i:u/famoushippopotamus
+i:The BBEG of the campaign
+i:A Great Old One not on this list
+i:A Fiend or Archfey pretending to be a Great Old One
+i:Roll twice on this list, they are fighting for your soul
+}
+{
+d:d8 In return, your patron wants you to
+i:Follow his petty demands for small errands at any time
+i:Eliminate any mortal targets in your natural plane within a reasonable time limit
+i:Start a cult following that worships the patron, make them famous and reknown in all the lands
+i:Take down anyone who is part of a cult that belongs to the patron's rival
+i:Enjoy the power, while he returns to the gambling table to resume his addiction - he uses your soul as collateral to bet on something big
+i:Destroy the world, and be the evil force in your world, while the patron watches, with popcorn
+i:The Patron is bored and doesn't really know what he's doing, so he's giving the whole "soul bargaining" thing a try
+i:Negotiate a peace treaty with a Deity on behalf of the patron, as the Deity would destroy the patron on sight
+}
+{
+d:d8 The contract's duration is a period of
+i:Three months
+i:Six months
+i:One year
+i:Five years
+i:Ten years
+i:One Hundred years
+i:One Lifetime
+i:One Class Level
+}
+{
+d:d6 After the period is over, the terms of renewal are
+i:The Patron has a new task for you
+i:The Patron checks in to see if you have met his deadlines for your past work
+i:The Patron forces you to prove that you deserve to continue recieving his powers
+i:The periods roll on to the next, automatically renewing
+i:The contract is renewed immediately, unless an order of non-renewal is put forward to a dark council within 48 hours of the last period's end
+i:The Warlock decides if they want to renew the contract period
+}
+{
+d:d6 If the contract is not renewed...
+i:The powers are stripped from the warlock, and he gets his soul back
+i:The warlock does not gain any new powers, but his soul is kept as collateral until he is willing to trade their acquired powers back to have it returned
+i:The warlock does not gain any new powers, but keeps his current ones, and the patron keeps the soul
+i:The warlock is approached by rival patrons who try and bid for possession of his soul in return for their own patron's blessings
+i:The patron sends servants to capture the warlock and bring him to the patron's lair, for a meeting
+i:The warlock does not gain any new powers, but the patron immediately finds a new warlock to give power to, if possible, to a rival of the warlock
+}
+{
+d:d6 If the terms of the contract are broken
+i:The patron sends assassins to kill the warlock
+i:The patron sends assassins to kill anyone the warlock has spoken to, but do not kill the warlock
+i:The patron sells the warlock's soul to a more powerful patron, in return to get power from this patron themselves
+i:The patron sends minions to capture the warlock and bring him to the patron's lair
+i:The patron hatches a plan to destroy the world the warlock is native to
+i:The patron destroys the warlock's soul, making him unable to be revived if he dies.
+}
+{
+d:d6 If the warlock dies while in service of this contract,
+i:They appear in the patron's lair as an incorporeal being, and will continue with their agreement
+i:They are reanimated as undead to serve as a slave for the patron for 500 years
+i:The Patron is free to do with the soul as they wish
+i:The Patron must return the soul to a person of the Warlock's Choosing
+i:The Patron will travel to the warlock's realm, with his soul, and will perform his own duties under the guise of the departed warlock's identity
+i:The warlock wakes up again, alive. When the contract ends however, the warlock is killed and cannot be resurrected.
+}
+{
+d:d6 If the patron dies while the contract is in effect
+i:The warlock's soul is lost in purgatory, drifting forever
+i:The soul is in the possession and ownership of whoever killed the patron
+i:The soul is returned to the warlock
+i:The soul is in limbo while other patrons bid to be the warlock's new patron
+i:The warlock loses his powers, and has no memory of anything that happened while he had those powers
+i:The warlock's fate is tied with his patron, and they die too.
+}

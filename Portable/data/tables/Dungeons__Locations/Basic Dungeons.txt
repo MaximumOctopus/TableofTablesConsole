@@ -1,0 +1,103 @@
+{
+d:d10 This place is (or was) a...
+i:A stronghold.
+i:A temple{.temples}.
+i:A tomb{.tombs}.
+i:A prison{.prisons}.
+i:A mine{.mines}.
+i:A lair.
+i:A palace.
+i:A storage vault.
+i:A sewer.
+i:A maze.
+}
+{
+d:d12 ...built by...
+i:An ancient dwarvish clan.
+i:An ancient elf prince{.elves dark,.elves high,.elves wood}.
+i:A powerful wizard.
+i:A dark sorceress.
+i:A foreign empire.
+i:An ambitious queen of old.
+i:Prosperous merchants{.merchant caravans,.merchant guilds}.
+i:A powerful noble family{.nobles,.noble houses}.
+i:Religious zealots.
+i:An ancient race of giants.
+i:A tyrannical king of old.
+i:No one; it's a natural cave.
+}
+{
+d:d12 ...and located...
+i:Beneath a cold mountain{.mountains}.
+i:Beneath a fiery mountain{.mountains}.
+i:Near a well-traveled mountain pass{.mountains}.
+i:Deep within a forest{.forest,.forest enchanted,.forest haunted}.
+i:Deep within a desert{.desert,.desert flame-scorched,.desert shadowy}.
+i:Beside the sea.
+i:On an island.
+i:Beneath a bustling city.
+i:Beneath the ruin of an ancient city.
+i:Beneath a well-known castle or monastery{.castles,.monasteries}.
+i:Beneath a the ruin of an old castle or monastery{.castles,.monasteries}.
+i:In a place reachable only by magic.
+}
+{
+d:d12 The place is currently occupied by...
+i:A dangerous outlaw{.outlaw bands}.
+i:An elemental lord.
+i:A vampire{.vampires}.
+i:A lich.
+i:A demon.
+i:A devil.
+i:An orc warlord{.orcs,.orc warlords,.orkish clans}.
+i:A hobgoblin commander.
+i:An aberrant presence.
+i:A witch{.witches}.
+i:A giant.
+i:A dragon{.dragons}.
+}
+{
+d:d12 ...and some...
+i:Thieves{.thieves}.
+i:Goblins{.goblins,.goblin gangs}.
+i:Zombies.
+i:Skeletons.
+i:Bats{.bats}.
+i:Rats{.rats}.
+i:Spiders{.spiders}.
+i:Oozes{.oozes}.
+i:Kobolds{.kobolds}.
+i:Cultists.
+i:Troglodytes.
+i:Ogres.
+}
+{
+d:d12 If you survive the...
+i:Gauntlet of mechanical traps.
+i:Powerful magical wards.
+i:Golem guardians{.golems}.
+i:Elemental guardians.
+i:Noxious gas.
+i:Toxic mold.
+i:Horrible curse{cursessimple}.
+i:Unstable ceilings.
+i:Flooding chambers.
+i:Sinkholes.
+i:Steam vents and lava flows.
+i:Slippery footing.
+}
+{
+d:d12 ...you might recover the...
+i:Weapon of a legendary warrior{.legendary weapons}.
+i:Wand of a famous witch or wizard{.magic wands,.witches}.
+i:Spellbook of a notorious mage.
+i:Treasure stash of a notable pirate{.pirates}.
+i:Hoard of an old dragon{.dragons}.
+i:Treasury of an ancient dwarvish realm.
+i:Artifacts of an elvish hero.
+i:Relics of a celebrated priest.
+i:Chests of silver carried by a lost ship or caravan{.merchant caravans,.ships}.
+i:Crown jewels of a long-dead queen.
+i:Largest diamond found in this part of the world.
+i:Staff of an infamous sorcerer or necromancer.
+}

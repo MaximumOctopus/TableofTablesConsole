@@ -1,0 +1,82 @@
+{
+d:d10 The altar chamber is lit by...
+i:A few large candles.
+i:Many small candles.
+i:Several candelabra.
+i:A pair of torches near the entrance.
+i:Several torches in sconces around the room.
+i:Lanterns with colored glass (d4): 1. blue; 2. green; 3. red; 4. yellow.
+i:Sunlight filtering in through a few narrow shafts in the ceiling.
+i:Sunlight filtering in through leaden-glass windows.
+i:Sunlight filtering in through stained glass windows.
+i:Only the light you take with you.
+}
+{
+d:d10 Upon approaching the altar, you feel...
+i:Peaceful.
+i:A little sleepy.
+i:A little braver than before.
+i:A little safer than before.
+i:An up welling of confidence.
+i:An up welling of righteousness.
+i:A gentle presence.
+i:A benevolent presence.
+i:A stern presence.
+i:A wise presence.
+}
+{
+d:d10 The altar is made of...
+i:A solid block of stone.
+i:Three large slabs of stone.
+i:Three thick cuts of wood.
+i:An ornately carved block of wood.
+i:Several pieces of beautifully carved wood.
+i:Several small stones held together with mortar.
+i:Brick and mortar.
+i:Marble.
+i:Crystal.
+i:Gilded wood, encrusted with gems.
+}
+{
+d:d10 Atop the altar, you find...
+i:An ancient tome.
+i:A well-used prayer book.
+i:Several candles.
+i:A linen parament.
+i:A cotton parament.
+i:A bouquet of flowers.
+i:A dish (d8): 1. copper; 2. crystal; 3. gold; 4. ivory; 5. silver; 6. steel; 7. tin; 8. wood.
+i:A goblet (d8): 1. copper; 2. crystal; 3. gold; 4. ivory; 5. silver; 6. steel; 7. tin; 8. wood.
+i:A vessel of holy water.
+i:A censer.
+}
+[
+d:RITUAL ON A HOLY ALTAR
+]
+{
+d:d6 The appropriate ritual to perform on this altar involves...
+i:Eating some bread and drinking some wine{.wines}.
+i:Washing one's hands in blessed water.
+i:Sprinkling blessed water on your bowed head.
+i:Spreading scented oils on your forehead.
+i:Burning incense or scented oils.
+i:Laying one's weapons upon the altar and kneeling to pray{.altars (holy),.altars (unholy)}.
+}
+{
+d:d6 If you perform the ritual correctly, you may receive a blessing of...
+i:Strength in your coming battles.
+i:Healing from your last battle.
+i:Health on your coming journey.
+i:Wisdom for your coming struggles.
+i:Knowledge of life's great mysteries.
+i:Protection during your coming trials.
+}
+{
+d:d6 If you perform the ritual incorrectly, you may feel...
+i:No ill effects.
+i:Feel a little fatigued on your coming journey.
+i:Feel a little weak in your coming battles.
+i:Feel hopelessness at completing your current quest.
+i:Feel a haunted by the gods' gaze.
+i:Feel a little woozy until you have a chance to properly rest.
+}

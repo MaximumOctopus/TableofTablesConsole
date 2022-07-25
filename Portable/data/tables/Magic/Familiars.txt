@@ -1,0 +1,105 @@
+{
+d:d6 Appearance
+i:Avian
+i:Reptilian
+i:Aquatic
+i:Terran
+i:Subterran
+i:Mechanical
+}
+[
+d:That's a strange color. Where does it come from?
+]
+{
+d:d6 Color
+i:Celestial
+i:Fiendish
+i:Metallic
+i:Natural
+i:Rainbow
+i:Has scales instead of fur or feathers or vice-versa; roll again
+}
+[
+d:Clearly it's no regular animal, because
+]
+{
+d:d6 Trait
+i:Extra limbs or new/lost wings
+i:Large/extra eyes
+i:Large mouth/beak/claws/tongue
+i:Antennae/pincers/eye stalks
+i:Shell/chitin/exoskeleton
+i:Moves via lateral undulation/slithering/crawling/sliding
+}
+[
+d:You can get on its good side through...
+]
+{
+d:d6 Likes
+i:Food
+i:A particular school of magic
+i:Bravery/selflessness/heroics
+i:Singing
+i:Intelligence
+i:Charisma
+}
+[
+d:But it hates...
+]
+{
+d:d6 Hates
+i:Other animals (especially familiars)
+i:A particular school of magic
+i:Needless risks (especially ones that endanger the familiar/master)
+i:Extraplanar creatures
+i:Usual diet for a creature like it
+i:Anyone who is mean to its master
+}
+[
+d:Currently the familiar and master are
+]
+{
+d:d6 Status
+i:Not on speaking terms
+i:Engaged in a duel of wits, courage, creativity, or dedication
+i:Engaged in some kind of game
+i:Experimenting
+i:The familiar is being used to find or spy on something/someone
+i:Trying to bamboozle the party
+}
+[
+d:Despite the emphatic/psychic link, the familiar insists on
+]
+{
+d:d6 Trait
+i:Speaking in rhyme
+i:Asking the master questions that could be answered with the link (like emotional state), or insisting that the master ask it
+i:Trying to surprise, scare, or trick the master
+i:Getting into trouble, as if the master wouldn't find out
+i:Rummaging through the master's things, and often misplacing/breaking them
+i:Meddling in the master's affairs at all times
+}
+[
+d:They make a good team because the familiar can
+]
+{
+d:d6 Benefit
+i:Improve affinity with an element
+i:Improve affinity with a school of magic
+i:Improve a sense
+i:Naturally detect magic
+i:Improve the master's social skills/acceptance
+i:Communicate with animals or extraplanar forces on the master's behalf
+}
+[
+d:Unlike other animals of its type, the familiar can
+]
+{
+d:d6 Ability
+i:Fly
+i:Swim/breathe underwater
+i:Detect magic
+i:Detect lies
+i:Remain awake to protect the master
+i:Burrow through sound/dirt
+}

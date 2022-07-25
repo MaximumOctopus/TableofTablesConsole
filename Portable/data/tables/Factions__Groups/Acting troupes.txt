@@ -1,0 +1,65 @@
+{
+d:d10 The players travel about…
+i:Aboard a small sailing ship.
+i:Aboard a flatboat or small barge.
+i:On horseback.
+i:In a painted wagon, drawn by beautiful horses.
+i:In an unadorned wagon, drawn by a team of oxen.
+i:On foot with heavy packs.
+i:On foot with a handful of pack horses.
+i:On foot with a handful of pack mules.
+i:With half the troupe on foot and half mounted on donkeys.
+i:By mysterious means; no one has seen them arrive and no one has seen them leave.
+}
+{
+d:d10 The players are known for…
+i:Heartbreaking performances.
+i:Bawdy comic performances.
+i:Moralistic allegories.
+i:Rousing musical numbers.
+i:Fantastic visual effects and illusions.
+i:Acerbic political satire.
+i:Sappy romantic tales.
+i:Crowd-pleasing tales of legendary heroes.
+i:Dangerous stunts.
+i:Throwing the best parties.
+}
+{
+d:d10 The players advertise their shows by…
+i:A whispering campaign through local pubs.
+i:Performing excerpts on street corners.
+i:Performing excerpts in local pubs.
+i:Posting flyers all about town.
+i:Hiring local harlots to spread the word.
+i:Insulting the local clergy.
+i:Insulting the local authorities.
+i:Giving sweets to children.
+i:Singing a catchy jingle.
+i:Casting a charm spell on locals.
+}
+{
+d:d10 The players left the last town…
+i:At the end of a successful run of performances.
+i:With a promise to return to entertain again soon.
+i:Chased out by an angry mob.
+i:Under threat of imprisonment by a local lord.
+i:Under threat of execution by a local high priest or priestess.
+i:Following a failed assassination attempt by a local crime boss’s lackey.
+i:After being threatened by a powerful merchant.
+i:After fleecing a wealthy merchant.
+i:After fleecing a local crime boss.
+i:Mysteriously; the players can’t explain how the troupe arrived here.
+}
+{
+d:d10 There are rumors that among the players is someone who…
+i:Can enter people’s dreams.
+i:Can speak with the dead.
+i:Can raise the dead.
+i:Can craft deadly poisons.
+i:Has a vendetta against a local lord or merchant.
+i:Has fiendish blood in his/her veins.
+i:Has draconic blood in his/her veins.
+i:Slew a dragon.
+i:Slew a giant.
+i:Is a notorious outlaw in disguise.
+}

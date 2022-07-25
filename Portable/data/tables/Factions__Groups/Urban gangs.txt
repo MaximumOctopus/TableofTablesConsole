@@ -1,0 +1,178 @@
+{
+d:d8 The gang's money-making schemes include...
+i:Distributing drugs (d4): 1. smokeleaf; 2. hallucinogenic mushrooms; 3. sleepysalt (a downer); 4. sharpsugar (an upper).
+i:Running heists of and/or fencing stolen gems and precious metals.
+i:Petty theft, burglary, and/or pickpocketing.
+i:Assassinations that look like accidents or that frame someone else{.assassins' guilds}.
+i:Running brothels (d3): 1. exotic; 2. low; 3. high-class.
+i:Shaking down legitimate local businesses and/or city officials.
+i:Serving as muscle for shady merchants and/or brothel-keepers{.merchant caravans,.merchant guilds}.
+i:Holding up outgoing ships or wagons.
+}
+{
+d:d20 The gang's colors are...
+i:Black.
+i:Red / scarlet.
+i:Gold.
+i:Forest green.
+i:Royal blue.
+i:Violet.
+i:Silver / light grey.
+i:Bronze.
+i:Tan / khaki.
+i:Brown / beaver.
+i:Dark grey / gunmetal.
+i:White.
+i:Maroon.
+i:Sky blue.
+i:Navy blue.
+i:Dark brown / chocolate.
+i:Teal / turquoise.
+i:Steel / blue grey.
+i:Orange.
+i:Olive green.
+}
+{
+d:d20 The gang's symbol is...
+i:A skull.
+i:A ghost.
+i:An open hand.
+i:A clenched fist.
+i:An arrow.
+i:A dagger.
+i:A sword.
+i:A hammer.
+i:A crown.
+i:A goblet.
+i:The moon.
+i:A star.
+i:A fish.
+i:A snake.
+i:A badger.
+i:A spider{.spiders}.
+i:A rat{.rats}.
+i:A wolf.
+i:A bear.
+i:An eagle.
+}
+{
+d:d10 Gangmembers often sport matching...
+i:Shirts.
+i:Jackets.
+i:Scarves.
+i:Vests.
+i:Bandannas.
+i:Boots.
+i:Tattoos.
+i:Hats.
+i:Scars.
+i:Mustaches.
+}
+{
+d:d10 The gang's leader is...
+i:A dangerous megalomaniac.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:A talented thief{.thieves}.
+i:A well-known public figure.
+i:A ruthless killer.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A dashing swashbuckler.
+i:A brutish thug.
+}
+{
+d:d12 For recruitment, the gang targets individuals who are...
+i:Artisans{.artisans}.
+i:Relocated peasants.
+i:Sailors{.sailors}.
+i:Drunks.
+i:Beggars.
+i:Thieves{.thieves}.
+i:Servants and slaves.
+i:Combat veterans.
+i:Laborers.
+i:Foreigners.
+i:Young children.
+i:Circus performers.
+}
+{
+d:d6 The gang's goals include (leadership and rank-and-file members could have different goals)...
+i:Domination of the city's politics.
+i:Domination of the city's trade.
+i:Revenge against a rival gang in the same city.
+i:Revenge against a rival gang in another city.
+i:Revenge against the city's elite.
+i:Rebellion against the city's elite.
+}
+{
+d:d10 Gangmembers typically arm themselves with...
+i:Wooden clubs.
+i:Throwing knives.
+i:Over-sized daggers.
+i:Serrated daggers.
+i:Daggers and crossbows.
+i:Hammers and daggers.
+i:Sticks and stones.
+i:Shortswords.
+i:Brass knuckles.
+i:Bare fists.
+}
+{
+d:d10 Gangmembers typically fight with...
+i:Swarm tactics.
+i:Hit-and-run tactics.
+i:Ambush tactics.
+i:Choreographed maneuvers.
+i:Unpredictable maneuvers.
+i:Lots of smiles and jokes.
+i:Lots of fancy footwork.
+i:Lots of screaming and shouting.
+i:Kicking and stomping.
+i:Lots of head-butting.
+}
+{
+d:d12 The gang's headquarters is hidden in or near...
+i:The residence of the leader or a senior gangmember.
+i:An artisan's shop or guildhall{.artisans,shops}.
+i:A merchant's office{.merchant caravans,.merchant guilds}.
+i:A tavern{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:A warehouse or shipyard.
+i:A temple complex{.temples}.
+i:The city's sewers.
+i:The town hall.
+i:An abandoned guildhall or warehouse.
+i:A shantytown
+i:The residence of a wealthy individual.
+}
+{
+d:d12 The gang is feared or respected by...
+i:Fishermen and sailors{.fishermen,.sailors}.
+i:Beggars and thieves.
+i:Merchants and moneychangers{.merchant caravans,.merchant guilds}.
+i:Jewelers and gemcutters{gemstones}.
+i:Politicians and magistrates.
+i:Guards and sheriffs.
+i:Soldiers and warriors{.soldiers}.
+i:Gladiators and pugilists{.gladiators}.
+i:Peasants and farmers.
+i:Servants and slaves.
+i:Priests and sages.
+i:Women and children.
+}
+{
+d:d12 Distinguishing feature for an individual: The gangmember has...
+i:A nose ring.
+i:Shiny leather boots.
+i:A hole in the toe of one boot.
+i:A dagger in each boot.
+i:A heavy gold chain around the neck.
+i:A wide-brimmed hat.
+i:A dagger tattoo on the forearm.
+i:A snake tattoo around the arm.
+i:A maniacal laugh.
+i:A long, hooked nose.
+i:An open shirt and a very hairy chest.
+i:Extravagant mustaches.
+}

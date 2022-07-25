@@ -1,0 +1,82 @@
+{
+d:d10 The altar chamber is lit by...
+i:A few large candles.
+i:Many small candles.
+i:Several candelabra.
+i:A pair of torches near the entrance.
+i:Several torches in sconces around the room.
+i:Lanterns with colored glass (d4): 1. green; 2. orange; 3. purple; 4. red.
+i:Torches that burn with unusually colored flames (d4): 1. blue; 2. green; 3. purple; 4. red.
+i:A large brazier, emitting a dim red glow.
+i:Only the light you take with you.
+i:Nothing; this is a dark place, and you have difficulty keeping your torches lit.
+}
+{
+d:d10 Upon approaching the altar, you feel...
+i:Insignificant.
+i:A little irritable.
+i:A little weak.
+i:Less safe than before.
+i:An up welling of fear.
+i:An up welling of hatred.
+i:A hungry presence.
+i:A malevolent presence.
+i:A domineering presence.
+i:A watchful presence.
+}
+{
+d:d10 The altar is made of...
+i:A solid block of stone.
+i:Three large slabs of stone.
+i:Three thick cuts of wood.
+i:A single block of stone carved with disturbing images.
+i:Three slabs of rune-carved stone.
+i:Several small stones held together with mortar.
+i:Brick and mortar.
+i:Wood carved in the forms of frightening beasts.
+i:Volcanic glass.
+i:Bone.
+}
+{
+d:d10 Atop the altar, you find...
+i:An ancient tome.
+i:A profane ritual book.
+i:Several candles.
+i:A blood-stained parament.
+i:A singed parament.
+i:A blanket made from the hide of a great beast.
+i:A dish (d8): 1. bone; 2. brass; 3. gold; 4. ivory; 5. jade; 6. silver; 7. steel; 8. volcanic glass.
+i:A goblet (d8): 1. bone; 2. brass; 3. gold; 4. ivory; 5. jade; 6. silver; 7. steel; 8. volcanic glass.
+i:A vessel of blood.
+i:A ceremonial knife.
+}
+[
+d:SACRIFICE ON UNHOLY ALTARS
+]
+{
+d:d6 You find a prisoner tied to the altar. If you sacrifice a prisoner on the altar, ...
+i:A fiend appears before you and begins savaging you with its claws{.fiends}.
+i:A fiend appears before you, demanding to know why you've summoned it to this dreary place{.fiends}.
+i:A fiend presence speaks to you, offering to answer one question you have{.fiends}.
+i:Nothing happens at first. After a while, you sense a fiendish presence begins watching your every move; you can feel its malevolent gaze{.fiends}.
+i:An angel appears to smite you for your foul act.
+i:The victim's corpse rises as a ghoul after =2d6 minutes, and it seeks you out, hungering for flesh.
+}
+{
+d:d6 You find a prisoner tied to the altar. If you leave the prisoner there, ...
+i:Someone else kills the prisoner before you come back.
+i:The prisoner dies of shock, fear, or injuries previously sustained; you discover the corpse when you come back.
+i:The prisoner screams madly at you to help; the noise is going to draw attention.
+i:Nothing; that prisoner was worthless.
+i:When you return, rats are gnawing on the poor prisoner's toes and fingers. The prisoner is screaming and writhing in agony{.rats,.fiends}.
+i:A fiend appears and pulls the prisoner's heart out and consumes the still beating organ as you look on in horror.
+}
+{
+d:d6 You find a prisoner tied to the altar. If you free the prisoner, ...
+i:The prisoner scrambles away out of the dungeon, terrified of what you may do{basic dungeons,castle dungeons,dungeon dressing}.
+i:The prisoner instantly befriends you, desperately wanting to repay you the life-saving favor.
+i:The prisoner thanks you and tells you where to find a sack full of buried gold if you ever make it out of this hole in the ground; the prisoner then scurries off.
+i:The prisoner tells you to get out of here because this place is cursed.
+i:The prisoner tries to stab you with a hidden knife, having actually been a cleverly disguised cultist{.cultists,.cultists (snake cultists)}.
+i:The prisoner promises to take you on safe paths through the dungeon to visit the terrifying Lord of Deep Places; the prisoner may not be mentally balanced{basic dungeons,castle dungeons,dungeon dressing}.
+}

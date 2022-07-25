@@ -1,0 +1,124 @@
+{
+d:d10 This wine was made in...
+i:A traditional coastal region known for its wines{.wines}.
+i:A mild, mountain valley known for its wines{.wines,.mountains}.
+i:A region with a growing community of winemakers{.wines}.
+i:A foreign land that has been making wines for centuries.
+i:A region where settlers have begun making wine as their ancestors had.
+i:A secluded monastery{.monasteries}.
+i:A chain of islands far across the sea.
+i:The basement of a little country inn.
+i:The basement of a little country chapel or shrine.
+i:The household of an elvish lord.
+}
+{
+d:d10 The wine is...
+i:A pale white.
+i:A bubbly white.
+i:A goldish white.
+i:A pale rosé.
+i:A rich rosé.
+i:A delicate red.
+i:A thick red.
+i:A deep red.
+i:A robust red.
+i:A reddish purple.
+}
+{
+d:d20 The wine smells of...
+i:Springtime breezes.
+i:Wildflowers.
+i:Honey.
+i:Roses.
+i:Cherry blossoms.
+i:Lilacs.
+i:Lilies.
+i:Wildflowers.
+i:Morning dew.
+i:Rain-covered flower petals.
+i:Orange blossoms.
+i:Young grapes.
+i:Ripe grapes.
+i:Cherries.
+i:Tangerines.
+i:Apple blossoms.
+i:Ripe grapes.
+i:Lemongrass.
+i:Peach blossoms.
+i:Hydrangeas.
+}
+{
+d:d20 The wine's flavor has notes of...
+i:Apple.
+i:Blueberry.
+i:Butter.
+i:Citrus.
+i:Cherry.
+i:Chocolate.
+i:Cloves.
+i:Ginger.
+i:Lemon.
+i:Oak.
+i:Peach.
+i:Pear.
+i:Pepper.
+i:Pine.
+i:Plum.
+i:Raspberry.
+i:Spices.
+i:Smokiness.
+i:Strawberry.
+i:Tangerine.
+}
+{
+d:d10 The wine is served in...
+i:A glass goblet.
+i:A glass flute.
+i:A glass mug.
+i:A glass cup.
+i:A tin cup.
+i:A brass goblet.
+i:A steel mug.
+i:A gilded flute.
+i:A silver goblet.
+i:A bucket.
+}
+{
+d:d10 The wine is best when enjoyed...
+i:Iced.
+i:Chilled.
+i:Cold.
+i:After it has had a few minutes to breathe.
+i:After it has had a few hours to breathe.
+i:Lightly spiced.
+i:Warmed.
+i:Hot.
+i:Honeyed.
+i:Heavily spiced and boiled.
+}
+{
+d:d10 The wine makes a great pairing with...
+i:Oysters or fish.
+i:Lobster or crab.
+i:Chicken or turkey.
+i:Pork chops or bacon.
+i:Steak or veal.
+i:Mutton or lamb.
+i:Sausage.
+i:A soft cheese.
+i:A hard cheese.
+i:A stinky cheese.
+}
+{
+d:d10 There is a tale that this type of wine was...
+i:A gift from a god or goddess to an ancient people.
+i:Drunk at a famed wedding feast.
+i:Drunk at the funeral of a legendary king or queen.
+i:Consumed by a legendary warrior before slaying a dragon{.dragons}.
+i:Consumed by a legendary priest or priestess prior to making a dark prophecy.
+i:Consumed by a legendary witch or wizard before he or she mysteriously disappeared{.witches}.
+i:Consumed by a legendary thief before stealing a celebrated gem{gemstones,.thieves}.
+i:Consumed by a legendary knight before leading a host to victory against impossible odds{.knights}.
+i:Consumed by a famous pair of lovers as they poisoned themselves.
+i:First produced by a now-extinct, ancient race or clan.
+}

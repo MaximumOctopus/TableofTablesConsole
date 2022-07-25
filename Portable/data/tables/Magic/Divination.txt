@@ -1,0 +1,65 @@
+{
+d:d10 Roll The Target
+i:Faint. Barely audible, ominous whispers are heard revealing the prophecy
+i:Scarring. Thin, painful cuts begin appearing all over the body of the seer, revealing the message{.seers}
+i:Herald. A messenger seen only by the seer begins telling the prophecy{.seers}
+i:Vision. The next few nights the vision comes to the seer in dreams{.seers}
+i:Chanting. Messengers seen by all materialize and begin chanting the prophecy in unison
+i:Scribed. The seer loses control of their hands. The hands begin frantically writing the prophecy on the nearest surface. If no writing utensil is available they write it in their own blood{.seers}
+i:Unconcious. The seer collapses and begins to experience the prophecy in a dream{.seers}
+i:Controlled. The seer very calmly begins speaking the prophecy{.seers}
+i:Possessed. The seer’s eyes roll back and they mechanically start reciting{.seers}
+i:Violent. The seer begins convulsing and screaming the prophecy in agony{.seers}
+}
+{
+d:d10 Roll Subject
+i:A god
+i:Mad wizard
+i:A well known ruler
+i:An unknown enemy
+i:A monstrous beast
+i:An arch-demon/arch-fey{.beasts fey}
+i:A Lich
+i:Mighty warrior
+i:Ancient Dragon{.dragons}
+i:A Vampire Lord{.vampires}
+}
+{
+d:d10 Roll The subject will…
+i:be reborn
+i:die
+i:gain incredible power
+i:destroy the world
+i:destroy the seer{.seers}
+i:muster an unstoppable army
+i:begin a terrible war
+i:seek to eliminate a race of people{races_core,races_all}
+i:give birth to a great evil
+i:open a gateway to another plane
+}
+{
+d:d10 Roll Helped/prevent by…
+i:preventing the birth of a child
+i:the seer to stand up to the [subject]{.seers}
+i:protecting a child until he becomes a man
+i:destroying the subject
+i:defeating forces that would want this to succeed/fail
+i:summoning something to fight the [subject]
+i:ending an influential figures life
+i:finding a lost legendary artifact
+i:convincing the gods to intervene
+i:cannot be avoided, only prepare for the inevitable
+}
+{
+d:d10 Roll The seer experiences
+i:Infrequent hand/eye twitching
+i:Can be heard speaking the prophecy in their sleep
+i:Convulsing during rests
+i:Is easily frightened
+i:Shows unnatural bravery
+i:Hears voices that repeat the prophecy
+i:Has issues sleeping (5% chance to stay awake all night)
+i:Loss of appetite, starts visibly losing weight because of it
+i:Recite the prophecy in other tongues unknown to the seer{.seers}
+i:Will experience the prophecy again at inconvenient time
+}

@@ -1,0 +1,129 @@
+{
+d:d6 The house is...
+i:Ancient and well-respected by all houses, great and small.
+i:Ancient and greatly diminished in standing from what it once was.
+i:Old with the respect of many houses, great and small.
+i:Old and struggling to maintain respect of other houses.
+i:Old but often overshadowed by other houses.
+i:Newly raised up to the nobility.
+}
+{
+d:d20 The house's colors are...
+i:Black.
+i:Red / scarlet.
+i:Gold.
+i:Forest green.
+i:Royal blue.
+i:Violet.
+i:Silver / light grey.
+i:Bronze.
+i:Tan / khaki.
+i:Brown / beaver.
+i:Dark grey / gunmetal.
+i:White.
+i:Maroon.
+i:Sky blue.
+i:Navy blue.
+i:Dark brown / chocolate.
+i:Teal / turquoise.
+i:Yellow.
+i:Orange.
+i:Olive green.
+}
+{
+d:d8 The house's symbol is...
+i:A weapon (d8): 1. arrow; 2. axe; 3. dagger; 4. hammer; 5. mace; 6. spear; 7. staff; 8. sword.
+i:A piece of armor (d4): 1. breastplate; 2. gauntlet; 3. helm; 4. shield.
+i:A celestial body (d4): 1. sun; 2. moon; 3. star; 4. comet.
+i:A plant or part of a plant (d12): 1. apple; 2. barley; 3. briar; 4. fig; 5. grapes; 6. lily; 7. maple; 8. oak; 9. olive; 10. pine; 11. rose; 12. wheat.
+i:An aquatic beast (d6): 1. crab; 2. crocodile; 3. frog; 4. fish; 5. octopus; 6. whale.
+i:A small beast (d12): 1. badger; 2. bat{.bats}; 3. beaver; 4. dog; 5. ferret; 6. fox; 7. hedgehog; 8. lizard; 9. rat{.rats}; 10. scorpion; 11. snake; 12. spider{.spiders}.
+i:A great beast (d8): 1. bear; 2. boar; 3. bull; 4. dragon{.dragons}; 5. lion; 6. ox; 7. stag; 8. wolf.
+i:A bird (d12): 1. cardinal; 2. dove; 3. eagle; 4. hawk; 5. mockingbird; 6. owl; 7. pelican; 8. raven; 9. rooster; 10. sparrow; 11. swan; 12. vulture.
+}
+{
+d:d20 The house's motto champions the ideals of...
+i:Compassion.
+i:Courage.
+i:Courtesy.
+i:Determination.
+i:Discipline.
+i:Duty.
+i:Excellence.
+i:Faith.
+i:Generosity.
+i:Honor.
+i:Hope.
+i:Integrity.
+i:Justice.
+i:Loyalty.
+i:Mercy.
+i:Patience.
+i:Righteousness.
+i:Strength.
+i:Trust.
+i:Wisdom.
+}
+{
+d:d12 The best known member of the house is or was...
+i:A gallant knight{.knights}.
+i:A beautiful woman.
+i:A ruthless negotiator.
+i:An adept diplomat.
+i:A famous traveler or explorer.
+i:A brilliant military strategist.
+i:A notorious rebel or outlaw{.outlaw bands}.
+i:A dashing swashbuckler.
+i:A fearsome warrior.
+i:A brilliant scholar.
+i:A gifted orator.
+i:A dangerous and mad ruler.
+}
+{
+d:d10 The current head of the house is...
+i:A kindly old man or woman.
+i:A ruthless old man or woman.
+i:A wily old man or woman.
+i:A charming man or woman.
+i:A grim veteran of wars.
+i:An astute politician.
+i:A devout adherent of a religion.
+i:A heartbroken widower or widow.
+i:A reckless or hot-headed young man or woman.
+i:A child.
+}
+{
+d:d8 The house's goals include (individual members may have different goals)...
+i:Domination of the city or region's politics.
+i:Domination of the city or region's trade.
+i:Revenge against a rival house in the same city or region.
+i:Revenge against a rival house in another city or region.
+i:Sabotage of a group run by commoners—a guild, academy, religious faith, or secret society.
+i:Fomenting rebellion against the city or region's ruling house.
+i:Marriage with a powerful allied house.
+i:Marriage with a powerful rival house.
+}
+{
+d:d8 One or more house members keep secret (the secret may involve past or present events)...
+i:A long-time scandalous romance.
+i:The existence of a bastard child.
+i:A murder in one of the house's keeps, castles, or palaces.
+i:Religious zealotry.
+i:The birth of a malformed freak.
+i:Treason against the region's sovereign.
+i:The senility or madness of family members.
+i:Criminal sabotage of a rival house.
+}
+{
+d:d10 The house's seat of power is located in or near...
+i:A port city.
+i:A range of high mountains{.mountains}.
+i:A wide, fertile plain{.plains}.
+i:A fertile river valley.
+i:An ancient forest.
+i:A jagged coastline.
+i:A sodden swamp{.swamp}.
+i:A pristine lake.
+i:A desert plateau{.desert,.desert flame-scorched,.desert shadowy}.
+i:An idyllic hill country.
+}

@@ -1,0 +1,94 @@
+{
+d:d10 Tonight, at a hunters' lodge, we dine on...
+i:Stewed.
+i:Roasted.
+i:Skewered.
+i:Braised.
+i:Smoked.
+i:Grilled.
+i:Seared.
+i:Flame-broiled.
+i:Salted.
+i:Peppered.
+}
+{
+d:d20 ...
+i:Rabbit.
+i:Quail.
+i:Duck.
+i:Swan.
+i:Boar.
+i:Aurochs.
+i:Pheasant.
+i:Goose.
+i:Trout.
+i:Pike.
+i:Clams.
+i:Bear.
+i:Venison.
+i:Hare.
+i:Beaver.
+i:Wolf.
+i:Squirrel.
+i:Otter.
+i:Hind.
+i:Mockingbird.
+}
+{
+d:d12 ...with...
+i:Potatoes.
+i:Red cabbage.
+i:White cabbage.
+i:Leeks.
+i:Lentils.
+i:Rhubarb.
+i:Peas.
+i:Turnips.
+i:Parsnips.
+i:String beans.
+i:Chives.
+i:Onions.
+}
+{
+d:d12 ...and...
+i:Carrots.
+i:Apples.
+i:Cherries.
+i:Wild mushrooms.
+i:Sliced mushrooms.
+i:Black mushrooms.
+i:Truffles.
+i:Rosemary.
+i:Sage.
+i:Parsley.
+i:Pine nuts.
+i:Raisins.
+}
+{
+d:d12 On the side, there is some...
+i:Rye bread.
+i:Wheat bread.
+i:Crusty bread.
+i:Sesame bread.
+i:Oat cake.
+i:Pumpernickel bread.
+i:Hard tack.
+i:Dry flatbread.
+i:Honey cake.
+i:Deer sausage.
+i:Boar's feet.
+i:Sow's ear.
+}
+{
+d:d10 To wash it down, we have some...
+i:Dark ale.
+i:Pale ale.
+i:Lager.
+i:Stout.
+i:Strong wine{.wines}.
+i:Sweet wine{.wines}.
+i:White wine{.wines}.
+i:Red wine{.wines}.
+i:Tea.
+i:Whisky.
+}

@@ -1,0 +1,103 @@
+{
+d:d10 Tonight, at a seaside cafe, we dine on...
+i:Stewed.
+i:Breaded.
+i:Fried.
+i:Battered.
+i:Baked.
+i:Brined.
+i:Seared.
+i:Peppered.
+i:Salted.
+i:Smoked.
+}
+{
+d:d20 ...
+i:Clams.
+i:Crab.
+i:Lobster.
+i:Mussels.
+i:Oysters.
+i:Squid.
+i:Shrimp.
+i:Prawns.
+i:Chicken.
+i:Lamb.
+i:Mutton.
+i:Steak.
+i:Beef.
+i:Veal.
+i:Scallops.
+i:Artichokes.
+i:Eggplant.
+i:Sweet sausage.
+i:Mild sausage.
+i:Spicy sausage.
+}
+{
+d:d10 ...with...
+i:Golden potatoes.
+i:Red potatoes.
+i:Long, thin pasta.
+i:Short, broad pasta.
+i:Curly pasta.
+i:Spiral pasta.
+i:Red beans.
+i:White beans.
+i:Garbanzo beans.
+i:Rice.
+}
+{
+d:d12 ...and...
+i:Asparagus.
+i:Broccoli.
+i:Capers.
+i:Scallions.
+i:Small, sweet tomatoes.
+i:Tomato wedges.
+i:Black olives.
+i:Green olives.
+i:Red olives.
+i:Peas.
+i:Carrots.
+i:Arugula.
+}
+{
+d:d12 ...dressed with...
+i:Olive oil and basil.
+i:Olive oil and oregano.
+i:Olive oil and garlic.
+i:Olive oil and lemon juice.
+i:Olive oil and pungent cheese.
+i:Olive oil and vinegar.
+i:White wine sauce.
+i:Red wine sauce.
+i:Creamy cheese sauce.
+i:Butter sage sauce.
+i:Tomato sauce with basil.
+i:Tomato sauce with garlic.
+}
+{
+d:d8 On the side, there is...
+i:Fresh bread.
+i:Crusty bread.
+i:Buttered bread.
+i:Garlic bread.
+i:A plate of olives.
+i:A plate of almonds.
+i:A plate of pistachios.
+i:A plate of cheeses.
+}
+{
+d:d10 To wash it down, we have some...
+i:Mediocre ale.
+i:Strong coffee.
+i:Coffee with milk.
+i:Sour wine{.wines}.
+i:Sweet wine{.wines}.
+i:White wine{.wines}.
+i:Rosé{.wines}.
+i:Red wine{.wines}.
+i:Strong wine{.wines}.
+i:Brandy.
+}

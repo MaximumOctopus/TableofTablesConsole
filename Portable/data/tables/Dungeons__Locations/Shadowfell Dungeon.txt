@@ -1,0 +1,90 @@
+{
+d:d6 This place is a/an...
+i:Eerie cave.
+i:Maze of black rock.
+i:Series of pitch black tunnels.
+i:Forgotten tomb.
+i:Crumbling catacomb.
+i:Inescapable prison.
+}
+{
+d:d6 This place is located…
+i:Near a shadowfolk stronghold.
+i:Beneath a creepy old castle.
+i:Beneath an ancient mausoleum.
+i:Deep within a twisted forest or swamp.
+i:Beneath a corrupt city in the mortal world.
+i:In a forbidding mountain valley in the mortal world.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Statue of a personification of death.
+i:Altar dedicated to a dead god.
+i:Mural depicting an hellish battlefield.
+i:Ornately decorated stone sarcophagus.
+i:Several curtains of dusty cobwebs.
+i:Set of double doors framed with bones.
+}
+{
+d:d6 Minor feature: You see a/an...
+i:Dusty empty bottle.
+i:Small statue depicting several skeletons.
+i:Set of manacles and chains.
+i:Crack in the wall or ceiling.
+i:Patch of sickly grey mold.
+i:Handful of floating globes of dim light.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Tricky witch.
+i:Desperate fugitive.
+i:Solitary monk.
+i:Shadowfolk warrior.
+i:Shifty graverobber.
+i:Restless ghost.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Carrion crawler.
+i:Black pudding or blood ooze.
+i:Giant spider or scorpion.
+i:Swarm of rats or crows.
+i:Swarm of bats or flies.
+i:Undead or shadow-touched beast (d6): 1. mastiff; 2. owl; 3. raven; 4. snake; 5. vulture; 6. wolf.
+}
+{
+d:d6 Secondary Monster: You come upon a/an…
+i:Invisible stalker.
+i:Pack of ghouls.
+i:Soul devourer.
+i:Terrifying specter.
+i:Shambling mummy.
+i:Zombie horde.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a/an…
+i:Vampire lord.
+i:Death knight.
+i:Potent lich.
+i:Soul-collecting fiend.
+i:Dread wraith.
+i:Savage werewolf.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Curse of wasting sickness.
+i:Curse of nightmare-filled sleep.
+i:Toxic mold spores.
+i:Poisoned dart traps.
+i:Closing walls trap.
+i:Incurable waterborne illness.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find the...
+i:Crown of an ancient king of the dead.
+i:Sword of an infamous pirate captain.
+i:Spellbook of a long-dead necromancer.
+i:Phylactery of a notorious lich.
+i:Large cache of soul gems.
+i:Helm of a villainous warlord.
+}

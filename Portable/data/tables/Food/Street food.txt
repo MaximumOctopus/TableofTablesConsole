@@ -1,0 +1,299 @@
+{
+d:d6 Varieties: This dish is...
+i:Exotic / Unusual.
+i:Fruits.
+i:Meats.
+i:Savories: These include cheese, nuts and seeds.
+i:Seafood: This includes shellfish and ocean plants.
+i:Vegetables.
+}
+{
+d:d4 Flavor: This dish is...
+i:Sweet.
+i:Spicy.
+i:Sour.
+i:Savory.
+}
+{
+d:d10 Preparation: This dish is...
+i:Baked.
+i:Boiled.
+i:Broiled.
+i:Fried.
+i:Grilled.
+i:Poached.
+i:Roasted.
+i:Sauteed.
+i:Seared.
+i:Steamed.
+}
+{
+d:d4 Presentation: This dish is served on or with...
+i:Bread.
+i:Leaf/Skewer.
+i:Pastry.
+i:Rice.
+}
+{
+d:d8 Beverages: Enjoy this dish with...
+i:Cider.
+i:Juice.
+i:Mead.
+i:Milk / Kefir.
+i:Tea / Coffee / Chocolate.
+i:Wine{.wines}.
+i:Beer.
+i:Spirits / Cocktails.
+}
+[
+d:FLAVORS
+]
+{
+d:d6 Sweet flavors: The dish is flavored with...
+i:Sugar.
+i:Molasses.
+i:Honey.
+i:Glaze: (d20): 1. Lemon; 2. Lime; 3. Grapes; 4. Apple; 5. Orange; 6. Cherry; 7. Pear; 8. Plum; 9. Peach; 10. Mango; 11. Coconut; 12. Banana; 13. Papaya; 14. Blueberries; 15. Raspberries; 16. Blackberries; 17. Watermelon; 18. Cantaloupe; 19. Honeydew; 20. Dryad melons;
+i:Jam: (d20): 1. Lemon; 2. Lime; 3. Grapes; 4. Apple; 5. Orange; 6. Cherry; 7. Pear; 8. Plum; 9. Peach; 10. Mango; 11. Coconut; 12. Banana; 13. Papaya; 14. Blueberries; 15. Raspberries; 16. Blackberries; 17. Watermelon; 18. Cantaloupe; 19. Honeydew; 20. Dryad melons;
+i:Pixie parts.
+}
+{
+d:d12 Spicy flavors: The dish is flavored with...
+i:Curry.
+i:Cumin.
+i:Black pepper.
+i:Red pepper.
+i:Chili powder.
+i:Cinnamon.
+i:Green chili pepper.
+i:Ghost chili pepper.
+i:Paprika.
+i:Sriracha.
+i:Red dragon oil{.dragons}.
+i:Flecks of salamander.
+}
+{
+d:d4 Sour flavors: The dish is flavored with...
+i:Yogurt.
+i:Sour cream.
+i:Sour fruit juice: (d20): 1. Lemon; 2. Lime; 3. Grapes; 4. Apple; 5. Orange; 6. Cherry; 7. Pear; 8. Plum; 9. Peach; 10. Mango; 11. Coconut; 12. Banana; 13. Papaya; 14. Blueberries; 15. Raspberries; 16. Blackberries; 17. Watermelon; 18. Cantaloupe; 19. Honeydew; 20. Dryad melons;
+i:Vinegar: (d4): 1. white wine; 2. red wine; 3. pick a fruit, 4. digester juice..
+}
+[
+d:FRUITS
+]
+{
+d:d20 Fruits: The dish is made with...
+i:Lemon.
+i:Lime.
+i:Grapes.
+i:Apple.
+i:Orange.
+i:Cherry.
+i:Pear.
+i:Plum.
+i:Peach.
+i:Mango.
+i:Coconut.
+i:Banana.
+i:Papaya.
+i:Blueberries.
+i:Raspberries.
+i:Blackberries.
+i:Watermelon.
+i:Cantaloupe.
+i:Honeydew.
+i:Dryad melons.
+}
+[
+d:VEGETABLES
+]
+{
+d:d20 Vegetables: The dish is made with...
+i:Asparagus.
+i:Arugula.
+i:Broccoli.
+i:Carrots.
+i:Cucumber.
+i:Cauliflower.
+i:Beans (d4): 1. black; 2. red; 3. string; 4. white.
+i:Peppers (d4): 1. bell; 2. chili; 3. hot; 4. sweet.
+i:Onion (d4): 1. green; 2. red; 3. sweet; 4. yellow.
+i:Corn.
+i:Parsnips.
+i:Cabbage (d4): 1. green; 2. red; 3. purple; 4. white.
+i:Turnips.
+i:Radishes.
+i:Beets.
+i:Peas.
+i:Spinach.
+i:Sprouts.
+i:Lettuce (d4): 1. butter; 2. iceberg; 3. romaine; 4. weedy.
+i:Squash (d4): 1. butternut; 2. pumpkin; 3. summer; 4. zucchini.
+}
+[
+d:SAVORIES
+]
+{
+d:d20 Savories: The dish is made with...
+i:White cheese.
+i:Sharp cheese.
+i:Mild cheese.
+i:Stinky cheese.
+i:Pungent cheese.
+i:Blue cheese.
+i:Yellow cheese.
+i:Goat cheese.
+i:Sheep's milk cheese.
+i:Sunflower seeds.
+i:Pumpkin seeds.
+i:Poppy seeds.
+i:Soybeans.
+i:Pine nuts.
+i:Almonds.
+i:Pecans.
+i:Hickory nuts.
+i:Peanuts.
+i:Pistachios.
+i:Walnuts.
+}
+[
+d:SEAFOOD
+]
+{
+d:d20 Common seafood: The dish is made with...
+i:Clams.
+i:Crab.
+i:Herring.
+i:Lobster.
+i:Mussels.
+i:Oysters.
+i:Salmon.
+i:Smelt.
+i:Haddock.
+i:Mackerel.
+i:Squid.
+i:Shrimp.
+i:Prawns.
+i:Tuna.
+i:Halibut.
+i:Cod.
+i:Sardines.
+i:Anchovies.
+i:Scallops.
+i:Sea bass.
+}
+{
+d:d20 Unusual seafood: Unusual but tasty, the dish is made with...
+i:Skate.
+i:Cuttlefish.
+i:Flounder.
+i:Grouper.
+i:Marlin.
+i:Snapper.
+i:Monkfish.
+i:Shark.
+i:Swordfish.
+i:Electric eel.
+i:Dolphin.
+i:Whale.
+i:Seal.
+i:Walrus.
+i:Sea cucumber.
+i:Starfish.
+i:Jellyfish.
+i:Kraken suckers.
+i:Mermaid fin.
+i:Aberrant tentacles.
+}
+[
+d:MEATS
+]
+{
+n:meats
+d:d20 Common meats: The dish is made with...
+i:Beef.
+i:Pork.
+i:Mutton.
+i:Chicken.
+i:Turkey.
+i:Duck.
+i:Goose.
+i:Venison.
+i:Horse{.horses}.
+i:Ox.
+i:Lamb.
+i:Veal.
+i:Pheasant.
+i:Quail.
+i:Rabbit.
+i:Boar.
+i:Goat.
+i:Pigeon.
+i:Sausage.
+i:@meats!19 and @meats!19
+}
+{
+d:d20 Uncommon meats: Unusual but tasty, the dish is made with...
+i:Squirrel.
+i:Gopher.
+i:Cat{.cats}.
+i:Dog.
+i:Bear.
+i:Wolf.
+i:Crocodile.
+i:Lizard.
+i:Snake.
+i:Rat{.rats}.
+i:Panther.
+i:Beaver.
+i:Bat{.bats}.
+i:Beetles.
+i:Crickets.
+i:Maggots.
+i:Frog.
+i:Turtle.
+i:Lion.
+i:Antelope.
+}
+{
+d:d20 Weird meats: Surprisingly tasty, the dish is made with...
+i:Giant spider{.spiders}.
+i:Ghoulflesh.
+i:Rump of the satyr.
+i:Centipede.
+i:Medusa hair.
+i:Manticore.
+i:Dragonflesh (not usually from a real dragon, but a wyvern or drake){.dragons}.
+i:Displacer beast.
+i:Hellhound.
+i:Aberrant eyes.
+i:Gelatinous cube.
+i:Halfling
+i:Tarrasque testicles.
+i:Devil's tongue.
+i:Demon lips.
+i:Otyugh feet.
+i:Stirge wings.
+i:Owlbear (the cheek is the best, the best places serve it plated with the beak intact).
+i:Umber hulk.
+i:Virgin priestess.
+}
+[
+d:BREADS
+]
+{
+d:d12 Bread: The bread portion of the dish is...
+i:Sourdough baguette.
+i:Whole-grain baguette.
+i:Bread bowl.
+i:Crusty roll.
+i:Soft roll.
+i:Pumpernickel roll.
+i:Sesame seed bun.
+i:Tortilla.
+i:Pita.
+i:Flat bread.
+i:Mini pizza.
+i:Hot pocket.
+}

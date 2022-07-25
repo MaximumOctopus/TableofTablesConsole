@@ -1,0 +1,218 @@
+{
+d:d6 The dungeon is located...
+i:In a tower set apart from the main castle.
+i:Beneath the keep.
+i:In a flanking tower of the castle.
+i:Beneath flanking tower in the castle.
+i:In a corner tower of the castle.
+i:Beneath the corner tower.
+}
+{
+d:d4 The dungeon was built...
+i:As part of the original castle.
+i:As a later addition.
+i:For another purpose originally.
+i:Long before most of the castle.
+}
+{
+d:d8 The dungeon is...
+i:A sprawling maze of twisting passages.
+i:A sprawling maze of narrow passages.
+i:Organized into small, neat rows of cells or pits.
+i:Organized around a large central cell block or pit.
+i:Only a few rooms.
+i:An endless series of long corridors.
+i:An endless series of small rooms and staircases.
+i:A series of corridors with very low ceilings.
+}
+{
+d:d10 Prisoners are held within...
+i:Individual cells, in complete isolation.
+i:Individual cells, but they can see and hear other prisoners.
+i:Individual cells, but they can hear other prisoners.
+i:Cells that accommodate up to two prisoners.
+i:Cells that accommodate up to two prisoners, each shackled to the wall.
+i:Cells that accommodate up to four prisoners.
+i:Cells that accommodate up to four prisoners, each shackled to the wall.
+i:A large chamber with many other prisoners, each shackled to the wall.
+i:Individual pits or wells, open at the top.
+i:One or more huge pit with many other prisoners.
+}
+{
+d:d4 The cells’ (or pits’) condition is...
+i:Well-maintained; the walls are solid.
+i:Aging, but sturdy; the walls have some cracks.
+i:Decrepit; the walls are crumbling.
+i:So dark it’s difficult to say.
+}
+{
+d:d4 Prisoners are treated...
+i:Humanely; they receive reasonable meals, some exercise, and healing when needed.
+i:Like dogs; they receive poor quality meals and enough healing to keep them alive.
+i:Like rats; they receive terrible meals and are plagued by sickness{.rats}.
+i:Like they don’t exist; occasionally they receive food.
+}
+{
+d:d10 The dungeon is known for...
+i:Many prisoners dying in a terrible plague.
+i:A mass escape in the past.
+i:The escape of a famous criminal.
+i:Being the final home of a famous criminal.
+i:Being the final home of a legendary hero.
+i:Being haunted by vengeful ghosts.
+i:Its horrific torture pits.
+i:Never suffering a successful escape.
+i:Its quirky jailer.
+i:The quality of its meals.
+}
+{
+d:d8 According to rumor, within the castle’s dungeon lies...
+i:A secret tunnel to the outside.
+i:The bones of a long-lost hero.
+i:The preserved head of an ancient villain{.villains}.
+i:A terrible beast to which prisoners are fed.
+i:A missing lord or lady.
+i:A famous jewel by a notorious prisoner.
+i:A unique and terrible torture device.
+i:The bones of a deposed king or queen.
+}
+{
+d:d10 Rooms: This chamber is...
+i:A dungeon cell{basic dungeons,castle dungeons,dungeon dressing}.
+i:Another dungeon cell{basic dungeons,castle dungeons,dungeon dressing}.
+i:A passageway connecting cell blocks.
+i:A guardroom.
+i:The barracks.
+i:The jailer’s quarters.
+i:A yard or large indoor space for exercise.
+i:A small dining room.
+i:An interrogation room.
+i:A torture chamber.
+}
+{
+d:d20 Features: You notice...
+i:A wooden door reinforced with steel bands.
+i:Steel bars where you expected a stone wall.
+i:Empty manacles along the wall.
+i:An empty sconce to hold a torch.
+i:Distant torchlight.
+i:The floor is uneven.
+i:A crack in the stone floor.
+i:A mouse skittering underfoot.
+i:The stench of rotting flesh.
+i:The scent of stale urine.
+i:A putrid smell.
+i:A dank and moldy odor.
+i:An uncomfortable groaning.
+i:A faint scratching sound.
+i:An odd tapping sound.
+i:The squeaking of rats{.rats}.
+i:The shouting of distant voices.
+i:Howls of agony.
+i:Horrific screams.
+i:The clanking of chains.
+}
+{
+d:d12 Escape Encounters: You come upon...
+i:A snoozing guard or jailer.
+i:A pair of guards on patrol.
+i:A quartet of guards playing cards or dice on their break.
+i:A pack of trained hunting dogs commanded by a high-ranking guard who has been alerted of the escape attempt.
+i:An inquisitor on-site to interrogate another prisoner about an unrelated case.
+i:An ear-splitting shriek from a maidservant.
+i:A wide, well-lit yard that must be crossed with guards watching it from towers.
+i:A high wall directly in the path of escape.
+i:A barred window in the path of escape.
+i:The rat-infested kitchens{.rats}.
+i:An imprisoned nobleman who offers to help if you help him escape{.nobles,.noble houses}.
+i:An imprisoned thief who is bent on revenge{.thieves}.
+}
+{
+d:d6 Even if you make it out of the dungeon, you’ll never escape because...
+i:The castle’s huntsman will ride you down.
+i:The castle’s hunting hounds are peerless.
+i:The castle’s ghosts will shriek in alarm.
+i:The knights sworn to the castle’s liege will not rest until they return you to him or her{.knights}.
+i:The castle’s archers will fill you with arrows.
+i:You’ve been branded a prisoner of this place; no one will risk helping you.
+}
+{
+d:d6 The jailer is...
+i:A coward who likes to act tough.
+i:A bully in every sense of the word.
+i:A man who grew up among criminals.
+i:A sadistic thug.
+i:A mild-mannered man of faith.
+i:A resentful cripple.
+}
+{
+d:d4 The jailer is concerned about...
+i:Rumors of an upcoming escape attempt.
+i:Losing his job after a messy prisoner death.
+i:Facing a prisoner who creeps him out.
+i:Ways to make a little extra silver.
+}
+{
+d:d4 The jailer is looking to...
+i:Abuse someone who is defenseless.
+i:Make himself feel powerful.
+i:Reach out to a disturbed prisoner.
+i:Swap grisly tales.
+}
+{
+d:d8 The jailer carries...
+i:A large ring of keys.
+i:A large knife and a sap.
+i:A pale of cold porridge from the kitchens.
+i:Loot seized from several prisoners.
+i:A pocket-sized prayer book.
+i:A spiked club.
+i:A scourge or whip.
+i:A wineskin.
+}
+{
+d:d4 The prisoner has...
+i:A long scraggly beard.
+i:A patchy beard.
+i:Skin draped loosely over his bones.
+i:Boils and sores on his skin.
+}
+{
+d:d6 The prisoner is here because...
+i:He stole something.
+i:He killed someone.
+i:He raped someone.
+i:He was caught poaching on his liege’s land.
+i:He committed an act of fraud.
+i:Someone confused him with someone else.
+}
+{
+d:d4 The prisoner has...
+i:No hope of escape.
+i:A foolish optimism of his escape prospects.
+i:A tenuous grasp on sanity.
+i:Been driven mad.
+}
+{
+d:d4 The torturer is...
+i:The bastard son of a noble house{.nobles,.noble houses}.
+i:A priest with a puritanical agenda.
+i:A horrible sadist.
+i:A wicked little man.
+}
+{
+d:d4 The torturer is looking to...
+i:Impress his liege with efficient confessions.
+i:Make himself feel powerful.
+i:Break a particularly willful prisoner.
+i:Frighten someone with grisly tales.
+}
+{
+d:d6 The torturer carries...
+i:A large knight and a scourge{.knights}.
+i:A leatherbound set of blades, hooks, and prongs.
+i:Several strange potions and poisons{.potions}.
+i:A trophy taken from a tortured prisoner.
+i:A pocket-sized prayer book.
+i:A flask of spirits.
+}

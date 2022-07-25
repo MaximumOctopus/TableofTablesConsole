@@ -1,0 +1,107 @@
+{
+d:d10 Tonight, among easterlings, we dine on...
+i:Stewed.
+i:Roasted.
+i:Fried.
+i:Boiled.
+i:Baked.
+i:Grilled.
+i:Seared.
+i:Steamed.
+i:Salted.
+i:Pickled.
+}
+{
+d:d12 ...
+i:Rabbit.
+i:Chicken.
+i:Duck.
+i:Pork.
+i:Beef.
+i:Trout.
+i:Catfish.
+i:Eel.
+i:Squid.
+i:Crab.
+i:Pork sausage.
+i:Duck sausage.
+}
+{
+d:d12 ...with...
+i:Dumplings.
+i:Egg noodles.
+i:Rice noodles.
+i:Long noodles.
+i:Sticky rice.
+i:Long-grain rice.
+i:Yellow rice.
+i:Soybeans.
+i:Lentils.
+i:String beans.
+i:Red beans.
+i:Mushrooms.
+}
+{
+d:d12 ...and...
+i:Carrots.
+i:Cabbage.
+i:Onions.
+i:Water chestnuts.
+i:Leeks.
+i:Lentils.
+i:Broccoli.
+i:Peas.
+i:Sprouts.
+i:Sweet peppers.
+i:Hot peppers.
+i:Oranges.
+}
+{
+d:d10 ...doused with...
+i:Soy sauce.
+i:Sweet-and-sour sauce.
+i:Spicy vinegar.
+i:Hot mustard.
+i:Sweet mustard.
+i:Pepper oil.
+i:Peanut oil.
+i:Ginger.
+i:Spicy curry.
+i:Hot curry.
+}
+{
+d:d20 On the side, there is some...
+i:Raw tuna.
+i:Raw skate.
+i:Raw trout.
+i:Raw herring.
+i:Raw horse{.horses}.
+i:Dog meat.
+i:Pickled cabbage.
+i:Pickled onion.
+i:Pickled radish.
+i:Pickled cucumber.
+i:Pickled fish.
+i:Honey bee larva.
+i:Fried grasshopper.
+i:Red bean paste.
+i:Sticky bread.
+i:Fresh baked bread.
+i:Crispy fried dough.
+i:Fried egg.
+i:Balut.
+i:Bird's nest soup.
+}
+{
+d:d10 To wash it down, we have some...
+i:Water.
+i:White tea.
+i:Green tea.
+i:Red tea.
+i:Black tea.
+i:Herbal tea{.herbalism}.
+i:Floral tea.
+i:Bitter wine{.wines}.
+i:Rice wine{.wines}.
+i:Fire-water.
+}

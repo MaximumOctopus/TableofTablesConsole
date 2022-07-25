@@ -1,0 +1,149 @@
+{
+d:d12 The herbal concoction will help...
+i:A wound heal more quickly.
+i:Reduce pain.
+i:Prevent infection in a wound.
+i:Lower a fever.
+i:Clear out congestion.
+i:Reduce itchiness.
+i:Recover one’s strength.
+i:Prevent nausea.
+i:Cure indigestion.
+i:One stay awake.
+i:One fall asleep.
+i:Make one fertile or virile.
+}
+{
+d:d10 The herbal concoction is...
+i:A thick paste.
+i:A thin paste.
+i:A specially treated leaf.
+i:A fluffy powder.
+i:A crystalline substance.
+i:A lotion or balm.
+i:An unpalatable potion{.potions}.
+i:A sweet-tasting potion{.potions}.
+i:A strong tea.
+i:A fragrant tea.
+}
+{
+d:d20 The herbal concoction’s color could be described as...
+i:Pale green.
+i:Dark green.
+i:Blue green.
+i:Olive green.
+i:Yellowish green.
+i:Greenish gold.
+i:Brownish gold.
+i:Deep red.
+i:Brownish red.
+i:White.
+i:Pale grey.
+i:Dark grey.
+i:Bluish grey.
+i:Purplish grey.
+i:Greenish grey.
+i:Brownish grey.
+i:Black.
+i:Light brown.
+i:Dark brown.
+i:Reddish brown.
+}
+{
+d:d20 The herbal concoction contains...
+i:Root hairs.
+i:Ground roots.
+i:Shredded roots.
+i:Ground tree bark.
+i:Wood shavings.
+i:Fresh leaves.
+i:Dried leaves.
+i:Crumbled leaves.
+i:Leaf buds.
+i:Flower petals.
+i:Pollen.
+i:Fruit peels.
+i:Berries.
+i:Moss.
+i:Mushrooms.
+i:Fuzzy mold.
+i:Spores.
+i:Ground thorns.
+i:Seeds.
+i:A shrubbery.
+}
+{
+d:d10 The herbal concoction preparation involves...
+i:Vigorous mixing.
+i:Boiling slowly.
+i:Boiling rapidly.
+i:Roasting.
+i:Smoking.
+i:Sun-drying.
+i:Soaking.
+i:Brining.
+i:Brewing.
+i:Steeping.
+}
+{
+d:d10 To use, the herbal concoction must be...
+i:Consumed immediately after preparation.
+i:Consumed after it ages for a few hours.
+i:Consumed after it ages for a few years.
+i:Applied topically to the target area.
+i:Taken with food.
+i:Taken with water.
+i:Taken before going to bed.
+i:Taken with caution; side effects are likely.
+i:Taken with a supplement to ameliorate the side effects.
+i:Taken at a time that matches a natural cycle (d12): 1. spring equinox; 2. summer solstice; 3. autumn equinox; 4. winter solstice; 5. new moon; 6. waxing moon; 7. full moon; 8. waning moon; 9. dawn; 10. midday; 11. at dusk; 12. midnight.
+}
+[
+d:HERB NAMES
+]
+{
+d:d20 First part of the herb's name is...
+i:Black.
+i:Blue.
+i:Dawn.
+i:Dusk.
+i:Dust.
+i:Elder.
+i:Gold.
+i:Green.
+i:Grey.
+i:Moon.
+i:Morning.
+i:Night.
+i:Purple.
+i:Rain.
+i:Shadow.
+i:Silver.
+i:Sun.
+i:Water.
+i:White.
+i:Wind.
+}
+{
+d:d20 Second part of the herb's name is...
+i:Bark.
+i:Berry.
+i:Blossom.
+i:Bulb.
+i:Flower.
+i:Fruit.
+i:Leaf.
+i:Lily.
+i:Needle.
+i:Nut.
+i:Pollen.
+i:Petal.
+i:Root.
+i:Rose.
+i:Sap.
+i:Seed.
+i:Stalk.
+i:Stem.
+i:Thorn.
+i:Vine.
+}

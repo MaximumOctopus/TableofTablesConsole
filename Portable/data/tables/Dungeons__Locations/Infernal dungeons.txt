@@ -1,0 +1,90 @@
+{
+d:d6 This place is a/an...
+i:Icy cave.
+i:Stone labyrinth.
+i:Series of dark, steamy tunnels.
+i:Iron-walled storage vault.
+i:Evil temple or monastery.
+i:Inescapable prison.
+}
+{
+d:d6 This place is located…
+i:Near an infernal gate.
+i:Beneath an infernal palace.
+i:At the edge of an infernal realm.
+i:Deep within an infernal realm.
+i:Beneath a city in the mortal world.
+i:In a remote location in the mortal world.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Evil altar.
+i:Magically-crafted colonnade.
+i:Large relief depicting twisted humanoids.
+i:Mural depicting skeletons and flames.
+i:Nest belonging to some sort of beast.
+i:Set of double doors carved to resemble the mouth of a great beast.
+}
+{
+d:d6 Minor feature: You see a...
+i:Icon to an evil god.
+i:Small statue of an imp or gargoyle.
+i:Pile of twisted bones.
+i:Row of chains and shackles.
+i:Rack of implements of torture.
+i:Creepy chandelier or wall sconce.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Hapless prisoner.
+i:Enslaved soul.
+i:Fast-talking imp.
+i:Patrolling spined devil.
+i:Enterprising warlock.
+i:Sycophantic cultist.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Bat.
+i:Raven.
+i:Scorpion.
+i:Serpent.
+i:Stirge.
+i:Wolf.
+}
+{
+d:d6 Secondary Monster: You come upon a/an…
+i:Bearded devil.
+i:Chain devil.
+i:Horned devil.
+i:Erinyes.
+i:Hell hound.
+i:Nightmare.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a/an…
+i:Half-fiend vampire lord.
+i:Ascendant dark sorceress.
+i:Especially clever ice devil.
+i:Particularly ambitious pit fiend.
+i:Fiendish dragon.
+i:Infernal prince.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Scything blades.
+i:Poisonous gas.
+i:Nauseating fumes.
+i:Erupting spouts of fire.
+i:Rivers of flame.
+i:Spiked portcullis traps.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find a/an...
+i:Flaming longsword.
+i:Unbreakable helm.
+i:Tome of infernal summoning.
+i:Rod of shadow and death.
+i:Vast collection of soul gems.
+i:Imprisoned ancient hero.
+}

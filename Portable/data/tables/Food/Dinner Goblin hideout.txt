@@ -1,0 +1,82 @@
+{
+d:d10 Tonight, in a goblin hideout, we dine on...
+i:Stewed.
+i:Toasted.
+i:Skewered.
+i:Raw.
+i:Smoked.
+i:Grilled.
+i:Seared.
+i:Flame-broiled.
+i:Charred.
+i:Blackened.
+}
+{
+d:d10 ...
+i:Rabbit.
+i:Duck.
+i:Pork.
+i:Cave fish.
+i:Trout.
+i:Clams.
+i:Bat{.bats}.
+i:Rat{.rats}.
+i:Sausage.
+i:Mystery meat.
+}
+{
+d:d12 ...with...
+i:Potatoes.
+i:Red cabbage.
+i:White cabbage.
+i:Leeks.
+i:Lentils.
+i:Rhubarb.
+i:Peas.
+i:Sliced turnips.
+i:Turnip mash.
+i:Parsnips.
+i:Red onions.
+i:Yellow onions.
+}
+{
+d:d12 ...and...
+i:Stale bread.
+i:Crusty biscuits.
+i:Hard tack.
+i:Wild mushrooms.
+i:Sliced mushrooms.
+i:Black mushrooms.
+i:Purple mushrooms.
+i:Cave mushrooms.
+i:Truffles.
+i:Yellow mold.
+i:Blue mold.
+i:Green mold.
+}
+{
+d:d12 On the side, there are some...
+i:Mice.
+i:Toad legs.
+i:Crickets.
+i:Earthworms.
+i:Snails.
+i:Stale cakes.
+i:Pixie cakes.
+i:Pig's feet.
+i:Rat tails.
+i:Lizards.
+i:Snakes.
+i:Bitter roots.
+}
+{
+d:d8 To wash it down, we have some...
+i:Foul ale.
+i:Skunky ale.
+i:Stolen ale.
+i:Sour wine{.wines}.
+i:Strong wine{.wines}.
+i:Bitter tea.
+i:Black tea.
+i:Stolen whisky.
+}

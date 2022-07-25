@@ -1,0 +1,80 @@
+{
+d:d10 Tonight, at a mining town pub, we dine on...
+i:Stewed.
+i:Roasted.
+i:Fried.
+i:Smoked.
+i:Baked.
+i:Brined.
+i:Seared.
+i:Peppered.
+i:Salted.
+i:Pickled.
+}
+{
+d:d10 ...
+i:Goat.
+i:Chicken.
+i:Blackbird.
+i:Mutton.
+i:Lamb.
+i:Ram.
+i:Ewe.
+i:Pork.
+i:Sausage.
+i:Bacon.
+}
+{
+d:d12 ...with...
+i:Golden potatoes.
+i:Red potatoes.
+i:Beets.
+i:Leeks.
+i:Lentils.
+i:Red beans.
+i:Black beans.
+i:White beans.
+i:Turnip mash.
+i:Diced turnips.
+i:White onions.
+i:Yellow onions.
+}
+{
+d:d10 ...and...
+i:Carrots.
+i:Red cabbage.
+i:Green cabbage.
+i:Purple cabbage.
+i:Mushrooms.
+i:Pine nuts.
+i:Raisins.
+i:Parsley.
+i:Radishes.
+i:Peas.
+}
+{
+d:d10 On the side, there is some...
+i:Hard tack.
+i:Fresh bread.
+i:Crusty bread.
+i:Rye bread.
+i:Oat bread.
+i:Pumpernickel bread.
+i:Sharp cheese.
+i:Stinky cheese.
+i:Goat cheese.
+i:Sheep's milk cheese.
+}
+{
+d:d10 To wash it down, we have some...
+i:Bitter ale.
+i:Wheat ale.
+i:Black ale.
+i:Stout.
+i:Porter.
+i:Mead.
+i:Strong wine{.wines}.
+i:Red wine{.wines}.
+i:Brandy.
+i:Whisky.
+}

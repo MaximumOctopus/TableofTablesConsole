@@ -1,0 +1,154 @@
+{
+d:d6 Worshipers at the temple pray to...
+i:One god and only one god.
+i:One god primarily, but other gods occasionally or for specific petitions.
+i:Several gods within a pantheon, but two gods above the rest{.pantheons}.
+i:An entire pantheon, petitioning each god for specific needs{.pantheons}.
+i:One god to whom the temple was not originally dedicated{.temples}.
+i:Several gods within a pantheon to whom the temple was not originally dedicated{.pantheons}.
+}
+{
+d:d12 The temple is dedicated to...
+i:The god of the sun/sky.
+i:The earth/mother goddess.
+i:The goddess of the harvest/seasons.
+i:The god of craft/knowledge.
+i:The god of darkness/secrets.
+i:The god of death/evil.
+i:The goddess of the hunt/woodlands.
+i:The goddess of love/beauty/fertility.
+i:The goddess of the moon/magic.
+i:The god of the seas/storms.
+i:The trickster/messenger god.
+i:The tyrant/war god.
+}
+{
+d:d12 The temple is known for its...
+i:Miraculous healers{.healers}.
+i:Compassionate healers{.healers}.
+i:Beautiful priestesses.
+i:Wonderful music.
+i:Accurate prophecies.
+i:Collected wisdom.
+i:Stunning architecture.
+i:Unusual architecture.
+i:Incredible collection of artwork.
+i:A famous sculpture or painting.
+i:Lengthy prayer services and vigils.
+i:Lively prayer services and debates.
+}
+{
+d:d6 The temple’s entrance is guarded by...
+i:A sworn order of devout warriors.
+i:Sellswords{.sellswords}.
+i:Frightening statues of monstrous beings.
+i:Impressive, colossal statues of warriors.
+i:Statues of beautiful maidens, beckoning visitors into a trap.
+i:Nothing; the temple welcomes all.
+}
+{
+d:d8 The temple’s main floorplan is...
+i:Circular.
+i:Ellipsoidal.
+i:Triangular.
+i:Square.
+i:Rectangular.
+i:Pentagonal.
+i:Polygonal with many sides (d8): 1. six; 2. seven; 3. eight; 4. nine; 5. ten; 6. twelve; 7. thirteen; 8. twenty.
+i:Cruciform.
+}
+{
+d:d8 The temple complex is...
+i:Simple; a large main worship chamber with a handful of functional rooms adjoining.
+i:Simple with a large annex; the annex contains many chambers.
+i:Simple with fortifications.
+i:Multi-layered; upper or lower layers are inaccessible to most visitors.
+i:Multi-winged; some wings are inaccessible to most visitors.
+i:Arranged in a concentric fashion; inner areas are inaccessible to most visitors.
+i:Labyrinthine; designed to deliberately confuse outsiders.
+i:Simple with an intricate complex hidden beneath the main worship chamber.
+}
+{
+d:d6 The temple grounds are dominated by...
+i:Impenetrable stone walls.
+i:An intricate structure of stone arches and columns.
+i:A colorful structure of painted wood and plaster.
+i:A sturdy structure of finished wood.
+i:A solid structure of oven-fired clay bricks.
+i:A large structure with immense metal doors (d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin
+}
+{
+d:d8 Many of the temple’s interior walls are...
+i:Rough hewn stone.
+i:Smooth cut stone.
+i:Painted or lacquered wood.
+i:Unfinished hardwood.
+i:Decorated with intricate mosaics.
+i:Decorated with elaborate murals.
+i:Decorated with relief carvings.
+i:Decorated with sacred texts and runes.
+}
+{
+d:d6 Many of the temple’s ceilings are...
+i:Uncomfortably close to your head.
+i:Connected to the floor by columns.
+i:Painted with mythological scenes.
+i:So high its difficult to make out details.
+i:Vaulted.
+i:Domes or cupolas.
+}
+{
+d:d20 Rooms: The purpose of this room is...
+i:An armory or barracks.
+i:A guardroom or sentry post.
+i:A cell for solitary prayer.
+i:A cell for holding prisoners.
+i:An inquisition or torture chamber.
+i:A priest’s office or audience chamber.
+i:A sanitarium or infirmary.
+i:A ceremonial pool, bath, or fountain.
+i:A morgue or mortuary.
+i:A crypt for a person of importance (d4): 1. well-known hero; 2. powerful high priest; 3. obscure priest; 4. wealthy noble{.nobles,.noble houses}.
+i:A room dedicated for specific rituals (d4): 1. conjurations; 2. divinations; 3. funerals; 4. healing miracles.
+i:A chapel or shrine dedicated to a lesser deity, saint, or martyr.
+i:A classroom or dormitory.
+i:A library.
+i:A priest’s quarters or robing room.
+i:A banquet room, large dining hall, or small dining room.
+i:A kitchen or pantry.
+i:A trophy room or art gallery.
+i:A stable or kennel.
+i:A workshop for temple craftsmen.
+}
+{
+d:d20 Features: You notice...
+i:A small altar set in an alcove in the wall{.altars (holy),.altars (unholy)}.
+i:The sound of bells ringing in a tower.
+i:A wall sconce holding many candles.
+i:Tall candles on holders, taller than a man.
+i:The tinkle of chimes from a nearby room.
+i:A tapestry depicting a mythological scene.
+i:A small fountain or reflecting pool.
+i:The sound of a gong from another room.
+i:A large holy symbol embedded in the wall.
+i:A huge book of sacred texts or prayers.
+i:The scent of incense burning nearby.
+i:A kneeler beneath a small statue or icon.
+i:An oil lamp with colored glass panels.
+i:A mosaic set into the floor of the room.
+i:A wide fresco or mural depicting a mythological scene.
+i:The pipes of an immense organ running along the walls.
+i:Robes and cassocks hanging on hooks.
+i:An ornamental rug.
+i:A screen to hide priests from view.
+i:A statue of a recognizable figure.
+}
+{
+d:d6 Encounters: You come upon...
+i:A young priest or priestess.
+i:An old priest or priestess.
+i:A traveler from afar.
+i:A regular, local worshiper.
+i:A member of the temple’s serving staff.
+i:A member of the temple’s guard.
+}

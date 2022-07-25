@@ -1,0 +1,404 @@
+[
+d:ALCHEMY
+]
+{
+d:d10 Alchemy Missions: Easy
+i:1-2. Go and pick up some basic reagents and return to the Guild without getting caught. 
+i:3-4. Deliver a poisoned weapon without getting caught{.legendary weapons}.
+i:5-6. Create a basic poison in quantity, and deliver it to a customer, get paid, and return without getting caught.
+i:7-8. Create a basic potion in quantity and deliver it into enemy territory. Return with the money{.potions}.
+i:9-10. Create a previously unknown potion or potion in your skill level{.potions}.
+}
+{
+d:d10 Alchemy Missions: Medium
+i:1-2. Harvest intermediate reagents in enemy territory and escape.
+i:3-4. Create a previously unknown potion or potion in your skill level{.potions}.
+i:5-6. Steal a shipment of enemy alchemical goods worth at least 500gp.
+i:7-8. Create an intermediate potion in quantity and deliver it into enemy territory. Return with the money{.potions}.
+i:9-10. Destroy an enemy's alchemical laboratory and escape.
+}
+{
+d:d10 Alchemy Missions: Hard
+i:1-2. Create a previously unknown potion or potion in your skill level{.potions}.
+i:3-4. Successfully mix two advanced potions and get a favorable result{.potions}.
+i:5-6. Create an advanced potion in quantity and deliver it into enemy territory. Return with the money{.potions}.
+i:7-8. Oversee the successful application of at least 40 poisoned weapons with an advanced poison{.legendary weapons}.
+i:9-10. Successfully reduce your creation time by 25%.
+}
+[
+d:ASSASSINATION
+]
+{
+d:d10 Assassination Missions: Easy
+i:1-2. Track a target to a location and observe for 4 hours. Do not get caught or be seen. Signal a contact and return.
+i:3-4. Kill a target in ambush, through a fixed killzone and escape. Claim credit for it.
+i:5-6. Deliver a contact poison to a target in a crowded location. Escape.
+i:7-8. Track a target to a location and observe for 1 hour. Trigger a fixed trap and escape.
+i:9-10. Deliver ingested poison to a target in an public area. Escape.
+}
+{
+d:d10 Assassination Missions: Medium
+i:1-2. Kill a political target. Escape.
+i:3-4. Kill a target in his own home and steal goods worth at least 500gp.
+i:5-6. Kill a target with ingested poison only, at a specific time and date.
+i:7-8. Kill a group of targets with a fixed trap.
+i:9-10. Kill a group of targets in a public location and claim credit for it.
+}
+{
+d:d10 Assassination Missions: Hard
+i:1-2. Kill a royal target in a moving vehicle. Escape and claim credit for it.
+i:3-4. Kill a political target at a public function with contact poison. Escape.
+i:5-6. Kill a group of targets spread across several locations on the same day. Claim credit for it.
+i:7-8. Kill a group of targets with ingested poison only, at a specific time and date.
+i:9-10. Kill a group of targets with no visible means of assassination on the corpse{.assassins' guilds}.
+}
+[
+d:BLACKMAIL
+]
+{
+d:d10 Blackmail Missions: Easy
+i:1-2. Pick up a payment from a dead drop without being seen. Return to the Guild.
+i:3-4. Follow target and observe for 4 hours without being seen. Obtain "dirt" on the target. Present blackmail terms worth at least 10gp/month. Escape.
+i:5-6. Pick up a payment from a target in enemy territory. Escape and return to the Guild.
+i:7-8. Collect evidence against a target in enemy territory. Escape.
+i:9-10. Collect evidence on a target in a public location without being seen. Return to the Guild.
+}
+{
+d:d10 Blackmail Missions: Medium
+i:1-2. Collect evidence on a political target without being seen.
+i:3-4. Collect payment from a target, in public, and escape without being identified.
+i:5-6. Follow target and observe for 24 hours without being seen. Present blackmail terms worth at least 100gp/month. Successfully blackmail for 6 months.
+i:7-8. Pick up a payment from a political target in enemy territory. Escape and return to the Guild.
+i:9-10. Collect enough evidence to blackmail 3 targets in one month.
+}
+{
+d:d10 Blackmail Missions: Hard
+i:1-2. Collect evidence on a royal target without being identified. Blackmail for at least 1000gp/month. Successfully blackmail for at least 3 months.
+i:3-4. Maintain a group of at least 3 targets successfully for at least 1 year. Blackmail must be at least 500gp/month.
+i:5-6. Successfully blackmail 1 target for 750gp/month. Maintain for at least 3 months.
+i:7-8. Collect evidence to blackmail 3 political targets in one month.
+i:9-10. Collect enough evidence on your allies to ensure a clean exit strategy, if needed.
+}
+[
+d:BURGLARY
+]
+{
+d:d10 Burglary Missions: Easy
+i:1-2. Steal 10gp worth of goods from a home.
+i:3-4. Steal 20gp worth of goods from a business.
+i:5-6. Break into a safe and escape with goods worth at least 20gp.
+i:7-8. Disarm 3 traps and retreive the package. Escape.
+i:9-10. Place a target location under surveillance without being seen for 4 hours. Return to the Guild.
+}
+{
+d:d10 Burglary Missions: Medium
+i:1-2. Break into a shop with magical defenses. Steal at least 500gp worth of goods. Return to the Guild{.shops}.
+i:3-4. Steal 250gp worth of goods from a home or business.
+i:5-6. Break into a vault and escape with goods worth at least 500gp.
+i:7-8. Steal an object guarded by constant physical survelliance. Object should be worth at least 250gp.
+i:9-10. Steal an object from a political or royal location and escape. Object can be worth anything, but should be unique and memorable.
+}
+{
+d:d10 Burglary Missions: Hard
+i:1-2. Break into a royal location and steal goods worth at least 1000gp.
+i:3-4. Break into a location with physical and magical defenses, as well as constant physical survelliance. Steal an object worth at least 5000gp.
+i:5-6. Steal an artefact from any location. Escape and keep in your possession for at least 48 hours.
+i:7-8. Rob a moving vehicle of goods worth at least 1000gp and escape.
+i:9-10. Break into a Guild House and steal an object that is unique and memorable. Keep it for at least 48 hours.
+}
+[
+d:CONFIDENCE GAMES
+]
+{
+d:d10 Con-Game Missions: Easy
+i:1-2. Swindle a target out of 10gp or equivalent goods. Escape.
+i:3-4. Swindle a target out of 20gp or equivalent goods. Escape.
+i:5-6. Swindle a target and get the target to promise an additional 10gp later.
+i:7-8. Swindle a target and retreive your original investment back as well as keeping the target's money. Escape.
+i:9-10. Swindle 3 targets in one day. Any amount over 5gp.
+}
+{
+d:d10 Con-Game Missions: Medium
+i:1-2. Grift a target out of 500gp or equivalent goods.
+i:3-4. Grift a target out of 500gp or equivalent goods and get the target to promise an additional 100gp later.
+i:5-6. Swindle a target and get the target arrested before you escape.
+i:7-8. Grift a target and retreive your initial investment back as well as keeping the target's money. Escape.
+i:9-10. Run a Grift that takes 3 months to finalize and take at least 1000gp or equivalent goods from the target.
+}
+{
+d:d10 Con-Game Missions: Hard
+i:1-2. Grift a target out of 1000gp or equivalent goods and get the target arrested before you escape.
+i:3-4. Grift a political or royal target for at least 500gp or equivalent goods.
+i:5-6. Run 3 successful grifts in 1 month for at least 250gp or equivalent goods each.
+i:7-8. Swindle a target out of at least 1000gp or equivalent goods and escape without using a distraction.
+i:9-10. Become accepted as a legitimate agent in the commercial/political/royal world in a Life Grift.
+}
+[
+d:FENCING OF GOODS
+]
+{
+d:d10 Fence Missions: Easy
+i:1-2. Successfully identify and evaluate goods worth at least 10gp.
+i:3-4. Successfully identify and evaluate a minor magical item.
+i:5-6. Successfully identify a minor cursed item{cursessimple}.
+i:7-8. Identify 3 counterfeit items.
+i:9-10. Sell onwards goods worth at least 20gp.
+}
+{
+d:d10 Fence Missions: Medium
+i:1-2. Successfully identify and evaluate goods worth at least 500gp.
+i:3-4. Successfully identify and evaluate a major magical item.
+i:5-6. Successfully identify a major cursed item{cursessimple}.
+i:7-8. Identify 3 counterfeit items and 3 forgeries in 1 month.
+i:9-10. Sell onwards goods worth at least 500gp.
+}
+{
+d:d10 Fence Missions: Hard
+i:1-2. Successfully identify and evaluate goods worth at least 1000gp.
+i:3-4. Successfully identify and evaluate an artefact.
+i:5-6. Successfully sell onwards a set of linked magical items.
+i:7-8. Successfully identify and evaluate goods in enemy territory and return with the goods to the Guild.
+i:9-10. Sell onwards goods worth at least 1000gp.
+}
+[
+d:FRAUD: FORGERY AND COUNTERFEITING
+]
+{
+d:d10 Fraud Missions: Easy
+i:1-2. Steal an official paper without getting caught. Return to the Guild.
+i:3-4. Steal an official paper in enemy territory without getting caught. Return to the Guild.
+i:5-6. Create a forgery or counterfeit item and successfully use it without getting caught.
+i:7-8. Create 3 forgeries or counterfeit items worth at least 20gp.
+i:9-10. Successfully use a forgery or counterfeit item 3 times.
+}
+{
+d:d10 Fraud Missions: Medium
+i:1-2. Create a royal or political forgery/counterfeit and sell it for at least 500gp.
+i:3-4. Create a forgery/counterfeit object of artistic merit and sell it for at least 500gp.
+i:5-6. Steal polticial or royal papers and use them to create at least 3 forgeries.
+i:7-8. Create 3 forgery/counterfeit objects worth at least 250gp each.
+i:9-10. Create travel documents for a secondary political body (like those from another Kingdom).
+}
+{
+d:d10 Fraud Missions: Hard
+i:1-2. Create a royal or political forgery/counterfeit and sell it for at least 1000gp.
+i:3-4. Create forgeries for at least 20 people to be used in one transaction.
+i:5-6. Create royal identification papers.
+i:7-8. Steal supplies to create travel, identity and official documents for at least 3 other political bodies.
+i:9-10. Create a counterfeit that for an object that is normally displayed in a public location and switch them.
+}
+[
+d:GAMBLING
+]
+{
+d:d10 Gambling Missions: Easy
+i:1-2. Win at least 10gp in one day.
+i:3-4. Win at least 5gp from 3 different targets in one day.
+i:5-6. Successfully cheat and win at least 10gp.
+i:7-8. Successfully bankrupt all opponents in one game.
+i:9-10. Successfully cheat and win at least 20gp.
+}
+{
+d:d10 Gambling Missions: Medium
+i:1-2. Win at least 250gp in one day.
+i:3-4. Win at least 50gp from 3 different targets in one day.
+i:5-6. Successfully cheat and win at least 500gp.
+i:7-8. Successfully bankrupt all opponents in one game and get the losers to agree to another game tomorrow.
+i:9-10. Successfully cheat a professional gambler and win at least 100gp.
+}
+{
+d:d10 Gambling Missions: Hard
+i:1-2. Cheat a gambling establishment of at least 1000gp.
+i:3-4. Win at least 1500gp in 1 day.
+i:5-6. Successfully cheat a professional gambler and win at least 500gp.
+i:7-8. Successfully win a game with at least 19 other competitors.
+i:9-10. Successfully rig a mechanical game or a racing competition to win at least 1000gp.
+}
+[
+d:KIDNAPPING
+]
+{
+d:d10 Kidnapping Missions: Easy
+i:1-2. Track a target for at least 4 hours without being seen.
+i:3-4. Track and observe a target in enemy territory for at least 1 hour without being seen. Return to the Guild.
+i:5-6. Aduct 1 minor target and hold for at least 48 hours. Demand a ransom of at least 10gp.
+i:7-8. Abduct 2 minor targets and hold for at least 24 hours. Demand a ransom of at least 20gp.
+i:9-10. Subdue a violent target and hold for at least 8 hours.
+}
+{
+d:d10 Kidnapping Missions: Medium
+i:1-2. Abduct a major target and hold for at least 24 hours. Demand a ransom of at least 500gp.
+i:3-4. Track a target for at least 24 hours without being seen.
+i:5-6. Abduct multiple targets and hold for at least 1 hour. Demand a ransom of at least 50gp per target.
+i:7-8. Abduct a political target and demand a ransom of at least 250gp. Release the target alive.
+i:9-10. Abduct a target from a moving vehicle.
+}
+{
+d:d10 Kidnapping Missions: Hard
+i:1-2. Abduct multiple targets from a moving vehicle.
+i:3-4. Abduct a royal target and demand a ransom of at least 1000gp. Release the target alive.
+i:5-6. Abduct a political target from a public place and demand a ransom of at least 500gp.
+i:7-8. Abduct at least 10 targets at the same time and hold them for at least 30 days.
+i:9-10. Abduct an enemy target in enemy territory and demand a ransom of at least 500gp.
+}
+[
+d:NARCOTICS
+]
+{
+d:d10 Narcotics Missions: Easy
+i:1-2. Buy product from a rival worth at least 10gp and return to the Guild.
+i:3-4. Collect money owed to the Guild by a non-paying customer.
+i:5-6. Protect a product shipment from enemies for at least 24 hours.
+i:7-8. Sell product worth at least 10gp.
+i:9-10. Sell product worth at least 20gp.
+}
+{
+d:d10 Narcotics Missions: Medium
+i:1-2. Sell product worth at least 500gp for the month.
+i:3-4. Buy product in enemy territory worth at least 500gp and escort it back to the Guild.
+i:5-6. Ship product worth at least 500gp into enemy territory and collect the money and escape{.ships}.
+i:7-8. Set up at least 10 distributors for your product and maintain them for at least 30 days.
+i:9-10. Start a production facility for your product and create raw goods worth at least 250gp per month.
+}
+{
+d:d10 Narcotics Missions: Hard
+i:1-2. Sell product worth at least 1000gp for the week.
+i:3-4. Destroy an enemy's production facility and escape.
+i:5-6. Set up at least 20 distributors for your product and maintain them for 3 months.
+i:7-8. Ship product worth at least 1000gp through enemy territory and sell the product. Return through enemy territory to the Guild{.ships}.
+i:9-10. Takeover a rival's production chain.
+}
+[
+d:PROSTITUTION
+]
+{
+d:d10 Prostitution Missions: Easy
+i:1-2. Earn at least 10gp in 1 day.
+i:3-4. Successfully protect an employee from a violent customer.
+i:5-6. Retrieve an employee from enemy territory and escape. Return to the Guild.
+i:7-8. Earn at least 20gp in 1 day.
+i:9-10. Recruit 1 new employee and earn at least 5gp from them in 1 day.
+}
+{
+d:d10 Prostitution Missions: Medium
+i:1-2. Earn at least 250gp in 1 day.
+i:3-4. Recruit at least 10 employees and earn at least 100gp from them in 1 day.
+i:5-6. Retreive at least 3 employees from enemy territory and escape.
+i:7-8. Discovering the cure for an outbreak of disease among your employees{.diseases}.
+i:9-10. Set up a base of operation and maintain it for at least 30 days.
+}
+{
+d:d10 Prostitution Missions: Hard
+i:1-2. Maintain 3 bases of operation for at least 3 months.
+i:3-4. Earn at least 1000gp in 1 day.
+i:5-6. Recruit at least 10 employees and earn at least 500gp from them in 1 day.
+i:7-8. Acquire new employees in enemy territory and return them to your base of operations without being seen.
+i:9-10. Discover who has been murdering your employees.
+}
+[
+d:PROTECTION
+]
+{
+d:d10 Protection Missions: Easy
+i:1-2. Intimidate a target into buying protection worth at least 10gp a week.
+i:3-4. Intimidate a target into buying protection worth at least 20gp a week.
+i:5-6. Retreive stolen weekly earnings from enemy. Return earnings to the Guild.
+i:7-8. Re-intimidate a non-paying customer.
+i:9-10. Succesfully assault a non-paying customer without getting caught.
+}
+{
+d:d10 Protection Missions: Medium
+i:1-2. Intimidate a target into buying protection worth at least 250gp a week.
+i:3-4. Negotiate an increase in a target's weekly payoff by 25%.
+i:5-6. Destroy a rival's racket and escape.
+i:7-8. Negotiate an increase in a target's weekly payoff by 50%, but decrease the payments to twice a month.
+i:9-10. Set physical or magical traps to destroy a non-paying customer's home or business.
+}
+{
+d:d10 Protection Missions: Hard
+i:1-2. Intimidate a target into buying protection worth at least 500gp a week.
+i:3-4. Intimidate a political target into buying protection.
+i:5-6. Negotiate an increase in a target's weekly payoff by 75%.
+i:7-8. Renegotiate an increase in at least 10 target's weekly payoffs by 50%.
+i:9-10. Destroy a rival's businesses and remove them from doing business ever again.
+}
+[
+d:SLAVERY
+]
+{
+d:d10 Slavery Missions: Easy
+i:1-2. Sell 1 slave worth at least 100gp.
+i:3-4. Sell 1 slave worth at least 200gp.
+i:5-6. Move 1 slave through enemy territory and return to the Guild with the slave unharmed. 7-8. Intimidate 10 slaves.
+i:9-10. Acquire 1 new slave and sell it within 48 hours for at least 100gp.
+}
+{
+d:d10 Slavery Missions: Medium
+i:1-2. Oversee a successful sale of at least 10 slaves worth at least 1000gp.
+i:3-4. Ambush a rival's goods and steal at least 3 slaves and escape.
+i:5-6. Put down a minor revolt among the slaves. 25% rise up.
+i:7-8. Secure a new source of acquiring slaves worth at least 500 gp/month.
+i:9-10. Sell at least ten slaves and intimidate the target into giving at least 1 slave back.
+}
+{
+d:d10 Slavery Missions: Hard
+i:1-2. Establish a secure base of operations doing at least 1000gp worth of trade a month.
+i:3-4. Destroy a rival's operations and escape with as many goods as possible.
+i:5-6. Put down a major revolt among the slaves. 75% rise up.
+i:7-8. Oversee the transport, through enemy territory; and sale of at least 10 slaves for a profit of at least 1000gp.
+i:9-10. Sell 100 slaves in one month and make a profit of at least 10000gp.
+}
+[
+d:SMUGGLING
+]
+{
+d:d10 Smuggling Missions: Easy
+i:1-2. Move goods worth at least 10gp.
+i:3-4. Move goods worth at least 20gp.
+i:5-6. Move goods through a low physical-security checkpoint.
+i:7-8. Pick up goods worth at least 20gp in enemy territory and successfully return to the Guild.
+i:9-10. Move live cargo without being seen and return to the Guild.
+}
+{
+d:d10 Smuggling Missions: Medium
+i:1-2. Move goods worth at least 500gp.
+i:3-4. Move goods through a high physical-security checkpoint.
+i:5-6. Move goods through enemy territory at pick up goods worth at least 500gp and return to the Guild.
+i:7-8. Move goods worth at least 250gp through moving magical surveillance.
+i:9-10. Move goods worth at least 250gp via air.
+}
+{
+d:d10 Smuggling Missions: Hard
+i:1-2. Move goods worth at least 1000gp.
+i:3-4. Move goods worth at least 500gp through magical-security checkpoint.
+i:5-6. Move goods worth at least 500gp inside a political or royal shipment.
+i:7-8. Move goods worth at least 500gp via planar teleportation.
+i:9-10. Move live cargo through enemy territory and return to the Guild.
+}
+[
+d:STREET CRIMES: PICKPOCKETING AND MUGGING
+]
+{
+d:d10 Street Missions: Easy
+i:1-2. Pickpocket 10gp or equivalent goods.
+i:3-4. Pickpocket 20gp or equivalent goods.
+i:5-6. Pickpocket an official paper.
+i:7-8. Successfully mug 3 targets in 1 day.
+i:9-10. Mug a target for at least 30gp or equivalent goods.
+}
+{
+d:d10 Street Missions: Medium
+i:1-2. Pickpocket 250gp or equivalent goods.
+i:3-4. Mug a group of targets for 100gp or equivalent goods.
+i:5-6. Mug a political target.
+i:7-8. Pickpocket 10 targets in 1 day.
+i:9-10. Pickpocket a magic item.
+}
+{
+d:d10 Street Missions: Hard
+i:1-2. Pickpocket a royal target of some valuable, personal or otherwise.
+i:3-4. Mug a political target of 500gp or equivalent goods and escape.
+i:5-6. Pickpocket 3 magic items in 1 day.
+i:7-8. Mug a Guild Leader for at least 500gp or equivalent goods.
+i:9-10. Pickpocket an artefact.
+}

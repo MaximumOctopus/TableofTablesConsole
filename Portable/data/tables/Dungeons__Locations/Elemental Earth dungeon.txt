@@ -1,0 +1,90 @@
+{
+d:d6 This place is a...
+i:Palace built by an earth elemental lord.
+i:Temple dedicated to an earth god.
+i:Stronghold built by beings of elemental earth.
+i:Series of unstable tunnels deep below ground.
+i:Labyrinth of solid rock.
+i:Mining operation gone wrong.
+}
+{
+d:d6 Floor/terrain: You frequently step on...
+i:Slippery dust.
+i:Boot-sucking mud.
+i:Loose rubble.
+i:Smooth gravel.
+i:Jagged rocks.
+i:Sharp metal spikes.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Stone monolith.
+i:Altar to an earth god
+i:Statue of a figure made of stone or iron.
+i:Natural bridge of stone.
+i:Series of stone columns.
+i:Deep chasm.
+}
+{
+d:d6 Minor feature: You notice a/an...
+i:Small stone statue.
+i:Icon of an earth god.
+i:Stalactite.
+i:Brief tremor.
+i:Distant rumbling sound.
+i:Swirl of dust.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Ghost of an unlucky treasure hunter.
+i:Half-mad elemental cultist.
+i:Dwarvish prospector.
+i:Brooding monk.
+i:Dark elf wanderer.
+i:Inventor of a digging contraption.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Giant mole.
+i:Swarm of rats.
+i:Giant centipede.
+i:Giant ant.
+i:Giant earthworm.
+i:Sludgy ooze.
+}
+{
+d:d6 Secondary Monster: You come upon a/an…
+i:Earth elemental.
+i:Rust monster.
+i:Xorn.
+i:Galeb duhr.
+i:Zombie.
+i:Otyugh.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a/an…
+i:Dao prince.
+i:Stone giant.
+i:Ancient dragon.
+i:Powerful geomancer.
+i:Lich.
+i:Grick alpha.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Pits of stinking mud.
+i:Crushing walls trap.
+i:Kissing maidens trap.
+i:Spears-from-the-floor trap.
+i:Crumbling bridges and arches.
+i:Collapsing ceilings.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find a/an...
+i:Notorious necromancer’s spellbook.
+i:Orb of elemental power.
+i:Storied vein of precious ore (gold, platinum, adamantine, or mithral).
+i:Diamond of dwarvish legend.
+i:Hammer wielded by a godlike warrior.
+i:Captive demon.
+}

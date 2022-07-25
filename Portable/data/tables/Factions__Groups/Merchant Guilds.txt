@@ -1,0 +1,161 @@
+{
+d:d8 The guild is controlled by...
+i:A no-nonsense kingpin who despises bureaucracy.
+i:A small and pinched-face gnome with a sinister desire for money{.gnomes}.
+i:An inexperienced young noble with a petulant need for a full purse{.nobles,.noble houses}.
+i:A council of the heads of local crafting guilds.
+i:An argumentative mass democracy of all the city's merchants.
+i:A longstanding and ancient charter that applies to all merchants, and the militia acting as the charter's executors.
+i:The most wealthy merchant in the city.
+i:A city-appointed monk, who has sworn away worldly wealth.
+}
+{
+d:d8 This guild's illicit affairs comprise...
+i:Literally nothing, they are paragons of upright morality.
+i:Staying well within the law, if slipping on a few taxes due to ignorance, of course.
+i:Knowing how to play the political game, they garner a few indirect favors from officials.
+i:Guild leaders having dollar signs for eyes, and setting advantageous prices in the city.
+i:Price floors becoming commonplace, and officials are often bribed in order to overlook some minor illicit activities.
+i:A variety of upper-level bribes, some minor scams, and the dismay of local priests.
+i:Rampant corruption, with large-scale bribery of various city officials and contracts with thieves’ guild and occasionally an assassin{.assassins' guilds,.thieves}.
+i:Pacts with devils, large-scale counterfeiting, and treasonous activities are a normal Tuesday morning for this guild.
+}
+{
+d:d8 This guild's status and control is...
+i:Poor; though once great, this guild has fallen on hard times and is struggling to maintain its power.
+i:Brand new, and frantically recruiting members in order to snatch power.
+i:Exponentially rising, a recent boon has granted them great profits.
+i:Slowing, a rising competitor is slowly cutting into profits.
+i:Absolute, they have complete dominance in their field.
+i:Spotty, depending on the will of the coin and the market this guild may be drinking Elven wine or rotten grog.
+i:Unquestioned, they exert complete dominance over all other guilds in the area.
+i:Questionable, though they claim to have control, some operators have undermined it.
+}
+{
+d:d8 This guild's headquarters is...
+i:The leader's or leaders' personal residence, a large manor.
+i:The dusty basement of the city's capital hall.
+i:A single, thin, and very tall townhouse that leans slightly into the street.
+i:A moored ship, especially curious in landlocked cities{.ships}.
+i:An open-air pavilion centered in the city's bazaar.
+i:Doubling as a large and prestigious bank.
+i:An opulent demiplane hidden in a shady back-alley.
+i:Jointly shared with all the guilds of the city, and the thieves guild lurks in the sewers below{.thieves}.
+}
+{
+d:d8 Minor Quest: The guild has been having some trouble with...
+i:A merchant was recently shaken down by a lowly thug, send a message.
+i:Gold stores, perhaps you could make a donation of 500 gold pieces?
+i:Transporting a semi-rare magical item to a nearby branch.
+i:A caravan that doesn't feel comfortable going through a newly discovered path in the nearby woods, escort them.
+i:A city militia member getting nosy.
+i:A crafting guild hesitant to sign up for the merchant guild's special loyalty program.
+i:A rat infestation{.rats}.
+i:A rat infestation (that actually is a rift to the Plane of Rats or similar filthy location){.rats}.
+}
+{
+d:d8 Standard Quest: The guild needs you to handle...
+i:A caravan gone missing in a nearby region.
+i:A rising thieves’ guild that seems uncooperative{.thieves}.
+i:A city official hellbent on stamping out capitalism.
+i:A competing Merchant guild that has begun to outpace the guild.
+i:A recent trade blockade—you need to resolve the tensions or clear the blockade.
+i:Rumors of aberrations in the night that have driven away trade.
+i:A Board Member who has decided to go rogue and has stolen from the coffers{.rogue missions}.
+i:A very large rat infestation (the rift has become a permanent Gate to the Plane of Rats or similar filthy location){.rats}.
+}
+{
+d:d8 Major Quest: A matter of great import, the guild is faced with...
+i:A mercenary army that has laid siege to the city!
+i:Mass corruption from the inside, half the board is revealed to be mind flayers.
+i:A massive religious revival that causes the entire population to scorn material pursuits and cut deep into the bottom line.
+i:A mummy king who has taken a caravan with most of the guild coffer's investments hostage.
+i:Political revolution that threatens the guild coffers with looting, protect our stores but civilians cannot be harmed.
+i:An investigation from the King's Spymaster into the extent of the guild's illicit activities.
+i:A planar being has supplanted the guild master, who is imprisoned in a planar cage.
+i:Waves of rats that threaten the entire guildhall's basement (the rift has become a gigantic faucet of rats) where an Avatar of the God of Rats has taken up residence{.rats}.
+}
+[
+d:TRADING COMPANY
+]
+{
+d:d6 This trading company's specific specialty or purpose is...
+i:Long-range sea trade, exploration, and transport.
+i:Long-range aerial trade; accomplished with airships, aarakocra messengers, and the occasional roc or dragon{.dragons}.
+i:The hunting and trapping of exotic monsters and animals.
+i:Acting as a puppet agency for a local kingdom manipulating global trade.
+i:Securing and creating long-range caravans, and the slow growth of roads (and maybe even railroads).
+i:Exploring and exploiting newly discovered lands or planes.
+}
+{
+d:d8 This trading company is controlled by...
+i:A planar being disguised as a wealthy merchant (refer to illicit activities roll for planar source, low is celestial, middle is neutral, high is fiendish).
+i:A joint council of Masters of Coin from all civilized kingdoms of the world.
+i:A savant goblin who has achieved immortality by divine blessing{.goblins,.goblin gangs}.
+i:A grizzled ex-adventurer.
+i:A council of investors.
+i:An argumentative mass democracy of all the company's merchants.
+i:A massively wealthy caravan master who found a lost city of gold.
+i:A large and grotesque slave master.
+}
+[
+d:SHOPKEEPER
+]
+{
+d:d4 The shopkeeper is...
+i:Bored.
+i:Eager to help.
+i:Visibly perturbed.
+i:Nervously looking about.
+}
+{
+d:d4 The shopkeeper seeks someone to...
+i:Purchase faulty goods.
+i:Purchase a large shipment of goods.
+i:Listen to some whining.
+i:Share some wine and chat{.wines}.
+}
+[
+d:MERCHANT
+]
+{
+d:d6 The merchant is...
+i:A member of a trading clan.
+i:A minor lord or lady.
+i:An enterprising trader.
+i:A member of a prominent family.
+i:Of common birth.
+i:The representative of a more powerful merchant.
+}
+{
+d:d4 The merchant wears...
+i:An unpleasant grin.
+i:An arrogant smirk.
+i:Too much perfume.
+i:A baggy shirt to cover a fat belly.
+}
+{
+d:d4 The merchant seeks someone to...
+i:Obtain a mysterious artifact.
+i:Negotiate a trade contract.
+i:Sabotage a rival merchant.
+i:Have a good time with.
+}
+{
+d:d6 The merchant carries...
+i:A family heirloom.
+i:Several inventories and invoices.
+i:Some very valuable jewels.
+i:A compromising love letter.
+i:A small knife.
+i:A vial of healing potion, just in case{.potions}.
+}
+{
+d:d6 Currency: Besides coin, the merchant will trade in...
+i:Gems and jewelry{gemstones}.
+i:Gold and silver bullion.
+i:Water, provisions, and other goods.
+i:Shells, beads, and trinkets.
+i:Favors.
+i:Scandalous information.
+}

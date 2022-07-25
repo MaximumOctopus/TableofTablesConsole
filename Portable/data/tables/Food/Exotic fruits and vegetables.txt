@@ -1,0 +1,270 @@
+{
+d:d6 Size:
+i:Tiny ? this fruit could be easily flicked away
+i:Small ? Two or three of these fruit can be held in one hand
+i:Normal ? this fruit can be held but not concealed in one hand
+i:Big ? this fruit requires two hands to be lifted
+i:Gigantic ? a child could easily climb into this fruit
+i:Enormous ? this fruit is man-sized or larger
+}
+{
+d:d8 Grows:
+i:In the upper reaches of the tree tops
+i:In the lower reaches of the tree tops
+i:Hanging from branches below the treetops
+i:Along the trunk
+i:At the base of the tree
+i:As part of the roots
+i:In a bush
+i:On a vine on the ground
+}
+{
+d:d20 Shape:
+i:Spheroid
+i:Oblong
+i:Spheroid and hastate
+i:Spheroid and flat
+i:Oblong and flat
+i:Long and thick
+i:Oblong and hastate
+i:Flagon-shaped
+i:Star-shaped
+i:Rhomboid
+i:Pyriform
+i:Composed of many smaller spheres
+i:Clavate
+i:Composed of several larger spheres
+i:Pod-shaped
+i:Long and thin
+i:Hook-shaped
+i:Twisted
+i:Cone-shaped
+i:Blocky
+}
+{
+d:d4 Skin Colour:
+i:very light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:very dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+}
+{
+d:d20 Skin Texture:
+i:Smooth and matte
+i:Smooth and shiny
+i:Light, thin, and short fur
+i:Short, thick fur
+i:Long, thin fur
+i:Long, thick fur
+i:Sticky
+i:Oily
+i:Barky
+i:Lined
+i:Spiky
+i:Silky
+i:Crackled
+i:Saggy
+i:Rubbery
+i:Abrasive
+i:Bumpy
+i:Cratery
+i:Foamy
+i:Metallic
+}
+{
+d:d10 Skin Pattern:
+i:Spots
+i:Stripes
+i:Spirals
+i:Waves
+i:Crackles
+i:Blots
+i:Fractals
+i:Streaks
+i:Meanders
+i:None
+}
+{
+d:d8 Skin Pattern Colour:
+i:very light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:very dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+}
+{
+d:d6 Skin Thickness:
+i:Barely Existent
+i:Noticeable
+i:Like two or three sheets of paper
+i:Thick as cardboard
+i:Thick as a finger
+i:Thick as an arm
+}
+{
+d:d8 Flesh Colour:
+i:very light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:very dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+}
+{
+d:d20 Consistency:
+i:Rock hard
+i:Gooey
+i:Almost liquid
+i:Soft
+i:Fleshy
+i:Very firm
+i:Pasty
+i:Gritty
+i:Fluffy
+i:Buttery
+i:Chewy
+i:Stringy
+i:Layered
+i:Segmented
+i:Bubbly
+i:Starchy
+i:Shroomy
+i:Gelatinous
+i:Crunchy
+i:Crystallized
+}
+{
+d:d6 Taste Base:
+i:Sweet
+i:Salty
+i:Spicy
+i:Sour
+i:Bitter
+i:Umami
+}
+{
+d:d20 Taste Addition:
+i:Refreshing
+i:Sparkling
+i:Heavy
+i:Creamy
+i:Sharp
+i:Dusty
+i:Burnt
+i:Earthy
+i:Fermented
+i:Greasy
+i:Malty
+i:Nutty
+i:Roasted
+i:Smoked
+i:Sweet
+i:Salty
+i:Sour
+i:Spicy
+i:Bitter
+i:Umami
+}
+{
+d:d8 Seeds:
+i:One big core
+i:Several small seeds in the core
+i:Small seeds throughout the flesh
+i:Sticky pollen
+i:Small seeds on the outside
+i:Underneath the skin
+i:On the stem
+i:None
+}
+{
+d:d8 Seed Colour:
+i:very light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:light (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:very dark (d10): 1. Grey; 2. Pink; 3. Red; 4. Brown; 5. Orange; 6. Yellow; 7. Green; 8. Cyan; 9. Blue; 10. Violet
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+i:Different shade of Skin Colour.
+}
+{
+d:d10 Climate:
+i:Well below freezing
+i:Extremely Cold
+i:Cold
+i:Cool
+i:Fresh
+i:Warm
+i:Very warm
+i:Hot
+i:Prohibitively hot
+i:Volcanically hot
+}
+{
+d:d60 Special Detail:
+i:The skin pattern is fluorescent
+i:The flesh is fluorescent
+i:The seeds are fluorescent
+i:Eating it numbs the mouth
+i:Several of them appear on a vine
+i:It can be used as a firestarter
+i:It rapidly shrivels up in the sunlight
+i:It cools down the area around it
+i:It emits a low hum
+i:The colours and patterns on its skin seem to be shifting
+i:It is abnormally nutritional
+i:It has some form of basic sentience
+i:It floats in the air
+i:It is extremely difficult to open
+i:It is extremely difficult to harvest
+i:It spins constantly
+i:It is covered in a strange glaze
+i:It is extremely rare and prohibitively expensive
+i:It is a staple product in alchemy
+i:It has powerful healing properties
+i:It tastes different with each bite
+i:It tastes different with each meal
+i:It tastes different to each person
+i:It cannot be grown in the wild
+i:It grows under water
+i:It is a sacred food{.food}
+i:It is the sole/primary food source of the locals{.food}
+i:It is charged with electricity
+i:It comes in pairs of two
+i:It comes in groups of three
+i:It never spoils or takes a very, very long time to spoil
+i:It is highly poisonous if unprepared
+i:It is a powerful hallucinogen
+i:It is a famous for being the substance of an alcoholic beverage
+i:It absorbs their air around it
+i:It cannot be eaten by mortals
+i:It cannot be eaten by immortals
+i:It's flesh is identical to animal flesh
+i:It's a significant explosive hazard
+i:It provides temporary powers
+i:It provides permanent powers
+i:It can be used to induce a century-long sleep
+i:It is a very effective painkiller
+i:It is loaded with arcane energy
+i:It requires gigantic amounts of water
+i:It is rumoured to have many mystical properties, but is actually mundane
+i:It is or can be distilled into a potency agent
+i:It has a very strong stench
+i:It is invisible to all but certain people
+i:It is invisible to certain people
+i:It is treasured by faeries, dryads or other magical creatures
+i:It only grows deep underground
+i:It grows in the clouds
+i:It grows on sentient trees
+i:It can be made into a very rich and sought-after colour
+i:Eating it is forbidden
+i:Eating it is painful
+i:It takes several years or decades to ripen
+i:It is in some supernatural way ?pure?
+i:It can alter your personality
+}

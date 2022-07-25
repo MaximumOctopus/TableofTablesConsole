@@ -1,0 +1,158 @@
+{
+d:d12 The guild’s symbol is...
+i:A skull.
+i:An eye.
+i:A flame.
+i:A dagger.
+i:A scythe.
+i:An arrow.
+i:A fish.
+i:A crow.
+i:A rat{.rats}.
+i:A scorpion.
+i:A spider{.spiders}.
+i:A snake.
+}
+{
+d:d20 The guild’s preferred method of execution is...
+i:Ingested poison or allergic reaction.
+i:Exposure to deadly (but not highly contagious) disease{.diseases}.
+i:Contact poison applied to a weapon{.legendary weapons}.
+i:Arrow/bolt from range.
+i:Knife in the chest or back.
+i:Multiple stab wounds.
+i:Slitting throats.
+i:Gutting or eviscerating.
+i:Flaying or scalping.
+i:Beheading.
+i:Strangulation.
+i:Hanging.
+i:Burying alive.
+i:Drowning.
+i:Boiling alive.
+i:Throwing off a roof.
+i:Acid (pouring or submersion).
+i:Fiery explosion.
+i:Burning alive.
+i:Feeding to animals.
+}
+{
+d:d12 Guildmembers typically arm themselves with...
+i:Poisoned daggers and shortswords.
+i:Throwing knives.
+i:Over-sized daggers.
+i:Serrated daggers.
+i:Daggers and crossbows.
+i:Axes and knives.
+i:Bows and arrows.
+i:Shortswords and crossbows.
+i:Sickles and scythes.
+i:Garrotes and daggers.
+i:Exotic blades and blowguns.
+i:Bolas and poisoned projectiles.
+}
+{
+d:d6 Guildmembers typically operate...
+i:Alone.
+i:In pairs.
+i:In small groups.
+i:By infiltrating an organization.
+i:By impersonating a specific individual.
+i:In plain sight.
+}
+{
+d:d6 Guildmembers typically know...
+i:Very few other guildmembers.
+i:Several other guildmembers.
+i:The details of the guild’s organization.
+i:Nothing about the guild’s leadership.
+i:The names of the guild’s leaders, though they’ve never any of them.
+i:One of the guild’s leading members and no other guildmembers.
+}
+{
+d:d12 The guild’s leader is...
+i:A dangerous megalomaniac.
+i:A charismatic demagogue.
+i:A mysterious foreigner.
+i:A talented thief{.thieves}.
+i:A well-known public figure.
+i:A ruthless killer.
+i:A femme fatale.
+i:A charming rogue{.rogue missions}.
+i:A dashing swashbuckler.
+i:A brutish thug.
+i:A religious fanatic.
+i:A veteran soldier.
+}
+{
+d:d6 The guild’s goals include (leadership and rank-and-file members could have different goals)...
+i:Expanding the client base.
+i:Corrupting and influencing the politics of the city or region.
+i:Eliminating a rival assassins’ guild in the same city or region{.assassins' guilds}.
+i:Eliminating a rival assassins’ guild in a foreign city or region{.assassins' guilds}.
+i:Intimidating the masses.
+i:Instigating rebellion among the masses.
+}
+{
+d:d8 The guild refuses to take contracts to kill...
+i:Women.
+i:Young children.
+i:Nobles and prominent citizens{.nobles,.noble houses}.
+i:Priests and monks.
+i:Peasants and poor folk.
+i:Foreigners and travelers.
+i:Members of the client’s family.
+i:Fellow criminals.
+}
+{
+d:d8 Guildmembers typically strike with...
+i:Hit-and-run tactics.
+i:Ambush tactics.
+i:Diversionary tactics.
+i:A precisely planned attack strategy.
+i:A well-planned escape strategy.
+i:The element of surprise.
+i:Announcing their presence.
+i:No thought of escape.
+}
+{
+d:d8 Guildmembers typically plan their attacks for...
+i:Just after sunrise.
+i:High noon.
+i:Just after sunset.
+i:Well into the night.
+i:The toll of midnight.
+i:After midnight.
+i:The wee hours of the morning.
+i:Just before sunrise.
+}
+{
+d:d12 The guild’s headquarters is hidden in or near...
+i:The residence of the leader or a senior guildmember.
+i:An artisan's shop or guildhall{.artisans,.shops}.
+i:A merchant's office{.merchant caravans,.merchant guilds}.
+i:A tavern{.tavern goings-on}.
+i:A brothel{.brothels}.
+i:A warehouse or shipyard.
+i:A temple complex{.temples}.
+i:The city's sewers.
+i:The town hall.
+i:An abandoned guildhall or warehouse.
+i:An armory or barracks.
+i:The residence of a wealthy individual or prominent citizen.
+}
+{
+d:d12 The guild is feared or respected by...
+i:Fishermen and sailors{.fishermen,.sailors}.
+i:Beggars and orphans.
+i:Merchants and moneychangers{.merchant caravans,.merchant guilds}.
+i:Nobles and rulers{.nobles,.noble houses}.
+i:Politicians and magistrates.
+i:Guards and sheriffs.
+i:Soldiers and warriors{.soldiers}.
+i:Thieves and criminals{.thieves}.
+i:Servants and slaves.
+i:Priests and sages.
+i:Women and children.
+i:Other assassins{.assassins' guilds}.
+}

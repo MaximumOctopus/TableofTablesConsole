@@ -1,0 +1,84 @@
+{
+d:d8 Tonight, among desert nomads, we dine on...
+i:Fried.
+i:Roasted.
+i:Sun-cured.
+i:Smoked.
+i:Sun-baked.
+i:Toasted.
+i:Seared.
+i:Salted.
+}
+{
+d:d12 ...
+i:Goat.
+i:Mutton.
+i:Camel.
+i:Horse.
+i:Hare.
+i:Antelope.
+i:Lizard.
+i:Snake.
+i:Rattlesnake.
+i:Buzzard.
+i:Toad.
+i:Beetles.
+}
+{
+d:d10 ...with...
+i:Chickpeas.
+i:White beans.
+i:Red beans.
+i:Black beans.
+i:Lentils.
+i:Corn mash.
+i:Couscous.
+i:Crisp bread.
+i:Flat bread.
+i:Dry crackers.
+}
+{
+d:d12 ...and...
+i:Wild mushrooms.
+i:Almond butter.
+i:Cashew butter.
+i:Goat cheese.
+i:Camel's milk cheese.
+i:Onions.
+i:Sweet peppers.
+i:Hot peppers.
+i:Lemons.
+i:Oranges.
+i:Green olives.
+i:Red olives.
+}
+{
+d:d12 On the side, there are some...
+i:Almonds.
+i:Cashews.
+i:Pistachios.
+i:Pine nuts.
+i:Sunflower seeds.
+i:Melon seeds.
+i:Dried figs.
+i:Dried berries.
+i:Raisins.
+i:Prunes.
+i:Sun-dried tomatoes.
+i:Dried root vegetables.
+}
+{
+d:d12 To wash it down, we have some...
+i:Skunky beer.
+i:Cornmeal ale.
+i:Golden ale.
+i:Oatmeal stout.
+i:Honeyed mead.
+i:Honeyed wine{.wines}.
+i:Sour wine{.wines}.
+i:Strong wine{.wines}.
+i:Tea.
+i:Water.
+i:Fermented mare's milk.
+i:Fermented camel's milk.
+}

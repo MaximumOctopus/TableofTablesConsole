@@ -1,0 +1,90 @@
+{
+d:d6 Location: This cavern is located…
+i:Within the territory of a subterranean hobgoblin kingdom.
+i:Deep an elvish palace.
+i:Far below an ancient elvish ruin.
+i:Under a range of misty mountains.
+i:Far below a thriving city.
+i:Deeper than any mortal has been known to go.
+}
+{
+d:d6 Major feature: You see a/an...
+i:Dark underground pond.
+i:Series of beautiful, natural columns.
+i:Pair of large stalactites that resemble fangs.
+i:Magically-crafted colonnade.
+i:Dense, swirling fog..
+i:Set of stone doors in an otherwise natural cavern.
+}
+{
+d:d6 Minor feature: You see a/an...
+i:Constant drip of water.
+i:Signpost warning all to turn back.
+i:Elvish writing scrawled on the cave wall.
+i:Pile of recently cleaned bones.
+i:Ring of brightly-colored mushrooms.
+i:Shimmering mist.
+}
+{
+d:d6 Light source: This cavern is lit by...
+i:Several floating, dim blue flames.
+i:Several heatless, white torches.
+i:Bright, green glowing fungi.
+i:Purplish-red phosphorescent mold.
+i:Shafts of light steered by shiny mirrors.
+i:Nothing at all; the cavern is pitch black.
+}
+{
+d:d6 NPC: You meet a/an…
+i:Hobgoblin soldier.
+i:Dark elf ranger.
+i:Gnomish explorer.
+i:Cruel satyr.
+i:Angry ghost.
+i:Escaped slave.
+}
+{
+d:d6 Beast: You meet a/an…
+i:Hook horror.
+i:Swarm of rats or worms.
+i:Phase spider.
+i:Giant centipede.
+i:Swarm of bats or moths.
+i:Talking beast (d6): 1. bat; 2. mole; 3. lizard; 4. rat; 5. spider; 6. giant toad.
+}
+{
+d:d6 Secondary Monster: You come upon a/an…
+i:Bugbear thug.
+i:Cyclops guardian.
+i:Displacer beast.
+i:Hungry drider.
+i:Playful pseudodragon.
+i:Armored battle-wight.
+}
+{
+d:d6 Primary monster: This place is currently ruled by a…
+i:Aberrant creature (d6): 1. aboleth; 2. beholder; 3. grick; 4. mind flayer; 5. alhoon (lich); 6. flumph.
+i:Night hag.
+i:Baelnorn (lich).
+i:Fomorian torturer.
+i:Hobgoblin commander.
+i:Ancient dracolich.
+}
+{
+d:d6 Traps/hazard: You must survive the…
+i:Curse of howling madness.
+i:Curse of nightmarish visions.
+i:Improvised, rolling boulder trap.
+i:Unstable ceilings.
+i:Slippery, mold-covered floors.
+i:Intermittent floods.
+}
+{
+d:d6 Reward/treasure: If you survive, you may find the...
+i:Sword of an ancient elvish king.
+i:Largest diamond in this or any other world.
+i:Spellbook of an eccentric illusionist.
+i:Captive elvish princess.
+i:Portal to another realm.
+i:Resting place of a legendary elvish hero.
+}

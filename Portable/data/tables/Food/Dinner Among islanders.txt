@@ -1,0 +1,90 @@
+{
+d:d10 Tonight, among islanders, we dine on...
+i:Stewed.
+i:Breaded.
+i:Fried.
+i:Battered.
+i:Baked.
+i:Brined.
+i:Seared.
+i:Peppered.
+i:Salted.
+i:Pickled.
+}
+{
+d:d20 ...
+i:Clams.
+i:Crab.
+i:Anchovies.
+i:Scallops.
+i:Mussels.
+i:Sea bass.
+i:Skate.
+i:Cuttlefish.
+i:Flounder.
+i:Grouper.
+i:Marlin.
+i:Shrimp.
+i:Sardines.
+i:Tuna.
+i:Snapper.
+i:Lobster.
+i:Monkfish.
+i:Shark.
+i:Seabird.
+i:Pork.
+}
+{
+d:d10 ...with...
+i:Wild rice.
+i:White rice.
+i:Brown rice.
+i:Yams.
+i:Lentils.
+i:Red beans.
+i:Black beans.
+i:White beans.
+i:Plantains.
+i:Coconut.
+}
+{
+d:d10 ...and...
+i:Carrots.
+i:Mixed nuts.
+i:Sweet cabbage.
+i:Leafy greens.
+i:Dill weed.
+i:Lemongrass.
+i:Peas.
+i:Parsley.
+i:Green onions.
+i:Yellow onions.
+}
+{
+d:d12 On the side, there is some...
+i:Coconut cake.
+i:Pineapple cake.
+i:Banana bread.
+i:Honeydew.
+i:Pineapple.
+i:Papaya.
+i:Cantaloupe.
+i:Starfruit.
+i:Bacon.
+i:Fried egg.
+i:Ham.
+i:Turtle soup.
+}
+{
+d:d10 To wash it down, we have some...
+i:Sun tea.
+i:Sweet tea.
+i:Pale ale.
+i:Skunky ale.
+i:Strong wine{.wines}.
+i:Sweet wine{.wines}.
+i:Dry rum.
+i:Spiced rum.
+i:Rum punch.
+i:Coconut water.
+}

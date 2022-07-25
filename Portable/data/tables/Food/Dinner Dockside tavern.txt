@@ -1,0 +1,88 @@
+{
+d:d10 Tonight, at a dockside tavern, we dine on...
+i:Stewed.
+i:Breaded.
+i:Fried.
+i:Battered.
+i:Baked.
+i:Brined.
+i:Seared.
+i:Peppered.
+i:Salted.
+i:Pickled.
+}
+{
+d:d20 ...
+i:Clams.
+i:Crab.
+i:Herring.
+i:Lobster.
+i:Mussels.
+i:Oysters.
+i:Salmon.
+i:Smelt.
+i:Haddock.
+i:Mackerel.
+i:Squid.
+i:Shrimp.
+i:Prawns.
+i:Tuna.
+i:Halibut.
+i:Cod.
+i:Sea bass.
+i:Goose.
+i:Chicken.
+i:Mutton.
+}
+{
+d:d10 ...with...
+i:Golden potatoes.
+i:Red potatoes.
+i:Beets.
+i:Leeks.
+i:Lentils.
+i:Red beans.
+i:Black beans.
+i:Turnip mash.
+i:Diced turnips.
+i:Wild rice.
+}
+{
+d:d12 ...and...
+i:Carrots.
+i:Red cabbage.
+i:Green cabbage.
+i:Purple cabbage.
+i:Dill weed.
+i:Lemongrass.
+i:Lemon wedges.
+i:Parsley.
+i:Radishes.
+i:Peas.
+i:Green onions.
+i:Yellow onions.
+}
+{
+d:d8 On the side, there is some...
+i:Sourdough bread.
+i:Fresh bread.
+i:Crusty bread.
+i:Sweet bread.
+i:Sesame bread.
+i:Oat bread.
+i:Pumpernickel bread.
+i:Beer bread.
+}
+{
+d:d10 To wash it down, we have some...
+i:Bitter ale.
+i:Wheat ale.
+i:Steam beer.
+i:Porter.
+i:Mead.
+i:Sour wine{.wines}.
+i:Red wine{.wines}.
+i:Tea.
+i:Spiced rum.
+i:Dry rum.
+}
