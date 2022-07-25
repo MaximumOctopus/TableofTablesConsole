@@ -1,0 +1,10 @@
+{
+n:Anvil
+c:50 gp
+w:200 lbs
+}
+{
+n:Farm Implements
+c:1 gp
+w:1 to 3 lb.
+}

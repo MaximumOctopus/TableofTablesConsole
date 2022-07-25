@@ -1,0 +1,9 @@
+// if you add new options to this you *must* add
+// corresponding entries to:
+// alignment_traits.txt
+// ideal.txt
+{
+i:Good
+i:Neutral
+i:Evil
+}

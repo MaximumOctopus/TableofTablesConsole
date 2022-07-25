@@ -1,0 +1,80 @@
+{
+n:Chain Mail
+c:75 gp
+z:113 gp
+a:16
+s:str 13
+h:Disadvantage
+w:55 lbs
+}
+{
+n:Crested Helmet
+c:15 gp
+a:+1 (partial armor)
+s:Str 13
+w:5 lb
+}
+{
+n:Great Helmet
+c:30 gp
+a:+2 (partial armor) (Special)
+s:Str 15
+w:10 lb
+}
+{
+n:Lorica Segmentata
+c:45 gp
+a:15
+s:Str 11
+h:Disadvantage
+h:30 lb
+}
+{
+n:Gromril Armor
+c:2000 gp
+a:18
+s:Str 16
+h:Disadvantage
+w:65 lb.
+}
+{
+n:Fortress Armor
+c:2500 gp
+a:20
+s:Str 17
+h:Disadvantage; no Bonuses
+w:100 lb.
+}
+{
+n:Ring Mail
+c:30 gp
+z:45 gp
+a:14
+s:-
+h:Disadvantage
+w:40 lbs
+}
+{
+n:Splint
+c:200 gp
+z:300 gp
+a:17
+s:str 15
+h:Disadvantage
+w:60 lbs
+}
+{
+n:Full Plate
+c:1500 gp
+z:2250 gp
+a:18
+s:str 15
+h:Disadvantage
+w:65 lbs
+}
+{
+n:Plate Shoulder Guard
+c:45 gp
+a:+2 (partial armor)
+w:18 lb.
+}

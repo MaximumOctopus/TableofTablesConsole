@@ -1,0 +1,9 @@
+// if you add new options to this you *must* add
+// corresponding entries to occupation.txt
+{
+i:Lower
+i:Working
+i:Middle
+i:Noble
+i:Royal
+}

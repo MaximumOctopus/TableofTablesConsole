@@ -1,0 +1,34 @@
+{
+i:Forbidden love
+i:Susceptibility to romance
+i:Many debts
+i:Enjoyment for decadent pleasures
+i:High level of arrogance
+i:Envy for another creature's possessions or station
+i:Overpowering Greed
+i:Powerful enemy
+i:Specific phobia
+i:Cowardly behavior
+i:Shameful/scandelous history
+i:Secret crime or misdeed
+i:Possession of forbidden lore
+i:Tendency for foolhardy bravery
+i:Harshe judgement of self and others
+i:Inflexibility in thinking
+i:Suspicion of strangers
+i:Obsession with a goal
+i:Need to tell meaningless lies
+i:Competitiveness
+i:General unreliability
+i:Desire to be in charge
+i:Constant intoxication
+i:Drug addiction
+i:Missing leg
+i:Blindness
+i:Loss of hearing
+i:Missing eye
+i:Loss of hair
+i:Loss of teeth
+i:Unhappy love life
+i:Constant appetite
+}

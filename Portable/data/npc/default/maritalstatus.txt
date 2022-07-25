@@ -1,0 +1,7 @@
+{
+i:Married
+i:Single
+i:Divorced
+i:Separated
+i:Widowed
+}

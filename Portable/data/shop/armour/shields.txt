@@ -1,0 +1,53 @@
+{
+n:Buckler
+c:5 gp
+a:+1
+s:-
+h:-
+w:2 lb.
+}
+{
+n:Dreadnaught Shield
+c:2,300 gp
+a:+4
+s:Str 14
+h:-
+w:20 lb.
+}
+{
+n:Fencing Cloak
+c:Special
+a:+1
+s:-
+h:-
+w:Special lb.
+}
+{
+n:Generic Shield
+c:10 gp
+z:15 gp
+}
+{
+n:Parma
+c:10 gp
+a:+1
+s:Str 13
+h:-
+w:4 lb.
+}
+{
+n:Spring-loaded Shield
+c:25 gp
+a:0/+2
+s:-
+h:-
+w:8 lb.
+}
+{
+n:Tower Shield
+c:25 gp
+a:+3
+s:Str 16
+h:Disadvantage
+w:15 lb.
+}

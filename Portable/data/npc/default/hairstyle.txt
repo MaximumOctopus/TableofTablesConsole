@@ -1,0 +1,25 @@
+{
+i:Long
+i:Short
+i:Medium
+i:Bald
+i:Pinned up
+i:Bob
+i:Pixie
+i:Mohawk
+i:Messy
+i:Ponytails
+i:Pigtails
+i:Braided
+i:Beehive
+i:Bouffant
+i:Bun
+i:Comb over
+i:Dreadlocks
+i:French braid
+i:Liberty spikes
+i:Mullet
+i:Psychobilly Wedge
+i:Spiky
+i:Quiff
+}

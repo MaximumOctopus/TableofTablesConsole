@@ -1,0 +1,17 @@
+{
+i:Black
+i:Brown
+i:Red
+i:Blonde
+i:Grey
+i:White
+i:Blue
+i:Maroon
+i:Orange
+i:Pink
+i:Yellow
+i:Green
+i:Multicolored
+i:Very little
+i:Tranparent
+}

@@ -1,0 +1,30 @@
+{
+n:Common (Cantrip)
+c:50 gp
+z:75 gp
+}
+{
+n:Common (Level 1)
+c:100 gp
+z:150 gp
+}
+{
+n:Uncommon (Level 2)
+c:250 gp
+z:375 gp
+}
+{
+n:Uncommon (Level 3)
+c:500 gp
+z:750 gp
+}
+{
+n:Rare (Level 4)
+c:2500 gp
+z:3750 gp
+}
+{
+n:Rare (Level 5)
+c:5000 gp
+z:7500 gp
+}

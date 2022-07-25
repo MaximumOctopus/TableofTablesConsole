@@ -1,0 +1,32 @@
+{
+i:Sings, whistles, or humms quietly
+i:Talks in rhyme
+i:Talks in a singing voice
+i:Brings up religion
+i:Brings up politics
+i:Talks about games
+i:Interrupts other people
+i:Responds to questions with questions
+i:Uses a particularly low pitched voice
+i:Uses a particularly high pitched voice
+i:Slurs words
+i:Stutters
+i:Makes criticisms
+i:Brags about achievements
+i:Enunciates overly clearly
+i:Talks loudly
+i:Whispers
+i:Uses flowery speech or long words
+i:Uses the wrong word
+i:Uses colorful oaths and exlamations
+i:Makes jokes or puns
+i:Is prone to predictions of doom
+i:Fidgets
+i:Squints
+i:Stares into the distance
+i:Chews something
+i:Paces
+i:Taps fingers on nearby objects
+i:Bites on a fingernail
+i:Reaches into a pocket
+}

@@ -1,0 +1,332 @@
+{
+d:occupation_lower
+i:Beggar
+i:Wanderer
+i:Prisoner
+i:Slave
+i:Criminal
+i:Urchin
+i:Drifter
+i:Outcast
+i:Scavenger
+}
+{
+d:occupation_working
+i:Alchemist
+i:Apocathery
+i:Armorer
+i:Baker
+i:Basketweaver
+i:Blacksmith
+i:Bookbinder
+i:Bookseller
+i:Bowyer
+i:Brewer
+i:Butcher
+i:Card Maker
+i:Carpenter
+i:Cartwright
+i:Clockmaker
+i:Cobbler
+i:Constructor
+i:Cook
+i:Cooper
+i:Cutler
+i:Distiller
+i:Dyer
+i:Fletcher
+i:Gemcutter
+i:Girdler
+i:Glassblower
+i:Glazier
+i:Glover
+i:Goldsmith
+i:Hatmaker
+i:Horner
+i:Illuminator
+i:Knitter
+i:Locksmith
+i:Mason
+i:Miller
+i:Musical Instrument Maker
+i:Needlemaker
+i:Spectacle Maker
+i:Paper & Ink Maker
+i:Perfume Maker
+i:Pewterer
+i:Pottery Maker
+i:Rope/Netmaker
+i:Saddler
+i:Salt Maker
+i:Shipwright
+i:Skinner
+i:Tailor
+i:Candler
+i:Tanner
+i:Thatcher
+i:Tiler & Bricklayer
+i:Tinker
+i:Tobacconist
+i:Turner
+i:Upholder
+i:Vintner
+i:Weapon Smith
+i:Weaver
+i:Wireworker
+i:Acrobat
+i:Adventuerer
+i:Animal Breeder
+i:Animal Handler
+i:Animal Tamer
+i:Architect
+i:Artist
+i:Barber
+i:Carriage Driver
+i:Cartographer
+i:Chimney Sweep
+i:Clerk
+i:Councellor
+i:Dancer
+i:Dentist
+i:Drill Instructor
+i:Entertainer
+i:Ferrier
+i:Fisherman
+i:Forrester
+i:Fortune Teller
+i:Fruiterer
+i:Gambler
+i:Gardener
+i:Grain Farmer
+i:Grave Digger
+i:Guard
+i:Guide
+i:Herald
+i:Herder
+i:Hunter
+i:Innkeeper
+i:Interpreter
+i:Jack of all trades
+i:Juggler
+i:Landlord
+i:Launderer
+i:Logger
+i:Magician
+i:Clothier
+i:Fishmonger
+i:Fruiterer
+i:Grocier
+i:Mercer
+i:Trader
+i:Messenger
+i:Money Lender
+i:Musician
+i:Navigator
+i:Pattenmaker
+i:Plasterer
+i:Plumber
+i:Priest
+i:Prize fighter
+i:Rancher
+i:Rat Catcher
+i:Sage
+i:Woodworker
+i:Scribe
+i:Server
+i:Shearer
+i:Slaver
+i:Soldier
+i:Spy
+i:Stable Hand
+i:Tavernkeeper
+i:Teamster
+i:Trapper
+i:Tutor
+i:Gambler
+i:Veternarian
+}
+{
+d:occupation_middle
+i:Alchemist
+i:Apocathery
+i:Armorer
+i:Baker
+i:Basketweaver
+i:Blacksmith
+i:Bookbinder
+i:Bookseller
+i:Bowyer
+i:Brewer
+i:Butcher
+i:Card Maker
+i:Carpenter
+i:Cartwright
+i:Clockmaker
+i:Cobbler
+i:Constructor
+i:Cook
+i:Cooper
+i:Cutler
+i:Distiller
+i:Dyer
+i:Fletcher
+i:Gemcutter
+i:Girdler
+i:Glassblower
+i:Glazier
+i:Glover
+i:Goldsmith
+i:Hatmaker
+i:Horner
+i:Illuminator
+i:Knitter
+i:Locksmith
+i:Mason
+i:Miller
+i:Musical Instrument Maker
+i:Needlemaker
+i:Spectacle Maker
+i:Paper & Ink Maker
+i:Perfume Maker
+i:Pewterer
+i:Pottery Maker
+i:Rope/Netmaker
+i:Saddler
+i:Salt Maker
+i:Shipwright
+i:Skinner
+i:Tailor
+i:Candler
+i:Tanner
+i:Thatcher
+i:Tiler & Bricklayer
+i:Tinker
+i:Tobacconist
+i:Turner
+i:Upholder
+i:Vintner
+i:Weapon Smith
+i:Weaver
+i:Wireworker
+i:Acrobat
+i:Adventuerer
+i:Animal Breeder
+i:Animal Handler
+i:Animal Tamer
+i:Architect
+i:Artist
+i:Barber
+i:Carriage Driver
+i:Cartographer
+i:Chimney Sweep
+i:Clerk
+i:Councellor
+i:Dancer
+i:Dentist
+i:Drill Instructor
+i:Entertainer
+i:Ferrier
+i:Fisherman
+i:Forrester
+i:Fortune Teller
+i:Fruiterer
+i:Gambler
+i:Gardener
+i:Grain Farmer
+i:Grave Digger
+i:Guard
+i:Guide
+i:Herald
+i:Herder
+i:Hunter
+i:Innkeeper
+i:Interpreter
+i:Jack of all trades
+i:Juggler
+i:Landlord
+i:Launderer
+i:Logger
+i:Magician
+i:Clothier
+i:Fishmonger
+i:Fruiterer
+i:Grocier
+i:Mercer
+i:Trader
+i:Messenger
+i:Money Lender
+i:Musician
+i:Navigator
+i:Pattenmaker
+i:Plasterer
+i:Plumber
+i:Priest
+i:Prize fighter
+i:Rancher
+i:Rat Catcher
+i:Sage
+i:Woodworker
+i:Scribe
+i:Server
+i:Shearer
+i:Slaver
+i:Soldier
+i:Spy
+i:Stable Hand
+i:Tavernkeeper
+i:Teamster
+i:Trapper
+i:Tutor
+i:Gambler
+i:Veternarian
+}
+{
+d:occupation_noble
+i:Governor
+i:Courtier
+i:Noble
+i:High ranking official
+i:Wealthy merchant
+i:Academic
+i:Steward
+i:Butler
+i:Chamberlain
+i:Chancellor
+i:Chaplain
+i:Constable
+i:Money lender
+i:Physician
+i:Sheriff
+i:Tudor
+i:Knight
+}
+{
+d:occupation_royal_male
+i:King
+i:Prince
+i:Duke
+i:Marquess
+i:Count
+i:Viscount
+i:Baron
+}
+{
+d:occupation_royal_female
+i:Queen
+i:Princess
+i:Dutchess
+i:Marchioness
+i:Countess
+i:Viscountess
+i:Baroness
+}
+{
+d:occupation_royal_gender-neutral
+i:King
+i:Prince
+i:Duke
+i:Marquess
+i:Count
+i:Viscount
+i:Baron
+}

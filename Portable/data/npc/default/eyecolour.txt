@@ -1,0 +1,16 @@
+{
+i:Brown
+i:Dark brown
+i:Light brown
+i:Blue
+i:Bright blue
+i:Green
+i:Dark Green
+i:Hazel
+i:Red
+i:Grey
+i:Black
+i:Full white
+i:Unsually colored
+i:Cloudy
+}

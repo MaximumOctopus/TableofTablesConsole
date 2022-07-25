@@ -1,0 +1,12 @@
+{
+i:Athletic
+i:Thin
+i:Scrawny
+i:Extremely thin
+i:Fit
+i:Muscular
+i:Very muscular
+i:Fat
+i:Extremely fat
+i:Plump
+}

@@ -1,0 +1,173 @@
+{
+d:NAMES
+i:Veillantif
+i:Winddodger
+i:Hafaleil
+i:Starflare
+i:Fireflanel
+i:Curonious
+i:Elton
+i:Cobalt
+i:Suntaria
+i:Darktonian
+i:Althalos
+i:Alys
+i:Fendrel
+i:Ayleth
+i:Brom
+i:Anastas
+i:Hadrian
+i:Alianor
+i:Cedany
+i:Walter De Bolbec
+i:Ellyn
+i:Earl of Derwintwater
+i:Helewys
+i:Lord Montagu
+i:Malkyn
+i:Peronell
+i:Oliver
+i:Sybbyl
+i:Justice
+i:Ysmay 
+i:Clifton
+i:Thea
+i:Walter deGrey
+i:Jacquelyn
+i:Roger
+i:Amelia
+i:Joseph
+i:Geoffrey
+i:Gloriana
+i:William
+i:Bess
+i:Francis
+i:Catherine
+i:Simon
+i:Anne
+i:John
+i:Mary
+i:Arabella
+i:Edmund
+i:Elizabeth
+i:Charles
+i:Hildegard
+i:Benedict
+i:Brunhild
+i:Gregory
+i:Adelaide
+i:Peter
+i:Alice
+i:Henry
+i:Beatrix
+i:Frederick
+i:Cristiana
+i:Walter
+i:Eleanor
+i:Thomas
+i:Emeline
+i:Arthur
+i:Isabel
+i:Bryce
+i:Juliana
+i:Donald
+i:Margaret
+i:Leofrick
+i:Matilda
+i:Mirabelle
+i:Rose
+i:Helena
+i:Guinevere
+i:Isolde
+i:Maerwynn
+i:Muriel
+i:Winifred
+i:Godiva
+i:Catrain
+i:Angmar
+d:ADJECTIVES
+i:of Blackrain
+i:the Bold
+i:of Denvorn
+i:the 1st
+i:the 2nd
+i:the 3rd
+i:of Dukeville
+i:the Monk
+i:the Cute
+i:the Deadly
+i:the Amazing
+i:of Shining Armor
+i:the Mighty
+i:of Oz
+i:the Brave
+i:the Courageous
+i:the Red
+i:the Strong
+i:the Lionheart
+i:the Great
+i:the Hidden
+i:the Magical
+i:of York
+i:of Nottingham
+i:of Newark
+i:of Lincoln
+i:of London
+i:Ironfist
+d:NOUNS
+i:cat
+d:TITLES
+i:Earl
+i:Bishop
+i:Alderman
+i:Vicar
+i:Monk
+i:Archbishop
+i:Cardinal
+i:Lady
+i:Duchess
+i:Countess
+i:Lady in Waiting
+i:Maid
+i:Maiden
+i:Dame
+i:Mr.
+i:Miss
+i:Doctor
+i:Mrs.
+i:Prof.
+i:Lady
+i:Baron
+i:Viscount
+i:Lord
+i:Darklord
+i:Colonel
+i:Major
+i:Captain
+i:Admiral
+i:King
+i:Ms.
+i:Queen
+i:Beastlord
+i:Emperor
+i:Duke
+i:Viceroy
+i:Comrade
+i:Czar
+i:Sir
+i:Master
+i:Count
+i:Corporal
+i:Prince
+i:Grand Duke
+i:Baroness
+i:Hackmaster
+i:Master
+i:Princess
+i:Chancellor
+i:Commander
+d:TEMPLATES
+i:$title $name
+i:$name $adjective
+i:$title $name $adjective
+}

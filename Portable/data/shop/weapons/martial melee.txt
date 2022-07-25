@@ -1,0 +1,705 @@
+{
+n:Anchor
+c:65 gp
+m:2d6 bludgeoning or piercing
+w:50 lb.
+p:Oversized, two-handed, , special
+}
+{
+n:Arming Sword
+c:20 gp
+m:1d6 Piercing
+w:3 lb.
+p:Light, Finesse, Versatile (1d8)
+}
+{
+n:Back Sword
+c:5 gp
+m:1d6 piercing
+w:3 lb.
+}
+{
+n:Bastard Sword
+c:25 gp
+m:1d10 slashing
+w:6 lb.
+p:Heavy, Versatile (1d12)
+}
+{
+n:Battleaxe
+c:10 gp
+c:15 gp
+}
+{
+n:Bec de Corbin
+c:20 gp
+m:2d4 piercing
+w:6 lb.
+p:Heavy, reach, two-handed
+}
+{
+n:Bladed Gauntlet
+c:25 gp
+m:1d6 piercing
+w:4 lb
+p:Heavy
+}
+{
+n:Boar Spear
+c:10 gp
+m:2d6 piercing
+w:5 lb.
+p:Heavy, two-handed
+}
+{
+n:Broadsword
+c:20 gp
+m:2d4 Piercing
+w:3 lb.
+p:—
+}
+{
+n:Buster Sword
+c:50 gp
+m:3d6 slashing
+w:25 lb.
+p:Oversized, Two-Handed.
+}
+{
+n:Chain, Bladed
+c:8 gp
+m:1d6 slashing
+w:10 lb.
+p:Finesse, heavy, reach, special, two-handed
+}
+{
+n:Chain, Spiked
+c:8 gp
+m:1d6 piercing
+w:10 lb.
+p:Finesse, heavy, reach, special, two-handed
+}
+{
+n:Chain, Weighted
+c:8 gp
+m:2d6 bludgeoning
+w:10 lb.
+p:Heavy, reach, special, two-handed
+}
+{
+n:Chain-Dagger
+c:35 gp
+m:1d6 slashing
+w:5 lb.
+p:Disarming, finesse, reach , two-handed
+}
+{
+n:Chakram sword
+c:10 gp
+m:1d4 slashing
+w:2 lb.
+p:Light, Thrown (range 20/60)
+}
+{
+n:Claymore
+c:42 gp
+m:2d8 Slashing, plus 4 piercing
+w:8 lbs
+p:Heavy, two-handed
+}
+{
+n:Crescent Cleaver
+c:25 gp
+m:1d8 slashing or bludgeoning
+w:5 lb.
+p:Special
+}
+{
+n:Cutlass
+c:10 gp
+m:1d8 slashing
+w:2 lb.
+}
+{
+n:Death Scythe
+c:120 gp
+m:2d8 Slashing
+w:6 lb.
+p:Reach, Two Handed, Finesse, Slashing
+}
+{
+n:Demonic Gauntlet
+c:250gp
+m:1d8 Bludgeoning
+w:5 lb
+p:Versatile, Finesse, Two Handed
+}
+{
+n:Double Axe
+c:30 gp
+m:1d8 slashing
+w:10 lb.
+p:Heavy, two-handed, double weapon
+}
+{
+n:Double Flail
+c:20 gp
+m:1d8 bludgeoning
+w:4 lb.
+p:Two-handed
+}
+{
+n:Double Sword
+c:20 gp
+m:1d6 slashing
+w:5 lb
+p:Two-handed, double weapon
+}
+{
+n:Dueling Shield
+c:15 gp
+m:1d8 bludgeoning
+w:10 lb.
+p:Heavy, special, two-handed
+}
+{
+n:Dwarven Urgrosh
+c:50 gp
+m:1d10 slashing
+w:9 lb.
+p:Heavy, Two-handed
+}
+{
+n:Dwarver Urgrosh, var.
+c:50 gp
+m:1d10 slashing
+w:12 lb.
+p:Heavy, Two-Handed
+}
+{
+n:Elven Lance
+c:65 gp
+m:1d12 piercing
+w:4 lbs.
+p:Finesse, reach, special
+}
+{
+n:Elven Lightblade
+c:50 gp
+m:1d6 piercing
+w:1 lb.
+p:Finesse, Light, Special
+}
+{
+n:Elven Thinblade
+c:100 gp
+m:1d8 piercing
+w:1 lb.
+p:Finesse, Special.
+}
+{
+n:Epee
+c:50 gp
+m:1d2 Piercing
+w:1 lb.
+p:Special, Finesse
+}
+{
+n:Estoc
+c:25 gp
+m:1d8 piercing
+w:3 lb.
+p:Versatile (1d10), Special
+}
+{
+n:Falchion
+c:10 gp
+m:2d4 slashing
+w:3 lb.
+p:—
+}
+{
+n:Flail
+c:10 gp
+z:15 gp
+}
+{
+n:Flanged Mace
+c:25 gp
+m:1d8 Bludgeoning
+w:4 lb
+p:Versatile (1d10)
+}
+{
+n:Flindbar
+c:15 gp
+m:2d4 bludgeoning
+w:2 lb.
+p:Entangle
+}
+{
+n:Giant Axe
+c:60 gp.
+m:2d8 slashing
+w:14 lb.
+p:Oversized, two-handed
+}
+{
+n:Giant Club
+c:30gp
+m:2d10 bludgeoning
+w:18 lb.
+p:Oversized, two-handed
+}
+{
+n:Glaive
+c:20 gp
+z:30 gp
+}
+{
+n:Great Maul
+c:150 gp
+m:3d6 bludgeoning
+w:14 lb.
+p:Oversized, two-handed
+}
+{
+n:Great Scythe
+c:25 gp
+m:1d10 slashing
+w:6 lb.
+p:Heavy, reach, two-handed
+}
+{
+n:Greataxe
+c:30 gp
+z:45 gp
+}
+{
+n:Greathammer
+c:50 gp
+m:2d8 Bludgeoning
+w:20 lbs.
+p:Heavy, Two-Handed
+}
+{
+n:Greatsword
+c:50 gp
+z:75 gp
+}
+{
+n:Guandao
+c:40 gp
+m:2d8 slashing
+w:35 lb
+p:Reach, oversized, two-handed
+}
+{
+n:Guisarme
+c:15 gp
+m:2d4 slashing
+w:6 lb.
+p:Heavy, reach, two-handed
+}
+{
+n:Gunblade
+c:200 gp
+m:1d6 slashing
+w:3 lb.
+p:Finesse, Special, Ammunition
+}
+{
+n:Gythka
+c:8 gp (kreen)
+z:30 gp (other)
+m:1d8 slashing
+w:9 lb.
+p:Heavy, Two-Handed
+}
+{
+n:Halberd
+c:20 gp
+z:30 gp
+}
+{
+n:Hasta
+c:30gp
+m:1d8 Piercing
+w:7lb
+p:Versatile (1d10), Reach
+}
+{
+n:Heavy Flail
+c:20 gp
+m:1d12 bludgeoning
+w:7 lb.
+p:Heavy, two-handed
+}
+{
+n:Heavy Pickaxe
+c:8 gp
+m:1d10 piercing
+w:4 lb.
+p:Heavy, two-handed
+}
+{
+n:Hidden Blade
+c:100 gp
+m:1d4 Piercing
+w:1/2 lb.
+p:Hidden, Light, Finesse, Special.
+}
+{
+n:Katana
+c:15 gp
+m:1d8 slashing
+w:3 lb.
+p:Versatile (1d10)
+}
+{
+n:Katana (variant)
+c:50 gp
+m:1d6 slashing
+w:3 lb.
+p:Finesse, light, versatile (1d8)
+}
+{
+n:Knecht
+c:25 gp
+m:1d10 slashing
+w:8 lb.
+p:Heavy, Versatile(2D10), Special (1D6 bludgeoning)
+}
+{
+n:Kopis
+c:25 gp
+m:1d8 slashing
+w:3 lb
+p:–
+}
+{
+n:Kor Hook
+c:5gp
+m:1d4 slashing
+w:8 lb.
+p:finesse, reach, light, versatile
+}
+{
+n:Kusarigama
+c:25 gp
+m:1d4 slashing
+w:5 lb.
+p:Two-handed, Special
+}
+{
+n:Lajav
+c:25 gp(kreen) 50 gp(other)
+m:1d8 Bludgeoning
+w:5 lb.
+p:Finesse, Heavy, Two-Handed, Special*
+}
+{
+n:Lance
+c:10 gp
+z:15 gp
+}
+{
+n:Long Cane
+c:5 gp
+m:1d8 piercing
+w:4 lb.
+p:Reach, two-handed
+}
+{
+n:Long Nordic Axe
+c:250 gp
+m:2d8 Slashing
+w:8 lb.
+p:Two Handed, Reach
+}
+{
+n:Longblade
+c:20 gp
+m:1d10 slashing
+w:6 lb.
+p:Heavy, reach, two-handed
+}
+{
+n:Longspear
+c:20 gp
+m:1d8 piercing
+w:6 lb.
+p:Heavy, reach, versatile (1d10)
+}
+{
+n:Longstaff
+c:5 sp
+m:1d8 bludgeoning
+w:7 lb.
+p:Heavy, reach, special, two-handed
+}
+{
+n:Longsword
+c:15 gp
+z:22 gp
+}
+{
+n:Main Gauche
+c:20 gp
+m:1d4 Slashing
+w:1.5 lb.
+p:Finesse, Light
+}
+{
+n:Man Catcher
+c:25 gp
+m:1d4 bludgeoning
+w:2 lb.
+p:Two-handed, reach, special
+}
+{
+n:Masters Whip
+c:20 gp
+m:1d8 slashing
+w:3 lb.
+p:Light, Finesse, Reach, Disarming
+}
+{
+n:Maul
+c:10 gp
+z:15 gp
+}
+{
+n:Meteor Hammer
+c:30 gp
+m:1d6 bludgeoning
+w:5 lb.
+p:Two-handed, Special
+}
+{
+n:Meyer
+c:25 gp
+m:1d6 slashing
+w:3 lb.
+p:Finesse, Two-handed, Special
+}
+{
+n:Monk's Spade
+c:10 gp
+m:1d6 slashing
+w:4 lb.
+p:Reach, Versatile (1d8)
+}
+{
+n:Morningstar
+c:15 gp
+z:22 gp
+}
+{
+n:Parrying Dagger
+c:5 gp
+m:1d4 piercing
+w:1 lb.
+p:Finesse, light, special.
+}
+{
+n:Pata
+c:100 gp
+m:1d6 piercing
+w:2 lb.
+p:Light, Finesse, Special
+}
+{
+n:Pike
+c:5 gp
+z:8 gp
+}
+{
+n:Pollaxe
+c:20 gp
+m:2d4 bludgeoning
+w:6 lb.
+p:Heavy, reach, two-handed
+}
+{
+n:Rapier
+c:25 gp
+z:38 gp
+}
+{
+n:Reaper's Scythe
+c:5 gp
+m:1d10 slashing
+w:14 lbs.
+p:Versatile
+}
+{
+n:Saber
+c:35 gp
+m:1d8 Slashing
+w:3 lb.
+p:Finesse
+}
+{
+n:Scimitar
+c:25 gp
+z:38 gp
+}
+{
+n:Scissor Sword
+c:300 gp
+m:1d8 slashing
+w:5 lb.
+p:Heavy, special, two-handed
+}
+{
+n:Shamshir
+c:20 gp
+m:1d8 slashing
+w:4 lbs.
+p:Finesse, special, versatile (1d10)
+}
+{
+n:Short Glaive
+c:15 gp
+m:2d4 slashing
+w:3 lb.
+p:Two-handed, finesse
+}
+{
+n:Shortsword
+c:10 gp
+z:15 gp
+}
+{
+n:Side Sword
+c:25 gp
+m:1d6 Piercing
+w:2 1/2 lb.
+p:Light, Special
+}
+{
+n:Spiked Greatclub
+c:8 sp
+m:1d10 bludgeon/piercing
+w:10 lb
+p:Heavy, Two-handed
+}
+{
+n:Sword Breaker
+c:15 gp
+m:1d4 Piercing
+w:2 lb.
+p:Light, Special.
+}
+{
+n:Talwar
+c:30 gp
+m:1d8 slashing
+w:3 lb.
+p:Finesse
+}
+{
+n:Threaded Cane
+c:250 gp
+m:1d6 Piercing/1d4 Slashing
+w:2 lbs
+p:Finesse, Light, Reach
+}
+{
+n:Throwing Glaive
+c:25 gp
+m:1d6 slashing
+w:3 lb.
+p:Finesse, light, returning, thrown (range 30/60)
+}
+{
+n:Tiger Hook Sword
+c:30 gp
+m:1d6 slashing or peircing
+w:2 lb
+p:light, finesse, special
+}
+{
+n:Trident
+c:5 gp
+z:8 gp
+}
+{
+n:Two-Handed Morningstar
+c:25 gp
+m:1d12 piercing
+w:10 lb.
+p:Heavy, two-handed
+}
+{
+n:Vicious Scythe
+c:150 gp
+m:3d6 slashing
+w:18 lb.
+p:Oversized, two-handed
+}
+{
+n:Voulge
+c:25 gp
+m:1d10 piercing/slashing
+w:8 lb.
+p:Heavy, Two-handed
+}
+{
+n:War Pick
+c:5 gp
+z:8 gp
+}
+{
+n:War Saw
+c:160gp
+m:2d8 Slashing
+w:9lb.
+p:Two-Handed, Heavy, Loading, Special
+}
+{
+n:Warglaive
+c:60 gp
+m:2d4 slashing
+w:2.5 lb.
+p:Special*
+}
+{
+n:Warhammer
+c:15 gp
+z:22 gp
+}
+{
+n:Whip
+c:2 gp
+z:3 gp
+}
+{
+n:Winged Punching Blade
+c:20 gp
+m:1d6 Piercing/Slashing
+w:3 lb.
+p:Finesse
+}
+{
+n:Xiphos
+c:85 gp
+m:1d6 slashing/piercing (your DM chooses)
+w:1 lb.
+p:Light, Versatile, Finesse
+}
+{
+n:Zanbatō
+c:100 gp
+m:2d8 Slashing
+w:9 lb.
+p:Two Handed, Reach, Heavy, Special
+}
+{
+n:Zerka
+c:1 gp(kreen) / 8 gp(others)
+m:1d8 piercing
+w:3 lb.
+p:Thrown, Special (range 40/160)
+}

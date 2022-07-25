@@ -1,0 +1,10 @@
+{
+i:Flat
+i:Hooded
+i:Deep-set
+i:Protruding
+i:Upturned
+i:Downturned
+i:Close-set
+i:Wide-set
+}

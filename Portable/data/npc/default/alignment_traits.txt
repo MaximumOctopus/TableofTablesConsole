@@ -1,0 +1,40 @@
+{
+d:at_lawful_good
+i:Has a good moral character (LG)
+i:Values truth, honor, and the welfare of others (LG)
+}
+{
+d:at_lawful_neutral
+i:Acts as law tradition or a personal code directs (LN)
+}
+{
+d:at_lawful_evil
+i:Cares about tradition loyalty and order but not about freedom dignity or life (LE)
+}
+{
+d:at_neutral_neutral
+i:Does what seems to be a good idea (TN)
+i:Sees good evil law and chaos as prejudices and dangerous extremes (TN)
+}
+{
+d:at_neutral_evil
+i:Is an unscrupulous self-serving person (NE)
+i:Will betray friends family community and nation in order to advance (NE)
+}
+{
+d:at_neutral_good
+i:Feels that too many laws may unnecessarily restrict the freedom of good beings (NG)
+i:Believes life and the assurance of other creatures' rights take precedence over all else (NG)
+}
+{
+d:at_chaotic_neutral
+i:Values liberty but doesn't strive to protect others' freedom (CN)
+}
+{
+d:at_chaotic_evil
+i:Is driven by greed hatred and lust for destruction (CE)
+}
+{
+d:at_chaotic_good
+i:Believes that freedom is the only means by which each creature can achieve true satisfaction and happiness (CG)
+}

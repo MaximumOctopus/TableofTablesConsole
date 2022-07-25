@@ -1,0 +1,146 @@
+{
+n:Ale (poor quality, 1 barrel)
+d:60 gallons
+c:3 gp
+}
+{
+n:Ale (medium quality, 1 barrel)
+d:60 gallons
+c:5 gp
+}
+{
+n:Ale (good quality, 1 barrel)
+d:60 gallons
+c:8 gp
+}
+{
+n:Allum (1 lb)
+c:1 gp
+w:1 lb
+}
+{
+n:Butter (1 lb)
+c:5 sp
+w:1 lb
+}
+{
+n:Camphor (1 lb)
+c:2 gp
+w:1 lb
+}
+{
+n:Cheese (1 lb)
+c:5 cp
+w:1 lb
+}
+{
+n:Cream (1 gallon)
+c:5 cp
+}
+{
+n:Dried fruit (1 lb)
+c:2 cp
+w:1 lb
+}
+{
+n:Eggs (24)
+c:2 cp
+}
+{
+n:Fish bait (1 lb)
+c:5 cp
+z:8 cp
+w:1 lb
+}
+{
+n:Frankincense (1 lb)
+c:3 gp
+w:1 lb
+}
+{
+n:Fungi (1 lb)
+c:2 cp
+w:1 lb
+}
+{
+n:Ginseng (1 lb)
+c:8 gp
+w:1 lb
+}
+{
+n:Grain (one quarter)
+d:Eight bushels, enough to make bread and porriage for one person for one year
+c:5 sp
+}
+{
+n:Milk (gallon)
+c:2 sp
+}
+{
+n:Myrrh (1 lb)
+c:8 gp
+w:1 lb
+}
+{
+n:Mustard (1 lb)
+c:3 gp
+w:1 lb
+}
+{
+n:Nutmeg (1 lb)
+c:2 gp
+w:1 lb
+}
+{
+n:Rice (1 lb)
+c:1 cp
+w:1 lb
+}
+{
+n:Root vegetables (1 lb)
+c:2 cp
+w:1 lb
+}
+{
+n:Salt (1 lb)
+c:2 cp
+w:1 lb
+}
+{
+n:Salmon (1)
+c:5 sp
+}
+{
+n:Salmon (1 barrel)
+d:60 gallons
+c:50 gp
+}
+{
+n:Salted beef (1 barrel)
+d:60 gallons
+c:20 gp
+}
+{
+n:Salted Herring (1)
+c:5 cp
+}
+{
+n:Sugar (1 lb)
+c:2 gp
+w:1 lb
+}
+{
+n:Tea (1 lb)
+c:2 gp
+w:1 lb
+}
+{
+n:Wine (cheap, 1 barrel)
+d:60 gallons
+c:15 gp
+}
+{
+n:Wine (fine, 1 barrel)
+d:60 gallons
+c:50 gp
+}

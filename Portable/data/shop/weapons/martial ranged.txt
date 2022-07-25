@@ -1,0 +1,153 @@
+{
+n:Bladed Long Bow
+c:100 gp
+m:1d8 Piercing / 1d8 Slashing
+w:3 1/2 lb.
+p:e.g. Ammunition (range 150/600), heavy, two-handed, special
+}
+{
+n:Blowgun
+c:10 gp
+m:1 piercing
+w:1 lb.
+p:Ammunition (range 25/100), loading
+}
+{
+n:Bolas
+c:1 gp
+m:1d4 bludgeoning
+w:2 lb.
+p:Special, thrown (range 20/60).
+}
+{
+n:Boulder
+c:--
+m:1d12 bludgeoning
+w:100 lbs.
+p:Heavy, Thrown (range 30/80), Two-Handed, Special
+}
+{
+n:Chakram
+c:8 gp
+m:1d8 slashing
+w:1/2 lb.
+p:Finesse, light, thrown (range 20/60)
+}
+{
+n:Chatkcha
+c:1 gp(kreen) 8 gp(other)
+m:1d6 slashing
+w:2 lb.
+p:Finesse, Light, Thrown(30/120), Special*
+}
+{
+n:Crossbow, hand
+c:75 gp
+z:113 gp
+}
+{
+n:Crossbow, heavy
+c:50 gp
+z:75 gp
+}
+{
+n:Crossbow, Repeating
+c:250 gp
+m:2d4 piercing
+w:18 lb.
+p:Ammunition (range 80/320), heavy, reload (10 shots), two-handed
+}
+{
+n:Enforcer Crossbow
+c:100 gp
+m:1d8 piercing
+w:10 lb
+p:Ammunition (range 80/320), heavy, short burst (1), reload (2 shots)
+}
+{
+n:Greatbow
+c:65 gp
+m:1d10 piercing
+w:10 lbs.
+p:Ammunition (range 200/800), heavy, special, two-handed
+}
+{
+n:Holmegaard Bow
+c:100 gp
+m:1d10 piercing
+w:2 lb
+p:Heavy, Two-handed, Ammunition(range 100-400)
+}
+{
+n:Longbow
+c:50 gp
+z:75 gp
+}
+{
+n:Net
+c:1 gp
+z:2 gp
+}
+{
+n:Needle gun
+c:50 gp
+m:1d12 Piercing or 2d8 Piercing
+w:10 lb
+p:Loading, Ammunition (range 1200/1950), Ranged, Two-handed
+}
+{
+n:Pixie Bow
+c:20 gp
+m:1d6 piercing
+w:1 lb.
+p:Ammunition (range 30/120), loading, two-handed, undersized
+}
+{
+n:Railgun, Anti Material Rifle
+c:1000 GP
+m:1d20 Piercing
+w:25 lb.
+p:Heavy, Ammunition(50/1000), Reload(1 round)
+}
+{
+n:Railgun, Pistol
+c:500 GP
+m:1d8 piercing
+w:5 lb.
+p:Reload(12), Ammunition(10/100)
+}
+{
+n:Spear-thrower
+c:5 gp
+m:1d8 piercing
+w:1 lb.
+p:Ammunition (range 50/200), loading, special, two-handed
+}
+{
+n:Throwing Hammer
+c:15 gp
+m:1d6 bludgeoning
+w:4 lb.
+p:Thrown (60/120)
+}
+{
+n:Throwing Shield
+c:20 gp
+m:1d6 bludgeoning
+w:4 lbs.
+p:Thrown (20/60)
+}
+{
+n:War Sling
+c:5 gp
+m:2d4 bludgeoning
+w:1/4 lb
+p:Ammunition, (Range 60/240)
+}
+{
+n:X-Type Hunting Bow
+c:150 gp
+m:1d10 Piercing
+w:4 1/2 lb.
+p:Ammunition (range 250/700)Heavy, Two-Handed
+}

@@ -1,0 +1,100 @@
+{
+n:Basilica Armor
+c:1450 gp
+a:16 + Dex modifier (max 2)
+w:45 lb
+}
+{
+n:Bear Pelt
+c:50 gp
+a:+1 (partial armor)
+h:Disadvantage
+w:5 lb
+}
+{
+n:Breastplate
+c:400 gp
+z:600 gp
+a:14 + Dec Modifier (max 12)
+s:-
+h:-
+w:20 lbs
+}
+{
+n:Chain Cowl
+c:30 gp
+a:+1 (partial armor)
+w:5 lb
+}
+{
+n:Chain Shirt
+c:50 gp
+z:75 gp
+a:13 + Dex Modifier (max 12)
+s:-
+h:-
+w:20 lbs
+}
+{
+n:Gauntlet
+c:5 gp
+a:+1 (partial armor)
+w:2 lb
+}
+{
+n:Half plate
+c:750 gp
+z:1125 gp
+a:15 + Dec Modifier (max 12)
+s:-
+h:Disadvantage
+w:40 lbs
+}
+{
+n:Hide
+c:10 gp
+a:12 + Dex Modifier (max 12)
+s:-
+h:-
+w:12 lbs
+}
+{
+n:Improvised Armor
+a:11 + Dex modifier (max 2)
+h:Disadvantage
+w:10 lb
+}
+{
+n:Leather Belt
+c:15 gp
+a:+1 (partial armor)
+w:2 lb
+}
+{
+n:Leather Shoulder Guard
+c:10 gp
+a:+1 (partial armor)
+w:1 lb
+}
+{
+n:Scale Mail
+c:50 gp
+z:75 gp
+a:14 + Dec Modifier (max 12)
+s:-
+h:-
+w:45 lbs
+}
+{
+n:Wolf Jaw
+c:30 gp
+a:+1 (partial armor)
+w:3 lb
+}
+{
+n:Wood Armor
+c:15 gp
+a:13 + Dex modifier (max 2)
+h:Disadvantage
+w:20 lb
+}

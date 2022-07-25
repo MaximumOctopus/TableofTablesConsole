@@ -1,0 +1,64 @@
+{
+n:Ivory Goat(Travail)
+c:400 gp
+}
+{
+n:Golden Lion(ea)
+c:600 gp
+}
+{
+n:Ivory Goat(Traveling)
+c:1000 gp
+}
+{
+n:Staff of the Python
+c:2000 gp
+}
+{
+n:Onyx Dog
+c:3000 gp
+}
+{
+n:Silver Raven
+c:5000 gp
+}
+{
+n:Silver Horn of Valhalla
+c:5600 gp
+}
+{
+n:Marble Elephant
+c:6000 gp
+}
+{
+n:Bowl of Commanding Water Elementals
+c:8000 gp
+}
+{
+n:Brazier of Commanding Fire Elementals
+c:8000 gp
+}
+{
+n:Censer of Controlling Air Elementals
+c:8000 gp
+}
+{
+n:Stone of Controlling Earth Elementals
+c:8000 gp
+}
+{
+n:Brass Horn of Valhalla
+c:8400 gp
+}
+{
+n:Bronze Horn of Valhalla
+c:11200 gp
+}
+{
+n:Iron Horn of Valhalla
+c:14000 gp
+}
+{
+n:Ivory Goat(Terror)
+c:20000 gp
+}

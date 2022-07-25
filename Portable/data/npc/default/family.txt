@@ -1,0 +1,5 @@
+{
+i:Close
+i:Distant
+i:Hostile
+}

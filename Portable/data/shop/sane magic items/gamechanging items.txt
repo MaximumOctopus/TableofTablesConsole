@@ -1,0 +1,144 @@
+{
+n:+1 Armor
+c:1500 gp
+}
+{
+n:+1 Shield
+c:1500 gp
+}
+{
+n:Sending Stones
+c:2000 gp
+}
+{
+n:Wings of Flying
+c:5000 gp
+}
+{
+n:Alchemy Jug
+c:6000 gp
+}
+{
+n:+2 Armor
+c:6000 gp
+}
+{
+n:+2 Shield
+c:6000 gp
+}
+{
+n:Ebony Fly
+c:6000 gp
+}
+{
+n:Bronze Griffon
+c:8000 gp
+}
+{
+n:Broom of Flying
+c:8000 gp
+}
+{
+n:Serpentine Owl
+c:8000 gp
+}
+{
+n:Winged Boots
+c:8000 gp
+}
+{
+n:Dwarven Plate
+c:9000 gp
+}
+{
+n:Potion of Longevity
+c:9000 gp
+}
+{
+n:Carpet of Flying
+c:12000 gp
+}
+{
+n:Ring of Regeneration
+c:12000 gp
+}
+{
+n:Sphere of Annihilation
+c:15000 gp
+}
+{
+n:Armor of Invulnerability
+c:18000 gp
+}
+{
+n:Talisman of the Sphere
+c:20000 gp
+}
+{
+n:+3 Armor
+c:24000 gp
+}
+{
+n:+3 Shield
+c:24000 gp
+}
+{
+n:Defender
+c:24000 gp
+}
+{
+n:Ring of Earth Elemental Command
+c:31000 gp
+}
+{
+n:Robe of the Archmagi
+c:34000 gp
+}
+{
+n:Ring of Air Elemental Command
+c:35000 gp
+}
+{
+n:Cubic Gate
+c:40000 gp
+}
+{
+n:Crystal Ball
+c:50000 gp
+}
+{
+n:Helm of Teleportation
+c:64000 gp
+}
+{
+n:Daern's Instant Fortress
+c:75000 gp
+}
+{
+n:Ring of Telekinesis
+c:80000 gp
+}
+{
+n:Cloak of Invisibility
+c:80000 gp
+}
+{
+n:Rod of Security
+c:90000 gp
+}
+{
+n:Staff of Power
+c:95500 gp
+}
+{
+n:Obsidian Steed
+c:128000 gp
+}
+{
+n:Decanter of Endless Water
+c:135000 gp
+}
+{
+n:Amulet of the Planes
+c:160000 gp
+}

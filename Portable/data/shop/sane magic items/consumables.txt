@@ -1,0 +1,280 @@
+{
+n:Spell Scroll Level 0
+c:10 gp
+}
+{
+n:Ammunition +1(each)
+c:25 gp
+}
+{
+n:Potion of Healing
+c:50 gp
+}
+{
+n:Quaal's Feather Token Anchor
+c:50 gp
+}
+{
+n:Spell Scroll Level 1
+c:60 gp
+}
+{
+n:Philter of Love
+c:90 gp
+}
+{
+n:Ammunition +2(ea)
+c:100 gp
+}
+{
+n:Potion of Poison
+c:100 gp
+}
+{
+n:Dust of Dryness(1 pellet)
+c:120 gp
+}
+{
+n:Elixir of Health
+c:120 gp
+}
+{
+n:Keoghtom's Ointment(Per dose)	
+c:120 gp
+}
+{
+n:Spell Scroll Level 2
+c:120 gp
+}
+{
+n:Potion of Fire Breath
+c:150 gp
+}
+{
+n:Potion of Greater Healing
+c:150 gp
+}
+{
+n:Potion of Climbing
+c:180 gp
+}
+{
+n:Potion of Heroism
+c:180 gp
+}
+{
+n:Potion of Invisibility
+c:180 gp
+}
+{
+n:Potion of Mind Reading
+c:180 gp
+}
+{
+n:Potion of Water Breathing
+c:180 gp
+}
+{
+n:Scroll of Protection
+c:180 gp
+}
+{
+n:Nolzur's Marvelous Pigments
+c:200 gp
+}
+{
+n:Potion of Animal Friendship
+c:200 gp
+}
+{
+n:Spell Scroll Level 3
+c:200 gp
+}
+{
+n:Quaal's Feather Token Fan
+c:250 gp
+}
+{
+n:Quaal's Feather Token Whip
+c:250 gp
+}
+{
+n:Potion of Diminution
+c:270 gp
+}
+{
+n:Potion of Growth
+c:270 gp
+}
+{
+n:Dust of Disappearance
+c:300 gp
+}
+{
+n:Necklace of Fireballs(One bead)
+c:300 gp
+}
+{
+n:Potion of Gaseous Form
+c:300 gp
+}
+{
+n:Potion of Resistance
+c:300 gp
+}
+{
+n:Universal Solvent
+c:300 gp
+}
+{
+n:Spell Scroll Level 4
+c:320 gp
+}
+{
+n:Ammunition +3 (each)
+c:400 gp
+}
+{
+n:Potion of Speed
+c:400 gp
+}
+{
+n:Sovereign Glue
+c:400 gp
+}
+{
+n:Horn of Blasting
+c:450 gp
+}
+{
+n:Potion of Superior Healing
+c:450 gp
+}
+{
+n:Dust of Sneezing and Choking
+c:480 gp
+}
+{
+n:Necklace of Fireballs(Two beads)
+c:480 gp
+}
+{
+n:Oil of Slipperiness
+c:480 gp
+}
+{
+n:Potion of Flying
+c:500 gp
+}
+{
+n:Arrow of Slaying(ea)
+c:600 gp
+}
+{
+n:Spell Scroll Level 5
+c:640 gp
+}
+{
+n:Bead of Force
+c:960 gp
+}
+{
+n:Elemental Gem
+c:960 gp
+}
+{
+n:Necklace of Fireballs (Three beads)
+c:960 gp
+}
+{
+n:Potion of Clairvoyance
+c:960 gp
+}
+{
+n:Potion of Vitality
+c:960 gp
+}
+{
+n:Spell Scroll Level 6
+c:1280 gp
+}
+{
+n:Potion of Supreme Healing
+c:1350 gp
+}
+{
+n:Chime of Opening
+c:1500 gp
+}
+{
+n:Necklace of Fireballs(Four beads)
+c:1600 gp
+}
+{
+n:Oil of Etherealness
+c:1920 gp
+}
+{
+n:Ioun Stone Absorption
+c:2400 gp
+}
+{
+n:Spell Scroll Level 7
+c:2560 gp
+}
+{
+n:Quaal's Feather Token Bird
+c:3000 gp
+}
+{
+n:Quaal's Feather Token Swan Boat
+c:3000 gp
+}
+{
+n:Oil of Sharpness
+c:3200 gp
+}
+{
+n:Necklace of Fireballs(Five beads)
+c:3840 gp
+}
+{
+n:Potion of Invulnerability
+c:3840 gp
+}
+{
+n:Gem of Brightness
+c:5000 gp
+}
+{
+n:Spell Scroll Level 8
+c:5120 gp
+}
+{
+n:Deck of Illusions
+c:6120 gp
+}
+{
+n:Necklace of Fireballs(Six beads)
+c:7680 gp
+}
+{
+n:Spell Scroll Level 9
+c:10240 gp
+}
+{
+n:Ioun Stone Greater Absorption
+c:31000 gp
+}
+{
+n:Rod of Absorption
+c:50000 gp
+}
+{
+n:Talisman of Ultimate Evil
+c:61440 gp
+}
+{
+n:Talisman of Pure Good
+c:71680 gp
+}

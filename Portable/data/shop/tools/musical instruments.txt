@@ -1,0 +1,93 @@
+{
+n:Bagpipes
+c:30 gp
+z:45 gp
+}
+{
+n:Castanets
+c:2 gp
+w:N/A
+}
+{
+n:Drum
+c:6 gp
+z:9 gp
+}
+{
+n:Dulcimer
+c:25 gp
+z:38 gp
+}
+{
+n:Euphonium
+c:50 gp
+z:75 gp
+w:30 lb
+}
+{
+n:Flute
+c:2 sp
+z:3 sp
+}
+{
+n:Grand Piano
+c:400 gp
+w:800 lb
+}
+{
+n:Harp
+c:35 gp
+z:100 gp
+w:5 lb - 50 lb
+}
+{
+n:Horn
+c:3 gp
+z:5 gp
+w:5 lb - 50 lb
+}
+{
+n:Hurdy-Gurdy
+c:30 gp
+w:10 lb
+}
+{
+n:Lute
+c:35 gp
+z:53 gp
+}
+{
+n:Lyre
+c:30 gp
+z:45 gp
+}
+{
+n:Mountain Dulcimer
+c:8 gp
+w:3 lb
+}
+{
+n:Pan Flute
+c:12 gp
+z:18 gp
+}
+{
+n:Shawn
+c:2 gp
+z:3 gp
+}
+{
+n:Sousaphone
+c:20 gp
+w:20 lb
+}
+{
+n:Tuba
+c:10 gp
+w:15 lb
+}
+{
+n:Viol
+c:30 gp
+z:45 gp
+}

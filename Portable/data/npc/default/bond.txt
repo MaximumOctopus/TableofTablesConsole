@@ -1,0 +1,11 @@
+{
+i:Dedicated to fulfilling a personal life goal
+i:Loyal to a benefactor, patron, or employer
+i:Captivated by a romantic interest
+i:Drawn to a special place
+i:Protective of a sentimental keepsake
+i:Protective of a valuable possession
+i:Protective of close family members
+i:Protective of colleagues or compatriots
+i:Out for revenge
+}

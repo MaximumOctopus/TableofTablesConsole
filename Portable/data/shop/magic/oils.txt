@@ -1,0 +1,80 @@
+{
+n:Magic stone (oil)
+c:50 gp
+}
+{
+n:Magic weapon (oil)
+c:50 gp
+}
+{
+n:Shillelagh (oil)
+c:50 gp
+}
+{
+n:Bless weapon (oil)
+c:100 gp
+}
+{
+n:Darkness (oil)
+c:300 gp
+}
+{
+n:Invisibility (oil)
+c:300 gp
+}
+{
+n:Levitate (oil)
+c:300 gp
+}
+{
+n:Daylight (oil)
+c:750 gp
+}
+{
+n:Flame arrow (oil)
+c:750 gp
+}
+{
+n:Greater magic weapon +1 (oil)
+c:750 gp
+}
+{
+n:Keen edge (oil)
+c:750 gp
+}
+{
+n:Magic vestment +1 (oil)
+c:750 gp
+}
+{
+n:Greater magic weapon +2 (oil)
+c:1,200 gp
+}
+{
+n:Magic vestment +2 (oil)
+c:1,200 gp
+}
+{
+n:Greater magic weapon +3 (oil)
+c:1,800 gp
+}
+{
+n:Magic vestment +3 (oil)
+c:1,800 gp
+}
+{
+n:Greater magic weapon +4 (oil)
+c:2,400 gp
+}
+{
+n:Magic vestment +4 (oil)
+c:2,400 gp
+}
+{
+n:Greater magic weapon +5 (oil)
+c:3,000 gp
+}
+{
+n:Magic vestment +5 (oil)
+c:3,000 gp
+}

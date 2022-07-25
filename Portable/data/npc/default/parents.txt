@@ -1,0 +1,7 @@
+{
+i:A living mother
+i:A living father
+i:No living parents
+i:Two living parents
+i:A living legal guardian
+}

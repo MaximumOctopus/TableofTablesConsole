@@ -1,0 +1,400 @@
+{
+n:Abacus
+c:2 gp
+z:3 gp
+}
+{
+n:Acid (vial)
+c:25 gp
+z:38 gp
+}
+{
+n:Alchemist's Fire (flask)
+c:50 gp
+z:75 gp
+}
+{
+n:Alms Box
+c:5 gp
+z:8 gp
+}
+{
+n:Antitoxin (vial)
+c:50 gp
+z:75 gp
+}
+{
+n:Backpack
+c:2 gp
+z:3 gp
+}
+{
+n:Ball Bearings (bag of 1,000)
+c:1 gp
+z:2 gp
+}
+{
+n:Barrel
+c:2 gp
+z:3 gp
+}
+{
+n:Basket
+c:4 sp
+z:6 sp
+}
+{
+n:Bedroll
+c:1 gp
+z:2 gp
+}
+{
+n:Bell
+c:1 gp
+z:2 gp
+}
+{
+n:Blanket
+c:5 sp
+z:8 sp
+}
+{
+n:Block and Tackle
+c:1 gp
+z:2 gp
+}
+{
+n:Book, Scripture
+c:25 gp
+z:38 gp
+}
+{
+n:Bottle, glass
+c:2 gp
+z:3 gp
+}
+{
+n:Bucket
+c:5 cp
+z:8 cp
+}
+{
+n:Caltrops (bag of 20)
+c:1 gp
+z:2 gp
+}
+{
+n:Candle
+c:1 cp
+z:2 cp
+}
+{
+n:Case, Map or Scroll
+c:1 gp
+z:2 gp
+}
+{
+n:Censer
+c:5 gp
+z:8 gp
+}
+{
+n:Chain (10 feet)
+c:5 gp
+z:8 gp
+}
+{
+n:Chalk (1 piece)
+c:1 cp
+z:2 cp
+}
+{
+n:Chest
+c:5 gp
+z:8 gp
+}
+{
+n:Clothes, Common
+c:5 sp
+z:8 sp
+}
+{
+n:Clothes, Costume
+c:5 gp
+z:8 gp
+}
+{
+n:Clothes, Fine
+c:15 gp
+z:23 gp
+}
+{
+n:Clothes, Traveler's
+c:2 gp
+z:3 gp
+}
+{
+n:Component Pouch
+c:25 gp
+z:38 gp
+}
+{
+n:Crowbar
+c:2 gp
+z:3 gp
+}
+{
+n:Flask
+z:2 cp
+z:3 cp
+}
+{
+n:Flask or Tankard
+c:2 cp
+z:3 cp
+}
+{
+n:Grappling Hook
+c:2 gp
+z:3 gp
+}
+{
+n:Hammer
+c:1 gp
+z:2 gp
+}
+{
+n:Hammer, Sledge
+c:2 gp
+z:3 gp
+}
+{
+n:Hunting Trap
+c:5 gp
+z:8 gp
+}
+{
+n:Holy Symbol (Amulet)
+c:5 gp
+z:8 gp
+}
+{
+n:Holy Symbol (Emblem)
+c:5 gp
+z:8 gp
+}
+{
+n:Holy Symbol (Reliquary)
+c:5 gp
+z:8 gp
+}
+{
+n:Holy Water (flask)
+c:25 gp
+z:38 gp
+}
+{
+n:Hourglass
+c:25 gp
+z:38 gp
+}
+{
+n:Incense (1 block)
+c:1 cp
+z:2 cp
+}
+{
+n:Ink (1 ounce bottle)
+c:10 gp
+z:15 gp
+}
+{
+n:Ink Pen
+c:2 cp
+z:3 cp
+}
+{
+n:Jug
+c:2 cp
+z:3 cp
+}
+{
+n:Jug or Pitcher
+c:2 cp
+z:3 cp
+}
+{
+n:Ladder (10-foot)
+c:1 sp
+z:2 sp
+}
+{
+n:Lamp
+c:5 sp
+z:8 sp
+}
+{
+n:Lantern, Bullseye
+c:10 gp
+z:15 gp
+}
+{
+n:Lantern, Hooded
+c:5 gp
+z:8 gp
+}
+{
+n:Lock
+c:10 gp
+z:15 gp
+}
+{
+n:Mess Kit
+c:2 sp
+z:3 sp
+}
+{
+n:Manacles
+c:2 gp
+z:3 gp
+}
+{
+n:Mirror, Steel
+c:5 gp
+z:8 gp
+}
+{
+n:Oil (flask)
+c:1 sp
+z:2 sp
+}
+{
+n:Perfume (vial)
+c:5 gp
+z:8 gp
+}
+{
+n:Paper (one sheet)
+c:2 sp
+z:3 sp
+}
+{
+n:Parchment (one sheet)
+c:1 sp
+z:2 sp
+}
+{
+n:Poison, Basic (vial)
+c:100 gp
+z:150 gp
+}
+{
+n:Potion of Healing
+c:50 gp
+z:75 gp
+}
+{
+n:Pick, Miner's
+c:2 gp
+z:3 gp
+}
+{
+n:Piton
+c:5 cp
+z:8 cp
+}
+{
+n:Pot, Iron
+c:2 gp
+z:3 gp
+}
+{
+n:Pouch
+c:5 sp
+z:8 sp
+}
+{
+n:Ram, Portable
+c:4 gp
+z:6 gp
+}
+{
+n:Rations (1 day)
+c:5 sp
+z:8 sp
+}
+{
+n:Robes
+c:1 gp
+z:2 gp
+}
+{
+n:Rope, Hempen (50 feet)
+c:1 gp
+z:2 gp
+}
+{
+n:Rope, Silk (50 feet)
+c:10 gp
+z:15 gp
+}
+{
+n:Sack
+c:1 cp
+z:2 cp
+}
+{
+n:Scale, Merchant's
+c:5 gp
+z:8 gp
+}
+{
+n:Shovel
+c:2 gp
+z:3 gp
+}
+{
+n:Signet Ring
+c:5 gp
+z:8 gp
+}
+{
+n:Soap
+c:2 cp
+z:3 cp
+}
+{
+n:Spellbook
+c:50 gp
+z:75 gp
+}
+{
+n:Spikes, Iron
+c:1 gp
+z:2 gp
+}
+{
+n:Tent, Two-person
+c:2 gp
+z:3 gp
+}
+{
+n:Torch
+c:1 cp
+z:2 cp
+}
+{
+n:Vial
+c:1 gp
+z:2 gp
+}
+{
+n:Waterskin
+c:2 sp
+z:3 sp
+}
+{
+n:Whetstone
+c:1 cp
+z:2 cp
+}

@@ -1,0 +1,50 @@
+{
+n:Assassin Suit
+c:500 gp
+a:12 + Dex modifier
+w:4 lb.
+}
+{
+n:Battle Robe
+c:25 gp
+a:11 + Dex modifier
+w:10 lb
+}
+{
+n:Leather
+c:10 gp
+a:11 + Dex modifier
+s:-
+h:Disadvantage
+w:10 lbs
+}
+{
+n:Leather Lamellar
+c:30 gp
+a:12 + Dex modifier
+h:Disadvantage
+w:13 lb
+}
+{
+n:Padded
+c:5 gp
+a:11 + Dex modifier
+s:-
+h:Disadvantage
+w:8 lbs
+}
+{
+n:Pirate Garb
+c:45 gp
+a:12 + Dex modifier
+w:10 lb.
+}
+{
+n:Studded Leather
+c:45 gp
+z:68 gp
+a:12 + Dex modifier
+s:-
+h:Disadvantage
+w:13 lbs
+}

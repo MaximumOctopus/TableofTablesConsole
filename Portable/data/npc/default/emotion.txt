@@ -1,0 +1,25 @@
+{
+i:Anger
+i:Sadness
+i:Joy
+i:Fear
+i:Disgust
+i:No expression
+i:Amusement
+i:Pity
+i:Pride
+i:Shame
+i:Relaxation
+i:Envy
+i:Confusion
+i:Calmness
+i:Surprise
+i:Trust
+i:Anticipation
+i:Impatience
+i:Desire
+i:Anxiety
+i:Guilt
+i:Contempt
+i:Arousal
+}

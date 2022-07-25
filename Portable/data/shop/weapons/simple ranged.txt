@@ -1,0 +1,62 @@
+{
+n:Boomerang
+c:1 gp
+m:1d4 bludgeoning
+w:1 lb.
+p:Light, Returning, thrown (range 30/120).
+}
+{
+n:Crossbow, Light
+c:25 gp
+z:38 gp
+}
+{
+n:Dart
+c:5 cp
+z:8 cp
+}
+{
+n:Fairy Bow
+c:10 gp
+m:1d4 piercing
+w:1 lb.
+p:Ammunition (range 20/60), loading, two-handed, undersized
+}
+{
+n:Plague Lancet
+c:1 sp
+m:1d4 piercing
+w:1/4 lb
+p:Finesse, Thrown (20, 60)
+}
+{
+n:Seedshooter
+c:10 Gp.
+m:1d6 Piercing
+w:2 lbs
+p:Light, ammo: Seeds, range 30/120, 1 hand, loading
+}
+{
+n:Shortbow
+c:25 gp
+z:38 gp
+}
+{
+n:Sling
+c:1 sp
+z:2 sp
+}
+{
+n:Slingstaff
+c:2 sp
+m:1d6 bludgeoning
+w:2 lb.
+p:Ammunition (range 30/120), two-handed
+}
+{
+n:Throwing Star
+c:5 cp
+m:1d4 slashing
+w:1/8 lb.
+p:Finesse, Thrown (range 30/90)
+}

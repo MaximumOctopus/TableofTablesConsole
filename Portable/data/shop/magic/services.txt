@@ -1,0 +1,5 @@
+{
+n:Magic Appraisal (Identify)
+c:100 gp
+z:150 gp
+}

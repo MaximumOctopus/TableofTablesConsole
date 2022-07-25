@@ -1,0 +1,57 @@
+{
+d:ha_description_strengh
+i:Powerful, brawny, and strong as an ox (high Strength)
+}
+{
+d:ha_description_dexterity
+i:Lithe, agile, and graceful (high Dexterity)
+}
+{
+d:ha_description_constitution
+i:Hardy, hale, and healthy (high Constitution)
+}
+{
+d:ha_description_intelligence
+i:Studious, learned, and inquisitive (high Intelligence)
+}
+{
+d:ha_description_wisdom
+i:Perceptive, spiritual, and insightful (high Wisdom)
+}
+{
+d:ha_description_charisma
+i:Persuasive, forceful, and a born leader (high Charisma)
+}
+{
+d:ha_description_none
+i:Not spectactular at anything (no high abilities)
+}
+
+{
+d:la_description_strength
+i:Feeble and scrawny (low Strength)
+}
+{
+d:la_description_dexterity
+i:Clumsy and fumbling (low Dexterity)
+}
+{
+d:la_description_constitution
+i:Sickly and pale (low Constitution)
+}
+{
+d:la_description_intelligence
+i:Dim-witted and slow (low Intelligence)
+}
+{
+d:la_description_wisdom
+i:Oblivious and absent minded (low Wisdom)
+}
+{
+d:la_description_charisma
+i:Dull and boring (low Charisma)
+}
+{
+d:la_description_none
+i:Well rounded (no low abilities)
+}

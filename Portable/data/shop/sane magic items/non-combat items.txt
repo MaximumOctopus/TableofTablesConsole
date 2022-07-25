@@ -1,0 +1,236 @@
+{
+n:Helm of Comprehend Languages
+c:500 gp
+}
+{
+n:Driftglobe
+c:750 gp
+}
+{
+n:Trident of Fish Command
+c:800 gp
+}
+{
+n:Cap of Water Breathing
+c:1000 gp
+}
+{
+n:Eversmoking Bottle
+c:1000 gp
+}
+{
+n:Quiver of Ehlonna
+c:1000 gp
+}
+{
+n:Ioun Stone Sustenance
+c:1000 gp
+}
+{
+n:Ring of Warmth
+c:1000 gp
+}
+{
+n:Goggles of Night
+c:1500 gp
+}
+{
+n:Horseshoes of the Zephyr
+c:1500 gp
+}
+{
+n:Mariner's Armor
+c:1500 gp
+}
+{
+n:Necklace of Adaption
+c:1500 gp
+}
+{
+n:Ring of Water Walking
+c:1500 gp
+}
+{
+n:Wand of Magic Detection
+c:1500 gp
+}
+{
+n:Wand of Secrets
+c:1500 gp
+}
+{
+n:Gloves of Swimming and Climbing
+c:2000 gp
+}
+{
+n:Heward's Handy Haversack
+c:2000 gp
+}
+{
+n:Rope of Climbing
+c:2000 gp
+}
+{
+n:Ring of Feather Falling
+c:2000 gp
+}
+{
+n:Boots of Elvenkind
+c:2500 gp
+}
+{
+n:Eyes of Minute Seeing
+c:2500 gp
+}
+{
+n:Eyes of the Eagle
+c:2500 gp
+}
+{
+n:Ring of Jumping
+c:2500 gp
+}
+{
+n:Dimensional Shackles
+c:3000 gp
+}
+{
+n:Eyes of Charming
+c:3000 gp
+}
+{
+n:Medallion of Thoughts
+c:3000 gp
+}
+{
+n:Ring of Swimming
+c:3000 gp
+}
+{
+n:Bag of Holding
+c:4000 gp
+}
+{
+n:Boots of Levitation
+c:4000 gp
+}
+{
+n:Ring of Animal Influence
+c:4000 gp
+}
+{
+n:Boots of Striding and Springing
+c:5000 gp
+}
+{
+n:Cloak of Arachnida
+c:5000 gp
+}
+{
+n:Cloak of Elvenkind
+c:5000 gp
+}
+{
+n:Gloves of Thievery
+c:5000 gp
+}
+{
+n:Hat of Disguise
+c:5000 gp
+}
+{
+n:Horseshoes of Speed
+c:5000 gp
+}
+{
+n:Immovable Rod
+c:5000 gp
+}
+{
+n:Lantern of Revealing
+c:5000 gp
+}
+{
+n:Periapt of Health
+c:5000 gp
+}
+{
+n:Periapt of Proof Against Poison
+c:5000 gp
+}
+{
+n:Slippers of Spider Climbing
+c:5000 gp
+}
+{
+n:Cloak of the Bat
+c:6000 gp
+}
+{
+n:Cloak of the Manta Ray
+c:6000 gp
+}
+{
+n:Ring of X-Ray Vision
+c:6000 gp
+}
+{
+n:Cape of the Mountebank
+c:8000 gp
+}
+{
+n:Portable Hole
+c:8000 gp
+}
+{
+n:Apparatus of Kwalish
+c:10000 gp
+}
+{
+n:Boots of the Winterlands
+c:10000 gp
+}
+{
+n:Folding Boat
+c:10000 gp
+}
+{
+n:Ring of Invisibility
+c:10000 gp
+}
+{
+n:Helm of Telepathy
+c:12000 gp
+}
+{
+n:Cube of Force
+c:16000 gp
+}
+{
+n:Ring of Mind Shielding
+c:16000 gp
+}
+{
+n:Rod of Rulership
+c:16000 gp
+}
+{
+n:Mirror of Life Trapping
+c:18000 gp
+}
+{
+n:Amulet of Proof Against Detection and Location
+c:20000 gp
+}
+{
+n:Robe of Eyes
+c:30000 gp
+}
+{
+n:Gem of Seeing
+c:32000 gp
+}
+{
+n:Plate Armor of Etherealness
+c:48000 gp
+}

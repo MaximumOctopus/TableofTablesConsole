@@ -1,0 +1,45 @@
+{
+n:Disguise Kit
+c:25 gp
+z:38 gp
+}
+{
+n:Forgery Kit
+c:15 gp
+z:23 gp
+}
+{
+n:Healer's Kit
+c:5 gp
+z:8 gp
+}
+{
+n:Poisoner's Kit
+c:50 gp
+z:75 gp
+}
+{
+n:Prospector's Kit
+c:10 gp
+w:10 lb
+}
+{
+n:Rope Kit
+c:15 gp
+w:10 lb
+}
+{
+n:Thieve's Kit
+c:25 gp
+z:38 gp
+}
+{
+n:Warforged Repair Kit
+c:30 gp
+w:12 lb
+}
+{
+n:Whaler's Kit
+c:8 gp
+w:10 lb.
+}

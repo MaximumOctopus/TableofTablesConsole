@@ -1,0 +1,57 @@
+{
+n:Alchemical Reagant Set
+c:40 gp
+w:3 lb
+}
+{
+n:Bookkeepers Books
+c:50 gp
+w:9 lb
+}
+{
+n:Collection of Legendary Tales
+c:500 gp
+w:40 lb.
+}
+{
+n:Dimensional Travel Kit
+c:3000 gp
+w:10 lbs
+}
+{
+n:Falconry Kit
+c:2 gp
+w:1/2 lb.
+}
+{
+n:Land Surveyor's Tools
+c:350 gp
+w:35 pounds
+}
+{
+n:Pocket Knife
+c:10 gp
+w:1 lb
+}
+{
+n:Scrimshawing tools
+c:80 gp
+w:6 Lb
+}
+{
+n:Supernatural Index (empty)
+d:Empty Index
+c:25 gp
+w:5 1b
+}
+{
+n:Supernatural Index (ancient index)
+d:Ancient Index
+c:20000 gp
+w:5 1b
+}
+{
+n:Tattooist's Tools
+c:70 gp
+w:5 lbs
+}

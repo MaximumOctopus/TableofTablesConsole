@@ -1,0 +1,45 @@
+{
+n:Amulet/Necklace, Exquisite
+c:5 gp
+z:8 gp
+}
+{
+n:Amulet/Necklace, Mundane
+c:5 sp
+z:8 sp
+}
+{
+n:Arcane Focus (Crystal)
+c:10 gp
+z:15 gp
+}
+{
+n:Arcane Focus (Orb)
+c:20 gp
+z:30 gp
+}
+{
+n:Earrings, Exquisite
+c:4 gp
+z:6 gp
+}
+{
+n:Earrings, Mundane
+c:4 sp
+z:6 sp
+}
+{
+n:Ring, Exquisite
+c:3 gp
+z:5 gp
+}
+{
+n:Ring, Mundane
+c:3 sp
+z:5 sp
+}
+{
+n:Signet Ring
+c:5 gp
+z:8 gp
+}

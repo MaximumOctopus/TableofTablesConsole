@@ -1,0 +1,30 @@
+{
+n:Cure Wounds (lvl 1)
+c:10 gp
+c:15 gp
+}
+{
+n:Gentle Repose (lvl 2)
+c:50 gp
+c:75 gp
+}
+{
+n:Lesser Restoration (lvl 2)
+c:50 gp
+c:75 gp
+}
+{
+n:Remove Curse (lvl 3)
+c:100 gp
+c:150 gp
+}
+{
+n:Revivify (lvl 3)
+c:400 gp
+c:450 gp
+}
+{
+n:Raise Dead (lvl 5)
+c:1000 gp
+z:1250 gp
+}

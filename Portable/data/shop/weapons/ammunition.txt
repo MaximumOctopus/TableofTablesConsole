@@ -1,0 +1,10 @@
+{
+n:Arrows (20)
+c:1 gp
+z:2 gp
+}
+{
+n:Crossbow Bolts (20)
+c:1 gp
+z:2 gp
+}

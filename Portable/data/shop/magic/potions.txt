@@ -1,0 +1,275 @@
+{
+n:Common
+c:50 gp
+z:75 gp
+}
+{
+n:Uncommon
+c:250 gp
+z:375 gp
+}
+{
+n:Rare
+c:2500 gp
+z:3750 gp
+}
+{
+n:Cure light wounds (potion)
+c:50 gp
+}
+{
+n:Endure elements (potion)
+c:50 gp
+}
+{
+n:Hide from animals (potion)
+c:50 gp
+}
+{
+n:Hide from undead (potion)
+c:50 gp
+}
+{
+n:Jump (potion)
+c:50 gp
+}
+{
+n:Mage armour (potion)
+c:50 gp
+}
+{
+n:Magic fang (potion)
+c:50 gp
+}
+{
+n:Pass without trace (potion)
+c:50 gp
+}
+{
+n:Protection from (alignment) (potion)
+c:50 gp
+}
+{
+n:Remove fear (potion)
+c:50 gp
+}
+{
+n:Sanctuary (potion)
+c:50 gp
+}
+{
+n:Shield of faith +2 (potion)
+c:50 gp
+}
+{
+n:Enlarge person (potion)
+c:250 gp
+}
+{
+n:Reduce person (potion)
+c:250 gp
+}
+{
+n:Aid (potion)
+c:300 gp
+}
+{
+n:Barkskin +2 (potion)
+c:300 gp
+}
+{
+n:Bear’s endurance (potion)
+c:300 gp
+}
+{
+n:Blur (potion)
+c:300 gp
+}
+{
+n:Bull’s strength (potion)
+c:300 gp
+}
+{
+n:Cat’s grace (potion)
+c:300 gp
+}
+{
+n:Cure moderate wounds (potion)
+c:300 gp
+}
+{
+n:Darkvision (potion)
+c:300 gp
+}
+{
+n:Delay poison (potion)
+c:300 gp
+}
+{
+n:Eagle’s splendor (potion)
+c:300 gp
+}
+{
+n:Fox’s cunning (potion)
+c:300 gp
+}
+{
+n:Lesser restoration (potion)
+c:300 gp
+}
+{
+n:Misdirection (potion)
+c:300 gp
+}
+{
+n:Owl’s wisdom (potion)
+c:300 gp
+}
+{
+n:Protection from arrows 10/magic (potion)
+c:300 gp
+}
+{
+n:Remove paralysis (potion)
+c:300 gp
+}
+{
+n:Resist energy (type) 10 (potion)
+c:300 gp
+}
+{
+n:Shield of faith +3 (potion)
+c:300 gp
+}
+{
+n:Spider climb (potion)
+c:300 gp
+}
+{
+n:Undetectable alignment (potion)
+c:300 gp
+}
+{
+n:Barkskin +3 (potion)
+c:600 gp
+}
+{
+n:Shield of faith +4 (potion)
+c:600 gp
+}
+{
+n:Resist energy (type) 20 (potion)
+c:700 gp
+}
+{
+n:Cure serious wounds (potion)
+c:750 gp
+}
+{
+n:Displacement (potion)
+c:750 gp
+}
+{
+n:Fly (potion)
+c:750 gp
+}
+{
+n:Gaseous form (potion)
+c:750 gp
+}
+{
+n:Greater magic fang +1 (potion)
+c:750 gp
+}
+{
+n:Haste (potion)
+c:750 gp
+}
+{
+n:Heroism (potion)
+c:750 gp
+}
+{
+n:Magic circle against (alignment) (potion)
+c:750 gp
+}
+{
+n:Neutralize poison (potion)
+c:750 gp
+}
+{
+n:Nondetection (potion)
+c:750 gp
+}
+{
+n:Protection from energy (type) (potion)
+c:750 gp
+}
+{
+n:Rage (potion)
+c:750 gp
+}
+{
+n:Remove blindness/deafness (potion)
+c:750 gp
+}
+{
+n:Remove curse (potion)
+c:750 gp
+}
+{
+n:Remove disease (potion)
+c:750 gp
+}
+{
+n:Tongues (potion)
+c:750 gp
+}
+{
+n:Water breathing (potion)
+c:750 gp
+}
+{
+n:Water walk (potion)
+c:750 gp
+}
+{
+n:Barkskin +4 (potion)
+c:900 gp
+}
+{
+n:Shield of faith +5 (potion)
+c:900 gp
+}
+{
+n:Good hope (potion)
+c:1,050 gp
+}
+{
+n:Resist energy (type) 30 (potion)
+c:1,100 gp
+}
+{
+n:Barkskin +5 (potion)
+c:1,200 gp
+}
+{
+n:Greater magic fang +2 (potion)
+c:1,200 gp
+}
+{
+n:Protection from arrows 15/magic (potion)
+c:1,500 gp
+}
+{
+n:Greater magic fang +3 (potion)
+c:1,800 gp
+}
+{
+n:Greater magic fang +4 (potion)
+c:2,400 gp
+}
+{
+n:Greater magic fang +5 (potion)
+c:3,000 gp
+}

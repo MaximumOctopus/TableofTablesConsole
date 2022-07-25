@@ -1,0 +1,10 @@
+{
+n:Case, Crossbow Bolt
+c:1 gp
+z:2 gp
+}
+{
+n:Quiver
+c:1 gp
+z:2 gp
+}

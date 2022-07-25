@@ -1,0 +1,33 @@
+{
+n:Galley
+c:30000 gp
+p:4 mph
+}
+{
+n:Keelboat
+c:3000 gp
+p:1 mph
+}
+{
+n:Longship
+c:10000 gp
+p:3 mph
+}
+{
+n:Rowboat
+d:8 to 12 feet, 2 or 3 medium passengers
+c:50 gp
+z:75 gp
+w:100 lb
+p:1.5 mph
+}
+{
+n:Sailing Ship
+c:10000 gp
+p:2 mph
+}
+{
+n:Warship
+c:25000 gp
+p:2.5 mph
+}

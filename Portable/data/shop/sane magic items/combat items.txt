@@ -1,0 +1,504 @@
+{
+n:Vicious Weapon
+c:350 gp
+}
+{
+n:Adamantine Armor
+c:500 gp
+}
+{
+n:Mithral Armor
+c:800 gp
+}
+{
+n:+1 Weapon
+c:1000 gp
+}
+{
+n:Sword of Life-Stealing
+c:1000 gp
+}
+{
+n:Ioun Stone Protection
+c:1200 gp
+}
+{
+n:Wand of the War Mage +1
+c:1200 gp
+}
+{
+n:Bracers of Archery
+c:1500 gp
+}
+{
+n:Circlet of Blasting
+c:1500 gp
+}
+{
+n:Javelin of Lightning
+c:1500 gp
+}
+{
+n:Prayer Bead - Smiting
+c:1500 gp
+}
+{
+n:Wind Fan
+c:1500 gp
+}
+{
+n:Sword of Sharpness
+c:1700 gp
+}
+{
+n:Staff of the Adder
+c:1800 gp
+}
+{
+n:Dancing Sword
+c:2000 gp
+}
+{
+n:Glamoured Studded Leather
+c:2000 gp
+}
+{
+n:Pipes of the Sewers
+c:2000 gp
+}
+{
+n:Prayer Bead - Bless
+c:2000 gp
+}
+{
+n:Saddle of the Cavalier
+c:2000 gp
+}
+{
+n:Sword of Wounding
+c:2000 gp
+}
+{
+n:Frost Brand
+c:2200 gp
+}
+{
+n:Dagger of Venom
+c:2500 gp
+}
+{
+n:Gloves of Missile Snaring
+c:3000 gp
+}
+{
+n:Ioun Stone Agility
+c:3000 gp
+}
+{
+n:Ioun Stone Fortitude
+c:3000 gp
+}
+{
+n:Ioun Stone Insight
+c:3000 gp
+}
+{
+n:Ioun Stone Intellect
+c:3000 gp
+}
+{
+n:Ioun Stone Leadership
+c:3000 gp
+}
+{
+n:Ioun Stone Strength
+c:3000 gp
+}
+{
+n:Staff of Withering
+c:3000 gp
+}
+{
+n:Cloak of Protection
+c:3500 gp
+}
+{
+n:Oathbow
+c:3500 gp
+}
+{
+n:Ring of Protection
+c:3500 gp
+}
+{
+n:+2 Weapon
+c:4000 gp
+}
+{
+n:Boots of Speed
+c:4000 gp
+}
+{
+n:Dragon Scale Mail
+c:4000 gp
+}
+{
+n:Elven Chain
+c:4000 gp
+}
+{
+n:Ioun Stone Regeneration
+c:4000 gp
+}
+{
+n:Iron Bands of Bilarro
+c:4000 gp
+}
+{
+n:Prayer Bead - Curing
+c:4000 gp
+}
+{
+n:Rope of Entanglement
+c:4000 gp
+}
+{
+n:Wand of Enemy Detection
+c:4000 gp
+}
+{
+n:Luckstone
+c:4200 gp
+}
+{
+n:Wand of the War Mage +2
+c:4800 gp
+}
+{
+n:Flame Tongue
+c:5000 gp
+}
+{
+n:Periapt of Wound Closure
+c:5000 gp
+}
+{
+n:Ring of Evasion
+c:5000 gp
+}
+{
+n:Ring of the Ram
+c:5000 gp
+}
+{
+n:Tentacle Rod
+c:5000 gp
+}
+{
+n:Animated Shield
+c:6000 gp
+}
+{
+n:Armor of Resistance
+c:6000 gp
+}
+{
+n:Arrow-Catching Shield
+c:6000 gp
+}
+{
+n:Belt of Dwarvenkind
+c:6000 gp
+}
+{
+n:Bracers of Defense
+c:6000 gp
+}
+{
+n:Ioun Stone Reserve
+c:6000 gp
+}
+{
+n:Pearl of Power
+c:6000 gp
+}
+{
+n:Pipes of Haunting
+c:6000 gp
+}
+{
+n:Ring of Resistance
+c:6000 gp
+}
+{
+n:Robe of Scintillating Colors
+c:6000 gp
+}
+{
+n:Scimitar of Speed
+c:6000 gp
+}
+{
+n:Shield of Missile Attraction
+c:6000 gp
+}
+{
+n:Giant Slayer
+c:7000 gp
+}
+{
+n:Mace of Smiting
+c:7000 gp
+}
+{
+n:Brooch of Shielding
+c:7500 gp
+}
+{
+n:Amulet of Health
+c:8000 gp
+}
+{
+n:Dragon Slayer
+c:8000 gp
+}
+{
+n:Gauntlets of Ogre Power
+c:8000 gp
+}
+{
+n:Headband of Intellect
+c:8000 gp
+}
+{
+n:Mace of Disruption
+c:8000 gp
+}
+{
+n:Mace of Terror
+c:8000 gp
+}
+{
+n:Nine Lives Stealer(Fully Charged)
+c:8000 gp
+}
+{
+n:Wand of Magic Missiles
+c:8000 gp
+}
+{
+n:Wand of Web
+c:8000 gp
+}
+{
+n:Staff of Thunder and Lightning
+c:10000 gp
+}
+{
+n:Wand of Binding
+c:10000 gp
+}
+{
+n:Wand of Fear
+c:10000 gp
+}
+{
+n:Ioun Stone Awareness
+c:12000 gp
+}
+{
+n:Rod of the Pact Keeper +1
+c:12000 gp
+}
+{
+n:Staff of Charming
+c:12000 gp
+}
+{
+n:Sunblade
+c:12000 gp
+}
+{
+n:Staff of Healing
+c:13000 gp
+}
+{
+n:Ring of Shooting Stars
+c:14000 gp
+}
+{
+n:Ioun Stone Mastery
+c:15000 gp
+}
+{
+n:+3 Weapon
+c:16000 gp
+}
+{
+n:Hammer of Thunderbolts
+c:16000 gp
+}
+{
+n:Rod of the Pact Keeper +2
+c:16000 gp
+}
+{
+n:Staff of Fire
+c:16000 gp
+}
+{
+n:Staff of Swarming Insects
+c:16000 gp
+}
+{
+n:Wand of Paralysis
+c:16000 gp
+}
+{
+n:Ring of Fire Elemental Command
+c:17000 gp
+}
+{
+n:Dwarven Thrower
+c:18000 gp
+}
+{
+n:Wand of the War Mage +3
+c:19200 gp
+}
+{
+n:Efreeti Chain
+c:20000 gp
+}
+{
+n:Ring of Free Action
+c:20000 gp
+}
+{
+n:Sentinel Shield
+c:20000 gp
+}
+{
+n:Staff of Striking
+c:21000 gp
+}
+{
+n:Ring of Spell Storing
+c:24000 gp
+}
+{
+n:Vorpal Sword
+c:24000 gp
+}
+{
+n:Ring of Water Elemental Command
+c:25000 gp
+}
+{
+n:Rod of Alertness
+c:25000 gp
+}
+{
+n:Staff of Frost
+c:26000 gp
+}
+{
+n:Instrument of the Bards - Fochulan Bandlore
+c:26500 gp
+}
+{
+n:Instrument of the Bards - Mac-Fuirmidh Cittern
+c:27000 gp
+}
+{
+n:Rod of Lordly Might
+c:28000 gp
+}
+{
+n:Rod of the Pact Keeper +2
+c:28000 gp
+}
+{
+n:Instrument of the Bards - Doss Lute
+c:28500 gp
+}
+{
+n:Instrument of the Bards - Canaith Mandolin
+c:30000 gp
+}
+{
+n:Mantle of Spell Resistance
+c:30000 gp
+}
+{
+n:Ring of Spell Turning
+c:30000 gp
+}
+{
+n:Prayer Bead - Favor
+c:32000 gp
+}
+{
+n:Wand of Fireballs
+c:32000 gp
+}
+{
+n:Wand of Lightning Bolts
+c:32000 gp
+}
+{
+n:Wand of Polymorph
+c:32000 gp
+}
+{
+n:Instrument of the Bards - Cli Lyre
+c:35000 gp
+}
+{
+n:Scarab of Protection
+c:36000 gp
+}
+{
+n:Sword of Answering
+c:36000
+}
+{
+n:Staff of the Woodlands
+c:44000 gp
+}
+{
+n:Spellguard Shield
+c:50000 gp
+}
+{
+n:Cloak of Displacement	
+c:60000 gp
+}
+{
+n:Robe of Stars
+c:60000 gp
+}
+{
+n:Weapon of Warning
+c:60000 gp
+}
+{
+n:Prayer Bead - Wind Walking
+c:96000 gp
+}
+{
+n:Instrument of the Bards - Anstruth Harp	
+c:109000 gp
+}
+{
+n:Instrument of the Bards - Ollamh Harp
+c:125000 gp
+}
+{
+n:Prayer Bead - Summons
+c:128000 gp
+}
+{
+n:Holy Avenger
+c:165000 gp
+}

@@ -1,0 +1,29 @@
+{
+n:Gemstone Appraisal (3 gems)
+c:5 gp
+z:8 gp
+}
+{
+n:Resizing Jewelry
+c:10 gp
+z:15 gp
+}
+{
+n:Set Gem (<100 gp value)
+c:45 gp
+z:68 gp
+}
+{
+n:Set Gem (100-1K gp value)
+c:75 gp
+z:113 gp
+}
+{
+n:Set Gem (1k+ gp value)
+c:150 gp
+z:225 gp
+}
+{
+n:Stonecutting Gem value
+c:x0.25
+}

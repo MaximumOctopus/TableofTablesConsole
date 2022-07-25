@@ -1,0 +1,41 @@
+{
+i:Able to play a musical instrument
+i:Able to speak several languages fluently
+i:Able to write beautiful poetry
+i:Able to draw beautifully
+i:Able to paint beautifully
+i:Able to sing beautifully
+i:Able to drink everyone under the table
+i:Able to cook very well
+i:Able to juggle just about anything
+i:Able to play an instrument
+i:Able to recognize the tracks of any creature
+i:Able to win most arguments
+i:Able to communicate using the thieves' cant
+i:Able to spot small details at great distances
+i:Able to accurately appraise wine and spirits by tasting them
+i:Able to read lips very well
+i:Blind but has adapted to normal living
+i:Unbelievably lucky
+i:The owner of a perfect memory
+i:The owner of a restaurant
+i:The owner of a tavern
+i:Famous for an impressive incident
+i:Related to a famous hero
+i:Renowned for stopping a local menace
+i:Renowned for saved a young child
+i:Renowned for a craft or product
+i:Great with animals
+i:Great with children
+i:Great at solving puzzles
+i:Great at one game
+i:Great at impersonations
+i:An expert dart thrower and rock skipper
+i:An expert juggler
+i:An expert martial artist
+i:A skilled actor and master of disguise
+i:A skilled dancer
+i:A skilled 'sleight of hand' magician
+i:A skilled pick-pocket
+i:A skilled story teller
+}

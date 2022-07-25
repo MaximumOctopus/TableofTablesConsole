@@ -1,0 +1,79 @@
+{
+n:Ashlar block (1)
+d:Dressed and faced masonary stone
+c:1 cp
+}
+{
+n:Cotton (1 lb)
+c:1 gp
+w:1 lb
+}
+{
+n:Brass (1 lb)
+c:2 gp
+w:1 lb
+}
+{
+n:Bronze (1 lb)
+c:2 gp
+w:1 lb
+}
+{
+n:Electrum (1 lb)
+c:20 gp
+w:1 lb
+}
+{
+n:Ivory (1 lb)
+c:1 gp
+w:1 lb
+}
+{
+n:Lead (1 lb)
+c:2 sp
+w:1 lb
+}
+{
+n:Pewter (1 lb)
+c:5 sp
+w:1 lb
+}
+{
+n:Tallow (1 lb)
+c:2 sp
+w:1 lb
+}
+{
+n:Tin (1 lb)
+c:1 gp
+w:1 lb
+}
+{
+n:Tobacco (1 lb)
+c:5 cp
+w:1 lb
+}
+{
+n:Wax (1.5 lb)
+c:5 sp
+w:1 lb
+}
+{
+n:Wool (1 lb)
+c:2 sp
+w:1 lb
+}
+{
+n:Wool fleece (1.5 lb)
+c:3 sp
+w:1.5 lb
+}
+{
+n:Wool (sack)
+c:50 gp
+}
+{
+n:Zinc (1 lb)
+c:1 sp
+w:1 lb
+}

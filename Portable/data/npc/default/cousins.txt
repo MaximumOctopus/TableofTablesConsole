@@ -1,0 +1,6 @@
+{
+i:a few cousins
+i:one cousin
+i:no cousins
+i:many cousins
+}

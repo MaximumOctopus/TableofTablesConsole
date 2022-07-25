@@ -1,0 +1,8 @@
+{
+n:Goose (1)
+c:5 cp
+}
+{
+n:Servant / maid (1)
+c:200 gp
+}

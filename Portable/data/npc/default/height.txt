@@ -1,0 +1,11 @@
+{
+i:Short
+i:A little short
+i:Very short
+i:Extremely short
+i:Tall
+i:A little tall
+i:Very tall
+i:Extremely tall
+i:Of an average height
+}

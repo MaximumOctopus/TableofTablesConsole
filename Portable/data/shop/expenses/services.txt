@@ -1,0 +1,40 @@
+{
+n:Book Rental
+c:5+ sp
+i:year
+}
+{
+n:Dowry, Baron's Daughter
+c:20,000 gp
+}
+{
+n:Dowry, Esquire's Daughter
+c:1000 gp
+}
+{
+n:Dowry, Peasant
+c:15+ gp
+}
+{
+n:Fencing Instruction	
+c:10 gp
+i:month
+}
+{
+n:Funeral
+c:Varies
+}
+{
+n:Portrait
+c:20+ gp
+}
+{
+n:Prostitute (Common)
+n:5 sp
+i:hour
+}
+{
+n:Prostitute (Noble)
+c:15 gp
+i:hour
+}

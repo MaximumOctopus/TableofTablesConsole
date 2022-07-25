@@ -1,0 +1,337 @@
+{
+n:Amputation Knife
+c:15 gp
+m:1d4 slashing
+w:3 lbs.
+p:Light, Finesse
+}
+{
+n:Balisong
+c:1 gp
+m:1d4 Piercing
+w:1.5lbs
+p:Finesse, Light
+}
+{
+n:Banderilla
+c:4 sp
+m:1d4 piercing
+w:1/2 lb.
+p:Finesse, Light
+}
+{
+n:Bayonet
+c:5 gpm
+m:1d4 piercing
+w:1 lb.
+p:Light, Special
+}
+{
+n:Bokken
+c:5 gp
+m:1d4 bludgeoning
+w:1 lb.
+p:Light, Versatile (1d6), Finesse
+}
+{
+n:Bonesaw
+c:15 gp
+m:1d8 slashing
+w:8 lbs
+p:Finesse
+}
+{
+n:Brandistock
+c:10 gp
+m:1d8 piercing
+w:4 lb.
+p:Special, two-handed
+}
+{
+n:Brass Knuckle
+c:5 sp
+m:1d4 bludgeoning
+w:1 lb
+p:Light, hidden
+}
+{
+n:Broad Claw
+c:25 gp
+m:1d4 slashing
+w:3 lb.
+p:Finesse, light.
+}
+{
+n:Broken Sword
+c:5 sp
+m:1d4 piercing
+w:1 lb.
+p:Finesse, light
+}
+{
+n:Cestus
+c:5 sp
+m:1d4 bludgeoning
+w:1/2 lb.
+p:Light, special, Hidden
+}
+{
+n:Club
+c:1 sp
+z:2 sp
+}
+{
+n:Dagger
+c:2 gp
+z:3 gp
+}
+{
+n:Dagger Whip
+c:2 gp
+m:1d4 Slashing
+w:2 lb.
+p:Light, Reach, Hidden
+}
+{
+n:Dart
+c:4 sp
+m:1d3 piercing
+w:1/4 lb.
+p:Finesse, undersized, thrown (range 30/60).
+}
+{
+n:Doctor's Cane
+c:1 gp
+m:1d4 bludgeoning
+w:1.5 lbs
+p:Light, Versatile (1d6)
+}
+{
+n:Double Spear
+c:5 gp
+m:1d6 piercing
+w:4 lb.
+p:Thrown (20/60), versatile (1d8)
+}
+{
+n:Falx
+c:8 gp
+m:1d6 slashing
+w:3 lb.
+p:Versatile (1d8)
+}
+{
+n:Fauchard
+c:10 gp
+m:1d6 slashing
+w:7 lb.
+p:Heavy, reach, two-handed
+}
+{
+n:Gavel
+c:5 sp
+m:1d4 bludgeoning
+w:1/2 lb.
+p:Undersized.
+}
+{
+n:Godentag
+c:10 gp
+m:1d8 bludgeoning or piercing
+w:12 lb
+p:Heavy, Two-handed.
+}
+{
+n:Greatclub
+c:2 sp
+z:3 sp
+}
+{
+n:Greatspear
+c:75 gp
+m:1d8 piercing
+w:8 lb.
+p:Oversized (1d10), thrown (range 20/60), two-handed
+}
+{
+n:Handaxe
+c:5 gp
+z:8 gp
+}
+{
+n:Iron Claw
+c:5 gp
+m:1d3 piercing
+w:2 lb.
+p:Finesse, Hidden, Undersized.
+}
+{
+n:Iron Gauntlets
+d:* (Monk Classes Roll an Additional 1d4 to already existing roll)
+c:3 gp
+m:1d4 Bludgeoning *
+w:2 lbs.
+p:Finesse, Flurry, Versatile
+}
+{
+n:Javelin
+c:5 sp
+z:8 gp
+}
+{
+n:Karambit
+c:4 gp
+m:1d4 slashing
+w:1 lb.
+p:Finesse, light.
+}
+{
+n:Katar
+c:5 gp
+m:1d6 piercing
+w:1 lb.
+p:Finesse, light
+}
+{
+n:Knife
+c:2 sp
+m:1d4 slashing
+w:1/4 lb.
+p:Finesse, Undersized, Hidden
+}
+{
+n:Knuckle Axe
+c:5 gp
+m:1d4 slashing
+w:2 lb.
+p:Finesse, light.
+}
+{
+n:Ko•
+c:1 gp(kreen) 5 gp(other)
+m:1d4 piercing or bludgeoning
+w:1 lb.
+p:Finesse, light, special, Undersized
+}
+{
+n:Kukri
+c:6 gp
+m:1d6 slashing
+w:2 lb.
+p:Light, Finesse,Thrown (range 20/60).
+}
+{
+n:Leather Gauntlets
+c:10 gp
+m:1d2 bludgeoning
+w:1/4 lb.
+p:Two-Handed, Finesse, Special
+}
+{
+n:Light Hammer
+c:2 gp
+z:3 gp
+}
+{
+n:Mace
+c:5 gp
+z:8 gp
+}
+{
+n:Monk's Glaive
+c:5 gp
+m:1d6 slashing
+w:4 lb.
+p:Versatile (1d8 piercing)
+}
+{
+n:Needle
+c:2 sp
+m:1d4 piercing
+w:1/4 lb.
+p:Finesse, undersized, ranged 20/60
+}
+{
+n:Quarterstaff
+c:2 sp
+z:3 sp
+m:1d6 bludgeoning
+w:4lb
+p:Versatile (1d8)
+}
+{
+n:Sap
+c:1 gp
+m:1d4 bludgeoning
+w:2 lb.
+p:Finesse, light, Hidden, Undersized.
+}
+{
+n:Scythe
+c:5 gp
+m:2d4 slashing
+w:5 lb.
+p:Heavy, two-handed
+}
+{
+n:Sickle
+c:5sp
+z:2 gp
+m:1d6 slashing
+w:2lb
+p:Light
+}
+{
+n:Spear
+c:1 gp
+z:2 gp
+}
+{
+n:Steel Gauntlets
+c:5 gp
+m:1d3 bludgeoning
+w:2 lb.
+p:Special
+}
+{
+n:Stiletto Knife
+c:4 sp
+m:1d4 Piercing
+w:1 lb.
+p?:Finesse, hidden, light, thrown (20/60), undersized
+}
+{
+n:Torch Mace
+c:6 gp
+m:1d4 bludgeoning
+w:2 lb.
+p:Special
+}
+{
+n:Torch Staff
+c:12 gp
+m:2d4 bludgeoning
+w:7 lb.
+p:Heavy, special, two-handed
+}
+{
+n:Townshend's Crudgel
+c:38gp
+m:1d6 Bludgeoning
+w:4 lb.
+p:Versatile (1d8)
+}
+{
+n:War Ribbon
+c:1 sp
+m:1d3 slashing
+w:1/4 lb.
+p:Finesse, hidden, reach, special
+}
+{
+n:Ōtsuchi
+c:10 gp
+m:1d8 bludgeoning
+w:6 lbs.
+p:Heavy, Two-handed
+}

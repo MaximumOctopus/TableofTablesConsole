@@ -1,0 +1,55 @@
+{
+n:Camel
+c:50 gp
+p:speed 50 ft
+d:carry capacity 480 lbs
+}
+{
+n:Donkey or Mule
+c:8 gp
+p:speed 40 ft
+d:carry capacity 420 lbs
+}
+{
+n:Elephant
+c:200 gp
+p:speed 40 ft
+d:carry capacity 1,320 lbs
+}
+{
+n:Horse, draft
+c:50 gp
+p:speed 40 ft
+d:carry capacity 540 lbs.
+}
+{
+n:Horse, riding
+c:75 gp
+p:speed 60 ft
+d:carry capacity 480 lbs.
+}
+{
+n:Mastiff
+c:25 gp
+p:speed 40 ft
+d:carry capacity 195 lbs
+}
+{
+n:Pony
+c:30 gp
+p:speed 40 ft
+d:carry capacity 225 lbs.
+}
+{
+n:Warhorse
+c:400 gp
+p:speed 60 ft
+d:carry capacity 540 lbs
+}
+{
+n:Griffon
+c:600 gp (egg)
+d:Must be raised from an egg. Will allow only one person to ever ride it for its entire life
+p:speed 30 ft; 80 ft (fly)
+d:carry capacity 540 lbs; 320 lbs (fly)
+}

@@ -1,0 +1,25 @@
+{
+i:Distinctive Jewelry
+i:Piercings
+i:Missing teeth
+i:Missing fingers
+i:An unusual amount of body hair
+i:A patch over one eye
+i:Two different eye colors
+i:Unusual skin color
+i:A noticeable birthmark
+i:A noticable mole
+i:A unique hair color
+i:A visible scar
+i:Baldness
+i:Braided hair
+i:A nervous eye twitch
+i:A distinctive nose
+i:A bent, crooked posture
+i:An upright, rigid posture
+i:Exceptional Beauty
+i:Exceptional Ugliness
+i:Long hair
+i:A lot of freckles
+i:A large hump
+}

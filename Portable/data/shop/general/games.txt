@@ -1,0 +1,20 @@
+{
+n:Dice Set
+c:1 sp
+z:2 sp
+}
+{
+n:Dragonchess Set
+c:1 gp
+z:2 gp
+}
+{
+n:Playing Card Set
+c:5 sp
+z:8 sp
+}
+{
+n:Three-Dragon Ante Set
+c:1 gp
+z:2 gp
+}

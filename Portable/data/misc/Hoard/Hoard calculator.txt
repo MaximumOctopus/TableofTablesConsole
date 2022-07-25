@@ -1,0 +1,58 @@
+// based on 
+// https://docs.google.com/spreadsheets/d/1G_PmUM9ONAND7qwiS2ZPHxsT4Le1A8ts9Ig2c18VAHc/edit#gid=796186040
+//
+// do not alter the order of the coins :)
+
+//
+// n:name
+// w:weight per coin, grams
+// d:densigy g/cm^3
+// r:radius cm
+// t:thickness cm
+// v:volume cm^3
+// p:packed volume cm^3
+// q:packing density
+
+{
+n:copper
+w:9.07
+d:10.49
+r:1.27
+t:0.20
+v:1.0125
+p:1.69
+q:0.60
+}
+
+{
+n:silver
+w:9.07
+d:8.96
+r:1
+t:0.20
+v:0.8654
+p:1.44
+q:0.60
+}
+
+{
+n:gold
+w:9.07
+d:19.30
+r:1
+t:0.15
+v:0.47
+p:0.78
+q:0.60
+}
+
+{
+n:platinum
+w:9.07
+d:21.45
+r:0.94
+t:0.15
+v:0.42
+p:0.70
+q:0.60
+}

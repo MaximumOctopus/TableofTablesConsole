@@ -1,0 +1,21 @@
+// if you add new options to this you *must* add
+// corresponding entries to:
+// highability.txt
+// lowability.txt
+{
+i:Human
+i:Wood Elf
+i:High Elf
+i:Drow
+i:Mountain Dwarf
+i:Hill Dwarf
+i:Half-elf
+i:Stout Halfling
+i:Lightfoot Halfling
+i:Half-orc
+i:Tiefling
+i:Dragonborn
+i:Forest Gnome
+i:Rock Gnome
+}
+}
