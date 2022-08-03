@@ -1,4 +1,6 @@
 # TableofTablesConsole
 Console version of Table of Tables
 
-In developement, first release due August 2022.
+In developement, first non-alpha release due late August 2022.
+
+Current code is alpha.
