@@ -1,1 +1,0 @@
-saved searches and favourites are saved in here.
