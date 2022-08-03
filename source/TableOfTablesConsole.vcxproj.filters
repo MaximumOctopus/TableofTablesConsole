@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Shop">
+      <UniqueIdentifier>{c43158ec-c067-4800-8a0d-1bb59a9e4c9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shop">
+      <UniqueIdentifier>{64520ba4-61af-4702-b3a4-f16afddd4adb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Settings">
+      <UniqueIdentifier>{9de6f8fb-4eae-4844-a21d-db45410a41e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Settings">
+      <UniqueIdentifier>{715bae7e-6933-46e3-a45f-c12a5619fa6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Names">
+      <UniqueIdentifier>{89e6e335-4ff0-4710-b02c-ce73bf9beeb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Names">
+      <UniqueIdentifier>{e77ed72b-9bf7-44cf-86fa-993bb4855129}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\TreasureHoard">
+      <UniqueIdentifier>{97423662-72ad-4164-8d30-639cb9a65d8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TreasureHoard">
+      <UniqueIdentifier>{53b00e9e-a6c4-4d72-8adf-93dcc07254cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utility">
+      <UniqueIdentifier>{9e336547-b279-4e80-bd4c-3a2229a190b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utility">
+      <UniqueIdentifier>{319ed155-2106-4051-a895-b60840c40878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Commands">
+      <UniqueIdentifier>{e115daea-3210-4d7d-806a-1caacc95acff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Commands">
+      <UniqueIdentifier>{cc0ba146-3988-4959-8b08-8ac3b37be31f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dice">
+      <UniqueIdentifier>{77250546-cac0-4204-9efe-6bf34f2ef205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Dice">
+      <UniqueIdentifier>{302e92cf-bbb7-4944-891d-e50db33ff058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tables">
+      <UniqueIdentifier>{0edc2243-cc8b-4c8d-aec7-e98259733080}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tables">
+      <UniqueIdentifier>{c77d7612-3c65-4d62-b116-b7cb09b4daf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NPCs">
+      <UniqueIdentifier>{71ed879e-d29e-4652-858b-60b1b4b33734}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NPCs">
+      <UniqueIdentifier>{1b91d296-0967-4717-8a91-668a8c6e1dc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Help">
+      <UniqueIdentifier>{352654de-fd02-49a2-a947-21ca1d5496a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Help">
+      <UniqueIdentifier>{787e4ece-7e0f-4d64-9596-f25d9b05fbda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base">
+      <UniqueIdentifier>{68497a1d-5e70-4404-abf9-f71d4961bcb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Base">
+      <UniqueIdentifier>{d9b2e3a3-379c-4636-8629-609e2f8b406a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Search">
+      <UniqueIdentifier>{d626f648-9936-468e-bc72-bcf4f9a884cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TableOfTablesConsole.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NamesHandler.cpp">
+      <Filter>Source Files\Names</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalObjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Settings.cpp">
+      <Filter>Source Files\Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="Name.cpp">
+      <Filter>Source Files\Names</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandHandler.cpp">
+      <Filter>Source Files\Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="HoardHandler.cpp">
+      <Filter>Source Files\TreasureHoard</Filter>
+    </ClCompile>
+    <ClCompile Include="HoardCoin.cpp">
+      <Filter>Source Files\TreasureHoard</Filter>
+    </ClCompile>
+    <ClCompile Include="DiceHandler.cpp">
+      <Filter>Source Files\Dice</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopHandler.cpp">
+      <Filter>Source Files\Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>Source Files\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCHandler.cpp">
+      <Filter>Source Files\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>Source Files\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="TableHandler.cpp">
+      <Filter>Source Files\Tables</Filter>
+    </ClCompile>
+    <ClCompile Include="Help.cpp">
+      <Filter>Source Files\Help</Filter>
+    </ClCompile>
+    <ClCompile Include="Welcome.cpp">
+      <Filter>Source Files\Help</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseHandler.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="ToTUtility.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Output.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Command.cpp">
+      <Filter>Source Files\Commands</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ShopItem.h">
+      <Filter>Header Files\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="Name.h">
+      <Filter>Header Files\Names</Filter>
+    </ClInclude>
+    <ClInclude Include="NamesHandler.h">
+      <Filter>Header Files\Names</Filter>
+    </ClInclude>
+    <ClInclude Include="HoardCoin.h">
+      <Filter>Header Files\TreasureHoard</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopCategory.h">
+      <Filter>Header Files\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopSubCategory.h">
+      <Filter>Header Files\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalObjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Header Files\Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandHandler.h">
+      <Filter>Header Files\Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Header Files\Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="HoardHandler.h">
+      <Filter>Header Files\TreasureHoard</Filter>
+    </ClInclude>
+    <ClInclude Include="DiceHandler.h">
+      <Filter>Header Files\Dice</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Header Files\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="TableCategory.h">
+      <Filter>Header Files\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopHandler.h">
+      <Filter>Header Files\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>Header Files\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCSub.h">
+      <Filter>Header Files\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCHandler.h">
+      <Filter>Header Files\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemResponse.h">
+      <Filter>Header Files\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="TableHandler.h">
+      <Filter>Header Files\Tables</Filter>
+    </ClInclude>
+    <ClInclude Include="Help.h">
+      <Filter>Header Files\Help</Filter>
+    </ClInclude>
+    <ClInclude Include="Welcome.h">
+      <Filter>Header Files\Help</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseHandler.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ToTUtility.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchItem.h">
+      <Filter>Header Files\Search</Filter>
+    </ClInclude>
+    <ClInclude Include="Favourite.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Output.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Group.h">
+      <Filter>Header Files\Tables</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
