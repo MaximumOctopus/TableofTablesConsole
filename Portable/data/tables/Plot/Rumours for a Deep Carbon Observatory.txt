@@ -1,0 +1,103 @@
+{
+d:d100
+i:There's a giant squid somewhere in the river!
+i:There's a giant hermit crab somewhere in the river!
+i:There are giant pike in the river!
+i:My cousin's butcher's aunt's gardener said there's a giant golden barge in the river!
+i:There's a hill-island where a whole bunch of farm animals ended up.
+i:There's a tree that has a bunch of people hung on it.
+i:There's a catfish dragon that's asking people riddles, and eating thems as can't answer.
+i:There's a necromancer that's killing people on the river.
+i:There are cannibals on the loose in Carrowmore.
+i:Enchanters from the Carrowmore guild of magic users are investigating the cause of the flooding.
+i:Those worshipping the cult of the god of sight caused this flood.
+i:A wizard is paying good gold for the corpses of giant electric eels.
+i:There's a mad golem on the loose, trying to build a dam.
+i:There are a bunch of adventurers who are going to investigate. One has a bronze eagle on his chest plate, and another has a glowing mace.
+i:Stary Hrad is paying good gold to investigate the cause of the flood.
+i:The captain of the Lapitan will pay for information about the flood.
+i:Giant man-eating toads hide on islands in the river, eating anyone who swims to them in exhaustion.
+i:The god of balance unleashed this flood, because the people of Carrowmore were getting to powerful.
+i:A giant eagle has been killing giant crabs by snatching them up and dropping them on a rocky island.
+i:There's a riverbarge that ran aground, it has three tons of grain aboard.
+i:A giant goldfish is knocking over boats and eating anyone who falls overboard.
+i:A mad prophet swears there are golden houses under the lake. How would anyone get to them?
+i:There were dark things best left at the bottom of lakes up in the mountains. Bad times are coming.
+i:There's a plague starting. It starts with sniffles and a sore belly.
+i:There was a dam. They say it was also a tomb. Now it has burst open, and the dead within are killing whomever they find in frustrated vengeance.
+i:There are mermaids in the river, from a lake in the mountain. Plug your ears, or their song will drive you mad with lust.
+i:A giant albatross is scooping up skiffs whole in its beak, then dropping them on a rocky island to kill everyone.
+i:The family that lead the village of Pollnacrom are a line of seers. Look to them for guidance.
+i:There's a mad traveller says that there's a village on a lake in the mountains. Ridiculous!
+i:A mad necromancer dammed a lake a thousand years ago, and filled it with zombies he killed by feeding them molten lead. Now that the dam burst, the zombies are pouring out.
+i:A mad pyromancer summoned a host of fire elementals who melted the glaciers in the mountains, and caused the flood.
+i:This flood is the first catastrophe. After this will be a plague, then fires, then panthers falling from the sky! They'll come one week after another.
+i:If you fall in the river, you only have a minute to get back out, otherwise you'll be turned into a fish!
+i:There's a talking fish in the river. If you let it go, it will give you a wish!
+i:The wizard Torrens Arctus has been looking for a library hidden in a hill in the north. He's frantic, now, because of the flooding, and will buy information to the library from anyone who cai: give him proof!
+i:The mountains are cursed by cannibal water dwarves. Their old god cursed them by making them aquatic and trapping them in a watery maze. A million years later, they're looking for revenge on the air breathers. They're coming down stream now!
+i:The lads on the ferry say they saw a dwarf with a bow, and he took shots at them. Whoever heard of a dwarf with a bow!?
+i:Some mad lads are saynig Terbil Tem killed one of their mates with a wood axe! Terbil Tem is harmless. He wouldn't hurt a fly!
+i:There's a man says there's some duck-gryphon in the river. A duck bill and legs a duck, but the body of a beaver.
+i:There's a tall oak in the river to the north, and it belongs to the hanging god. In a hole in the oak, about twenty feet up, there's an eye patch and a spear head. Whomever puts on the eye patch and puts the spearhead on a staff will become an avatar of the hanging god on this world.
+i:There are five golems up the river. If they're brought together, they merge into a giant super golem. Whomever is there can enter it and direct it from the inside.
+i:There's a witch hunter, Zolichka Vanderluth, who's looking to finally end the life of the witch of Pollnacrom.
+i:The people of Pollnacrom hate the people of Pollangollum, and will kill them on sight. They people of Pollangollum return the favor.
+i:There's a mummy on the river, floating in its sarcophagus. Don't go near it with a powerful priest, or you'll die a slow and painful death.
+i:There's something in this flood water that is making people mad. See things that aren't there, and miss things that are in plain sight!
+i:Look for the giant blue stork! It will give the baby avatar of the sun god to whomever give it a giant fish's corpse to eat!
+i:Don't go into the mountains! There's a cloud giant party there. They're drunk, but they'll kill anyone who's not a giant and shows up there. The water is from their rain and their returning of beer!
+i:There is a volcano in those mountains. The god of the waters caused freezing snow and ice to fall on top of it and make a glacier to keep it dormant for a thousand years, but now it has all melted, and nobody worships her anymore. After the water, we'll be flooded with lava!
+i:There's a vampire in Pollangollum who wants to feed on your blood.
+i:The witch of Pollangollum can make you strong, if you do as she asks.
+i:There's a goldfish in the river, and its scales are made of real gold!
+i:If you eat a goldfish, you will be immune to magic for a week and a day.
+i:Duran is sick of working his mother's ferry, and will join any group who needs muscle, for a share of the loot.
+i:The Riverserpent put in just before the flood hit Carrowmore. It has a hold full of food.
+i:There is a strange tower on a hill along the river that is only visible in the light of a full moon.
+i:The priests of the optical god can shoot light out of their eyes so strong it strikes like a crossbow bolt.
+i:There is a mace that holds sunlight hidden in the church of the optical god.
+i:Making a sacrifice on the altar of the optical god will protect you from undead until the next full moon.
+i:For the safest trip up the river, find the giant turtle, and feed it fish every day.
+i:The thieve's guild of Carrowmore has boots of water walking.
+i:The seers of Pollnacrum have a crystal orb that lets them see anything going on within site of the river.
+i:Goblins on canoes have been seen searching the rivers, or scouting.
+i:The giant squid desires horse and goat flesh above anything else.
+i:Beware the three-eyed tentacled fish, it will eat your soul.
+i:The three-eyed fish can grant you the ability to breath under water.
+i:The three-eyed fish seeks to learn from magic users.
+i:There is no such thing as a three-eyed fish!
+i:There is a windmill on a hill beside the river, and the miller's goodwife is a witch.
+i:A swamp dragon is on the prowl in the eddies off the main stream of the river. It is particularly looking for anyone with gold and gems.
+i:This flood was caused by the evil dwarves of the deep darkness. They're isolating us, and will raid us for slaves some night soon.
+i:Old Davey can teach you how to call the dolphins to aid you, but you'll have to do something for him, first.
+i:Ophelia the river witch can make sure you're not attacked by wild animals as you go, but she charges outrageous rates!
+i:The church of the Sun God will provide help against undead for those that help its followers and the desperate in these times.
+i:The church of the Sun God has a ritual available for drying up water.
+i:This flood was sent to destroy an ancient crypt that was about to release an endless swarm of undead into this region.
+i:The sign of the Nature god engraved on the bottom of your hull will repel animals from attacking you.
+i:Tzani Spillios is looking for an escort to investigate old references to a large dam in the mountains, at the source of the river.
+i:A priest named Tham Ruesie is offering a reward for recovery of a fancy spoon.
+i:A noble in Carrowmore is looking for
+i:Followers of the war god claim the followers of the sun god released this cataclysmic flood to cripple the war god's forces and leave them open to invasion by halflings.
+i:The Duke of Carrowmore is looking to for adventurers willing to capture giant golems reported upstream, so that they can be brought to Carrowmore and used to shore up the surrounding areas.
+i:Dock workers warn that the city will run out of food within a week if this flood is not dealt with by then.
+i:The daughter of the Duke of Carrowmore was out riding when the flood hit, and she is missing. The Duke is unofficially offering a substantial reward for her return, but will not publicly state this since he does not want to expose that weakness.
+i:A church leader of a minor cult is looking for discrete assistance in recovering an artifact which has gone missing during this flood. Serious inquiries only. Expenses paid. Divine benefits.
+i:There's a giant turtle somewhere in the river. It likes to eat horses.
+i:There's a herd of normal sized hippopotomi in the river. Someone saw the bull fight a giant pike and win. Don't mess with hippopotomi!
+i:i:There are hippopotomus gryphons in the mountains near the head of the river. Avoid travelling below their standard route from the mountains to the river depths.
+i:There is a ring of standing stones a few days to the north by boat. Walk widdershins around it three times three times, to enter the fae lands.
+i:The grey elves that live here can tell you of the nightmare elves that well in the mountains to the north.
+i:With the right focus, a crucible filled with lead and placed on the altar of the ocular god will turn that lead into gold.
+i:Just south of Pollancrum village is rumored to be a tree that provides golden apples. The apples are only golden colored, but very filling, even for their size, and keep for at least a week in a traveller's sack. They are even rumored to help heal certain ailments.
+i:An old druid tends to the standing stones on the hill to the north, just south of the mountains. He may be able to provide helpful berries to you, if you can grant him something of value.
+i:There is a clan in Pollangollum village that has special recipes for electric eel and pike fillets.
+i:This is a divine flood. In seven days, it will erode Carrowmore from its foundation and wash it out to sea.
+i:Freshwater merfolk are harvesting the grains from the farms, to return to Carrowmore to prevent a famine.
+i:The eccentric Carrowmore merchant Kardifas Muram wants you to take him on a trip to the headwaters of the river, where he believes you will find a giant beaver dam. He wants to make a fur coat out of it.
+i:Klugerschmidt Baystep, the Duke of Carrowmore's chef, is looking for recipes and samples of unusual river life to prepare for his lord's table.
+i:Some people have found corpses with gold dust in their mouths. Nobody has a good explanation for it.
+i:The mud that has been washed downstream will let you breathe water as though it were air if you keep it in our mouth.
+i:The wererats of Carrowmore are fleeing aboard ships.
+}
