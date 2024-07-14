@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -28,20 +28,20 @@ BaseHandler::BaseHandler()
 {
     if (LoadSearchResults(RootFolder + L"saves\\" + FilePrefix + L"_search.txt"))
     {
-        std::wcout << L"Loaded search results.\n";
+        std::wcout << L"   Loaded search results.\n";
     }
     else
     {
-        std::wcout << L"Failed to load search results.\n";
+        std::wcout << L"   Failed to load search results.\n";
     }
 
     if (LoadFavourites(RootFolder + L"saves\\" + FilePrefix + L"_favs.txt"))
     {
-        std::wcout << L"Loaded favourites.\n";
+        std::wcout << L"   Loaded favourites.\n";
     }
     else
     {
-        std::wcout << L"Failed to load favourites.\n";
+        std::wcout << L"   Failed to load favourites.\n";
     }
 }
 
@@ -50,20 +50,20 @@ BaseHandler::~BaseHandler()
 {
     if (SaveSearchResults(RootFolder + L"saves\\" + FilePrefix + L"_search.txt"))
     {
-        std::wcout << L"Saved search results.\n";
+        std::wcout << L"   Saved search results.\n";
     }
     else
     {
-        std::wcout << L"Failed to save search results.\n";
+        std::wcout << L"   Failed to save search results.\n";
     }
 
     if (SaveFavourites(RootFolder + L"saves\\" + FilePrefix + L"_favs.txt"))
     {
-        std::wcout << L"Saved favourites results.\n";
+        std::wcout << L"   Saved favourites results.\n";
     }
     else
     {
-        std::wcout << L"Failed to save favourites.\n";
+        std::wcout << L"   Failed to save favourites.\n";
     }
 }
 

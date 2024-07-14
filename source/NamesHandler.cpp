@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -53,7 +53,11 @@ bool NamesHandler::ProcessCommand(Command c)
 
         if (!HandleOtherTasks(c))
         {
-            if (c.secondary == L"")
+            if (c.secondary == L"help" || c.secondary == L"?")
+            {
+                Help();
+            } 
+            else if (c.secondary == L"")
             {
                 category = Last.secondary;
             }
@@ -111,6 +115,12 @@ void NamesHandler::List(Command c)
     {
         std::wcout << t << " \"" << Names[t].Description << "\"\n";
     }
+}
+
+
+void NamesHandler::Show(Command c)
+{
+
 }
 
 

@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Table of Tables sub-reddit.
@@ -47,6 +47,7 @@ protected:
 
 	virtual void Help() = 0;
 	virtual void List(Command) = 0;
+	virtual void Show(Command) = 0;
 	virtual void Stats(Command) = 0;
 
 	virtual bool Search(const std::wstring, bool) = 0;

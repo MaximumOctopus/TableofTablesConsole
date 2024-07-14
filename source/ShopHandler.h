@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -32,6 +32,7 @@ class ShopHandler: public BaseHandler
 
 	virtual void Help();
 	virtual void List(Command);
+	virtual void Show(Command);
 
 	bool ShowItem(int, int, int);
 

@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -55,7 +55,13 @@ bool HoardHandler::ProcessCommand(Command c)
             return true;
         }
 
-        if (c.secondary == L"")
+        if (c.secondary == L"help" || c.secondary == L"?")
+        {
+            Help();
+
+            return true;
+        }
+        else if (c.secondary == L"")
         {
             category = Last.secondary;
         }
@@ -130,6 +136,12 @@ void HoardHandler::List(Command c)
     {
         std::wcout << "\"" << Hoards[t].Description << "\"\n";
     }
+}
+
+
+void HoardHandler::Show(Command c)
+{
+
 }
 
 

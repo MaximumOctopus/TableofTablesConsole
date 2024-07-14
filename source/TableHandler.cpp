@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -66,7 +66,15 @@ bool TableHandler::ProcessCommand(Command c)
 			c.tertiary = Last.tertiary;
 		}
 
-		if (c.secondary == L"search")
+		if (c.secondary == L"help" || c.secondary == L"?")
+		{
+			Help();
+		}
+		else if (c.secondary == L"list")
+		{
+			List(c);
+		}
+		else if (c.secondary == L"search")
 		{
 			if (c.tertiary != L"show")
 			{
@@ -245,6 +253,20 @@ bool TableHandler::SearchIn(const std::wstring input)
 
 bool TableHandler::SearchShow()
 {
+	if (SearchResults.SearchItems.size() != 0)
+	{
+		std::wcout << L" \"" << SearchResults.OriginalCommand << L"\" \n";
+
+		for (int t = 0; t < SearchResults.SearchItems.size(); t++)
+		{
+			std::wcout << L"   " << Tables[SearchResults.SearchItems[t].Level1].Items[SearchResults.SearchItems[t].Level2] << "\n";
+		}
+
+		std::wcout << "\n";
+
+		return true;
+	}
+
 	return false;
 }
 
@@ -346,7 +368,14 @@ void TableHandler::List(Command c)
 {
 	if (c.tertiary == L"")
 	{
-		c.tertiary = Last.tertiary;
+		if (Last.tertiary.empty())
+		{
+			c.tertiary = L"cat";
+		}
+		else
+		{
+			c.tertiary = Last.tertiary;
+		}
 	}
 
 	if (c.tertiary == L"cat")
@@ -361,6 +390,50 @@ void TableHandler::List(Command c)
 		for (int t = 0; t < SubCategories.size(); t++)
 		{
 			std::wcout << L" " << Utility::PadRight(t, 3) << L" \"" << SubCategories[t].Title << L"\".\n";
+		}
+	}
+}
+
+
+void TableHandler::Show(Command c)
+{
+	if (c.tertiary == L"")
+	{
+		if (Last.tertiary.empty())
+		{
+			c.tertiary = L"cat";
+		}
+		else
+		{
+			c.tertiary = Last.tertiary;
+		}
+	}
+
+	if (c.quaternary == L"")
+	{
+		return;
+	}
+
+	int meow = stoi(c.quaternary);
+
+	if (c.tertiary == L"cat")
+	{
+		for (int t = 0; t < Tables.size(); t++)
+		{
+			if (Tables[t].CategoryID == meow)
+			{
+				std::wcout << L" " << Utility::PadRight(t, 3) << L" \"" << Tables[t].Title << L"\".\n";
+			}
+		}
+	}
+	else if (c.tertiary == L"subcat")
+	{
+		for (int t = 0; t < Tables.size(); t++)
+		{
+			if (Tables[t].SubID == meow)
+			{
+				std::wcout << L" " << Utility::PadRight(t, 3) << L" \"" << Tables[t].Title << L"\".\n";
+			}
 		}
 	}
 }
@@ -768,8 +841,12 @@ int TableHandler::FindSubCategoryFrom(const std::wstring cat, const std::wstring
 
 void TableHandler::Help()
 {
+	std::wcout << L"\nAvailable \"table\" commands:\n\n";
 	std::wcout << L"  table help\n";
-	std::wcout << L"  table list\n";
+	std::wcout << L"  table list cat\n";
+	std::wcout << L"  table list subcat\n";
+	std::wcout << L"  table show cat n\n";
+	std::wcout << L"  table show subcat n\n";
 	std::wcout << L"  table stats\n\n";
 	std::wcout << L"  table roll table_id\n";
 	std::wcout << L"  table rollall table_id\n";

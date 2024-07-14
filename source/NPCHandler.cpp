@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -48,6 +48,13 @@ bool NPCHandler::ProcessCommand(Command c)
     {
         Last = c;
 
+        if (c.secondary == L"help" || c.secondary == L"?")
+        {
+            Help();
+
+            return true;
+        }
+
         if (HandleOtherTasks(c))
         {
             return true;
@@ -86,8 +93,14 @@ void NPCHandler::List(Command c)
 {
     for (int t = 0; t < NPCs.size(); t++)
     {
-        std::wcout << L" " << t << NPCs[t].Description << "\n";
+        std::wcout << L" " << t << L"  " << NPCs[t].Description << "\n";
     }
+}
+
+
+void NPCHandler::Show(Command c)
+{
+
 }
 
 

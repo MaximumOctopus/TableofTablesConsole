@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -16,6 +16,7 @@
 
 #include "CommandHandler.h"
 #include "DiceHandler.h"
+#include "Help.h"
 #include "HoardHandler.h"
 #include "NamesHandler.h"
 #include "NPCHandler.h"
@@ -149,6 +150,7 @@ void CommandHandler::ExecuteCommand(Command c)
 	switch (c.primary)
 	{
 	case PrimaryCommand::Help:
+		Help::ProcessCommand(c);
 		break;
 
 	case PrimaryCommand::Process:

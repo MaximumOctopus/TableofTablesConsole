@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -217,6 +217,20 @@ bool ShopHandler::SearchIn(const std::wstring input)
 
 bool ShopHandler::SearchShow()
 {
+    if (SearchResults.SearchItems.size() != 0)
+    {
+        std::wcout << L" \"" << SearchResults.OriginalCommand << L"\" \n";
+
+        for (int t = 0; t < SearchResults.SearchItems.size(); t++)
+        {
+            std::wcout << L"   " << ShopCategories[SearchResults.SearchItems[t].Level1].SubCategories[SearchResults.SearchItems[t].Level2].Items[SearchResults.SearchItems[t].Level3].Name << "\n";
+        }
+
+        std::wcout << "\n";
+
+        return true;
+    }
+
     return false;
 }
 
@@ -258,6 +272,11 @@ void ShopHandler::List(Command c)
             std::wcout << L" Invalid subcategory value \"" << c.quaternary << "\". Should be 0 to " << ShopCategories.size() << L".\n";
         }
     }
+}
+
+void ShopHandler::Show(Command c)
+{
+
 }
 
 

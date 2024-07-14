@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -19,6 +19,6 @@
 
 namespace Constants
 {
-	static const std::wstring ToTCVersion = L"2.0 ALPHA";
-	static const std::wstring ToTCDate = L"August 2022";
+	static const std::wstring ToTCVersion = L"2.1 ALPHA";
+	static const std::wstring ToTCDate = L"July 11th 2024";
 }

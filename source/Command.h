@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -17,14 +17,17 @@
 #include <string>
 
 
-static const int kCommandCount = 11; 
+static const int kCommandCount = 12; 
 
 enum class PrimaryCommand { None = 0, Exit = 1, Help = 2, Process = 3, Stats = 4, Name = 5, Hoard = 6, DiceRoll = 7, NPC = 8, Table = 9, Shop = 10 };
 
-static const std::wstring ValidCommandText[kCommandCount] = { L"", L"exit", L"help", L"@", L"stats", L"name", L"hoard", L"roll", L"npc", L"table", L"shop"};
+static const std::wstring ValidCommandText[kCommandCount] = { L"", L"exit", L"help", L"?", L"@", L"stats", L"name", L"hoard", L"roll", L"npc", L"table", L"shop"};
 
-static const PrimaryCommand ValidCommands[kCommandCount] = { PrimaryCommand::None, PrimaryCommand::Exit, PrimaryCommand::Help, PrimaryCommand::Process, PrimaryCommand::Stats,
-	PrimaryCommand::Name, PrimaryCommand::Hoard, PrimaryCommand::DiceRoll, PrimaryCommand::NPC, PrimaryCommand::Table, PrimaryCommand::Shop 
+static const PrimaryCommand ValidCommands[kCommandCount] = { PrimaryCommand::None,
+	PrimaryCommand::Exit, 
+	PrimaryCommand::Help, PrimaryCommand::Help,
+	PrimaryCommand::Process, PrimaryCommand::Stats, PrimaryCommand::Name, PrimaryCommand::Hoard,
+	PrimaryCommand::DiceRoll, PrimaryCommand::NPC, PrimaryCommand::Table, PrimaryCommand::Shop 
 };
 
 

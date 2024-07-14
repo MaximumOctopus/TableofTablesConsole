@@ -1,7 +1,7 @@
 //
 // Table of Tables Console 2
 //
-// (c) Paul Alan Freshney 2016-2022
+// (c) Paul Alan Freshney 2016-2024
 //   paul@freshney.org
 //
 // Inspired/based on the Behind the Tables sub-reddit.
@@ -44,6 +44,7 @@ class HoardHandler: public BaseHandler
 	std::wstring GetVolumeUnits(int);
 
 	virtual void List(Command);
+	virtual void Show(Command);
 	virtual void Help();
 
 	virtual bool Search(const std::wstring, bool);
